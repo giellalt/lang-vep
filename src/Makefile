@@ -22,19 +22,19 @@ endif
 
 scripts=$(GTHOME)/gt/script
 
-LEX = xxx-lex.txt 
-	  noun-xxx-morph.txt \
-	  noun-xxx-lex.txt \
-	  adj-xxx-lex.txt \
-	  verb-xxx-lex.txt \
-	  verb-xxx-morph.txt \
-	  pron-xxx-lex.txt \
-	  adv-xxx-lex.txt \
-	  pp-xxx-lex.txt \
-	  punct-xxx-lex.txt
+LEX = vep-lex.txt 
+	  noun-vep-morph.txt \
+	  noun-vep-lex.txt \
+	  adj-vep-lex.txt \
+	  verb-vep-lex.txt \
+	  verb-vep-morph.txt \
+	  pron-vep-lex.txt \
+	  adv-vep-lex.txt \
+	  pp-vep-lex.txt \
+	  punct-vep-lex.txt
 
 
-all: ixxx.fst
+all: ivep.fst
 
 ivep.fst: ../bin/ivep.fst
 ../bin/ivep.fst: ../bin/vep.fst
