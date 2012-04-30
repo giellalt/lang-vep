@@ -9,6 +9,33 @@
 # Here we build the final generator , an inverted transducer of the analyzer.
 # It is dependent upon vep.save
 
+
+XFST = xfst
+LEXC = lexc
+TWOLC = twolc
+
+ifeq (victorio.uit.no, $(shell hostname))
+XFST = /opt/sami/xerox/c-fsm/ix86-linux2.6-gcc3.4/bin/fst -utf8
+LEXC = /opt/sami/xerox/bin/lexc -utf8
+TWOLC = /opt/sami/xerox/bin/twolc -utf8
+endif
+
+scripts=$(GTHOME)/gt/script
+
+LEX = xxx-lex.txt 
+	  noun-xxx-morph.txt \
+	  noun-xxx-lex.txt \
+	  adj-xxx-lex.txt \
+	  verb-xxx-lex.txt \
+	  verb-xxx-morph.txt \
+	  pron-xxx-lex.txt \
+	  adv-xxx-lex.txt \
+	  pp-xxx-lex.txt \
+	  punct-xxx-lex.txt
+
+
+all: ixxx.fst
+
 ivep.fst: ../bin/ivep.fst
 ../bin/ivep.fst: ../bin/vep.fst
 	@echo
@@ -69,16 +96,11 @@ vep.save: ../bin/vep.save
 # This goal depends on a bunch of lexicon files
 
 vep-lex.save: ../bin/vep-lex.save
-../bin/vep-lex.save: vep-lex.txt noun-vep-morph.txt noun-vep-lex.txt \
-        adj-vep-lex.txt \
-	adv-vep-lex.txt verb-vep-lex.txt pron-vep-lex.txt punct-vep-lex.txt \
-	pp-vep-lex.txt
+../bin/vep-lex.save: $(LEX)
 	@echo
 	@echo "*** Building vep-lex.save ***" ;
 	@echo
-	printf "compile-source vep-lex.txt noun-vep-morph.txt noun-vep-lex.txt \
-	adj-vep-lex.txt verb-vep-lex.txt verb-vep-morph.txt pron-vep-lex.txt \
-	adv-vep-lex.txt pp-vep-lex.txt punct-vep-lex.txt \n\
+	printf "compile-source $(LEX) \n\
 	save-source ../bin/vep-lex.save \n\
 	quit \n" > ../../tmp/vep-lex-save-script
 	@lexc < ../../tmp/vep-lex-save-script
