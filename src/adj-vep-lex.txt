@@ -1,2 +1,2 @@
 LEXICON AdjRoot
-čoma  Adj "" ;
+čoma  ADJ "" ;
