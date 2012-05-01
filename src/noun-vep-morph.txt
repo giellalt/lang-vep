@@ -1,2 +1,255 @@
-LEXICON NOUNSUF
-# ;
+LEXICON ADJ ! beginning 
++A: SGNOMSUF ;
++A: SGGENSUF ;
++A: SGACCSUF ;
++A: SGPARTSUF ;
++A: SGTRASUF ;
++A: SGABESUF ;
++A: SGCOMSUF ;
++A: SGINESUF ;
++A: SGILLSUF ;
++A: SGADESUF ;
++A: SGABlSUF ;
++A: SGALLSUF ;
++A: SGESSSUF ;
++A: SGPRLSUF ;
++A: SGAPR1SUF ;
++A: SGAPR2SUF ;
++A: SGEGRSUF ;
++A: SGTER1SUF ;
++A: SGTER2SUF ;
++A: SGADI1SUF ;
++A: SGADI2SUF ;
+
++A: PLNOMSUF ;
++A: PLGENSUF ;
++A: PLACCSUF ;
++A: PLPARTSUF ;
++A: PLTRASUF ;
++A: PLABESUF ;
++A: PLCOMSUF ;
++A: PLINESUF ;
++A: PLILLSUF ;
++A: PLADESUF ;
++A: PLABlSUF ;
++A: PLALLSUF ;
++A: PLESSSUF ;
++A: PLPRLSUF ;
++A: PLAPR1SUF ;
++A: PLAPR2SUF ;
++A: PLEGRSUF ;
++A: PLTER1SUF ;
++A: PLTER2SUF ;
++A: PLADI1SUF ;
++A: PLADI2SUF ;
+
+LEXICON NOUN-QAQ ! Stem vowel alternation ZERO-A-ZERO
+:QAQ1 NOUN ;
+
+LEXICON NOUN-QAO 
+:QAO1 NOUN ;
+
+LEXICON NOUN-EH
+:EH1 NOUN ;
+
+LEXICON NOUN-QEQ
+:QEQ1 NOUN ;
+
+LEXICON NOUN-INE
+:INE1 NOUN ;
+
+LEXICON NOUN-ZD_QEQ
+:ZD1 NOUN ;
+
+LEXICON NOUN-ZS_QEQ
+:ZS1 NOUN ;
+
+LEXICON NOUN
++N: SGNOMSUF ;
++N: SGGENSUF ;
++N: SGACCSUF ;
++N: SGPARTSUF ;
++N: SGTRASUF ;
++N: SGABESUF ;
++N: SGCOMSUF ;
++N: SGINESUF ;
++N: SGILLSUF ;
++N: SGADESUF ;
++N: SGABlSUF ;
++N: SGALLSUF ;
++N: SGESSSUF ;
++N: SGPRLSUF ;
++N: SGAPR1SUF ;
++N: SGAPR2SUF ;
++N: SGEGRSUF ;
++N: SGTER1SUF ;
++N: SGTER2SUF ;
++N: SGADI1SUF ;
++N: SGADI2SUF ;
+
++N: PLNOMSUF ;
++N: PLGENSUF ;
++N: PLACCSUF ;
++N: PLPARTSUF ;
++N: PLTRASUF ;
++N: PLABESUF ;
++N: PLCOMSUF ;
++N: PLINESUF ;
++N: PLILLSUF ;
++N: PLADESUF ;
++N: PLABlSUF ;
++N: PLALLSUF ;
++N: PLESSSUF ;
++N: PLPRLSUF ;
++N: PLAPR1SUF ;
++N: PLAPR2SUF ;
++N: PLEGRSUF ;
++N: PLTER1SUF ;
++N: PLTER2SUF ;
++N: PLADI1SUF ;
++N: PLADI2SUF ;
+
+
+LEXICON SGNOMSUF
++Sg+Nom: K ;
+
+LEXICON SGGENSUF
++Sg+Gen:%>n K ;
+
+LEXICON SGACCSUF
++Sg+Acc:%>n K ;
+
+LEXICON SGPARTSUF
++Sg+Part:%>d K ; ! d/t
+
+LEXICON SGTRASUF
++Sg+Tra:%>ks K ;
+
+LEXICON SGABESUF
++Sg+Abe:%>ta K ;
+
+LEXICON SGCOMSUF
++Sg+Com:%>nke K ;
+
+LEXICON SGINESUF
++Sg+Ine:%>s K ; ! s/š kül’betiš 
+
+LEXICON SGELASUF
++Sg+Ela:%>späi K ; ! späi/špäi 
+
+LEXICON SGILLSUF
++Sg+Ill:%>hV1 K ; ! o-ho
+
+LEXICON SGADESUF
++Sg+Ade:%>l K ;
+
+LEXICON SGABlSUF
++Sg+Abl:%>lpäi K ;
+
+LEXICON SGALLSUF
++Sg+All:%>le K ;
+
+LEXICON SGESSSUF ! Essive-instructive
++Sg+Ess:%>n K ;
+
+LEXICON SGPRLSUF
++Sg+Prl:%>dme K ;
+
+LEXICON SGAPR1SUF
++Sg+Apr1:%>nno K ;
+
+LEXICON SGAPR2SUF
++Sg+Apr2:%>nnoks K ;
+
+LEXICON SGEGRSUF
++Sg+Egr:%>nnopäi K ;
+
+LEXICON SGTER1SUF
++Sg+Ter1:%>hV1sai K ;
+
+LEXICON SGTER2SUF
++Sg+Ter2:%>lesai K ;
+
+LEXICON SGADI1SUF
++Sg+Adi1:%>hV1päi K ;
+
+LEXICON SGADI2SUF
++Sg+Adi2:%>lepäi K ;
+
+
+
+
+
+
+!! Start Plural
+LEXICON PLNOMSUF
++Pl+Nom:%>d K ;
+
+LEXICON PLGENSUF
++Pl+Gen:%>iden K ;
+
+LEXICON PLACCSUF
++Pl+Acc:%>d K ;
+
+LEXICON PLPARTSUF
++Pl+Part:%>id K ; ! d/t
+
+LEXICON PLTRASUF
++Pl+Tra:%>ikš K ;
+
+LEXICON PLABESUF
++Pl+Abe:%>ita K ;
+
+LEXICON PLCOMSUF
++Pl+Com:%>idenke K ;
+
+LEXICON PLINESUF
++Pl+Ine:%>iš K ; ! s/š kül’betiš 
+
+LEXICON PLELASUF
++Pl+Ela:%>išpäi K ; ! späi/špäi 
+
+LEXICON PLILLSUF
++Pl+Ill:%>ihe K ; ! o-ho
+
+LEXICON PLADESUF
++Pl+Ade:%>il K ;
+
+LEXICON PLABlSUF
++Pl+Abl:%>ilpäi K ;
+
+LEXICON PLALLSUF
++Pl+All:%>ile K ;
+
+LEXICON PLESSSUF ! Essive-instructive
++Pl+Ess:%>in K ;
+
+LEXICON PLPRLSUF
++Pl+Prl:%>idme K ;
+
+LEXICON PLAPR1SUF
++Pl+Apr1:%>idenno K ;
+
+LEXICON PLAPR2SUF
++Pl+Apr2:%>idennoks K ;
+
+LEXICON PLEGRSUF
++Pl+Egr:%>idennopäi K ;
+
+LEXICON PLTER1SUF
++Pl+Ter1:%>ihesai K ;
+
+LEXICON PLTER2SUF
++Pl+Ter2:%>ilesai K ;
+
+LEXICON PLADI1SUF
++Pl+Adi1:%>ihepäi K ;
+
+LEXICON PLADI2SUF
++Pl+Adi2:%>ilepäi K ;
+
+
+
+
+
+!! Possessor Indices
