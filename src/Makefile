@@ -1,17 +1,14 @@
-# This is a makefile that builds the XXX morphological parser
+# This is a makefile that builds the Nenets morphological parser
 # *****************************************************************
-# This is a dummy file. XXX refers to the name of the language, vep to the 
-# ISO code of the language, for use in file names.
 
-# This is a preliminary file that builds a XXX parser based upon
+
+# This is a preliminary file that builds a Skolt Sami parser based upon
 # xfst and not twolc.
 
-# Here we build the final generator , an inverted transducer of the analyzer.
-# It is dependent upon vep.save
 
 
-XFST = xfst
-LEXC = lexc
+XFST = xfst 
+LEXC = lexc 
 TWOLC = twolc
 
 ifeq (victorio.uit.no, $(shell hostname))
@@ -20,24 +17,25 @@ LEXC = /opt/sami/xerox/bin/lexc -utf8
 TWOLC = /opt/sami/xerox/bin/twolc -utf8
 endif
 
-scripts=$(GTHOME)/gt/script
 
-LEX = vep-lex.txt 
-	  noun-vep-morph.txt \
-	  noun-vep-lex.txt \
-	  adj-vep-lex.txt \
-	  verb-vep-lex.txt \
-	  verb-vep-morph.txt \
-	  pron-vep-lex.txt \
-	  adv-vep-lex.txt \
-	  pp-vep-lex.txt \
-	  punct-vep-lex.txt
+SRC = vep-lex.txt \
+	noun-vep-morph.txt \
+	noun-vep-lex.txt \
+	adj-vep-lex.txt \
+	adv-vep-lex.txt \
+	verb-vep-lex.txt \
+	verb-vep-morph.txt \
+	num-vep-lex.txt \
+	num-vep-morph.txt \
+	pron-vep-morph.txt \
+#	punct-vep-lex.txt \
+	pp-vep-lex.txt
 
-
-all: ivep.fst
+# Here we build the final generator , an inverted transducer of the analyzer.
+# It is dependent upon vep.save
 
 ivep.fst: ../bin/ivep.fst
-../bin/ivep.fst: ../bin/vep.fst
+../bin/ivep.fst: ../bin/vep.fst ../bin/vep-num.fst
 	@echo
 	@echo "*** Building the inverse ivep.fst ***"
 	@echo
@@ -45,14 +43,14 @@ ivep.fst: ../bin/ivep.fst
 	invert net \n\
 	save stack ../bin/ivep.fst \n\
 	quit \n" > ../../tmp/ivep-fst-script
-	@xfst < ../../tmp/ivep-fst-script
+	$(XFST) < ../../tmp/ivep-fst-script
 	@rm -f ../../tmp/ivep-fst-script
 
 
 # This goal is to build the final analyser. It depends on all the files.
 
 vep.fst: ../bin/vep.fst
-../bin/vep.fst: ../bin/vep.save ../bin/caseconv.fst 
+../bin/vep.fst: ../bin/vep.save ../bin/caseconv.fst
 	@echo
 	@echo "*** Building vep.fst ***" ;
 	@echo
@@ -60,7 +58,7 @@ vep.fst: ../bin/vep.fst
 	[@\"../bin/caseconv.fst\"]] ; \n\
 	save stack ../bin/vep.fst \n\
 	quit \n" > ../../tmp/vep-fst-script
-	@xfst < ../../tmp/vep-fst-script
+	$(XFST) < ../../tmp/vep-fst-script
 	@rm -f ../../tmp/vep-fst-script
 
 
@@ -75,8 +73,10 @@ caseconv.fst: ../bin/caseconv.fst
 	@printf "read regex < case.regex \n\
 	save stack ../bin/caseconv.fst \n\
 	quit \n" > ../../tmp/caseconv-script
-	@xfst < ../../tmp/caseconv-script
+	$(XFST) < ../../tmp/caseconv-script
 	@rm -f ../../tmp/caseconv-script
+
+
 
 
 
@@ -89,21 +89,21 @@ vep.save: ../bin/vep.save
 	[@\"../bin/xfst-vep.bin\"]] ; \n\
 	save stack ../bin/vep.save \n\
 	quit \n" > ../../tmp/vep-save-script
-	@xfst < ../../tmp/vep-save-script
+	$(XFST) < ../../tmp/vep-save-script
 	@rm -f ../../tmp/vep-save-script
 
 # The first goal is to build vep-lex.save
 # This goal depends on a bunch of lexicon files
 
 vep-lex.save: ../bin/vep-lex.save
-../bin/vep-lex.save: $(LEX)
+../bin/vep-lex.save: $(SRC)
 	@echo
 	@echo "*** Building vep-lex.save ***" ;
 	@echo
-	printf "compile-source $(LEX) \n\
+	printf "compile-source $(SRC) \n\
 	save-source ../bin/vep-lex.save \n\
 	quit \n" > ../../tmp/vep-lex-save-script
-	@lexc < ../../tmp/vep-lex-save-script
+	$(LEXC) < ../../tmp/vep-lex-save-script
 	rm -f ../../tmp/vep-lex-save-script
 
 # The second goal is to build xfst-vep.bin
@@ -117,8 +117,22 @@ xfst-vep.bin: ../bin/xfst-vep.bin
 	@printf "source xfst-vep.txt \n\
 	save stack ../bin/xfst-vep.bin \n\
 	quit \n" > ../../tmp/xfst-vep-script
-	@xfst < ../../tmp/xfst-vep-script
+	$(XFST) < ../../tmp/xfst-vep-script
 	@rm -f ../../tmp/xfst-vep-script
+
+
+# And yes, the number generator.
+
+vep-num.fst: ../bin/vep-num.fst
+../bin/vep-num.fst: vep-num.txt
+	@echo
+	@echo "*** Building $(notdir $@) ***" ;
+	@echo
+	$(XFST) -e "read lexc < $< " \
+		-e "save stack   $@ " \
+		-stop
+
+
 
 clean:
 	@rm -f ../bin/*.bin ../bin/*.fst ../bin/*.save
