@@ -1,2 +1,2 @@
-LEXICON Verb
-# ;
+LEXICON VerbRoot
+olda VERB "to be" ;
