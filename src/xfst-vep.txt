@@ -47,7 +47,8 @@ echo << THE RULES >>
 
 define VowelCorrelation [ V1 -> а || [ QAO1 ]  %> h _ ,,
                           V1 -> e || [ i ] %> h _ ,,
-                          V1 -> e || [ QEQ ]  %> h _  ] ; ! Vowel harmony
+                          V1 -> e || [ QEQ ]  %> h _  ,,
+                          V1 -> o || o %> h _   ] ; ! Vowel harmony
 
 define StemFinalVowelLoss [ QAO1 -> 0 , QEQ -> 0 || _ .#. ] ;
  !€ ты>хА1на:тэхэна
