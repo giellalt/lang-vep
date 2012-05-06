@@ -19,10 +19,14 @@ Multichar_Symbols
 +Inf
 +Pos +Neg
 
-! Nоминал MSP
+! Nominal MSP
+! Number
 +Sg +Pl
+! Case
 +Nom +Acc +Gen +Abl +Dat +Loc +Pros +Tra +Abe +Adc +Ins +Apr +Ine +Ill +Ela +Egr
-+Prl
++Prl +Ter1 +Ter2 +Ter3 +Add1 +Add2
++Apr1 +Apr2
++EssInst
 +Ord
 +PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
 +Qst
@@ -39,6 +43,7 @@ Multichar_Symbols
 +PstI
 +PstII
 
++Clt
 %>
 ! Protoletters for xfst
 QAQ1 QAO1 EH1 QEQ1 INE1 ZD1 ZS1 V1
@@ -92,9 +97,9 @@ LEXICON ORDINAL
 
 
 LEXICON K
-:ki # "also" ;
++Clt:%>ki # "also" ;
 +Qst:а # ;
-#; 
+# ; 
 
 
 LEXICON PUNCTUATION
