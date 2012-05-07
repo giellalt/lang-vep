@@ -1,13 +1,13 @@
 
 ; Testing
 
-./HfstTester.py -x kom-tests.yaml
+./HfstTester.py -x vep-test.yaml
 
 #When there are [FAIL] marks that might involve other pos-s use
 -i, --ignore-extra-analyses
 
-./HfstTester.py -x -i kom-tests.yaml
+./HfstTester.py -x -i vep-test.yaml
 
-#py HfstTester.py -cixf kom-tests.yaml
+#py HfstTester.py -cixf vep-test.yaml
 
 make num-paradigm WORD=нёль
