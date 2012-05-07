@@ -110,8 +110,8 @@ LEXICON NOUN
 +N: PLTER1SUF ;
 +N: PLTER2SUF ;
 +N: PLTER3SUF ;
-+N: PLADI1SUF ;
-+N: PLADI2SUF ;
++N: PLADD1SUF ;
++N: PLADD2SUF ;
 
 
 LEXICON SGNOMSUF
@@ -154,7 +154,7 @@ LEXICON SGALLSUF
 +Sg+All:%>le K ;
 
 LEXICON SGESSSUF ! Essive-instructive
-+Sg+Ess:%>n K ;
++Sg+EssInst:%>n K ;
 
 LEXICON SGPRLSUF
 +Sg+Prl:%>dme K ;
@@ -230,7 +230,7 @@ LEXICON PLALLSUF
 +Pl+All:%>ile K ;
 
 LEXICON PLESSSUF ! Essive-instructive
-+Pl+Ess:%>in K ;
++Pl+EssInst:%>in K ;
 
 LEXICON PLPRLSUF
 +Pl+Prl:%>idme K ;
