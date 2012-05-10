@@ -1,4 +1,4 @@
-LEXICON ADJ ! beginning 
+LEXICON AdjTag ! beginning 
 +A: SGNOMSUF ;
 +A: SGGENSUF ;
 +A: SGACCSUF ;
@@ -43,26 +43,34 @@ LEXICON ADJ ! beginning
 +A: PLADD1SUF ;
 +A: PLADD2SUF ;
 
-LEXICON NOUN-QAQ ! Stem vowel alternation ZERO-A-ZERO
+LEXICON N-muna ! Stem vowel alternation ZERO-A-ZERO
 :QAQ1 NOUN ;
 
-LEXICON NOUN-QAO 
+LEXICON N-marj 
 :QAO1 NOUN ;
 
-LEXICON NOUN-EH
+LEXICON N-shapuk ! šapuk
+:U1 NOUN ;
+
+LEXICON N-landeh ! OUN-EH
 :EH1 NOUN ;
 
-LEXICON NOUN-QEQ
+LEXICON N-kel
 :QEQ1 NOUN ;
 
-LEXICON NOUN-INE
+LEXICON N-cipuine
 :INE1 NOUN ;
 
-LEXICON NOUN-ZD_QEQ
-:ZD1 NOUN ;
+LEXICON N-noruz ! OUN-ZD_QEQ
+:D1E1 NOUN ;
 
-LEXICON NOUN-ZS_QEQ
+LEXICON N-kojaduz ! z s _QEQ
 :ZS1 NOUN ;
+
+LEXICON NTag ! nado
+ NOUN ;
+
+!! 
 
 LEXICON NOUN
 +N: SGNOMSUF ;
@@ -113,6 +121,22 @@ LEXICON NOUN
 +N: PLADD1SUF ;
 +N: PLADD2SUF ;
 
+!!!!!!!!!!!!!!!!!!
+!! PROPER NOUNS !!
+!!!!!!!!!!!!!!!!!!
+
+LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
+    PROP ;
+:%: PROP ;
+:%- PROP ;
+:%' PROP ;
+
+LEXICON PROP
++Prop: NOUN ;
+
+!!!!!!!!!!!!!!!!!!
+!! ACTUAL CASES !!
+!!!!!!!!!!!!!!!!!!
 
 LEXICON SGNOMSUF
 +Sg+Nom: K ;

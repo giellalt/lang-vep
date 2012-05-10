@@ -48,13 +48,18 @@ Multichar_Symbols
 ! Protoletters for xfst
 QAQ1 QAO1 EH1 QEQ1 INE1 ZD1 ZS1 V1
 AO1 EI1 ZS1 ZD1  ! These are for developing underlying morphology rules
+D1 E1 U1 
 
 ! Key lexicon
 
 LEXICON Root
-AdjRoot ;
+A ; 	! ../../tmp
+Abbreviation ;                          ! abbr-myv-lex.txt
+!ABBR ;                                 ! ../../tmp/out/ABBR_myv-lex.xml           !2012-03-14
+Acronym ;                               ! acro-myv-lex.txt
+!ACRON ;                                ! ../../tmp/out/ACRON_myv-lex.xml          !2012-03-14
 AdvRoot ;
-NounRoot ;
+N ;
 NumRoot ;
 VerbRoot ;
 CONJUNCTION ;

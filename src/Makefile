@@ -1,15 +1,19 @@
-# This is a makefile that builds the Nenets morphological parser
-# *****************************************************************
+# ***************************************************************** #
+#   This is a makefile that builds the Veps morphological parser    #
+# ***************************************************************** #
 
+# Search for prerequisites from the bin-directory.
+SHELL = /bin/sh
+.SUFFIXES:
 
-# This is a preliminary file that builds a Skolt Sami parser based upon
-# xfst and not twolc.
+# Language codes:
+GTLANG=vep
+lg = $(GTLANG)
 
+all: ../bin/i$(GTLANG).fst
 
-
-XFST = xfst 
-LEXC = lexc 
-TWOLC = twolc
+# Include the makefile that converts from xml to lexc:
+include Makefile_xml
 
 ifeq (victorio.uit.no, $(shell hostname))
 XFST = /opt/sami/xerox/c-fsm/ix86-linux2.6-gcc3.4/bin/fst -utf8
@@ -17,49 +21,89 @@ LEXC = /opt/sami/xerox/bin/lexc -utf8
 TWOLC = /opt/sami/xerox/bin/twolc -utf8
 endif
 
+XFST = xfst 
+LEXC = lexc 
+TWOLC = twolc
 
-SRC = vep-lex.txt \
-	noun-vep-morph.txt \
-	noun-vep-lex.txt \
-	adj-vep-lex.txt \
-	adv-vep-lex.txt \
-	verb-vep-lex.txt \
-	verb-vep-morph.txt \
-	num-vep-lex.txt \
-	num-vep-morph.txt \
-	pron-vep-morph.txt \
-#	punct-vep-lex.txt \
-	pp-vep-lex.txt
 
-# Here we build the final generator , an inverted transducer of the analyzer.
-# It is dependent upon vep.save
+# This is a preliminary file that builds a Veps parser based upon
+# xfst and not twolc.
 
-ivep.fst: ../bin/ivep.fst
-../bin/ivep.fst: ../bin/vep.fst ../bin/vep-num.fst
+# Here we build the final generator, an inverted transducer of the analyzer.
+# It is dependent upon $(GTLANG).save
+
+../bin/i$(GTLANG).fst: r-$(GTLANG).fst $(GTLANG)-num.fst
 	@echo
-	@echo "*** Building the inverse ivep.fst ***"
+	@echo "*** Building the inverse $(@F) ***"
 	@echo
-	@printf "load ../bin/vep.save \n\
+	@printf "load ../bin/$(GTLANG).save \n\
 	invert net \n\
-	save stack ../bin/ivep.fst \n\
-	quit \n" > ../../tmp/ivep-fst-script
-	$(XFST) < ../../tmp/ivep-fst-script
-	@rm -f ../../tmp/ivep-fst-script
+	save stack ../bin/i$(GTLANG).fst \n\
+	quit \n" > ../../tmp/i$(GTLANG)-fst-script
+	$(XFST) < ../../tmp/i$(GTLANG)-fst-script
+	@rm -f ../../tmp/i$(GTLANG)-fst-script
+
+
+# We want an analyzer with Russian tags. It takes the linguistic 
+# $(GTLANG).fst as input and gives us an alternate r-$(GTLANG).fst
+
+../bin/r-$(GTLANG).fst: ../bin/$(GTLANG).fst ../int/tag-rus.fst
+	@echo
+	@echo "*** Building $(@F), $(<F) with Russian tags ***"
+	@echo
+	@printf "read regex [[@\"../int/tag-rus.fst\"] .o. \
+	[@\"../bin/$(GTLANG).fst\"]] ; \n\
+	save stack ../bin/r-$(GTLANG).fst \n\
+	quit \n" > ../../tmp/r-$(GTLANG)-fst-script
+	$(XFST) < ../../tmp/r-$(GTLANG)-fst-script
+	@rm -f ../../tmp/r-$(GTLANG)-fst-script
+
+
+# In order to make r-$(GTLANG).fst we need a binary tag-rus.fst
+# This goal depends on tag-rus.regex
+
+../int/tag-rus.fst: tag-rus.regex
+	@echo
+	@echo "*** Building $(@F) ***" ;
+	@echo
+	@printf "read regex < tag-rus.regex \n\
+	save stack ../int/tag-rus.fst \n\
+	quit \n" > ../../tmp/$(GTLANG)-tag-rus-script
+	$(XFST) < ../../tmp/$(GTLANG)-tag-rus-script
+	@rm -f ../../tmp/$(GTLANG)-tag-rus-script
 
 
 # This goal is to build the final analyser. It depends on all the files.
+#Attempt 2011-10-10				../bin/allcaps.fst \
+#	[@\"../bin/allcaps.fst\"] .o. \
 
-vep.fst: ../bin/vep.fst
-../bin/vep.fst: ../bin/vep.save ../bin/caseconv.fst
+../bin/$(GTLANG).fst: \
+				../bin/$(GTLANG).save \
+				../bin/caseconv.fst \
+				../bin/tok.fst \
+				$(GTHOME)/gt/common/bin/spellrelax.fst
 	@echo
-	@echo "*** Building vep.fst ***" ;
+	@echo "*** Building $(@F) ***" ;
 	@echo
-	@printf "read regex [[@\"../bin/vep.save\"] .o. \
-	[@\"../bin/caseconv.fst\"]] ; \n\
-	save stack ../bin/vep.fst \n\
-	quit \n" > ../../tmp/vep-fst-script
-	$(XFST) < ../../tmp/vep-fst-script
-	@rm -f ../../tmp/vep-fst-script
+	@printf "read regex [[@\"../bin/$(GTLANG).save\"] .o. \
+	[@\"../bin/caseconv.fst\"] .o. \
+	[@\"$(GTHOME)/gt/common/bin/spellrelax.fst\"]] ; \n\
+	save stack ../bin/$(GTLANG).fst \n\
+	quit \n" > ../../tmp/$(GTLANG)-fst-script
+	$(XFST) < ../../tmp/$(GTLANG)-fst-script
+	@rm -f ../../tmp/$(GTLANG)-fst-script
+
+
+# This goal is to allow for Latin / Cyrillic i, ö / і, ӧ variation
+$(GTHOME)/gt/common/bin/spellrelax.fst: $(GTHOME)/gt/common/src/spellrelax.regex
+	@echo
+	@echo "*** Building $(@F) ***" ;
+	@echo
+	@printf "read regex < $< \n\
+	save stack $@ \n\
+	quit \n" > ../../tmp/spellrelax-script
+	$(XFST) < ../../tmp/spellrelax-script
+	@rm -f ../../tmp/spellrelax-script
 
 
 # The second goal is to build the caseconv.fst file
@@ -68,7 +112,7 @@ vep.fst: ../bin/vep.fst
 caseconv.fst: ../bin/caseconv.fst
 ../bin/caseconv.fst: case.regex
 	@echo
-	@echo "*** Building caseconv.fst ***" ;
+	@echo "*** Building $(@F) ***" ;
 	@echo
 	@printf "read regex < case.regex \n\
 	save stack ../bin/caseconv.fst \n\
@@ -76,55 +120,78 @@ caseconv.fst: ../bin/caseconv.fst
 	$(XFST) < ../../tmp/caseconv-script
 	@rm -f ../../tmp/caseconv-script
 
+# Adapted from allcaps-sme.regex in gt/sme/rsc/Makefile 2011-10-10
+# This goal depends on allcaps.txt
+#
+#allcaps.fst: ../bin/allcaps.fst
+#../bin/allcaps.fst: allcaps.regex
+#	@echo
+#	@echo "*** Building allcaps.fst ***" ;
+#	@echo
+#	@printf "read text < allcaps.regex \n\
+#	save stack ../bin/allcaps.fst \n\
+#	quit \n" > ../../tmp/allcaps-script
+#	$(XFST) < ../../tmp/allcaps-script
+#	@rm -f ../../tmp/allcaps-script
 
 
 
-
-vep.save: ../bin/vep.save
-../bin/vep.save: ../bin/xfst-vep.bin ../bin/vep-lex.save
+# Another goal is to build a preprocessor.This goal depends on tok.txt
+# We actually use the perl preprocesssor "preprocess" now.
+tok.fst: ../bin/tok.fst
+../bin/tok.fst: tok.txt
 	@echo
-	@echo "*** Building the parser vep.save ***"
+	@echo "*** Building the tokenizer $(@F) ***" ;
 	@echo
-	@printf "read regex [[@\"../bin/vep-lex.save\"] .o. \
-	[@\"../bin/xfst-vep.bin\"]] ; \n\
-	save stack ../bin/vep.save \n\
-	quit \n" > ../../tmp/vep-save-script
-	$(XFST) < ../../tmp/vep-save-script
-	@rm -f ../../tmp/vep-save-script
+	@printf "source tok.txt \n\
+	save stack ../bin/tok.fst \n\
+	quit \n" > ../../tmp/tok-script
+	$(XFST) < ../../tmp/tok-script
+	@rm -f ../../tmp/tok-script
 
-# The first goal is to build vep-lex.save
-# This goal depends on a bunch of lexicon files
 
-vep-lex.save: ../bin/vep-lex.save
-../bin/vep-lex.save: $(SRC)
+$(GTLANG).save: ../bin/$(GTLANG).save
+../bin/$(GTLANG).save: ../bin/$(GTLANG)-lex.save ../bin/xfst-$(GTLANG).bin 
 	@echo
-	@echo "*** Building vep-lex.save ***" ;
+	@echo "*** Building the parser $(@F) ***"
 	@echo
-	printf "compile-source $(SRC) \n\
-	save-source ../bin/vep-lex.save \n\
-	quit \n" > ../../tmp/vep-lex-save-script
-	$(LEXC) < ../../tmp/vep-lex-save-script
-	rm -f ../../tmp/vep-lex-save-script
+	@printf "read regex [[@\"../bin/$(GTLANG)-lex.save\"] .o. \
+	[@\"../bin/xfst-$(GTLANG).bin\"]] ; \n\
+	save stack ../bin/$(GTLANG).save \n\
+	quit \n" > ../../tmp/$(GTLANG)-save-script
+	$(XFST) < ../../tmp/$(GTLANG)-save-script
+	@rm -f ../../tmp/$(GTLANG)-save-script
 
-# The second goal is to build xfst-vep.bin
-# This goal depends on xfst-vep.txt
-
-xfst-vep.bin: ../bin/xfst-vep.bin
-../bin/xfst-vep.bin: xfst-vep.txt
+# Compile the lexicon:
+$(GTLANG)-lex.save: ../bin/$(GTLANG)-lex.save
+../bin/$(GTLANG)-lex.save: $(SRCS)
 	@echo
-	@echo "*** Building xfst-vep.bin ***" ;
+	@echo "*** Building $(@F) ***" ;
 	@echo
-	@printf "source xfst-vep.txt \n\
-	save stack ../bin/xfst-vep.bin \n\
-	quit \n" > ../../tmp/xfst-vep-script
-	$(XFST) < ../../tmp/xfst-vep-script
-	@rm -f ../../tmp/xfst-vep-script
+	printf "compile-source $^ \n\
+	save-source ../bin/$(GTLANG)-lex.save \n\
+	quit \n" > ../../tmp/$(GTLANG)-lex-save-script
+	$(LEXC) < ../../tmp/$(GTLANG)-lex-save-script
+	rm -f ../../tmp/$(GTLANG)-lex-save-script
 
 
-# And yes, the number generator.
+# The second goal is to build xfst-$(GTLANG).bin
+# This goal depends on xfst-$(GTLANG).txt
+# Compile the phonological rules:
+xfst-$(GTLANG).bin: ../bin/xfst-$(GTLANG).bin
+../bin/xfst-$(GTLANG).bin: xfst-$(GTLANG).txt
+	@echo
+	@echo "*** Building $(@F) ***" ;
+	@echo
+	@printf "source xfst-$(GTLANG).txt \n\
+	save stack ../bin/xfst-$(GTLANG).bin \n\
+	quit \n" > ../../tmp/xfst-$(GTLANG)-script
+	$(XFST) < ../../tmp/xfst-$(GTLANG)-script
+	@rm -f ../../tmp/xfst-$(GTLANG)-script
 
-vep-num.fst: ../bin/vep-num.fst
-../bin/vep-num.fst: vep-num.txt
+
+$(GTLANG)-num.fst: ../bin/$(GTLANG)-num.fst
+../bin/$(GTLANG)-num.fst: $(GTLANG)-num.txt
 	@echo
 	@echo "*** Building $(notdir $@) ***" ;
 	@echo
@@ -133,8 +200,8 @@ vep-num.fst: ../bin/vep-num.fst
 		-stop
 
 
-
 clean:
-	@rm -f ../bin/*.bin ../bin/*.fst ../bin/*.save
-
-
+	@rm -rf \
+		../bin/* \
+		../../tmp \
+		$(GTLANG)-lex-xmlsrc.txt
