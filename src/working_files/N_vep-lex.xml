@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../myv/script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <entry>
+      <lg>
+         <l>cipuine</l>
+         <stg>
+            <st vepContlex="N-cipuine">cipu</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>chick</t>
+            </tg>
+            <tg lang="fin">
+               <t>tipu</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>kel'</l>
+         <stg>
+            <st vepContlex="N-kel">kelE1</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>tongue; language</t>
+            </tg>
+            <tg lang="fin">
+               <t>kieli</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>kojaduz</l>
+         <stg>
+            <st vepContlex="N-kojaduz">kojaduz</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>echo</t>
+            </tg>
+            <tg lang="fin">
+               <t>kaiku</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>landeh</l>
+         <stg>
+            <st vepContlex="N-landeh">land</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>hip</t>
+            </tg>
+            <tg lang="fin">
+               <t>lanne</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>marj</l>
+         <stg>
+            <st vepContlex="N-marj">marj</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>berry</t>
+            </tg>
+            <tg lang="fin">
+               <t>marja</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>nado</l>
+         <stg>
+            <st vepContlex="NTag">nado</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>sister-in-law</t>
+            </tg>
+            <tg lang="fin">
+               <t>nato</t>
+               <t>käly???</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>noruz'</l>
+         <stg>
+            <st vepContlex="N-noruz">noru</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>youth</t>
+            </tg>
+            <tg lang="fin">
+               <t>nuoruus</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>šapuk</l>
+         <stg>
+            <st vepContlex="N-shapuk">šapU1k</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>chick</t>
+            </tg>
+            <tg lang="fin">
+               <t>tipu</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+</r>
