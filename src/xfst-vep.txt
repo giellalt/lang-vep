@@ -53,6 +53,9 @@ define VowelCorrelation [ V1 -> а || [ QAO1 ]  %> h _ ,,
 define StemFinalVowelLoss [ QAO1 -> 0 , QEQ -> 0 || _ .#. ] ;
  !€ ты>хА1на:тэхэна
 
+define QAO [ QAO1 -> a || _ %> [ n | d | t a | k s | l | h V1 | n n o | d m e | s ] ,,
+            QAO1 -> o || _ %> i ] ;
+
 define S2SH     [ s -> š || i %> _ ] ;
 
 define DummyDeletion Dummy -> 0 ;
@@ -63,6 +66,7 @@ read regex [
 
     VowelCorrelation
 .o. StemFinalVowelLoss
+.o. QAO
 .o. S2SH
 .o. DummyDeletion
 ] ;
