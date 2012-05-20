@@ -58,10 +58,10 @@ Abbreviation ;                          ! abbr-myv-lex.txt
 !ABBR ;                                 ! ../../tmp/out/ABBR_myv-lex.xml           !2012-03-14
 Acronym ;                               ! acro-myv-lex.txt
 !ACRON ;                                ! ../../tmp/out/ACRON_myv-lex.xml          !2012-03-14
-AdvRoot ;
+ADV ;
 N ;
-NumRoot ;
-VerbRoot ;
+NUM ;
+V ;
 CONJUNCTION ;
 SUBJUNCTION ;
 INTERJECTION ;
@@ -119,8 +119,12 @@ LEXICON DADJ
 LEXICON VADJ
 +A: #;
  
-LEXICON AdvEnd
-#; 
+LEXICON AdvTag
++Adv: # ; 
+
+LEXICON MannerTag
++Adv+Manner: K ;
+
 LEXICON CASESUF
 #; 
 LEXICON PRON
