@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../myv/script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <entry>
+      <lg>
+         <l>üks'</l>
+         <stg>
+            <st vepContlex="Num-noruz">ük</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>one</t>
+            </tg>
+            <tg lang="fin">
+               <t>yksi</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>kaks'</l>
+         <stg>
+            <st vepContlex="Num-noruz">kak</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>two</t>
+            </tg>
+            <tg lang="fin">
+               <t>kaksi</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>koume</l>
+         <stg>
+            <st vepContlex="NumTag">koume</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>three</t>
+            </tg>
+            <tg lang="fin">
+               <t>kolme</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>nell'</l>
+         <stg>
+            <st vepContlex="NumTag">koume</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>three</t>
+            </tg>
+            <tg lang="fin">
+               <t>kolme</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>viiž</l>
+         <stg>
+            <st vepContlex="NumTag">koume</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>three</t>
+            </tg>
+            <tg lang="fin">
+               <t>kolme</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>kuz'</l>
+         <stg>
+            <st vepContlex="NumTag">koume</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>three</t>
+            </tg>
+            <tg lang="fin">
+               <t>kolme</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>seičeme</l>
+         <stg>
+            <st vepContlex="NumTag">koume</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>three</t>
+            </tg>
+            <tg lang="fin">
+               <t>kolme</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>kahesa</l>
+         <stg>
+            <st vepContlex="NumTag">koume</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>three</t>
+            </tg>
+            <tg lang="fin">
+               <t>kolme</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>ühesa</l>
+         <stg>
+            <st vepContlex="NumTag">koume</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>three</t>
+            </tg>
+            <tg lang="fin">
+               <t>kolme</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>kümne</l>
+         <stg>
+            <st vepContlex="NumTag">koume</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>three</t>
+            </tg>
+            <tg lang="fin">
+               <t>kolme</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>üks'toštkümne</l>
+         <stg>
+            <st vepContlex="NumTag">üks'toštkümne</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>eleven</t>
+            </tg>
+            <tg lang="fin">
+               <t>yksitoista</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>kaks'toštkümne</l>
+         <stg>
+            <st vepContlex="NumTag">kaks'toštkümne</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>twelve</t>
+            </tg>
+            <tg lang="fin">
+               <t>kaksitoista</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>kaks'kümne</l>
+         <stg>
+            <st vepContlex="NumTag">kaks'kümne</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>twenty</t>
+            </tg>
+            <tg lang="fin">
+               <t>kaksikymmentä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>sada</l>
+         <stg>
+            <st vepContlex="NumTag">sada</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>hundred</t>
+            </tg>
+            <tg lang="fin">
+               <t>sata</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>tuha</l>
+         <stg>
+            <st vepContlex="NumTag">tuhanD1E1</st>
+         </stg>
+      </lg>
+      <pos>NUM</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>thousand</t>
+            </tg>
+            <tg lang="fin">
+               <t>tuhat</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+</r>
