@@ -179,4 +179,26 @@
          </mg>
       </e>
    </entry>
+   <entry>
+      <lg>
+         <l>vedäi</l>
+         <stg>
+            <st vepContlex="N-vedäi">vedäi</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>leader</t>
+            </tg>
+            <tg lang="fin">
+               <t>johtaja</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
 </r>
