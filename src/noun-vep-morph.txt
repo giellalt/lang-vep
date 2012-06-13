@@ -1,3 +1,6 @@
+LEXICON Adj-rusked
+ AdjTag ;
+
 LEXICON AdjTag ! beginning 
 +A: SGNOMSUF ;
 +A: SGGENSUF ;
@@ -66,6 +69,9 @@ LEXICON N-noruz ! OUN-ZD_QEQ
 
 LEXICON N-kojaduz ! z s _QEQ
 :ZS1 NOUN ;
+
+LEXICON N-vedäi ! i j _QAQ1 Does this work like _muna_?
+:QAQ1 NOUN ;
 
 LEXICON NTag ! nado
  NOUN ;
