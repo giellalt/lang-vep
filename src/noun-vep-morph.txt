@@ -160,7 +160,7 @@ LEXICON SGTRASUF
 +Sg+Tra:%>ks K ;
 
 LEXICON SGABESUF
-+Sg+Abe:%>ta K ;
++Sg+Abe:%^DEVOICE%>ta K ;
 
 LEXICON SGCOMSUF
 +Sg+Com:%>nke K ;
@@ -236,7 +236,7 @@ LEXICON PLTRASUF
 +Pl+Tra:%>ikš K ;
 
 LEXICON PLABESUF
-+Pl+Abe:%>ita K ;
++Pl+Abe:%>i%^DEVOICEta K ;
 
 LEXICON PLCOMSUF
 +Pl+Com:%>idenke K ;

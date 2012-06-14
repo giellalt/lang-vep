@@ -50,10 +50,11 @@ define VowelCorrelation [ V1 -> а || [ QAO1 ]  %> h _ ,,
                           V1 -> e || [ QEQ ]  %> h _  ,,
                           V1 -> o || o %> h _   ] ; ! Vowel harmony
 
-define iToj [ i -> j || Vws _ QAQ1 %> ] ;
+define iToj [ i -> j || Vws _ [ QAQ1 | QAO1 ] %> ,,
+             i -> 0 || Vws %- _ k ] ;
 
-define StemFinalVowelLoss [ QAO1 -> 0 , QEQ -> 0 , QAQ1 -> 0 || _  .#.  ] ;
- !€ ты>хА1на:тэхэна
+define StemFinalVowelLoss [ QAO1 -> 0 , QEQ -> 0 , QAQ1 -> 0 || _  [ .#. | %- ]  ] ;
+ !€ marj>QAO1:marj
 
 define VowelLossBeforePli [ QEQ -> 0 , QAQ1 -> 0  || _ %> i ] ;
 
@@ -69,6 +70,8 @@ define VOICING     [ t -> d , k -> g || [ Vws | n | l | r ] %> _ [ Vws ] ,,
 
 define DEVOICE [ %^DEVOICE -> 0 ||  _ ] ;
 
+define I1Variation [ I1 -> 0 || Vws  %- _ k ,, I1 -> i || Cns :0* %- _ k ] ;
+
 define DummyDeletion Dummy -> 0 ;
 
 
@@ -83,6 +86,7 @@ read regex [
 .o. S2SH
 .o. VOICING
 .o. DEVOICE
+.o. I1Variation
 .o. DummyDeletion
 ] ;
 
