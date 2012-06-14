@@ -44,11 +44,20 @@ Multichar_Symbols
 +PstII
 
 +Clt
+!! Derivations
++Der/Ta
++Der/Te
++Der/ma
++Der/Tu
++Der/IA
+
 %>
+%-
 ! Protoletters for xfst
+%^DEVOICE
 QAQ1 QAO1 EH1 QEQ1 INE1 ZD1 ZS1 V1
 AO1 EI1 ZS1 ZD1  ! These are for developing underlying morphology rules
-D1 E1 U1 
+D1 E1 U1 I1
 
 ! Key lexicon
 
@@ -102,8 +111,9 @@ LEXICON ORDINAL
 
 
 LEXICON K
-+Clt:%>ki # "also" ;
-+Qst:а # ;
++Clt:%-ki # "also" ; !  
++Clt/žo:%-žo # ;
++Qst:%-ik # ;
 # ; 
 
 
