@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xsi:noNamespaceSchemaLocation="../../../myv/script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
+   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <entry>
+      <lg>
+         <l>lujas</l>
+         <stg>
+            <st vepContlex="MannerTag">lujas</st>
+         </stg>
+      </lg>
+      <pos>MANNER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t></t>
+            </tg>
+            <tg lang="fin">
+               <t>lujasti</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>pigašti</l>
+         <stg>
+            <st vepContlex="MannerTag">pigašti</st>
+         </stg>
+      </lg>
+      <pos>MANNER</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>quickly</t>
+            </tg>
+            <tg lang="fin">
+               <t>nopeasti</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>völ</l>
+         <stg>
+            <st vepContlex="TempTag">völ</st>
+         </stg>
+      </lg>
+      <pos>TEMP</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>still</t>
+            </tg>
+            <tg lang="fin">
+               <t>vielä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+</r>
