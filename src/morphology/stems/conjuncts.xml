@@ -6,7 +6,7 @@
       <lg>
          <l>a</l>
          <stg>
-            <st vepContlex="CcTag">a</st>
+            <st Contlex="CcTag">a</st>
          </stg>
       </lg>
       <pos>CC</pos>
@@ -28,7 +28,7 @@
       <lg>
          <l>da</l>
          <stg>
-            <st vepContlex="CcTag">da</st>
+            <st Contlex="CcTag">da</st>
          </stg>
       </lg>
       <pos>CC</pos>
@@ -50,7 +50,7 @@
       <lg>
          <l>i</l>
          <stg>
-            <st vepContlex="CcTag">i</st>
+            <st Contlex="CcTag">i</st>
          </stg>
       </lg>
       <pos>CC</pos>

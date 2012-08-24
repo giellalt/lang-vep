@@ -6,7 +6,7 @@
       <lg>
          <l>üks'</l>
          <stg>
-            <st vepContlex="Num-noruz">ük</st>
+            <st Contlex="Num-noruz">ük</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -28,7 +28,7 @@
       <lg>
          <l>kaks'</l>
          <stg>
-            <st vepContlex="Num-noruz">kak</st>
+            <st Contlex="Num-noruz">kak</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -50,7 +50,7 @@
       <lg>
          <l>koume</l>
          <stg>
-            <st vepContlex="NumTag">koume</st>
+            <st Contlex="NumTag">koume</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -72,7 +72,7 @@
       <lg>
          <l>nell'</l>
          <stg>
-            <st vepContlex="NumTag">koume</st>
+            <st Contlex="NumTag">koume</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -94,7 +94,7 @@
       <lg>
          <l>viiž</l>
          <stg>
-            <st vepContlex="NumTag">koume</st>
+            <st Contlex="NumTag">koume</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -116,7 +116,7 @@
       <lg>
          <l>kuz'</l>
          <stg>
-            <st vepContlex="NumTag">koume</st>
+            <st Contlex="NumTag">koume</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -138,7 +138,7 @@
       <lg>
          <l>seičeme</l>
          <stg>
-            <st vepContlex="NumTag">koume</st>
+            <st Contlex="NumTag">koume</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -160,7 +160,7 @@
       <lg>
          <l>kahesa</l>
          <stg>
-            <st vepContlex="NumTag">koume</st>
+            <st Contlex="NumTag">koume</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -182,7 +182,7 @@
       <lg>
          <l>ühesa</l>
          <stg>
-            <st vepContlex="NumTag">koume</st>
+            <st Contlex="NumTag">koume</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -204,7 +204,7 @@
       <lg>
          <l>kümne</l>
          <stg>
-            <st vepContlex="NumTag">koume</st>
+            <st Contlex="NumTag">koume</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -226,7 +226,7 @@
       <lg>
          <l>üks'toštkümne</l>
          <stg>
-            <st vepContlex="NumTag">üks'toštkümne</st>
+            <st Contlex="NumTag">üks'toštkümne</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -248,7 +248,7 @@
       <lg>
          <l>kaks'toštkümne</l>
          <stg>
-            <st vepContlex="NumTag">kaks'toštkümne</st>
+            <st Contlex="NumTag">kaks'toštkümne</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -270,7 +270,7 @@
       <lg>
          <l>kaks'kümne</l>
          <stg>
-            <st vepContlex="NumTag">kaks'kümne</st>
+            <st Contlex="NumTag">kaks'kümne</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -292,7 +292,7 @@
       <lg>
          <l>sada</l>
          <stg>
-            <st vepContlex="NumTag">sada</st>
+            <st Contlex="NumTag">sada</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -314,7 +314,7 @@
       <lg>
          <l>tuha</l>
          <stg>
-            <st vepContlex="NumTag">tuhanD1E1</st>
+            <st Contlex="NumTag">tuhanD1E1</st>
          </stg>
       </lg>
       <pos>NUM</pos>

@@ -6,7 +6,7 @@
       <lg>
          <l>cipuine</l>
          <stg>
-            <st vepContlex="N-cipuine">cipu</st>
+            <st Contlex="N-cipuine">cipu</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -28,7 +28,7 @@
       <lg>
          <l>kel'</l>
          <stg>
-            <st vepContlex="N-kel">kel'</st>
+            <st Contlex="N-kel">kel'</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -50,7 +50,7 @@
       <lg>
          <l>kojaduz</l>
          <stg>
-            <st vepContlex="N-kojaduz">kojaduz</st>
+            <st Contlex="N-kojaduz">kojaduz</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -72,7 +72,7 @@
       <lg>
          <l>landeh</l>
          <stg>
-            <st vepContlex="N-landeh">land</st>
+            <st Contlex="N-landeh">land</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -94,7 +94,7 @@
       <lg>
          <l>marj</l>
          <stg>
-            <st vepContlex="N-marj">marj</st>
+            <st Contlex="N-marj">marj</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -116,7 +116,7 @@
       <lg>
          <l>nado</l>
          <stg>
-            <st vepContlex="NTag">nado</st>
+            <st Contlex="NTag">nado</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -139,7 +139,7 @@
       <lg>
          <l>noruz'</l>
          <stg>
-            <st vepContlex="N-noruz">noru</st>
+            <st Contlex="N-noruz">noru</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -161,7 +161,7 @@
       <lg>
          <l>šapuk</l>
          <stg>
-            <st vepContlex="N-shapuk">šapU1k</st>
+            <st Contlex="N-shapuk">šapU1k</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -183,7 +183,7 @@
       <lg>
          <l>vedäi</l>
          <stg>
-            <st vepContlex="N-vedäi">vedäi</st>
+            <st Contlex="N-vedäi">vedäi</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -205,7 +205,7 @@
       <lg>
          <l>veps</l>
          <stg>
-            <st vepContlex="N-veps">veps</st>
+            <st Contlex="N-veps">veps</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -227,7 +227,7 @@
       <lg>
          <l>voz'</l>
          <stg>
-            <st vepContlex="N-noruz">vo</st>
+            <st Contlex="N-noruz">vo</st>
          </stg>
       </lg>
       <pos>V</pos>

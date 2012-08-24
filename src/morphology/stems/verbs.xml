@@ -6,7 +6,7 @@
       <lg>
          <l>mända</l>
          <stg>
-            <st vepContlex="V-pesta">män</st>
+            <st Contlex="V-pesta">män</st>
          </stg>
       </lg>
       <pos>V</pos>
@@ -28,7 +28,7 @@
       <lg>
          <l>olda</l>
          <stg>
-            <st vepContlex="V-olda">o</st>
+            <st Contlex="V-olda">o</st>
          </stg>
       </lg>
       <pos>V</pos>
@@ -50,7 +50,7 @@
       <lg>
          <l>oigeta</l>
          <stg>
-            <st vepContlex="V-oigeta">oige</st>
+            <st Contlex="V-oigeta">oige</st>
          </stg>
       </lg>
       <pos>V</pos>
@@ -72,7 +72,7 @@
       <lg>
          <l>pesta</l>
          <stg>
-            <st vepContlex="V-pesta">pez</st>
+            <st Contlex="V-pesta">pez</st>
          </stg>
       </lg>
       <pos>V</pos>
@@ -94,7 +94,7 @@
       <lg>
          <l>sugida</l>
          <stg>
-            <st vepContlex="V-sugida">sugi</st>
+            <st Contlex="V-sugida">sugi</st>
          </stg>
       </lg>
       <pos>V</pos>
@@ -119,7 +119,7 @@
       <lg>
          <l>tugeta</l>
          <stg>
-            <st vepContlex="V-tugeta">tuge</st>
+            <st Contlex="V-tugeta">tuge</st>
          </stg>
       </lg>
       <pos>V</pos>
@@ -142,7 +142,7 @@
       <lg>
          <l>tulda</l>
          <stg>
-            <st vepContlex="V-pesta">tul</st>
+            <st Contlex="V-pesta">tul</st>
          </stg>
       </lg>
       <pos>V</pos>
@@ -164,7 +164,7 @@
       <lg>
          <l>valita</l>
          <stg>
-            <st vepContlex="V-valita">vali</st>
+            <st Contlex="V-valita">vali</st>
          </stg>
       </lg>
       <pos>V</pos>

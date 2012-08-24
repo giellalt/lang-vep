@@ -6,7 +6,7 @@
       <lg>
          <l>čoma</l>
          <stg>
-            <st vepContlex="AdjTag">čoma</st>
+            <st Contlex="AdjTag">čoma</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -28,7 +28,7 @@
       <lg>
          <l>rusked</l>
          <stg>
-            <st vepContlex="Adj-rusked">ruskedA1</st>
+            <st Contlex="Adj-rusked">ruskedA1</st>
          </stg>
       </lg>
       <pos>A</pos>

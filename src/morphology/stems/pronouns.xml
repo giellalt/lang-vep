@@ -6,7 +6,7 @@
       <lg>
          <l>minä</l>
          <stg>
-            <st vepContlex="PersSg1">min</st>
+            <st Contlex="PersSg1">min</st>
          </stg>
       </lg>
       <pos>PRON</pos>
@@ -28,7 +28,7 @@
       <lg>
          <l>sinä</l>
          <stg>
-            <st vepContlex="PersSg2">sin</st>
+            <st Contlex="PersSg2">sin</st>
          </stg>
       </lg>
       <pos>PRON</pos>
@@ -50,7 +50,7 @@
       <lg>
          <l>hän</l>
          <stg>
-            <st vepContlex="PersSg3">hä</st>
+            <st Contlex="PersSg3">hä</st>
          </stg>
       </lg>
       <pos>PRON</pos>
@@ -72,7 +72,7 @@
       <lg>
          <l>mö</l>
          <stg>
-            <st vepContlex="PersPl1">m</st>
+            <st Contlex="PersPl1">m</st>
          </stg>
       </lg>
       <pos>PRON</pos>
@@ -94,7 +94,7 @@
       <lg>
          <l>tö</l>
          <stg>
-            <st vepContlex="PersPl2">t</st>
+            <st Contlex="PersPl2">t</st>
          </stg>
       </lg>
       <pos>PRON</pos>
@@ -116,7 +116,7 @@
       <lg>
          <l>hö</l>
          <stg>
-            <st vepContlex="PersPl3">h</st>
+            <st Contlex="PersPl3">h</st>
          </stg>
       </lg>
       <pos>PRON</pos>

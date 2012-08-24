@@ -6,7 +6,7 @@
       <lg>
          <l>aj</l>
          <stg>
-            <st vepContlex="InterjTag">aj</st>
+            <st Contlex="InterjTag">aj</st>
          </stg>
       </lg>
       <pos>INTERJ</pos>

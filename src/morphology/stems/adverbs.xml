@@ -6,7 +6,7 @@
       <lg>
          <l>lujas</l>
          <stg>
-            <st vepContlex="MannerTag">lujas</st>
+            <st Contlex="MannerTag">lujas</st>
          </stg>
       </lg>
       <pos>MANNER</pos>
@@ -28,7 +28,7 @@
       <lg>
          <l>pigašti</l>
          <stg>
-            <st vepContlex="MannerTag">pigašti</st>
+            <st Contlex="MannerTag">pigašti</st>
          </stg>
       </lg>
       <pos>MANNER</pos>
@@ -50,7 +50,7 @@
       <lg>
          <l>völ</l>
          <stg>
-            <st vepContlex="TempTag">völ</st>
+            <st Contlex="TempTag">völ</st>
          </stg>
       </lg>
       <pos>TEMP</pos>
