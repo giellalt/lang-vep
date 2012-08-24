@@ -1,9 +1,21 @@
-LEXICON PronRoot
-minä+Pron+Pers+1Sg:minä K "I" ;
-sinä+Pron+Pers+2Sg:sinä K "you (sg.)" ;
-hän+Pron+Pers+3Sg:hän K "he, she, it" ;
-mö+Pron+Pers+1Pl:mö K "we" ;
-tö+Pron+Pers+2Pl:tö K "you (pl.)" ;
-hö+Pron+Pers+3Pl:hö K "they" ;
+LEXICON PersSg1
++Pron+Pers+1Sg+Nom:ä K ;
+
+LEXICON PersSg2
++Pron+Pers+2Sg+Nom:ä K ;
+
+LEXICON PersSg3
++Pron+Pers+3Sg+Nom:n K ;
+
+LEXICON PersPl1
++Pron+Pers+1Pl+Nom:ö K ;
+
+LEXICON PersPl2
++Pron+Pers+2Pl+Nom:ö K ;
+
+LEXICON PersPl3
++Pron+Pers+3Pl+Nom:ö K ;
+
+
 
 ! vim: set ft=xfst-lexc:
