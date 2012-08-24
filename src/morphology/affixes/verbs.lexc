@@ -10,8 +10,8 @@ LEXICON V-sugida
 LEXICON V-olda
 +V:le V-VowelStem ;
 +V:l V-ConsonantStem ;
-+Pred+Ind+Prs+Sc3Sg:%>m K ;
-+Pred+Ind+Prs+Sc3Pl:%>ba K ;
++Ind+Prs+Sc3Sg:%>m K ;
++Ind+Prs+Sc3Pl:%>ba K ;
 
 
 LEXICON V-pesta
@@ -34,8 +34,8 @@ LEXICON VTag
  V-ConsonantStem ;
 
 LEXICON INDPRS3
-+Pred+Ind+Prs+Sc3Sg:%>b K ;
-+Pred+Ind+Prs+Sc3Pl:%>ba K ;
++Ind+Prs+Sc3Sg:%>b K ;
++Ind+Prs+Sc3Pl:%>ba K ;
 
 LEXICON V-VowelStem
 
@@ -43,25 +43,25 @@ LEXICON V-VowelStem
 !! PRESENT !!
 !!!!!!!!!!!!!
 
-+Pred+Ind+Prs+Sc1Sg:%>n K ;
-+Pred+Ind+Prs+Sc2Sg:%>d K ;
-+Pred+Ind+Prs+Sc1Pl:%>m K ;
-+Pred+Ind+Prs+Sc2Pl:%>t K ;
++Ind+Prs+Sc1Sg:%>n K ;
++Ind+Prs+Sc2Sg:%>d K ;
++Ind+Prs+Sc1Pl:%>m K ;
++Ind+Prs+Sc2Pl:%>t K ;
 
 !!!!!!!!!!!!!!!
 !! IMPERFECT !!
 !!!!!!!!!!!!!!!
 
-+Pred+Ind+Imp+Sc1Sg:%>in K ;
-+Pred+Ind+Imp+Sc2Sg:%>id K ;
-+Pred+Ind+Imp+Sc3Sg:%>i K ;
-+Pred+Ind+Imp+Sc1Pl:%>im K ;
-+Pred+Ind+Imp+Sc2Pl:%>it K ;
-+Pred+Ind+Imp+Sc3Pl:%>iba K ;
++Ind+Prt+Sc1Sg:%>in K ;
++Ind+Prt+Sc2Sg:%>id K ;
++Ind+Prt+Sc3Sg:%>i K ;
++Ind+Prt+Sc1Pl:%>im K ;
++Ind+Prt+Sc2Pl:%>it K ;
++Ind+Prt+Sc3Pl:%>iba K ;
 
 !!
 +Ind+ConNeg+Prs+Sg: K ;
-+Ind+ConNeg+Imp+Sg:%>nd K ;
++Ind+ConNeg+Prt+Sg:%>nd K ;
 
 +Cond+ConNeg+Prs:%>iži K ;
 
@@ -123,10 +123,10 @@ LEXICON V-VowelStem
 
 LEXICON V-ConsonantStem
 +Ind+ConNeg+Prs+Pl:%>koi K ;
-+Ind+ConNeg+Imp+Pl:%>nugoi K ;
++Ind+ConNeg+Prt+Pl:%>nugoi K ;
 +Prf+Sg:%>nu K ;
 +Prf+Pl:%>nuded K ;
-+Cond+ConNeg+Imp:%>nuiži K ;
++Cond+ConNeg+Prt:%>nuiži K ;
 
 !!!!!!!!!!!!!!!!
 !! IMPERATIVE !!
@@ -141,12 +141,12 @@ LEXICON V-ConsonantStem
 !! CONDITIONAL IMPERFECT !!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-+Cond+Imp+Sc1Sg:%>nuižin K ;
-+Cond+Imp+Sc2Sg:%>nuižid K ;
-+Cond+Imp+Sc3Sg:%>nuiži K ;
-+Cond+Imp+Sc1Pl:%>nuižim K ;
-+Cond+Imp+Sc2Pl:%>nuižit K ;
-+Cond+Imp+Sc3Pl:%>nuižiba K ;
++Cond+Prt+Sc1Sg:%>nuižin K ;
++Cond+Prt+Sc2Sg:%>nuižid K ;
++Cond+Prt+Sc3Sg:%>nuiži K ;
++Cond+Prt+Sc1Pl:%>nuižim K ;
++Cond+Prt+Sc2Pl:%>nuižit K ;
++Cond+Prt+Sc3Pl:%>nuižiba K ;
 
 !!!!!!!!!!!!!!!
 !! REFLEXIVE !!
@@ -154,7 +154,7 @@ LEXICON V-ConsonantStem
 
 +Ind+Prs+ConNeg+OcSg:%>te K ;
 +Ind+Prs+ConNeg+OcPl:%>koiš K ;
-+Ind+Imp+ConNeg+OcPl:%>nus K ;
++Ind+Prt+ConNeg+OcPl:%>nus K ;
 +Ind+Prf+OcPl:%>nus K ;
 
 !!!!!!!!!!!!!!!!
@@ -175,7 +175,7 @@ LEXICON V-ConsonantStem
 +Der/IA+Ptc+Act+Prs:%>jA1 K ; ! This will have to be AdjTag or something
 +Der/Ta+Inf:%>ta K ;
 +Pass+Prs:%>ta K ;
-+Pass+Imp:%>ti K ;
++Pass+Prt:%>ti K ;
 +Der/Te+Inf+Ine:%>tes K ;
 +Der/Te+Inf+EssInst:%>ten K ;
 +Der/ma+Inf+Ill:%>mha K ;

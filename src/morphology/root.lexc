@@ -31,27 +31,34 @@ Multichar_Symbols
 !! The parts of speech are further split up into:
  +Prop +Pers +Dem +Interr +Refl +Recipr +Rel +Indef
 
+
 !! The Usage extents are marked using following tags:
  +Use/Sub   
  +Use/-Spell 
 
 !! The nominals are inflected in the following Case and Number
- +Sg +Du +Pl
- +Ess +Nom +Gen +Acc +Ill +Loc +Com +Com/Sh
+ +Sg +Pl
++Nom +Acc +Gen +Abl +Dat +Loc +Pros +Tra +Abe +Adc +Ins +Apr +Ine +Ill +Ela +Egr
++Prl +Ter1 +Ter2 +Ter3 +Add1 +Add2
++Apr1 +Apr2
++EssInst
+
 
 !! The possession is marked as such:
- +PxSg1 +PxSg2 +PxSg3 +PxDu1 +PxDu2 +PxDu3 +PxPl1 +PxPl2 +PxPl3
+ +PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
 !! The comparative forms are:
  +Comp +Superl
 !! Numerals are classified under:
  +Attr +Card
  +Ord 
 !! Verb moods are:
- +Ind +Prs +Prt +Pot +Cond +Imprt
+ +Ind +Prs +Prt +Cond +Imprt
++Pos
 !! Verb personal forms are:
- +Sg1 +Sg2 +Sg3 +Du1 +Du2 +Du3 +Pl1 +Pl2 +Pl3
+ +ScSg1 +ScSg2 +ScSg3 +ScPl1 +ScPl2 +ScPl3
+ +RcSg1 +RcSg2 +RcSg3 +RcPl1 +RcPl2 +ScPl3
 !! Other verb forms are
- +Inf +Ger +ConNeg +ConNegII +Neg +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess
+ +Inf +Ger +Neg +ConNeg +ConNegII +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess
 
 ! Abbreviated words are classified with:
  +ABBR +ACR 
@@ -66,6 +73,17 @@ Multichar_Symbols
 
 !! Question and Focus particles:
  +Qst +Foc
+
++Appr
++Advc
++Ter
++Pro
++Car 
+
++PstI
++PstII
+
++Clt
 
 
 !! Semantics are classified with
@@ -91,7 +109,12 @@ Multichar_Symbols
 !! Derivations are classified under the morphophonetic form of the suffix, the
 !! source and target part-of-speech.
  +V→N +V→V +V→A
- +Der/xxx
++Der/Ta
++Der/Te
++Der/ma
++Der/Tu
++Der/IA
+
 
 
 !! Morphophonology
@@ -102,6 +125,15 @@ Multichar_Symbols
 
 !! And following triggers to control variation
  {front} {back}
+%>
+%-
+
+! Protoletters for xfst
+%^DEVOICE
+QAQ1 QAO1 QÄQ1
+EH1 QEQ1 INE1 ZD1 ZS1 V1
+AO1 EI1 ZS1 ZD1  ! These are for developing underlying morphology rules
+D1 E1 U1 I1
 
 !! We have manually optimised the structure of our lexicon using following
 !! flag diacritics to restrict morhpological combinatorics:
@@ -110,11 +142,81 @@ Multichar_Symbols
 LEXICON Root
 !! The word forms in UNDEFINED language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
-0   Nouns   ;
-0   Verbs   ;
-0   Adjectives  ;
-0   Pronouns    ;
-0   Numerals    ;
+0   A  ;
+Abbreviation ;
+Acronym ;
+0   ADV ;
+0   CONJ ;
+0   INTERJ ;
+0   N   ;
+0   NUM    ;
+Numerals ;
 0   Prefixes    ;
+0   Pronouns    ;
+PronRoot ;
+POSTPOSITION ;
+PUNCTUATION ;
+SUBJUNCTION ;
+0   V   ;
+
+
+LEXICON CcTag 
++CC: # ;
+
+LEXICON CsTag
++CS: # ;
+ 
+LEXICON SUBJUNCTION  
+# ;
+
+LEXICON INTERJECTION 
+# ;
+
+LEXICON NUMERAL
+#;
+
+LEXICON NUMBERSUF
++Num: K;
++Num:%> CASESUF ;
++Num:%> ORDINAL ;
+
+LEXICON ORDINAL
++Ord:этӥ K;
+
+
+
+LEXICON PUNCTUATION
+#; 
+LEXICON POSTPOSITION
+#; 
+
+LEXICON CADJ
++A: #; 
+LEXICON DADJ
++A: #; 
+LEXICON VADJ
++A: #;
+ 
+LEXICON AdvTag
++Adv: # ; 
+
+LEXICON MannerTag
++Adv+Manner: K ;
+
+LEXICON SpatTag
++Adv+Spat: K ;
+
+LEXICON TempTag
++Adv+Temp: K ;
+
+LEXICON CASESUF
+#; 
+LEXICON PRON
+#; 
+LEXICON DEM
+#; 
+LEXICON PERS
+#; 
+
 
 ! vim: set ft=xfst-lexc:

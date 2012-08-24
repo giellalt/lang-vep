@@ -1,0 +1,11 @@
+!! Veps clitics
+
+LEXICON K
++Clt:%-ki # "also" ; !  
++Clt/žo:%-žo # ;
++Qst:%-ik # ;
+# ; 
+
+
+! vim: set ft=xfst-lexc:
+
