@@ -17,27 +17,32 @@
 
 # Set this to name of lexc file containing Multichar_Symbols and LEXICON Root
 GT_LEXC_ROOT=root.lexc
+
 # Set this to names of all other lexc files
 GT_LEXC_SRCS=\
-			 stems/abbr.lexc \
-			 stems/acro.lexc \
-			 stems/adj.lexc \
-			 stems/adv.lexc \
-			 stems/cc.lexc \
-			 stems/cs.lexc \
-			 stems/det.lexc \
-			 stems/interj.lexc \
-			 stems/noun.lexc \
-			 stems/numeral.lexc \
-			 stems/pp.lexc \
-			 stems/pron.lexc \
-			 stems/propernoun.lexc \
-			 stems/punct.lexc \
-			 stems/verb.lexc \
-			 affixes/adjectives.lexc \
-			 affixes/nouns.lexc \
+			 stems/acro.lexc          \
+			 stems/adjectives.lexc    \
+			 stems/adverbs.lexc       \
+			 stems/conjuncts.lexc     \
+			 stems/nouns.lexc         \
+			 stems/quantifiers.lexc   \
+			 stems/verbs.lexc         \
+			 affixes/abbr.lexc        \
+			 affixes/acro.lexc        \
+			 affixes/adjectives.lexc  \
+			 affixes/nouns.lexc       \
+			 affixes/pronouns.lexc    \
 			 affixes/propernouns.lexc \
+			 affixes/quantifiers.lexc \
 			 affixes/verbs.lexc
+
+GT_XML_SRCS=\
+			stems/adjectives.xml  \
+			stems/adverbs.xml     \
+			stems/conjuncts.xml   \
+			stems/nouns.xml       \
+			stems/quantifiers.xml \
+			stems/verbs.xml
 
 include $(top_srcdir)/am-shared/lexc-include.am
 
