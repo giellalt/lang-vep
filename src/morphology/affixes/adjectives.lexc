@@ -1,11 +1,61 @@
 !! Adjective inflection
 !! --------------------
-!! The UNDEFINED language adjectives compare.
+!! Veps adjectives compare.
 
-LEXICON Comparisons
-+A+pos:0        Cases   ;
-+A+cmp:er       Cases   ;
-+A+sup:est      Cases   ;
+! LEXICON Comparisons
+! +A+pos:0        Cases   ;
+! +A+cmp:er       Cases   ;
+! +A+sup:est      Cases   ;
+
+LEXICON Adj-rusked
+ AdjTag ;
+
+LEXICON AdjTag ! beginning 
++A: SGNOMSUF ;
++A: SGGENSUF ;
++A: SGACCSUF ;
++A: SGPARTSUF ;
++A: SGTRASUF ;
++A: SGABESUF ;
++A: SGCOMSUF ;
++A: SGINESUF ;
++A: SGILLSUF ;
++A: SGADESUF ;
++A: SGABlSUF ;
++A: SGALLSUF ;
++A: SGESSSUF ;
++A: SGPRLSUF ;
++A: SGAPR1SUF ;
++A: SGAPR2SUF ;
++A: SGEGRSUF ;
++A: SGTER1SUF ;
++A: SGTER2SUF ;
++A: SGADD1SUF ;
++A: SGADD2SUF ;
+
++A: PLNOMSUF ;
++A: PLGENSUF ;
++A: PLACCSUF ;
++A: PLPARTSUF ;
++A: PLTRASUF ;
++A: PLABESUF ;
++A: PLCOMSUF ;
++A: PLINESUF ;
++A: PLILLSUF ;
++A: PLADESUF ;
++A: PLABlSUF ;
++A: PLALLSUF ;
++A: PLESSSUF ;
++A: PLPRLSUF ;
++A: PLAPR1SUF ;
++A: PLAPR2SUF ;
++A: PLEGRSUF ;
++A: PLTER1SUF ;
++A: PLTER2SUF ;
++A: PLADD1SUF ;
++A: PLADD2SUF ;
+
+
 
 ! vim: set ft=xfst-lexc:
 

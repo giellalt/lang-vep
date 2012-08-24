@@ -1,0 +1,15 @@
+LEXICON Num-noruz
++Qnt+Adn:%>D1E1 K ;
++Qnt+Der/MWN: N-noruz ;
+
+LEXICON NumTag
++Qnt+Adn: K ;
++Qnt+Der/MWN: # ;
+
+LEXICON DNUM
++Qnt+Adn: K ;
++Qnt+Der/MWN: # ;
+
+LEXICON NNUM
++Qnt+Adn: K ;
++Qnt+Der/MWN: # ;
