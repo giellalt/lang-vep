@@ -28,7 +28,7 @@
       <lg>
          <l>olda</l>
          <stg>
-            <st vepContlex="VTag">ol</st>
+            <st vepContlex="V-olda">o</st>
          </stg>
       </lg>
       <pos>V</pos>
@@ -134,6 +134,28 @@
             </tg>
             <tg lang="fin">
                <t>tukea</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>tulda</l>
+         <stg>
+            <st vepContlex="V-pesta">tul</st>
+         </stg>
+      </lg>
+      <pos>V</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>to come</t>
+            </tg>
+            <tg lang="fin">
+               <t>tulla</t>
             </tg>
          </mg>
       </e>

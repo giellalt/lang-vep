@@ -73,6 +73,9 @@ LEXICON N-kojaduz ! z s _QEQ
 LEXICON N-vedäi ! i j _QAQ1 Does this work like _muna_?
 :QAQ1 NOUN ;
 
+LEXICON N-veps 
+:QÄQ1 NOUN ;
+
 LEXICON NTag ! nado
  NOUN ;
 

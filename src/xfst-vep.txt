@@ -28,8 +28,10 @@ define Cns [ b | c | č | d | f | g | h | j | k | l
            | m | n | p | r | s | š | t | v | z | ž
            | M | N | P | R | S | Š | T | V | Z | Ž ] ;
 
-define Vws [ a | e | i | o | u | ü | ä | ö 
-           | A | E | I | O | U | Ü | Ä | Ö ] ;
+define VwsLessi [ a | e | o | u | ü | ä | ö 
+                | A | E | O | U | Ü | Ä | Ö ] ;
+
+define Vws [ i | I | VwsLessi ] ;
 
 define Softie [ ’ ] ; ! soft sign
 
@@ -47,19 +49,26 @@ echo << THE RULES >>
 
 define VowelCorrelation [ V1 -> а || [ QAO1 ]  %> h _ ,,
                           V1 -> e || [ i ] %> h _ ,,
-                          V1 -> e || [ QEQ ]  %> h _  ,,
+                          V1 -> e || [ QEQ1 ]  %> h _  ,,
                           V1 -> o || o %> h _   ] ; ! Vowel harmony
 
 define iToj [ i -> j || Vws _ [ QAQ1 | QAO1 ] %> ,,
              i -> 0 || Vws %- _ k ] ;
 
-define StemFinalVowelLoss [ QAO1 -> 0 , QEQ -> 0 , QAQ1 -> 0 || _  [ .#. | %- ]  ] ;
+define SoftLossBeforeVowel [ ' -> 0 || _ QEQ1 %>  ] ;
+
+define StemFinalVowelLoss [ QAO1 -> 0 , QEQ1 -> 0 , QAQ1 -> 0 , QÄQ1 -> 0  || _  [ .#. | %- ]  ] ;
  !€ marj>QAO1:marj
 
-define VowelLossBeforePli [ QEQ -> 0 , QAQ1 -> 0  || _ %> i ] ;
+define VowelLossBeforePli [ QEQ1 -> 0 , QAQ1 -> 0 , QÄQ1 -> 0  || _ %> i ] ;
 
 define QAO [ QAO1 -> a , QAQ1 -> a || _ %> [ n | d | t a | k s | l | h V1 | n n o | d m e | s ] ,,
             QAO1 -> o || _ %> i ] ;
+
+define QÄQ1 [ QÄQ1 -> ä , QEQ1 -> e || _ %> [ Cns | VwsLessi ] ] ;
+
+define D1E1 [ D1E1 -> d e || _ %> [ Cns | VwsLessi ] ] ;
+! This should have voz' > vodel
 
 define S2SH     [ s -> š || i %> _ ] ;
 
@@ -69,6 +78,8 @@ define VOICING     [ t -> d , k -> g || [ Vws | n | l | r ] %> _ [ Vws ] ,,
  !€ vali^DEVOICE>ta:valita
 
 define DEVOICE [ %^DEVOICE -> 0 ||  _ ] ;
+
+define VowelStemVowelLoss [ e -> 0 || _ %> i ( n| d | m | t ) ] ;
 
 define I1Variation [ I1 -> 0 || Vws  %- _ k ,, I1 -> i || Cns :0* %- _ k ] ;
 
@@ -80,12 +91,16 @@ read regex [
 
     VowelCorrelation
 .o. iToj
+.o. SoftLossBeforeVowel
 .o. StemFinalVowelLoss
 .o. VowelLossBeforePli
 .o. QAO
+.o. QÄQ1
+.o. D1E1
 .o. S2SH
 .o. VOICING
 .o. DEVOICE
+.o. VowelStemVowelLoss
 .o. I1Variation
 .o. DummyDeletion
 ] ;
