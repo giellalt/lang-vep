@@ -4,9 +4,9 @@ LEXICON V-sugida
 +V: INDPRS3 ;
 
 LEXICON V-olda
-+V:e V-VowelStem ;
-+V: V-ConsonantStem ;
-+Pred+Ind+Prs+Sc3Sg:%>b K ;
++V:le V-VowelStem ;
++V:l V-ConsonantStem ;
++Pred+Ind+Prs+Sc3Sg:%>m K ;
 +Pred+Ind+Prs+Sc3Pl:%>ba K ;
 
 

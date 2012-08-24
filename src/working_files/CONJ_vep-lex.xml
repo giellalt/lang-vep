@@ -4,66 +4,66 @@
    xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <entry>
       <lg>
-         <l>lujas</l>
+         <l>a</l>
          <stg>
-            <st vepContlex="MannerTag">lujas</st>
+            <st vepContlex="CcTag">a</st>
          </stg>
       </lg>
-      <pos>MANNER</pos>
+      <pos>CC</pos>
       <e>
          <mg>
             <m>
                <head/>
             </m>
             <tg lang="eng">
-               <t></t>
+               <t>but</t>
             </tg>
             <tg lang="fin">
-               <t>lujasti</t>
+               <t>mutta</t>
             </tg>
          </mg>
       </e>
    </entry>
    <entry>
       <lg>
-         <l>pigašti</l>
+         <l>da</l>
          <stg>
-            <st vepContlex="MannerTag">pigašti</st>
+            <st vepContlex="CcTag">da</st>
          </stg>
       </lg>
-      <pos>MANNER</pos>
+      <pos>CC</pos>
       <e>
          <mg>
             <m>
                <head/>
             </m>
             <tg lang="eng">
-               <t>quickly</t>
+               <t>and</t>
             </tg>
             <tg lang="fin">
-               <t>nopeasti</t>
+               <t>ja</t>
             </tg>
          </mg>
       </e>
    </entry>
    <entry>
       <lg>
-         <l>völ</l>
+         <l>i</l>
          <stg>
-            <st vepContlex="TempTag">völ</st>
+            <st vepContlex="CcTag">i</st>
          </stg>
       </lg>
-      <pos>TEMP</pos>
+      <pos>CC</pos>
       <e>
          <mg>
             <m>
                <head/>
             </m>
             <tg lang="eng">
-               <t>still</t>
+               <t>and</t>
             </tg>
             <tg lang="fin">
-               <t>vielä</t>
+               <t>ja</t>
             </tg>
          </mg>
       </e>

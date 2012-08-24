@@ -28,7 +28,7 @@
       <lg>
          <l>kel'</l>
          <stg>
-            <st vepContlex="N-kel">kelE1</st>
+            <st vepContlex="N-kel">kel'</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -197,6 +197,50 @@
             </tg>
             <tg lang="fin">
                <t>johtaja</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>veps</l>
+         <stg>
+            <st vepContlex="N-veps">veps</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>Veps</t>
+            </tg>
+            <tg lang="fin">
+               <t>vepsä</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>voz'</l>
+         <stg>
+            <st vepContlex="N-noruz">vo</st>
+         </stg>
+      </lg>
+      <pos>V</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>to go</t>
+            </tg>
+            <tg lang="fin">
+               <t>mennä</t>
             </tg>
          </mg>
       </e>
