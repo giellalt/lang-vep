@@ -18,7 +18,7 @@
 # Set this to name of lexc file containing Multichar_Symbols and LEXICON Root
 GT_LEXC_ROOT=root.lexc
 
-# Set this to names of all other lexc files
+# Set this to the names of all other source lexc files
 GT_LEXC_SRCS=\
 			 stems/acro.lexc          \
 			 affixes/abbr.lexc        \
@@ -30,6 +30,7 @@ GT_LEXC_SRCS=\
 			 affixes/quantifiers.lexc \
 			 affixes/verbs.lexc
 
+# Set this to the names of all generated lexc files, if any
 GENERATED_LEXC_SRCS=\
 			 stems/adjectives.lexc    \
 			 stems/adverbs.lexc       \
@@ -40,6 +41,7 @@ GENERATED_LEXC_SRCS=\
 			 stems/quantifiers.lexc   \
 			 stems/verbs.lexc
 
+# Set this to the names of all source xml files, if any
 GT_XML_SRCS=\
 			 stems/adjectives.xml    \
 			 stems/adverbs.xml       \
