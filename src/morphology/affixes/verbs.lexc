@@ -24,6 +24,12 @@ LEXICON V-oigeta
 +V:%^DEVOICE V-ConsonantStem ;
 +V:nda INDPRS3 ;
 
+!! Check this 2012-08-31
+LEXICON V-tugeta
++V:nda V-VowelStem ;
++V:%^DEVOICE V-ConsonantStem ;
++V:nda INDPRS3 ;
+
 LEXICON V-valita
 +V:če V-VowelStem ;
 +V:%^DEVOICE V-ConsonantStem ;

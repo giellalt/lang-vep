@@ -24,6 +24,7 @@ GT_LEXC_SRCS=\
 			 affixes/abbr.lexc        \
 			 affixes/acro.lexc        \
 			 affixes/adjectives.lexc  \
+			 affixes/clitics.lexc       \
 			 affixes/nouns.lexc       \
 			 affixes/pronouns.lexc    \
 			 affixes/propernouns.lexc \
