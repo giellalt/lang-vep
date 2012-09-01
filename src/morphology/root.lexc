@@ -151,8 +151,8 @@ LEXICON Root
 0   pronouns	;
 0   quantifiers	;
 0   verbs	;
-Abbreviation ;
-Acronym ;
+Abbreviation ;	! stems/abbr.lexc
+Acronym ;    	! stems/acro.lexc
 
 !!Numerals ;
 !! PronRoot ;
