@@ -73,6 +73,9 @@ Multichar_Symbols
 
 !! Question and Focus particles:
  +Qst +Foc
++Clt
++Foc/ki
++Foc/žo
 
 +Appr
 +Advc
@@ -83,7 +86,6 @@ Multichar_Symbols
 +PstI
 +PstII
 
-+Clt
 
 
 !! Semantics are classified with
@@ -152,11 +154,11 @@ LEXICON Root
 0   verbs	;
 Abbreviation ;	! stems/abbr.lexc
 Acronym ;    	! stems/acro.lexc
-
+Punctuation	;
+wordToNumeral	;
 !!Numerals ;
 !! PronRoot ;
 POSTPOSITION ;
-PUNCTUATION ;
 SUBJUNCTION ;
 
 

@@ -22,6 +22,8 @@ GT_LEXC_ROOT=root.lexc
 GT_LEXC_SRCS=\
 			 stems/acro.lexc          \
 			 stems/abbr.lexc        \
+			 stems/punct.lexc        \
+			 stems/wordToNumeral.lexc        \
 			 affixes/adjectives.lexc  \
 			 affixes/clitics.lexc       \
 			 affixes/nouns.lexc       \
