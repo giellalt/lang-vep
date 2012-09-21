@@ -1,10 +1,10 @@
 Config:
   hfst:
-    Gen: ../bin/vep-gen.hfstol
-    Morph: ../bin/vep.hfstol
+    Gen: ../../../src/generator.gt.hfst
+    Morph: ../../../src/analyser.gt.hfst
   xerox:
-    Gen: ../bin/ivep.fst
-    Morph: ../bin/vep.fst
+    Gen: ../../../src/generator.gt.xfst
+    Morph: ../../../src/analyser.gt.xfst
     App: lookup
 
 Tests:
