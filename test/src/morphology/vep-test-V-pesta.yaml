@@ -1,0 +1,31 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator.gt.hfst
+    Morph: ../../../src/analyser.gt.hfst
+  xerox:
+    Gen: ../../../src/generator.gt.xfst
+    Morph: ../../../src/analyser.gt.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Verb - pesta: # Verb 'to wash / pestä' - full paradigm
+     pesta+V+Der/da+Inf: pesta
+     pesta+V+Der/des+Inf+Ine: pestes
+     pesta+V+Der/den+Inf+EssInst: pesten
+     pesta+V+Der/ma+Inf+Ill: pezmha
+     pesta+V+Der/ma+Inf+Ine: pezmas
+     pesta+V+Der/ma+Inf+Ela: pezmaspäi
+     pesta+V+Der/ma+Inf+Ade: pezmal
+     pesta+V+Pred+Ind+Prs+Sc1Sg: pezen
+     pesta+V+Pred+Ind+Prs+Sc2Sg: pezed
+     pesta+V+Pred+Ind+Prs+Sc3Sg: pezeb
+     pesta+V+Pred+Ind+Prs+Sc1Pl: pezem
+     pesta+V+Pred+Ind+Prs+Sc2Pl: pezet
+     pesta+V+Pred+Ind+Prs+Sc3Pl: pezeba
+

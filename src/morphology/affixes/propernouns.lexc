@@ -1,0 +1,30 @@
+!! Proper noun inflection
+!! ----------------------
+!! Veps proper nouns inflect in the same cases as regular
+!! nouns. Veps acronyms, however, take a hyphen ('-') as a separator.
+
+!!LEXICON ProperNounCases
+!!+N+Prop:%:   Cases  ;
+!!+N+Prop:%:   Cases  ;
+!!+N+Prop:%:   Cases  ;
+!!+N+Prop:%:   Cases  ;
+!!+N+Prop:%:   Cases  ;
+!!+N+Prop:%:   Cases  ;
+!!        -    Nouns  ;
+
+!!!!!!!!!!!!!!!!!!
+!! PROPER NOUNS !!
+!!!!!!!!!!!!!!!!!!
+
+LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
+    PROP ;
+:%: PROP ;
+:%- PROP ;
+:%' PROP ;
+
+LEXICON PROP
++Prop: NOUN ;
+
+
+! vim: set ft=xfst-lexc:
+

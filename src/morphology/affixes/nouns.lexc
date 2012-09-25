@@ -1,0 +1,237 @@
+LEXICON N-muna ! Stem vowel alternation ZERO-A-ZERO
+:QAQ1 NOUN ;
+
+LEXICON N-marj 
+:QAO1 NOUN ;
+
+LEXICON N-shapuk ! šapuk
+:U1 NOUN ;
+
+LEXICON N-landeh ! OUN-EH
+:EH1 NOUN ;
+
+LEXICON N-kel
+:QEQ1 NOUN ;
+
+LEXICON N-cipuine
+:INE1 NOUN ;
+
+LEXICON N-noruz ! OUN-ZD_QEQ
+:D1E1 NOUN ;
+
+LEXICON N-kojaduz ! z s _QEQ
+:ZS1 NOUN ;
+
+LEXICON N-vedäi ! i j _QAQ1 Does this work like _muna_?
+:QAQ1 NOUN ;
+
+LEXICON N-veps 
+:QÄQ1 NOUN ;
+
+LEXICON NTag ! nado
+ NOUN ;
+
+!! 
+
+LEXICON NOUN
++N: SGNOMSUF ;
++N: SGGENSUF ;
++N: SGACCSUF ;
++N: SGPARTSUF ;
++N: SGTRASUF ;
++N: SGABESUF ;
++N: SGCOMSUF ;
++N: SGINESUF ;
++N: SGILLSUF ;
++N: SGELASUF ;
++N: SGADESUF ;
++N: SGABlSUF ;
++N: SGALLSUF ;
++N: SGESSSUF ;
++N: SGPRLSUF ;
++N: SGAPR1SUF ;
++N: SGAPR2SUF ;
++N: SGEGRSUF ;
++N: SGTER1SUF ;
++N: SGTER2SUF ;
++N: SGTER3SUF ;
++N: SGADD1SUF ;
++N: SGADD2SUF ;
+
++N: PLNOMSUF ;
++N: PLGENSUF ;
++N: PLACCSUF ;
++N: PLPARTSUF ;
++N: PLTRASUF ;
++N: PLABESUF ;
++N: PLCOMSUF ;
++N: PLINESUF ;
++N: PLELASUF ;
++N: PLILLSUF ;
++N: PLADESUF ;
++N: PLABlSUF ;
++N: PLALLSUF ;
++N: PLESSSUF ;
++N: PLPRLSUF ;
++N: PLAPR1SUF ;
++N: PLAPR2SUF ;
++N: PLEGRSUF ;
++N: PLTER1SUF ;
++N: PLTER2SUF ;
+! +N: PLTER3SUF ; ! Does this exist
++N: PLADD1SUF ;
++N: PLADD2SUF ;
+
+!!!!!!!!!!!!!!!!!!
+!! ACTUAL CASES !!
+!!!!!!!!!!!!!!!!!!
+
+LEXICON SGNOMSUF
++Sg+Nom: K ;
+
+LEXICON SGGENSUF
++Sg+Gen:%>n K ;
+
+LEXICON SGACCSUF
++Sg+Acc:%>n K ;
+
+LEXICON SGPARTSUF
++Sg+Part:%>d K ; ! d/t
+
+LEXICON SGTRASUF
++Sg+Tra:%>ks K ;
+
+LEXICON SGABESUF
++Sg+Abe:%^DEVOICE%>ta K ;
+
+LEXICON SGCOMSUF
++Sg+Com:%>nke K ;
+
+LEXICON SGINESUF
++Sg+Ine:%>s K ; ! s/š kül’betiš 
+
+LEXICON SGELASUF
++Sg+Ela:%>späi K ; ! späi/špäi 
+
+LEXICON SGILLSUF
++Sg+Ill:%>hV1 K ; ! o-ho
+
+LEXICON SGADESUF
++Sg+Ade:%>l K ;
+
+LEXICON SGABlSUF
++Sg+Abl:%>lpäi K ;
+
+LEXICON SGALLSUF
++Sg+All:%>le K ;
+
+LEXICON SGESSSUF ! Essive-instructive
++Sg+EssInst:%>n K ;
+
+LEXICON SGPRLSUF
++Sg+Prl:%>dme K ;
+
+LEXICON SGAPR1SUF
++Sg+Apr1:%>nno K ;
+
+LEXICON SGAPR2SUF
++Sg+Apr2:%>nnoks K ;
+
+LEXICON SGEGRSUF
++Sg+Egr:%>nnopäi K ;
+
+LEXICON SGTER1SUF
++Sg+Ter1:%>hV1sai K ;
+
+LEXICON SGTER2SUF
++Sg+Ter2:%>lesai K ;
+
+LEXICON SGTER3SUF
++Sg+Ter3:%>ssai K ;
+
+LEXICON SGADD1SUF
++Sg+Add1:%>hV1päi K ;
+
+LEXICON SGADD2SUF
++Sg+Add2:%>lepäi K ;
+
+
+
+
+
+
+!! Start Plural
+LEXICON PLNOMSUF
++Pl+Nom:%>d K ;
+
+LEXICON PLGENSUF
++Pl+Gen:%>iden K ;
++Pl+Gen:%>id'en K ;
+
+LEXICON PLACCSUF
++Pl+Acc:%>d K ;
+
+LEXICON PLPARTSUF
++Pl+Part:%>id K ; ! d/t
+
+LEXICON PLTRASUF
++Pl+Tra:%>ikš K ;
+
+LEXICON PLABESUF
++Pl+Abe:%>i%^DEVOICEta K ;
+
+LEXICON PLCOMSUF
++Pl+Com:%>idenke K ;
+
+LEXICON PLINESUF
++Pl+Ine:%>iš K ; ! s/š kül’betiš 
+
+LEXICON PLELASUF
++Pl+Ela:%>išpäi K ; ! späi/špäi 
+
+LEXICON PLILLSUF
++Pl+Ill:%>ihe K ; ! o-ho
+
+LEXICON PLADESUF
++Pl+Ade:%>il K ;
+
+LEXICON PLABlSUF
++Pl+Abl:%>ilpäi K ;
+
+LEXICON PLALLSUF
++Pl+All:%>ile K ;
+
+LEXICON PLESSSUF ! Essive-instructive
++Pl+EssInst:%>in K ;
+
+LEXICON PLPRLSUF
++Pl+Prl:%>idme K ;
+
+LEXICON PLAPR1SUF
++Pl+Apr1:%>idenno K ;
+
+LEXICON PLAPR2SUF
++Pl+Apr2:%>idennoks K ;
+
+LEXICON PLEGRSUF
++Pl+Egr:%>idennopäi K ;
+
+LEXICON PLTER1SUF
++Pl+Ter1:%>ihesai K ;
+
+LEXICON PLTER2SUF
++Pl+Ter2:%>ilesai K ;
+
+LEXICON PLADD1SUF
++Pl+Add1:%>ihepäi K ;
+
+LEXICON PLADD2SUF
++Pl+Add2:%>ilepäi K ;
+
+
+
+
+
+!! Possessor Indices
+
+! vim: set ft=xfst-lexc:
