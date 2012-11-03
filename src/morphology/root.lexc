@@ -155,7 +155,6 @@ LEXICON Root
 Abbreviation ;	! stems/abbr.lexc
 Acronym ;    	! stems/acro.lexc
 Punctuation	;
-wordToNumeral	;
 !!Numerals ;
 !! PronRoot ;
 POSTPOSITION ;
