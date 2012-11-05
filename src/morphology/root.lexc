@@ -144,14 +144,14 @@ D1 E1 U1 I1
 LEXICON Root
 !! The word forms in UNDEFINED language start from the lexeme roots of basic
 !! word classes, or optionally from prefixes:
-0  adjectives	 ;
-0   adverbs	;
-0   conjuncts	;
-0   interjections	;
-0   nouns	;
-0   pronouns	;
-0   quantifiers	;
-0   verbs	;
+  adjectives	 ;
+   adverbs	;
+   conjuncts	;
+   interjections	;
+   nouns	;
+   pronouns	;
+   quantifiers	;
+   verbs	;
 Abbreviation ;	! stems/abbr.lexc
 Acronym ;    	! stems/acro.lexc
 Punctuation	;
