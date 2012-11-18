@@ -38,7 +38,8 @@ Multichar_Symbols
 
 !! The nominals are inflected in the following Case and Number
  +Sg +Pl
-+Nom +Acc +Gen +Abl +Dat +Loc +Pros +Tra +Abe +Adc +Ins +Apr +Ine +Ill +Ela +Egr
+ +Nom +Acc +Gen  +Par 
++Abl +Dat +Loc +Pros +Tra +Abe +Adc +Ins +Apr +Ine +Ill +Ela +Egr
 +Prl +Ter1 +Ter2 +Ter3 +Add1 +Add2
 +Apr1 +Apr2
 +EssInst
@@ -129,6 +130,15 @@ Multichar_Symbols
  {front} {back}
 %>
 %-
+%^WGStem %^TS %^RVws
+ %^LVws %^LCns
+%^WCns
+%^AtoO
+%^ÄtoÖ
+%^OddSyll
+%^StretchSyll2
+%^SyllBr
+%^E1
 
 ! Protoletters for xfst
 %^DEVOICE
@@ -136,6 +146,8 @@ QAQ1 QAO1 QÄQ1
 EH1 QEQ1 INE1 ZD1 ZS1 V1
 AO1 EI1 ZS1 ZD1  ! These are for developing underlying morphology rules
 D1 E1 U1 I1
+
+AÄ1 OÖ1 UY1 V1 V2 V3 
 
 !! We have manually optimised the structure of our lexicon using following
 !! flag diacritics to restrict morhpological combinatorics:
