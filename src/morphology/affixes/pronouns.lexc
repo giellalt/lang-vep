@@ -2,13 +2,31 @@
 !! Veps pronouns ...
 
 LEXICON PersSg1
-+Pron+Pers+1Sg+Nom:ä K ;
++Pron+Pers+1Sg:ä NOMSUF ;
++Pron+Pers+1Sg:u GENSUF ;
++Pron+Pers+1Sg:u ACCSUF ;
 
 LEXICON PersSg2
-+Pron+Pers+2Sg+Nom:ä K ;
++Pron+Pers+2Sg+Nom:ä NOMSUF ;
++Pron+Pers+2Sg+Gen:u GENSUF ;
++Pron+Pers+2Sg+Gen:u ACCSUF ;
 
 LEXICON PersSg3
-+Pron+Pers+3Sg+Nom:n K ;
++Pron+Pers+3Sg:n NOMSUF ;
++Pron+Pers+3Sg:ne GENSUF ;
++Pron+Pers+3Sg:ne ACCSUF ;
++Pron+Pers+3Sg:n PARSUF ;
++Pron+Pers+3Sg:ne ABESUF ;
++Pron+Pers+3Sg:ne ILLSUF ;
++Pron+Pers+3Sg:ne INESUF ;
++Pron+Pers+3Sg:ne ELASUF ;
++Pron+Pers+3Sg:ne ALLSUF ;
++Pron+Pers+3Sg:ne ADESUF ;
++Pron+Pers+3Sg:ne ABLSUF ;
+
++Pron+Pers+3Sg:ne COMSUF ; !hänenke
++Pron+Pers+3Sg:ne APR1SUF ; !hänenno
++Pron+Pers+3Sg:ne APR2SUF ; !hänennoks
 
 LEXICON PersPl1
 +Pron+Pers+1Pl+Nom:ö K ;
