@@ -10,21 +10,57 @@ LEXICON N-shapuk ! šapuk
 LEXICON N-landeh ! OUN-EH
 :EH1 NOUN ;
 
+!kel’:kel’
 LEXICON N-kel
-:QEQ1 NOUN ;
+: SGNOMSUF ;
+:%^DEVOICE SGNOMSUF ;
+:%>e SG-OBLIQUE ;
+! Plural
+:%>e PLNOMSUF ;
+:%>e PLACCSUF ;
+: PL-OBLIQUE ;
+
 
 LEXICON N-cipuine
 :INE1 NOUN ;
 
-! noruz':noru
+! noruz’:norud
 LEXICON N-noruz ! OUN-ZD_QEQ
 +N: N-noruz_01 ;
-LEXICON N-noruz_01
-:z' SGNOMSUF ;
-:de SGGENSUF ;
 
+LEXICON N-noruz_01
+:%^TS’ SGNOMSUF ;
+:%^DEVOICE SGPARSUF ;
+:e SG-OBLIQUE ;
+! Plural
+:e PLNOMSUF ;
+:e PLACCSUF ;
+:%^TS PL-OBLIQUE ;
+
+
+! käzi:käd
+LEXICON N-käzi 
++N: N-käzi_01 ;
+
+LEXICON N-käzi_01
+:%^TSi SGNOMSUF ;
+:%^DEVOICE SGPARSUF ;
+:e SG-OBLIQUE ;
+! Plural
+:e PLNOMSUF ;
+:e PLACCSUF ;
+:%^TS PL-OBLIQUE ;
+
+! kojaduz:kojaduz
 LEXICON N-kojaduz ! z s _QEQ
-:ZS1 NOUN ;
+ SGNOMSUF ;
+:%^DEVOICE SGPARSUF ;
+:%^DEVOICEe SG-OBLIQUE ;
+! Plural
+:%^DEVOICEe PLNOMSUF ;
+:%^DEVOICEe PLACCSUF ;
+:%^DEVOICE  PL-OBLIQUE ;
+
 
 LEXICON N-vedäi ! i j _QAQ1 Does this work like _muna_?
 :QAQ1 NOUN ;
@@ -36,6 +72,53 @@ LEXICON NTag ! nado
  NOUN ;
 
 !! 
+
+LEXICON SG-OBLIQUE
+ SGGENSUF ;
+ SGACCSUF ;
+ SGTRASUF ;
+ SGABESUF ;
+ SGCOMSUF ;
+ SGINESUF ;
+ SGILLSUF ;
+ SGELASUF ;
+ SGADESUF ;
+ SGABLSUF ;
+ SGALLSUF ;
+ SGESSSUF ;
+ SGPRLSUF ;
+ SGAPR1SUF ;
+ SGAPR2SUF ;
+ SGEGRSUF ;
+ SGTER1SUF ;
+ SGTER2SUF ;
+ SGTER3SUF ;
+ SGADD1SUF ;
+ SGADD2SUF ;
+
+LEXICON PL-OBLIQUE
+ PLGENSUF ;
+ PLPARSUF ;
+ PLTRASUF ;
+ PLABESUF ;
+ PLCOMSUF ;
+ PLINESUF ;
+ PLELASUF ;
+ PLILLSUF ;
+ PLADESUF ;
+ PLABLSUF ;
+ PLALLSUF ;
+ PLESSSUF ;
+ PLPRLSUF ;
+ PLAPR1SUF ;
+ PLAPR2SUF ;
+ PLEGRSUF ;
+ PLTER1SUF ;
+ PLTER2SUF ;
+! +N: PLTER3SUF ; ! Does this exist
+ PLADD1SUF ;
+ PLADD2SUF ;
+
 
 LEXICON NOUN
 +N: SGNOMSUF ;
@@ -206,7 +289,7 @@ LEXICON PLNOMSUF
 
 LEXICON PLGENSUF
 +Pl+Gen:%>iden K ;
-+Pl+Gen:%>id'en K ;
++Pl+Gen:%>id’en K ;
 
 LEXICON PLACCSUF
 +Pl+Acc:%>d K ;

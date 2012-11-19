@@ -46,4 +46,26 @@
          </mg>
       </e>
    </entry>
+   <entry>
+      <lg>
+         <l>uz’</l>
+         <stg>
+            <st Contlex="Adj-uz">ud</st>
+         </stg>
+      </lg>
+      <pos>A</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>new</t>
+            </tg>
+            <tg lang="fin">
+               <t>uusi</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
 </r>

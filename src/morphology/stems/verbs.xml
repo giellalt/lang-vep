@@ -26,6 +26,28 @@
    </entry>
    <entry>
       <lg>
+         <l>ei</l>
+         <stg>
+            <st Contlex="V-ei">e</st>
+         </stg>
+      </lg>
+      <pos>V-AUX</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>not</t>
+            </tg>
+            <tg lang="fin">
+               <t>ei</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
          <l>olda</l>
          <stg>
             <st Contlex="V-olda">o</st>

@@ -1,6 +1,15 @@
 !! Verb inflection
 !! ---------------
 
+! ei:e
+LEXICON V-ei
++V+Neg+Sc1Sg:%>n K ;
++V+Neg+Sc2Sg:%>d K ;
++V+Neg+Sc3Sg:%>i K ;
++V+Neg+Sc1Pl:%>m K ;
++V+Neg+Sc2Pl:%>t K ;
++V+Neg+Sc3Pl:%>i K ; !Is there any other variant
+
 
 LEXICON V-sugida
 +V: V-VowelStem ;
