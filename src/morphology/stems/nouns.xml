@@ -139,7 +139,7 @@
       <lg>
          <l>noruz'</l>
          <stg>
-            <st Contlex="N-noruz">noru</st>
+            <st Contlex="N-noruz">norud</st>
          </stg>
       </lg>
       <pos>N</pos>
@@ -227,7 +227,7 @@
       <lg>
          <l>voz'</l>
          <stg>
-            <st Contlex="N-noruz">vo</st>
+            <st Contlex="N-noruz">vod</st>
          </stg>
       </lg>
       <pos>V</pos>
@@ -241,6 +241,29 @@
             </tg>
             <tg lang="fin">
                <t>vuosi</t>
+            </tg>
+         </mg>
+      </e>
+   </entry>
+   <entry>
+      <lg>
+         <l>käzi</l>
+         <stg>
+            <st Contlex="N-käzi">käd</st>
+         </stg>
+      </lg>
+      <pos>N</pos>
+      <e>
+         <mg>
+            <m>
+               <head/>
+            </m>
+            <tg lang="eng">
+               <t>hand</t>
+               <t>arm</t>
+            </tg>
+            <tg lang="fin">
+               <t>käsi</t>
             </tg>
          </mg>
       </e>

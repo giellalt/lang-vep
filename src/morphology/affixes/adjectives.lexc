@@ -7,6 +7,10 @@
 ! +A+cmp:er       Cases   ;
 ! +A+sup:est      Cases   ;
 
+! uz’:ud
+LEXICON Adj-uz 
++A: N-noruz_01 ;
+
 LEXICON Adj-rusked
  AdjTag ;
 
