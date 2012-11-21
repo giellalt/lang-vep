@@ -2,7 +2,7 @@
 <r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <entry>
+   <e>
       <lg>
          <l>minä</l>
          <stg>
@@ -10,21 +10,19 @@
          </stg>
       </lg>
       <pos>PRON</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>I</t>
-            </tg>
-            <tg lang="fin">
-               <t>minä</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>I</t>
+         </tg>
+         <tg lang="fin">
+            <t>minä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>sinä</l>
          <stg>
@@ -32,21 +30,19 @@
          </stg>
       </lg>
       <pos>PRON</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>you</t>
-            </tg>
-            <tg lang="fin">
-               <t>sinä</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>you</t>
+         </tg>
+         <tg lang="fin">
+            <t>sinä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>hän</l>
          <stg>
@@ -54,21 +50,19 @@
          </stg>
       </lg>
       <pos>PRON</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>he</t>
-            </tg>
-            <tg lang="fin">
-               <t>hän</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>he</t>
+         </tg>
+         <tg lang="fin">
+            <t>hän</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>mö</l>
          <stg>
@@ -76,21 +70,19 @@
          </stg>
       </lg>
       <pos>PRON</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>we</t>
-            </tg>
-            <tg lang="fin">
-               <t>me</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>we</t>
+         </tg>
+         <tg lang="fin">
+            <t>me</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>tö</l>
          <stg>
@@ -98,21 +90,19 @@
          </stg>
       </lg>
       <pos>PRON</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>you</t>
-            </tg>
-            <tg lang="fin">
-               <t>te</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>you</t>
+         </tg>
+         <tg lang="fin">
+            <t>te</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>hö</l>
          <stg>
@@ -120,18 +110,16 @@
          </stg>
       </lg>
       <pos>PRON</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>they</t>
-            </tg>
-            <tg lang="fin">
-               <t>he</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>they</t>
+         </tg>
+         <tg lang="fin">
+            <t>he</t>
+         </tg>
+      </mg>
+   </e>
 </r>
