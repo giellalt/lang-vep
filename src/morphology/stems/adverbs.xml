@@ -1,52 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../myv/script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <entry>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <e>
       <lg>
          <l>lujas</l>
          <stg>
             <st Contlex="MannerTag">lujas</st>
          </stg>
       </lg>
-      <pos>MANNER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t></t>
-            </tg>
-            <tg lang="fin">
-               <t>lujasti</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>ADV-MANNER</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t/>
+         </tg>
+         <tg lang="fin">
+            <t>lujasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>pigašti</l>
          <stg>
             <st Contlex="MannerTag">pigašti</st>
          </stg>
       </lg>
-      <pos>MANNER</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>quickly</t>
-            </tg>
-            <tg lang="fin">
-               <t>nopeasti</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <pos>ADV-MANNER</pos>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>quickly</t>
+         </tg>
+         <tg lang="fin">
+            <t>nopeasti</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>völ</l>
          <stg>
@@ -54,18 +50,16 @@
          </stg>
       </lg>
       <pos>TEMP</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>still</t>
-            </tg>
-            <tg lang="fin">
-               <t>vielä</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>still</t>
+         </tg>
+         <tg lang="fin">
+            <t>vielä</t>
+         </tg>
+      </mg>
+   </e>
 </r>
