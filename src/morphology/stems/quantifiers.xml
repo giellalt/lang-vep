@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../myv/script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <entry>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <e>
       <lg>
          <l>üks'</l>
          <stg>
@@ -10,21 +10,19 @@
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>one</t>
-            </tg>
-            <tg lang="fin">
-               <t>yksi</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>one</t>
+         </tg>
+         <tg lang="fin">
+            <t>yksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>kaks'</l>
          <stg>
@@ -32,21 +30,19 @@
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>two</t>
-            </tg>
-            <tg lang="fin">
-               <t>kaksi</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>two</t>
+         </tg>
+         <tg lang="fin">
+            <t>kaksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>koume</l>
          <stg>
@@ -54,21 +50,19 @@
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>three</t>
-            </tg>
-            <tg lang="fin">
-               <t>kolme</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>three</t>
+         </tg>
+         <tg lang="fin">
+            <t>kolme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>nell'</l>
          <stg>
@@ -76,21 +70,19 @@
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>three</t>
-            </tg>
-            <tg lang="fin">
-               <t>kolme</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>three</t>
+         </tg>
+         <tg lang="fin">
+            <t>kolme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>viiž</l>
          <stg>
@@ -98,21 +90,19 @@
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>three</t>
-            </tg>
-            <tg lang="fin">
-               <t>kolme</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>three</t>
+         </tg>
+         <tg lang="fin">
+            <t>kolme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>kuz'</l>
          <stg>
@@ -120,21 +110,19 @@
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>three</t>
-            </tg>
-            <tg lang="fin">
-               <t>kolme</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>three</t>
+         </tg>
+         <tg lang="fin">
+            <t>kolme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>seičeme</l>
          <stg>
@@ -142,21 +130,19 @@
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>three</t>
-            </tg>
-            <tg lang="fin">
-               <t>kolme</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>three</t>
+         </tg>
+         <tg lang="fin">
+            <t>kolme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>kahesa</l>
          <stg>
@@ -164,21 +150,19 @@
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>three</t>
-            </tg>
-            <tg lang="fin">
-               <t>kolme</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>three</t>
+         </tg>
+         <tg lang="fin">
+            <t>kolme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>ühesa</l>
          <stg>
@@ -186,21 +170,19 @@
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>three</t>
-            </tg>
-            <tg lang="fin">
-               <t>kolme</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>three</t>
+         </tg>
+         <tg lang="fin">
+            <t>kolme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>kümne</l>
          <stg>
@@ -208,21 +190,19 @@
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>three</t>
-            </tg>
-            <tg lang="fin">
-               <t>kolme</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>three</t>
+         </tg>
+         <tg lang="fin">
+            <t>kolme</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>üks'toštkümne</l>
          <stg>
@@ -230,21 +210,19 @@
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>eleven</t>
-            </tg>
-            <tg lang="fin">
-               <t>yksitoista</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>eleven</t>
+         </tg>
+         <tg lang="fin">
+            <t>yksitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>kaks'toštkümne</l>
          <stg>
@@ -252,21 +230,19 @@
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>twelve</t>
-            </tg>
-            <tg lang="fin">
-               <t>kaksitoista</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>twelve</t>
+         </tg>
+         <tg lang="fin">
+            <t>kaksitoista</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>kaks'kümne</l>
          <stg>
@@ -274,21 +250,19 @@
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>twenty</t>
-            </tg>
-            <tg lang="fin">
-               <t>kaksikymmentä</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>twenty</t>
+         </tg>
+         <tg lang="fin">
+            <t>kaksikymmentä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>sada</l>
          <stg>
@@ -296,21 +270,19 @@
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>hundred</t>
-            </tg>
-            <tg lang="fin">
-               <t>sata</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>hundred</t>
+         </tg>
+         <tg lang="fin">
+            <t>sata</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>tuha</l>
          <stg>
@@ -318,18 +290,16 @@
          </stg>
       </lg>
       <pos>NUM</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>thousand</t>
-            </tg>
-            <tg lang="fin">
-               <t>tuhat</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>thousand</t>
+         </tg>
+         <tg lang="fin">
+            <t>tuhat</t>
+         </tg>
+      </mg>
+   </e>
 </r>

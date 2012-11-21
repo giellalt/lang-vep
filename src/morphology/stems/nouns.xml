@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<r xsi:noNamespaceSchemaLocation="../../../myv/script/dict.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-   xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty"
-   xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
-   <entry>
+<r xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+   xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
+   <e>
       <lg>
          <l>cipuine</l>
          <stg>
@@ -10,21 +10,19 @@
          </stg>
       </lg>
       <pos>N</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>chick</t>
-            </tg>
-            <tg lang="fin">
-               <t>tipu</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>chick</t>
+         </tg>
+         <tg lang="fin">
+            <t>tipu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>kel'</l>
          <stg>
@@ -32,21 +30,19 @@
          </stg>
       </lg>
       <pos>N</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>tongue; language</t>
-            </tg>
-            <tg lang="fin">
-               <t>kieli</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>tongue; language</t>
+         </tg>
+         <tg lang="fin">
+            <t>kieli</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>kojaduz</l>
          <stg>
@@ -54,21 +50,19 @@
          </stg>
       </lg>
       <pos>N</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>echo</t>
-            </tg>
-            <tg lang="fin">
-               <t>kaiku</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>echo</t>
+         </tg>
+         <tg lang="fin">
+            <t>kaiku</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>landeh</l>
          <stg>
@@ -76,21 +70,19 @@
          </stg>
       </lg>
       <pos>N</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>hip</t>
-            </tg>
-            <tg lang="fin">
-               <t>lanne</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>hip</t>
+         </tg>
+         <tg lang="fin">
+            <t>lanne</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>marj</l>
          <stg>
@@ -98,21 +90,19 @@
          </stg>
       </lg>
       <pos>N</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>berry</t>
-            </tg>
-            <tg lang="fin">
-               <t>marja</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>berry</t>
+         </tg>
+         <tg lang="fin">
+            <t>marja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>nado</l>
          <stg>
@@ -120,22 +110,20 @@
          </stg>
       </lg>
       <pos>N</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>sister-in-law</t>
-            </tg>
-            <tg lang="fin">
-               <t>nato</t>
-               <t>käly???</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>sister-in-law</t>
+         </tg>
+         <tg lang="fin">
+            <t>nato</t>
+            <t>käly???</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>noruz'</l>
          <stg>
@@ -143,21 +131,19 @@
          </stg>
       </lg>
       <pos>N</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>youth</t>
-            </tg>
-            <tg lang="fin">
-               <t>nuoruus</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>youth</t>
+         </tg>
+         <tg lang="fin">
+            <t>nuoruus</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>šapuk</l>
          <stg>
@@ -165,21 +151,19 @@
          </stg>
       </lg>
       <pos>N</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>chick</t>
-            </tg>
-            <tg lang="fin">
-               <t>tipu</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>chick</t>
+         </tg>
+         <tg lang="fin">
+            <t>tipu</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>vedäi</l>
          <stg>
@@ -187,21 +171,19 @@
          </stg>
       </lg>
       <pos>N</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>leader</t>
-            </tg>
-            <tg lang="fin">
-               <t>johtaja</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>leader</t>
+         </tg>
+         <tg lang="fin">
+            <t>johtaja</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>veps</l>
          <stg>
@@ -209,21 +191,19 @@
          </stg>
       </lg>
       <pos>N</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>Veps</t>
-            </tg>
-            <tg lang="fin">
-               <t>vepsä</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>Veps</t>
+         </tg>
+         <tg lang="fin">
+            <t>vepsä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>voz'</l>
          <stg>
@@ -231,21 +211,19 @@
          </stg>
       </lg>
       <pos>V</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>year</t>
-            </tg>
-            <tg lang="fin">
-               <t>vuosi</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
-   <entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>year</t>
+         </tg>
+         <tg lang="fin">
+            <t>vuosi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
       <lg>
          <l>käzi</l>
          <stg>
@@ -253,19 +231,17 @@
          </stg>
       </lg>
       <pos>N</pos>
-      <e>
-         <mg>
-            <m>
-               <head/>
-            </m>
-            <tg lang="eng">
-               <t>hand</t>
-               <t>arm</t>
-            </tg>
-            <tg lang="fin">
-               <t>käsi</t>
-            </tg>
-         </mg>
-      </e>
-   </entry>
+      <mg>
+         <m>
+            <head/>
+         </m>
+         <tg lang="eng">
+            <t>hand</t>
+            <t>arm</t>
+         </tg>
+         <tg lang="fin">
+            <t>käsi</t>
+         </tg>
+      </mg>
+   </e>
 </r>
