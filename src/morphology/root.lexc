@@ -57,7 +57,8 @@ Multichar_Symbols
 +Pos
 !! Verb personal forms are:
  +ScSg1 +ScSg2 +ScSg3 +ScPl1 +ScPl2 +ScPl3
- +RcSg1 +RcSg2 +RcSg3 +RcPl1 +RcPl2 +ScPl3
+ +RcSg1 +RcSg2 +RcSg3 +RcPl1 +RcPl2 +RcPl3
+ +RcSg +RcPl +ScSg +ScPl
 !! Other verb forms are
  +Inf +Ger +Neg +ConNeg +ConNegII +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess
 

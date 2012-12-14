@@ -33,12 +33,13 @@ LEXICON V-oigeta
 +V:%^DEVOICE V-ConsonantStem ;
 +V:nda INDPRS3 ;
 
-!! Check this 2012-08-31
+!! tugeta:tuge
 LEXICON V-tugeta
-+V:nda V-VowelStem ;
++V:da V-VowelStem ;
 +V:%^DEVOICE V-ConsonantStem ;
 +V:nda INDPRS3 ;
 
+! valita:vali
 LEXICON V-valita
 +V:če V-VowelStem ;
 +V:%^DEVOICE V-ConsonantStem ;

@@ -14,7 +14,7 @@ Tests:
 # Then: run analyser, then correct. 
 
 
-  Verb - pesta: # Verb 'to wash / pestä' - full paradigm
+  Verb - pesta: # Verb '/(eng) to wash /(fin) pestä' - full paradigm
      pesta+V+Der/da+Inf: pesta
      pesta+V+Der/des+Inf+Ine: pestes
      pesta+V+Der/den+Inf+EssInst: pesten
@@ -22,10 +22,21 @@ Tests:
      pesta+V+Der/ma+Inf+Ine: pezmas
      pesta+V+Der/ma+Inf+Ela: pezmaspäi
      pesta+V+Der/ma+Inf+Ade: pezmal
-     pesta+V+Pred+Ind+Prs+Sc1Sg: pezen
-     pesta+V+Pred+Ind+Prs+Sc2Sg: pezed
-     pesta+V+Pred+Ind+Prs+Sc3Sg: pezeb
-     pesta+V+Pred+Ind+Prs+Sc1Pl: pezem
-     pesta+V+Pred+Ind+Prs+Sc2Pl: pezet
-     pesta+V+Pred+Ind+Prs+Sc3Pl: pezeba
+     pesta+V+Ind+Prs+ScSg1: pezen
+     pesta+V+Ind+Prs+ScSg2: pezed
+     pesta+V+Ind+Prs+ScSg3: pezeb
+     pesta+V+Ind+Prs+ScPl1: pezem
+     pesta+V+Ind+Prs+ScPl2: pezet
+     pesta+V+Ind+Prs+ScPl3: pezeba
+     pesta+V+Ind+Prs+ConNeg+Sg: peze
+     pesta+V+Ind+Prs+ConNeg+Pl: pezgoi
+
+     pesta+V+Ind+Prt+ScSg1: pezin
+     pesta+V+Ind+Prt+ScSg2: pezid
+     pesta+V+Ind+Prt+ScSg3: pezi
+     pesta+V+Ind+Prt+ScPl1: pezim
+     pesta+V+Ind+Prt+ScPl2: pezit
+     pesta+V+Ind+Prt+ScPl3: peziba
+     pesta+V+Ind+Prt+ConNeg+Sg: pezend
+     pesta+V+Ind+Prt+ConNeg+Sg: peznugoi
 
