@@ -1,0 +1,70 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Verb - pestas: # Verb '/(eng) to wash oneself /(fin) peseytyä' - full paradigm
+     pestas+V+Der/da+Inf: pestas
+#     pestas+V+Der/des+Inf+Ine: pestes
+#     pestas+V+Der/den+Inf+EssInst: pesten
+#     pestas+V+Der/ma+Inf+Ill: pezmha
+#     pestas+V+Der/ma+Inf+Ine: pezmas
+#     pestas+V+Der/ma+Inf+Ela: pezmaspäi
+#     pestas+V+Der/ma+Inf+Ade: pezmal
+     pestas+V+Ind+Prs+RcSg1: pezemoi
+     pestas+V+Ind+Prs+RcSg2: pezetoi
+     pestas+V+Ind+Prs+RcSg3: pezese
+     pestas+V+Ind+Prs+RcPl1: pezemoiš
+     pestas+V+Ind+Prs+RcPl2: pezetoiš
+     pestas+V+Ind+Prs+RcPl3: pezese
+     pestas+V+Ind+Prs+Rc+ConNeg+Sg: peste
+     pestas+V+Ind+Prs+Rc+ConNeg+Pl: peskoiš
+
+     pestas+V+Ind+Prt+RcSg1: pezimoi
+     pestas+V+Ind+Prt+RcSg2: pezitoi
+     pestas+V+Ind+Prt+RcSg3: pezihe
+     pestas+V+Ind+Prt+RcPl1: pezimoiš
+     pestas+V+Ind+Prt+RcPl2: pezitoiš
+     pestas+V+Ind+Prt+RcPl3: pezihe
+     pestas+V+Ind+Prt+ConNeg+RcSg: peznus
+     pestas+V+Ind+Prt+ConNeg+RcPl: peznus
+     pestas+V+Ind+PrfPrc+RcSg: peznus
+     pestas+V+Ind+PrfPrc+RcPl: peznus
+
+     pestas+V+Imprt+RcSg2: peste
+     pestas+V+Imprt+RcSg3: peskahas
+     pestas+V+Imprt+RcPl1: peskamoiš
+     pestas+V+Imprt+RcPl2: peskatoiš
+     pestas+V+Imprt+RcPl3: peskahas
+     pestas+V+Imprt+ConNeg+RcSg2: peste
+     pestas+V+Imprt+ConNeg+RcSg3: peskoiš
+     pestas+V+Imprt+ConNeg+RcPl: peskoiš
+
+     pestas+V+Cond+Prs+RcSg1: pezižimoi
+     pestas+V+Cond+Prs+RcSg2: pezižitoi
+     pestas+V+Cond+Prs+RcSg3: pezižihe
+     pestas+V+Cond+Prs+RcPl1: pezižimoiš
+     pestas+V+Cond+Prs+RcPl2: pezižitoiš
+     pestas+V+Cond+Prs+RcPl3: pezižihe
+     pestas+V+Cond+Prs+ConNeg+RcSg: pezižihe
+     pestas+V+Cond+Prs+ConNeg+RcPl: pezižihe
+
+     pestas+V+Cond+Prt+RcSg1: peznuižimoi
+     pestas+V+Cond+Prt+RcSg2: peznuižitoi
+     pestas+V+Cond+Prt+RcSg3: peznuižihe
+     pestas+V+Cond+Prt+RcPl1: peznuižimoiš
+     pestas+V+Cond+Prt+RcPl2: peznuižitoiš
+     pestas+V+Cond+Prt+RcPl3: peznuižihe
+     pestas+V+Cond+Prt+ConNeg+RcSg: peznuižihe
+     pestas+V+Cond+Prt+ConNeg+RcPl: peznuižihe
