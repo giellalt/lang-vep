@@ -1,6 +1,6 @@
 
 LEXICON adverbs
 
-lujas:lujas MannerTag  "" ;
-pigašti:pigašti MannerTag  "quickly" ;
-völ:völ TempTag  "still" ;
+lujas:lujas MannerTag  "lujasti" ;
+pigašti:pigašti MannerTag  "nopeasti" ;
+völ:völ TempTag  "vielä" ;

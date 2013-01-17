@@ -1,6 +1,6 @@
 
 LEXICON conjuncts
 
-a:a CcTag  "but" ;
-da:da CcTag  "and" ;
-i:i CcTag  "and" ;
+a:a CcTag  "mutta" ;
+da:da CcTag  "ja" ;
+i:i CcTag  "ja" ;
