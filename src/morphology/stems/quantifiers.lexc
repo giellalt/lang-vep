@@ -1,18 +1,18 @@
 
 LEXICON quantifiers
 
-üks':ük Num-noruz  "one" ;
-kaks':kak Num-noruz  "two" ;
-koume:koume NumTag  "three" ;
-nell':koume NumTag  "three" ;
-viiž:koume NumTag  "three" ;
-kuz':koume NumTag  "three" ;
-seičeme:koume NumTag  "three" ;
-kahesa:koume NumTag  "three" ;
-ühesa:koume NumTag  "three" ;
-kümne:koume NumTag  "three" ;
-üks'toštkümne:üks'toštkümne NumTag  "eleven" ;
-kaks'toštkümne:kaks'toštkümne NumTag  "twelve" ;
-kaks'kümne:kaks'kümne NumTag  "twenty" ;
-sada:sada NumTag  "hundred" ;
-tuha:tuhanD1E1 NumTag  "thousand" ;
+üks':ük Num-noruz  "yksi" ;
+kaks':kak Num-noruz  "kaksi" ;
+koume:koume NumTag  "kolme" ;
+nell':koume NumTag  "kolme" ;
+viiž:koume NumTag  "kolme" ;
+kuz':koume NumTag  "kolme" ;
+seičeme:koume NumTag  "kolme" ;
+kahesa:koume NumTag  "kolme" ;
+ühesa:koume NumTag  "kolme" ;
+kümne:koume NumTag  "kolme" ;
+üks'toštkümne:üks'toštkümne NumTag  "yksitoista" ;
+kaks'toštkümne:kaks'toštkümne NumTag  "kaksitoista" ;
+kaks'kümne:kaks'kümne NumTag  "kaksikymmentä" ;
+sada:sada NumTag  "sata" ;
+tuha:tuhanD1E1 NumTag  "tuhat" ;

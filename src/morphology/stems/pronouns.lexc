@@ -1,9 +1,9 @@
 
 LEXICON pronouns
 
-minä:min PersSg1  "I" ;
-sinä:sin PersSg2  "you" ;
-hän:hä PersSg3  "he" ;
-mö:m PersPl1  "we" ;
-tö:t PersPl2  "you" ;
-hö:h PersPl3  "they" ;
+minä:min PersSg1  "minä" ;
+sinä:sin PersSg2  "sinä" ;
+hän:hä PersSg3  "hän" ;
+mö:m PersPl1  "me" ;
+tö:t PersPl2  "te" ;
+hö:h PersPl3  "he" ;
