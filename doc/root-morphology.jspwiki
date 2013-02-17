@@ -1,38 +1,99 @@
 
 Morphology
-----------
-INTRODUCTION TO MORPHOLOGICAL ANALYSER OF UNDEFINED LANGUAGE.
+
+INTRODUCTION TO MORPHOLOGICAL ANALYSER OF VEPS
 
 
-Analysis symbols
-----------------
-The morphological analyses of wordforms of UNDEFINED language are presented
-in this system in terms of following symbols.
+Multichar_symbols
+
+The morphological analyses of wordforms of Veps are presented
+in this system in terms of the following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
 
 The parts-of-speech are:
 
+  +N +A +Adv +V				  
+  +Pron +CS +CC +Adp +Po +Pr   
+  +Interj +Pcle +Num 		  
+
 The parts of speech are further split up into:
 
+  +Prop +Pers +Dem +Interr     
+  +Refl +Recipr +Rel +Indef    
 
-The Usage extents are marked using following tags:
+
+The Usage extents are marked using the following tags:
+
+  +Use/Sub                     
+  +Use/-Spell                  
 
 The nominals are inflected in the following Case and Number
 
+  +Sg +Pl							  
+  +Nom +Acc +Gen  +Par 				  
+  +Abl +Dat +Loc +Pros +Tra +Abe +Adc  
+  +Ins +Apr +Ine +Ill +Ela +Egr		  
+  +Prl +Ter1 +Ter2 +Ter3 +Add1 +Add2	  
+  +Apr1 +Apr2						  
+  +EssInst							  
+
 
 The possession is marked as such:
+
+  +PxSg1 +PxSg2 +PxSg3                 
+  +PxPl1 +PxPl2 +PxPl3                 
+
 The comparative forms are:
+
+  +Comp +Superl                 
+
 Numerals are classified under:
-Verb moods are:
+
+  +Attr +Card                
+  +Ord 		                
+
+Verb tense and moods are:
+
+  +Prs +Prt 		            
+  +Ind +Cond +Imprt          
+  +Pos			            
+
 Verb personal forms are:
+
+  +ScSg1 +ScSg2 +ScSg3 +ScPl1 +ScPl2 +ScPl3   
+  +RcSg1 +RcSg2 +RcSg3 +RcPl1 +RcPl2 +RcPl3   
+  +RcSg +RcPl +ScSg +ScPl				     
+
 Other verb forms are
 
+  +Inf +Ger +Neg                 
+  +ConNeg +ConNegII              
+  +ImprtII 		                
+  +PrsPrc +PrfPrc                
+  +Sup +VGen +VAbess             
+
+Abbreviated words are classified with:
+
+  +ABBR +ACR   
+
 Special symbols are classified with:
+
+ +CLB +PUNCT +LEFT +RIGHT 
+
 The verbs are syntactically split according to transitivity:
+
+  +TV +IV  
+
 Special multiword units are analysed with:
+
+  +Multi 
+
 Non-dictionary words can be recognised with:
 
+
+
 Question and Focus particles:
+
 
 
 
@@ -51,16 +112,20 @@ Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
 
+
 And following triggers to control variation
+
+
 
 
 
 We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics:
 
-The word forms in UNDEFINED language start from the lexeme roots of basic
-word classes, or optionally from prefixes:
-PronRoot ;
+
+The word forms in Veps start from the lexeme roots of basic
+word classes.
+
 
 
 
