@@ -1,5 +1,6 @@
 !! Adjective inflection
-!! --------------------
+!! ----
+
 !! Veps adjectives compare.
 
 ! LEXICON Comparisons
@@ -8,14 +9,16 @@
 ! +A+sup:est      Cases   ;
 
 ! uz’:ud
-LEXICON Adj-uz 
+LEXICON Adj-uz !!= * @CODE@
 +A: N-noruz_01 ;
 
-LEXICON Adj-rusked
+LEXICON Adj-rusked !!= * @CODE@
  AdjTag ;
 
-LEXICON AdjTag ! beginning 
-+A: SGNOMSUF ;
+LEXICON AdjTag  !!= * @CODE@, just beginning 
+!! ** Sending all caseforms to different case lexica
+!! ** They are still not written.
++A: SGNOMSUF ; !!= ** @CODE@
 +A: SGGENSUF ;
 +A: SGACCSUF ;
 +A: SGPARSUF ;

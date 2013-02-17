@@ -1,5 +1,5 @@
 !! Verb inflection
-!! ---------------
+!! ---
 
 ! ei:e
 LEXICON V-ei
@@ -55,18 +55,18 @@ LEXICON INDPRS3
 
 LEXICON V-VowelStem
 
-!!!!!!!!!!!!!
-!! PRESENT !!
-!!!!!!!!!!!!!
+!!!!!!!!!!!
+!! PRESENT 
+!!!!!!!!!!!
 
 +Ind+Prs+Sc1Sg:%>n K ;
 +Ind+Prs+Sc2Sg:%>d K ;
 +Ind+Prs+Sc1Pl:%>m K ;
 +Ind+Prs+Sc2Pl:%>t K ;
 
-!!!!!!!!!!!!!!!
-!! IMPERFECT !!
-!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!
+!! IMPERFECT 
+!!!!!!!!!!!!!
 
 +Ind+Prt+Sc1Sg:%>in K ;
 +Ind+Prt+Sc2Sg:%>id K ;
@@ -75,7 +75,7 @@ LEXICON V-VowelStem
 +Ind+Prt+Sc2Pl:%>it K ;
 +Ind+Prt+Sc3Pl:%>iba K ;
 
-!!
+
 +Ind+ConNeg+Prs+Sg: K ;
 +Ind+ConNeg+Prt+Sg:%>nd K ;
 
@@ -83,15 +83,15 @@ LEXICON V-VowelStem
 
 
 
-!!!!!!!!!!!!!!!!
-!! IMPERATIVE !!
-!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!
+!! IMPERATIVE 
+!!!!!!!!!!!!!!
 
 +Imprt+Sc2Sg: K ;
 
-!!!!!!!!!!!!!!!!!!!!!!!!!
-!! CONDITIONAL PRESENT !!
-!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!
+!! CONDITIONAL PRESENT 
+!!!!!!!!!!!!!!!!!!!!!!!
 
 +Cond+Prs+Sc1Sg:%>ižin K ;
 +Cond+Prs+Sc2Sg:%>ižid K ;
@@ -100,11 +100,11 @@ LEXICON V-VowelStem
 +Cond+Prs+Sc2Pl:%>ižit K ;
 +Cond+Prs+Sc3Pl:%>ižiba K ;
 
-!!!!!!!!!!!!!!!
-!! REFLEXIVE !!
-!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!
+!! REFLEXIVE 
+!!!!!!!!!!!!!
 
-!! PRESENT !!
+!! PRESENT 
 
 +Ind+Prs+Oc1Sg:%>moi K ;
 +Ind+Prs+Oc2Sg:%>toi K ;
@@ -113,7 +113,7 @@ LEXICON V-VowelStem
 +Ind+Prs+Oc2Pl:%>toiš K ;
 +Ind+Prs+Oc3Pl:%>se K ;
 
-!! IMPERFECT !!
+!! IMPERFECT 
 
 +Ind+Prs+Oc1Sg:%>imoi K ;
 +Ind+Prs+Oc2Sg:%>itoi K ;
@@ -122,9 +122,9 @@ LEXICON V-VowelStem
 +Ind+Prs+Oc2Pl:%>itoiš K ;
 +Ind+Prs+Oc3Pl:%>ihe K ;
 
-!!!!!!!!!!!!!!!!!!!!!!!!!
-!! CONDITIONAL PRESENT !!
-!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!
+!! CONDITIONAL PRESENT 
+!!!!!!!!!!!!!!!!!!!!!!!
 
 +Cond+Prs+Oc1Sg:%>ižimoi K ;
 +Cond+Prs+Oc2Sg:%>ižitoi K ;
@@ -135,7 +135,7 @@ LEXICON V-VowelStem
 
 +Cond+Prs+ConNeg+Oc:%>ižihe K ;
 
-!!
+
 
 LEXICON V-ConsonantStem
 +Ind+ConNeg+Prs+Pl:%>koi K ;
@@ -144,18 +144,18 @@ LEXICON V-ConsonantStem
 +Prf+Pl:%>nuded K ;
 +Cond+ConNeg+Prt:%>nuiži K ;
 
-!!!!!!!!!!!!!!!!
-!! IMPERATIVE !!
-!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!
+!! IMPERATIVE 
+!!!!!!!!!!!!!!
 
 +Imprt+Sc3Sg:%>kaha K ;
 +Imprt+Sc1Pl:%>kam K ;
 +Imprt+Sc2Pl:%>kat K ;
 +Imprt+Sc3Pl:%>kaha K ;
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!! CONDITIONAL IMPERFECT !!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!
+!! CONDITIONAL IMPERFECT 
+!!!!!!!!!!!!!!!!!!!!!!!!!
 
 +Cond+Prt+Sc1Sg:%>nuižin K ;
 +Cond+Prt+Sc2Sg:%>nuižid K ;
@@ -164,18 +164,18 @@ LEXICON V-ConsonantStem
 +Cond+Prt+Sc2Pl:%>nuižit K ;
 +Cond+Prt+Sc3Pl:%>nuižiba K ;
 
-!!!!!!!!!!!!!!!
-!! REFLEXIVE !!
-!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!
+!! REFLEXIVE 
+!!!!!!!!!!!!!
 
 +Ind+Prs+ConNeg+OcSg:%>te K ;
 +Ind+Prs+ConNeg+OcPl:%>koiš K ;
 +Ind+Prt+ConNeg+OcPl:%>nus K ;
 +Ind+Prf+OcPl:%>nus K ;
 
-!!!!!!!!!!!!!!!!
-!! IMPERATIVE !!
-!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!
+!! IMPERATIVE 
+!!!!!!!!!!!!!!
 
 +Imprt+Oc2Sg:%>te K ;
 +Imprt+Oc3Sg:%>kahas K ;

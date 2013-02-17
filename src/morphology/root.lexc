@@ -13,111 +13,146 @@
 ! giellatekno@hum.uit.no or divvun@samediggi.no
 
 !! Morphology
-!! ----------
-!! INTRODUCTION TO MORPHOLOGICAL ANALYSER OF UNDEFINED LANGUAGE.
+
+!! INTRODUCTION TO MORPHOLOGICAL ANALYSER OF VEPS
 
 
 Multichar_Symbols
-!! Analysis symbols
-!! ----------------
-!! The morphological analyses of wordforms of UNDEFINED language are presented
-!! in this system in terms of following symbols.
+!! Multichar_symbols
+
+!! The morphological analyses of wordforms of Veps are presented
+!! in this system in terms of the following symbols.
 !! (It is highly suggested to follow existing standards when adding new tags).
 
 !! The parts-of-speech are:
- +N +A +Adv +V
- +Pron +CS +CC +Adp +Po +Pr +Interj +Pcle +Num 
+
+ +N +A +Adv +V				  !!= @CODE@
+ +Pron +CS +CC +Adp +Po +Pr   !!= @CODE@
+ +Interj +Pcle +Num 		  !!= @CODE@
 
 !! The parts of speech are further split up into:
- +Prop +Pers +Dem +Interr +Refl +Recipr +Rel +Indef
+
+ +Prop +Pers +Dem +Interr     !!= @CODE@
+ +Refl +Recipr +Rel +Indef    !!= @CODE@
 
 
-!! The Usage extents are marked using following tags:
- +Use/Sub   
- +Use/-Spell 
+!! The Usage extents are marked using the following tags:
+
+ +Use/Sub                     !!= @CODE@
+ +Use/-Spell                  !!= @CODE@
 
 !! The nominals are inflected in the following Case and Number
- +Sg +Pl
- +Nom +Acc +Gen  +Par 
-+Abl +Dat +Loc +Pros +Tra +Abe +Adc +Ins +Apr +Ine +Ill +Ela +Egr
-+Prl +Ter1 +Ter2 +Ter3 +Add1 +Add2
-+Apr1 +Apr2
-+EssInst
+
+ +Sg +Pl							  !!= @CODE@
+ +Nom +Acc +Gen  +Par 				  !!= @CODE@
+ +Abl +Dat +Loc +Pros +Tra +Abe +Adc  !!= @CODE@
+ +Ins +Apr +Ine +Ill +Ela +Egr		  !!= @CODE@
+ +Prl +Ter1 +Ter2 +Ter3 +Add1 +Add2	  !!= @CODE@
+ +Apr1 +Apr2						  !!= @CODE@
+ +EssInst							  !!= @CODE@
 
 
 !! The possession is marked as such:
- +PxSg1 +PxSg2 +PxSg3 +PxPl1 +PxPl2 +PxPl3
-!! The comparative forms are:
- +Comp +Superl
-!! Numerals are classified under:
- +Attr +Card
- +Ord 
-!! Verb moods are:
- +Ind +Prs +Prt +Cond +Imprt
-+Pos
-!! Verb personal forms are:
- +ScSg1 +ScSg2 +ScSg3 +ScPl1 +ScPl2 +ScPl3
- +RcSg1 +RcSg2 +RcSg3 +RcPl1 +RcPl2 +RcPl3
- +RcSg +RcPl +ScSg +ScPl
-!! Other verb forms are
- +Inf +Ger +Neg +ConNeg +ConNegII +ImprtII +PrsPrc +PrfPrc +Sup +VGen +VAbess
 
-! Abbreviated words are classified with:
- +ABBR +ACR 
+ +PxSg1 +PxSg2 +PxSg3                 !!= @CODE@
+ +PxPl1 +PxPl2 +PxPl3                 !!= @CODE@
+
+!! The comparative forms are:
+
+ +Comp +Superl                 !!= @CODE@
+
+!! Numerals are classified under:
+
+ +Attr +Card                !!= @CODE@
+ +Ord 		                !!= @CODE@
+
+!! Verb tense and moods are:
+
+ +Prs +Prt 		            !!= @CODE@
+ +Ind +Cond +Imprt          !!= @CODE@
+ +Pos			            !!= @CODE@
+
+!! Verb personal forms are:
+
+ +ScSg1 +ScSg2 +ScSg3 +ScPl1 +ScPl2 +ScPl3   !!= @CODE@
+ +RcSg1 +RcSg2 +RcSg3 +RcPl1 +RcPl2 +RcPl3   !!= @CODE@
+ +RcSg +RcPl +ScSg +ScPl				     !!= @CODE@
+
+!! Other verb forms are
+
+ +Inf +Ger +Neg                 !!= @CODE@
+ +ConNeg +ConNegII              !!= @CODE@
+ +ImprtII 		                !!= @CODE@
+ +PrsPrc +PrfPrc                !!= @CODE@
+ +Sup +VGen +VAbess             !!= @CODE@
+
+!! Abbreviated words are classified with:
+
+ +ABBR +ACR   !!= @CODE@
+
 !! Special symbols are classified with:
-+CLB +PUNCT +LEFT +RIGHT
+
++CLB +PUNCT +LEFT +RIGHT !!= @CODE@
+
 !! The verbs are syntactically split according to transitivity:
- +TV +IV
+
+ +TV +IV  !!= @CODE@
+
 !! Special multiword units are analysed with:
- +Multi
+
+ +Multi !!= @CODE@
+
 !! Non-dictionary words can be recognised with:
- +Guess
+
+ +Guess  !!= @CODE@
+
 
 !! Question and Focus particles:
- +Qst +Foc
-+Clt
-+Foc/ki
-+Foc/žo
 
-+Appr
-+Advc
-+Ter
-+Pro
-+Car 
+ +Qst +Foc       !!= @CODE@
++Clt	         !!= @CODE@
++Foc/ki	         !!= @CODE@
++Foc/žo	         !!= @CODE@
 
-+PstI
-+PstII
++Appr	         !!= @CODE@
++Advc	         !!= @CODE@
++Ter	         !!= @CODE@
++Pro	         !!= @CODE@
++Car 	         !!= @CODE@
+
++PstI	         !!= @CODE@
++PstII	         !!= @CODE@
 
 
 
 !! Semantics are classified with
- +Mal +Fem +Sur 
- +Plc 
- +Org
- +Obj
- +Ani
- +Hum
- +Plant
- +Group
- +Time 
- +Txt
- +Route
- +Measr 
- +Wthr
- +Build 
- +Edu
- +Veh
- +Clth
+ +Mal +Fem +Sur    !!= @CODE@
+ +Plc 			   !!= @CODE@
+ +Org			   !!= @CODE@
+ +Obj			   !!= @CODE@
+ +Ani			   !!= @CODE@
+ +Hum			   !!= @CODE@
+ +Plant			   !!= @CODE@
+ +Group			   !!= @CODE@
+ +Time 			   !!= @CODE@
+ +Txt			   !!= @CODE@
+ +Route			   !!= @CODE@
+ +Measr 		   !!= @CODE@
+ +Wthr			   !!= @CODE@
+ +Build 		   !!= @CODE@
+ +Edu			   !!= @CODE@
+ +Veh			   !!= @CODE@
+ +Clth			   !!= @CODE@
 
 
 !! Derivations are classified under the morphophonetic form of the suffix, the
 !! source and target part-of-speech.
- +V→N +V→V +V→A
-+Der/Ta
-+Der/Te
-+Der/ma
-+Der/Tu
-+Der/IA
+ +V→N +V→V +V→A     !!= @CODE@
++Der/Ta		        !!= @CODE@
++Der/Te		        !!= @CODE@
++Der/ma		        !!= @CODE@
++Der/Tu		        !!= @CODE@
++Der/IA		        !!= @CODE@
 
 
 
@@ -125,9 +160,11 @@ Multichar_Symbols
 !! ---------------
 !! To represent phonologic variations in word forms we use the following
 !! symbols in the lexicon files:
+
  {aä} {oö} {uü}
 
 !! And following triggers to control variation
+
  {front} {back}
 %>
 %-
@@ -142,6 +179,7 @@ Multichar_Symbols
 %^E1
 
 ! Protoletters for xfst
+
 %^DEVOICE
 QAQ1 QAO1 QÄQ1
 EH1 QEQ1 INE1 ZD1 ZS1 V1
@@ -152,11 +190,12 @@ AÄ1 OÖ1 UY1 V1 V2 V3
 
 !! We have manually optimised the structure of our lexicon using following
 !! flag diacritics to restrict morhpological combinatorics:
+
 @P.NeedNoun.ON@  @D.NeedNoun.ON@  @C.NeedNoun@
 
 LEXICON Root
-!! The word forms in UNDEFINED language start from the lexeme roots of basic
-!! word classes, or optionally from prefixes:
+!! The word forms in Veps start from the lexeme roots of basic
+!! word classes.
   adjectives	 ;
    adverbs	;
    conjuncts	;
@@ -168,8 +207,7 @@ LEXICON Root
 Abbreviation ;	! stems/abbr.lexc
 Acronym ;    	! stems/acro.lexc
 Punctuation	;
-!!Numerals ;
-!! PronRoot ;
+!Numerals ;
 POSTPOSITION ;
 SUBJUNCTION ;
 
@@ -201,6 +239,7 @@ LEXICON ORDINAL
 
 LEXICON PUNCTUATION
 #; 
+
 LEXICON POSTPOSITION
 #; 
 
