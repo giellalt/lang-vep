@@ -4,9 +4,9 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <e>
       <lg>
-         <l>üks'</l>
+         <l pos="Num">üks'</l>
          <stg>
-            <st Contlex="Num-noruz">ük</st>
+            <st Contlex="NUM_NORUZ">ük</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -14,19 +14,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>one</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>yksi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>kaks'</l>
+         <l pos="Num">kaks'</l>
          <stg>
-            <st Contlex="Num-noruz">kak</st>
+            <st Contlex="NUM_NORUZ">kak</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -34,19 +34,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>two</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kaksi</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>koume</l>
+         <l pos="Num">koume</l>
          <stg>
-            <st Contlex="NumTag">koume</st>
+            <st Contlex="NUM_">koume</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -54,19 +54,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>three</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kolme</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>nell'</l>
+         <l pos="Num">nell'</l>
          <stg>
-            <st Contlex="NumTag">koume</st>
+            <st Contlex="NUM_">koume</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -74,19 +74,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>three</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kolme</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>viiž</l>
+         <l pos="Num">viiž</l>
          <stg>
-            <st Contlex="NumTag">koume</st>
+            <st Contlex="NUM_">koume</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -94,19 +94,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>three</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kolme</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>kuz'</l>
+         <l pos="Num">kuz'</l>
          <stg>
-            <st Contlex="NumTag">koume</st>
+            <st Contlex="NUM_">koume</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -114,19 +114,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>three</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kolme</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>seičeme</l>
+         <l pos="Num">seičeme</l>
          <stg>
-            <st Contlex="NumTag">koume</st>
+            <st Contlex="NUM_">koume</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -134,19 +134,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>three</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kolme</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>kahesa</l>
+         <l pos="Num">kahesa</l>
          <stg>
-            <st Contlex="NumTag">koume</st>
+            <st Contlex="NUM_">koume</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -154,19 +154,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>three</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kolme</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>ühesa</l>
+         <l pos="Num">ühesa</l>
          <stg>
-            <st Contlex="NumTag">koume</st>
+            <st Contlex="NUM_">koume</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -174,19 +174,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>three</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kolme</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>kümne</l>
+         <l pos="Num">kümne</l>
          <stg>
-            <st Contlex="NumTag">koume</st>
+            <st Contlex="NUM_">koume</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -194,19 +194,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>three</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kolme</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>üks'toštkümne</l>
+         <l pos="Num">üks'toštkümne</l>
          <stg>
-            <st Contlex="NumTag">üks'toštkümne</st>
+            <st Contlex="NUM_">üks'toštkümne</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -214,19 +214,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>eleven</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>yksitoista</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>kaks'toštkümne</l>
+         <l pos="Num">kaks'toštkümne</l>
          <stg>
-            <st Contlex="NumTag">kaks'toštkümne</st>
+            <st Contlex="NUM_">kaks'toštkümne</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -234,19 +234,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>twelve</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kaksitoista</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>kaks'kümne</l>
+         <l pos="Num">kaks'kümne</l>
          <stg>
-            <st Contlex="NumTag">kaks'kümne</st>
+            <st Contlex="NUM_">kaks'kümne</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -254,19 +254,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>twenty</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kaksikymmentä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>sada</l>
+         <l pos="Num">sada</l>
          <stg>
-            <st Contlex="NumTag">sada</st>
+            <st Contlex="NUM_">sada</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -274,19 +274,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>hundred</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>sata</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>tuha</l>
+         <l pos="Num">tuha</l>
          <stg>
-            <st Contlex="NumTag">tuhanD1E1</st>
+            <st Contlex="NUM_">tuhanD1E1</st>
          </stg>
       </lg>
       <pos>NUM</pos>
@@ -294,10 +294,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>thousand</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>tuhat</t>
          </tg>
       </mg>

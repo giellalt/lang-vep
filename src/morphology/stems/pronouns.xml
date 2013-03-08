@@ -4,7 +4,7 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <e>
       <lg>
-         <l>minä</l>
+         <l pos="Pron">minä</l>
          <stg>
             <st Contlex="PersSg1">min</st>
          </stg>
@@ -14,17 +14,17 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>I</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>minä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>sinä</l>
+         <l pos="Pron">sinä</l>
          <stg>
             <st Contlex="PersSg2">sin</st>
          </stg>
@@ -34,17 +34,17 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>you</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>sinä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>hän</l>
+         <l pos="Pron">hän</l>
          <stg>
             <st Contlex="PersSg3">hä</st>
          </stg>
@@ -54,17 +54,17 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>he</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>hän</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>mö</l>
+         <l pos="Pron">mö</l>
          <stg>
             <st Contlex="PersPl1">m</st>
          </stg>
@@ -74,17 +74,17 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>we</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>me</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>tö</l>
+         <l pos="Pron">tö</l>
          <stg>
             <st Contlex="PersPl2">t</st>
          </stg>
@@ -94,17 +94,17 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>you</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>te</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>hö</l>
+         <l pos="Pron">hö</l>
          <stg>
             <st Contlex="PersPl3">h</st>
          </stg>
@@ -114,10 +114,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>they</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>he</t>
          </tg>
       </mg>

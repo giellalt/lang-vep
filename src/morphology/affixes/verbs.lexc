@@ -2,7 +2,7 @@
 !! ---
 
 ! ei:e
-LEXICON V-ei
+LEXICON V_EI
 +V+Neg+Sc1Sg:%>n K ;
 +V+Neg+Sc2Sg:%>d K ;
 +V+Neg+Sc3Sg:%>i K ;
@@ -11,41 +11,41 @@ LEXICON V-ei
 +V+Neg+Sc3Pl:%>i K ; !Is there any other variant
 
 
-LEXICON V-sugida
+LEXICON V_SUGIDA
 +V: V-VowelStem ;
 +V: V-ConsonantStem ;
 +V: INDPRS3 ;
 
-LEXICON V-olda
+LEXICON V_OLDA
 +V:le V-VowelStem ;
 +V:l V-ConsonantStem ;
 +Ind+Prs+Sc3Sg:%>m K ;
 +Ind+Prs+Sc3Pl:%>ba K ;
 
 
-LEXICON V-pesta
+LEXICON V_PESTA
 +V:e V-VowelStem ;
 +V: V-ConsonantStem ;
 +V:e INDPRS3 ;
 
-LEXICON V-oigeta
+LEXICON V_OIGETA
 +V:nda V-VowelStem ;
 +V:%^DEVOICE V-ConsonantStem ;
 +V:nda INDPRS3 ;
 
 !! tugeta:tuge
-LEXICON V-tugeta
+LEXICON V_TUGETA
 +V:da V-VowelStem ;
 +V:%^DEVOICE V-ConsonantStem ;
 +V:nda INDPRS3 ;
 
 ! valita:vali
-LEXICON V-valita
+LEXICON V_VALITA
 +V:če V-VowelStem ;
 +V:%^DEVOICE V-ConsonantStem ;
 +V:če INDPRS3 ;
 
-LEXICON VTag
+LEXICON V_
  V-VowelStem ;
  V-ConsonantStem ;
 
