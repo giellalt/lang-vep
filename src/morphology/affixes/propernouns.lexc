@@ -15,13 +15,13 @@
 !! PROPER NOUNS 
 
 LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
-    PROP ;
-:%: PROP ;
-:%- PROP ;
-:%' PROP ;
+    PROP_ ;
+:%: PROP_ ;
+:%- PROP_ ;
+:%' PROP_ ;
 
-LEXICON PROP
-+Prop: NOUN ;
+LEXICON PROP_
++N+Prop: NMN_ ;
 
 
 ! vim: set ft=xfst-lexc:
