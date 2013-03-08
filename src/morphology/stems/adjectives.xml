@@ -4,9 +4,9 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <e>
       <lg>
-         <l>čoma</l>
+         <l pos="A">čoma</l>
          <stg>
-            <st Contlex="AdjTag">čoma</st>
+            <st Contlex="A_">čoma</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -14,19 +14,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>beautiful</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>kaunis</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>rusked</l>
+         <l pos="A">rusked</l>
          <stg>
-            <st Contlex="Adj-rusked">ruskedA1</st>
+            <st Contlex="A_RUSKED">ruskedA1</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -34,19 +34,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>red</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>punainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>uz’</l>
+         <l pos="A">uz’</l>
          <stg>
-            <st Contlex="Adj-uz">ud</st>
+            <st Contlex="A_UZ">ud</st>
          </stg>
       </lg>
       <pos>A</pos>
@@ -54,10 +54,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>new</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>uusi</t>
          </tg>
       </mg>

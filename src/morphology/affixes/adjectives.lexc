@@ -9,58 +9,14 @@
 ! +A+sup:est      Cases   ;
 
 ! uz’:ud
-LEXICON Adj-uz !!= * @CODE@
-+A: N-noruz_01 ;
+LEXICON A_UZ !!= * @CODE@
++A: NMN_NORUZ ;
 
-LEXICON Adj-rusked !!= * @CODE@
- AdjTag ;
+LEXICON A_RUSKED !!= * @CODE@
++A: NMN_RUSKED ;
 
-LEXICON AdjTag  !!= * @CODE@, just beginning 
-!! ** Sending all caseforms to different case lexica
-!! ** They are still not written.
-+A: SGNOMSUF ; !!= ** @CODE@
-+A: SGGENSUF ;
-+A: SGACCSUF ;
-+A: SGPARSUF ;
-+A: SGTRASUF ;
-+A: SGABESUF ;
-+A: SGCOMSUF ;
-+A: SGINESUF ;
-+A: SGILLSUF ;
-+A: SGADESUF ;
-+A: SGABLSUF ;
-+A: SGALLSUF ;
-+A: SGESSSUF ;
-+A: SGPRLSUF ;
-+A: SGAPR1SUF ;
-+A: SGAPR2SUF ;
-+A: SGEGRSUF ;
-+A: SGTER1SUF ;
-+A: SGTER2SUF ;
-+A: SGADD1SUF ;
-+A: SGADD2SUF ;
-
-+A: PLNOMSUF ;
-+A: PLGENSUF ;
-+A: PLACCSUF ;
-+A: PLPARSUF ;
-+A: PLTRASUF ;
-+A: PLABESUF ;
-+A: PLCOMSUF ;
-+A: PLINESUF ;
-+A: PLILLSUF ;
-+A: PLADESUF ;
-+A: PLABLSUF ;
-+A: PLALLSUF ;
-+A: PLESSSUF ;
-+A: PLPRLSUF ;
-+A: PLAPR1SUF ;
-+A: PLAPR2SUF ;
-+A: PLEGRSUF ;
-+A: PLTER1SUF ;
-+A: PLTER2SUF ;
-+A: PLADD1SUF ;
-+A: PLADD2SUF ;
+LEXICON A_  !!= * @CODE@, just beginning 
+ N_ ;
 
 
 

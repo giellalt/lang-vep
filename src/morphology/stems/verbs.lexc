@@ -1,12 +1,12 @@
 
 LEXICON verbs
 
-mända:män V-pesta  "" ;
-ei:e V-ei  "" ;
-olda:o V-olda  "" ;
-oigeta:oige V-oigeta  "" ;
-pesta:pez V-pesta  "" ;
-sugida:sugi V-sugida  "" ;
-tugeta:tuge V-tugeta  "" ;
-tulda:tul V-pesta  "" ;
-valita:vali V-valita  "" ;
+mända:män V_PESTA  "mennä" ;
+ei:e V_EI  "ei" ;
+olda:o V_OLDA  "olla" ;
+oigeta:oige V_OIGETA  "lähettää" ;
+pesta:pez V_PESTA  "pestä" ;
+sugida:sugi V_SUGIDA  "sukia" ;
+tugeta:tuge V_TUGETA  "tukea" ;
+tulda:tul V_PESTA  "tulla" ;
+valita:vali V_VALITA  "valita" ;

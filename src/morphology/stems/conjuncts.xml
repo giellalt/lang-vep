@@ -4,7 +4,7 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <e>
       <lg>
-         <l>a</l>
+         <l pos="CC">a</l>
          <stg>
             <st Contlex="CcTag">a</st>
          </stg>
@@ -14,17 +14,17 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>but</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>mutta</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>da</l>
+         <l pos="CC">da</l>
          <stg>
             <st Contlex="CcTag">da</st>
          </stg>
@@ -34,17 +34,17 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>and</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>ja</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>i</l>
+         <l pos="CC">i</l>
          <stg>
             <st Contlex="CcTag">i</st>
          </stg>
@@ -54,10 +54,10 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>and</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>ja</t>
          </tg>
       </mg>

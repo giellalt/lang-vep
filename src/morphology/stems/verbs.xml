@@ -4,9 +4,9 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <e>
       <lg>
-         <l>mända</l>
+         <l pos="V">mända</l>
          <stg>
-            <st Contlex="V-pesta">män</st>
+            <st Contlex="V_PESTA">män</st>
          </stg>
       </lg>
       <pos>V</pos>
@@ -14,19 +14,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>to go</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>mennä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>ei</l>
+         <l pos="V-AUX">ei</l>
          <stg>
-            <st Contlex="V-ei">e</st>
+            <st Contlex="V_EI">e</st>
          </stg>
       </lg>
       <pos>V-AUX</pos>
@@ -34,19 +34,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>not</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>ei</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>olda</l>
+         <l pos="V">olda</l>
          <stg>
-            <st Contlex="V-olda">o</st>
+            <st Contlex="V_OLDA">o</st>
          </stg>
       </lg>
       <pos>V</pos>
@@ -54,19 +54,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>to be</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>olla</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>oigeta</l>
+         <l pos="V">oigeta</l>
          <stg>
-            <st Contlex="V-oigeta">oige</st>
+            <st Contlex="V_OIGETA">oige</st>
          </stg>
       </lg>
       <pos>V</pos>
@@ -74,19 +74,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>to send</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>lähettää</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>pesta</l>
+         <l pos="V">pesta</l>
          <stg>
-            <st Contlex="V-pesta">pez</st>
+            <st Contlex="V_PESTA">pez</st>
          </stg>
       </lg>
       <pos>V</pos>
@@ -94,19 +94,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>to wash</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>pestä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>sugida</l>
+         <l pos="V">sugida</l>
          <stg>
-            <st Contlex="V-sugida">sugi</st>
+            <st Contlex="V_SUGIDA">sugi</st>
          </stg>
       </lg>
       <pos>V</pos>
@@ -114,22 +114,22 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <tCtn>
                <t>to brush</t>
                <re>a horse</re>
             </tCtn>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>sukia</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>tugeta</l>
+         <l pos="V">tugeta</l>
          <stg>
-            <st Contlex="V-tugeta">tuge</st>
+            <st Contlex="V_TUGETA">tuge</st>
          </stg>
       </lg>
       <pos>V</pos>
@@ -137,20 +137,20 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>to support</t>
             <t>to prop up</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>tukea</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>tulda</l>
+         <l pos="V">tulda</l>
          <stg>
-            <st Contlex="V-pesta">tul</st>
+            <st Contlex="V_PESTA">tul</st>
          </stg>
       </lg>
       <pos>V</pos>
@@ -158,19 +158,19 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>to come</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>tulla</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l>valita</l>
+         <l pos="V">valita</l>
          <stg>
-            <st Contlex="V-valita">vali</st>
+            <st Contlex="V_VALITA">vali</st>
          </stg>
       </lg>
       <pos>V</pos>
@@ -178,11 +178,11 @@
          <m>
             <head/>
          </m>
-         <tg lang="eng">
+         <tg xml:lang="eng">
             <t>to choose</t>
             <t>to select</t>
          </tg>
-         <tg lang="fin">
+         <tg xml:lang="fin">
             <t>valita</t>
          </tg>
       </mg>

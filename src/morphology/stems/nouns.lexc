@@ -1,15 +1,15 @@
 
 LEXICON nouns
 
-cipuine:cipu N-cipuine  "" ;
-kel':kel' N-kel  "" ;
-kojaduz:kojaduz N-kojaduz  "" ;
-landeh:land N-landeh  "" ;
-marj:marj N-marj  "" ;
-nado:nado NTag  "" ;
-noruz':norud N-noruz  "" ;
-šapuk:šapU1k N-shapuk  "" ;
-vedäi:vedäi N-vedäi  "" ;
-veps:veps N-veps  "" ;
-voz':vod N-noruz  "" ;
-käzi:käd N-käzi  "" ;
+cipuine:cipu N_CIPUINE  "tipu" ;
+kel':kel' N_KEL  "kieli" ;
+kojaduz:kojaduz N_KOJADUZ  "kaiku" ;
+landeh:land N_LANDEH  "lanne" ;
+marj:marj N_MARJ  "marja" ;
+nado:nado N_NADO  "nato" ;
+noruz':norud N_NORUZ  "nuoruus" ;
+šapuk:šapU1k N_SHAPUK  "tipu" ;
+vedäi:vedäi N_VEDÄI  "johtaja" ;
+veps:veps N_VEPS  "vepsä" ;
+voz':vod N_NORUZ  "vuosi" ;
+käzi:käd N_KÄZI  "käsi" ;
