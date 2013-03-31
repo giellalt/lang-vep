@@ -4,15 +4,11 @@ Adjective inflection
 Veps adjectives compare.
 
 
- * LEXICON Adj-uz 
+ * LEXICON A_UZ 
 
- * LEXICON Adj-rusked 
+ * LEXICON A_RUSKED 
 
- * LEXICON AdjTag  , just beginning 
-** Sending all caseforms to different case lexica
-** They are still not written.
- ** +A: SGNOMSUF ; 
-
+ * LEXICON A_  , just beginning 
 
 
 
