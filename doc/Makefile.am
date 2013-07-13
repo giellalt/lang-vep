@@ -11,8 +11,8 @@ if CAN_DOCC
 
 JSP_PAGES=root-morphology.jspwiki \
 		  adjectives-affixes.jspwiki       \
-		  nouns-affixes.jspwiki            \
 		  clitics-affixes.jspwiki      \
+		  nouns-affixes.jspwiki            \
 		  pronouns-affixes.jspwiki      \
 		  propernouns-affixes.jspwiki      \
 		  verbs-affixes.jspwiki \
