@@ -24,7 +24,7 @@
 # third is email address for bug reports
 # fourth is name of packages made by make dist, excluding .tar.gz
 # fifth is the project web address
-AC_INIT([gtlangs-vep], [20110617], [bugs@divvun.no], [gtlangs-vep],
+AC_INIT([gtlangs-vep], [20110617], [feedback@divvun.no], [gtlangs-vep],
         [http://divvun.no])
 # AC_REVISION is used to get SVN revision into bug reports
 AC_REVISION([$Revision$])
