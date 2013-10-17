@@ -104,55 +104,55 @@ Multichar_Symbols
 
 !! Non-dictionary words can be recognised with:
 
- +Guess  !!= @CODE@
+ +Guess  !!= @CODE@
 
 
 !! Question and Focus particles:
 
- +Qst +Foc       !!= @CODE@
-+Clt	         !!= @CODE@
-+Foc/ki	         !!= @CODE@
-+Foc/žo	         !!= @CODE@
+ +Qst +Foc       !!= @CODE@
++Clt	         !!= @CODE@
++Foc/ki	         !!= @CODE@
++Foc/žo	         !!= @CODE@
 
-+Appr	         !!= @CODE@
-+Advc	         !!= @CODE@
-+Ter	         !!= @CODE@
-+Pro	         !!= @CODE@
-+Car 	         !!= @CODE@
++Appr	         !!= @CODE@
++Advc	         !!= @CODE@
++Ter	         !!= @CODE@
++Pro	         !!= @CODE@
++Car 	         !!= @CODE@
 
-+PstI	         !!= @CODE@
-+PstII	         !!= @CODE@
++PstI	         !!= @CODE@
++PstII	         !!= @CODE@
 
 
 
 !! Semantics are classified with
- +Mal +Fem +Sur    !!= @CODE@
- +Plc 			   !!= @CODE@
- +Org			   !!= @CODE@
- +Obj			   !!= @CODE@
- +Ani			   !!= @CODE@
- +Hum			   !!= @CODE@
- +Plant			   !!= @CODE@
- +Group			   !!= @CODE@
- +Time 			   !!= @CODE@
- +Txt			   !!= @CODE@
- +Route			   !!= @CODE@
- +Measr 		   !!= @CODE@
- +Wthr			   !!= @CODE@
- +Build 		   !!= @CODE@
- +Edu			   !!= @CODE@
- +Veh			   !!= @CODE@
- +Clth			   !!= @CODE@
+ +Mal +Fem +Sur    !!= @CODE@
+ +Plc 			   !!= @CODE@
+ +Org			   !!= @CODE@
+ +Obj			   !!= @CODE@
+ +Ani			   !!= @CODE@
+ +Hum			   !!= @CODE@
+ +Plant			   !!= @CODE@
+ +Group			   !!= @CODE@
+ +Time 			   !!= @CODE@
+ +Txt			   !!= @CODE@
+ +Route			   !!= @CODE@
+ +Measr 		   !!= @CODE@
+ +Wthr			   !!= @CODE@
+ +Build 		   !!= @CODE@
+ +Edu			   !!= @CODE@
+ +Veh			   !!= @CODE@
+ +Clth			   !!= @CODE@
 
 
 !! Derivations are classified under the morphophonetic form of the suffix, the
 !! source and target part-of-speech.
- +V→N +V→V +V→A     !!= @CODE@
-+Der/Ta		        !!= @CODE@
-+Der/Te		        !!= @CODE@
-+Der/ma		        !!= @CODE@
-+Der/Tu		        !!= @CODE@
-+Der/IA		        !!= @CODE@
+ +V→N +V→V +V→A     !!= @CODE@
++Der/Ta		        !!= @CODE@
++Der/Te		        !!= @CODE@
++Der/ma		        !!= @CODE@
++Der/Tu		        !!= @CODE@
++Der/IA		        !!= @CODE@
 
 
 
