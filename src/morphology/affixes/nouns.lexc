@@ -4,16 +4,16 @@ LEXICON N_
 +TYÄ: #;
 
 LEXICON N_MUNA ! Stem vowel alternation ZERO-A-ZERO
-:QAQ1 NMN_ ;
++N:QAQ1 NMN_ ;
 
 LEXICON N_MARJ 
-:QAO1 NMN_ ;
++N:QAO1 NMN_ ;
 
 LEXICON N_SHAPUK ! šapuk
-:U1 NMN_ ;
++N:U1 NMN_ ;
 
 LEXICON N_LANDEH ! OUN-EH
-:EH1 NMN_ ;
++N:EH1 NMN_ ;
 
 !kel’:kel’
 LEXICON N_KEL
@@ -27,7 +27,7 @@ LEXICON N_KEL
 
 
 LEXICON N_CIPUINE
-:INE1 NMN_ ;
++N:INE1 NMN_ ;
 
 ! noruz’:norud
 LEXICON N_NORUZ ! OUN-ZD_QEQ
@@ -50,13 +50,14 @@ LEXICON N_KOJADUZ ! z s _QEQ
 
 
 LEXICON N_VEDÄI ! i j _QAQ1 Does this work like _muna_?
-:QAQ1 NMN_ ;
++N:QAQ1 NMN_ ;
 
 LEXICON N_VEPS 
-:QÄQ1 NMN_ ;
++N:QÄQ1 NMN_ ;
 
-LEXICON N_NADO ! nado
- NMN_ ;
+LEXICON N_NADO !!= @CODE@ nado:nado
+!!* Yaml: __nado__
++N: NMN_ ;
 
 !! !!Nominals
 
@@ -174,53 +175,53 @@ LEXICON PL-OBLIQUE
 
 
 LEXICON NMN_
-+N: SG-NOM-SUF ;
-+N: SG-GEN-SUF ;
-+N: SG-ACC-SUF ;
-+N: SG-PAR-SUF ;
-+N: SG-TRA-SUF ;
-+N: SG-ABE-SUF ;
-+N: SG-COM-SUF ;
-+N: SG-INE-SUF ;
-+N: SG-ILL-SUF ;
-+N: SG-ELA-SUF ;
-+N: SG-ADE-SUF ;
-+N: SG-ABL-SUF ;
-+N: SG-ALL-SUF ;
-+N: SG-ESS-SUF ;
-+N: SG-PRL-SUF ;
-+N: SG-APR1-SUF ;
-+N: SG-APR2-SUF ;
-+N: SG-EGR-SUF ;
-+N: SG-TER1-SUF ;
-+N: SG-TER2-SUF ;
-+N: SG-TER3-SUF ;
-+N: SG-ADD1-SUF ;
-+N: SG-ADD2-SUF ;
+ SG-NOM-SUF ;
+ SG-GEN-SUF ;
+ SG-ACC-SUF ;
+ SG-PAR-SUF ;
+ SG-TRA-SUF ;
+ SG-ABE-SUF ;
+ SG-COM-SUF ;
+ SG-INE-SUF ;
+ SG-ILL-SUF ;
+ SG-ELA-SUF ;
+ SG-ADE-SUF ;
+ SG-ABL-SUF ;
+ SG-ALL-SUF ;
+ SG-ESS-SUF ;
+ SG-PRL-SUF ;
+ SG-APR1-SUF ;
+ SG-APR2-SUF ;
+ SG-EGR-SUF ;
+ SG-TER1-SUF ;
+ SG-TER2-SUF ;
+ SG-TER3-SUF ;
+ SG-ADD1-SUF ;
+ SG-ADD2-SUF ;
 
-+N: PL-NOM-SUF ;
-+N: PL-GEN-SUF ;
-+N: PL-ACC-SUF ;
-+N: PL-PAR-SUF ;
-+N: PL-TRA-SUF ;
-+N: PL-ABE-SUF ;
-+N: PL-COM-SUF ;
-+N: PL-INE-SUF ;
-+N: PL-ELA-SUF ;
-+N: PL-ILL-SUF ;
-+N: PL-ADE-SUF ;
-+N: PL-ABL-SUF ;
-+N: PL-ALL-SUF ;
-+N: PL-ESS-SUF ;
-+N: PL-PRL-SUF ;
-+N: PL-APR1-SUF ;
-+N: PL-APR2-SUF ;
-+N: PL-EGR-SUF ;
-+N: PL-TER1-SUF ;
-+N: PL-TER2-SUF ;
+ PL-NOM-SUF ;
+ PL-GEN-SUF ;
+ PL-ACC-SUF ;
+ PL-PAR-SUF ;
+ PL-TRA-SUF ;
+ PL-ABE-SUF ;
+ PL-COM-SUF ;
+ PL-INE-SUF ;
+ PL-ELA-SUF ;
+ PL-ILL-SUF ;
+ PL-ADE-SUF ;
+ PL-ABL-SUF ;
+ PL-ALL-SUF ;
+ PL-ESS-SUF ;
+ PL-PRL-SUF ;
+ PL-APR1-SUF ;
+ PL-APR2-SUF ;
+ PL-EGR-SUF ;
+ PL-TER1-SUF ;
+ PL-TER2-SUF ;
 ! +N: PL-TER3-SUF ; ! Does this exist
-+N: PL-ADD1-SUF ;
-+N: PL-ADD2-SUF ;
+ PL-ADD1-SUF ;
+ PL-ADD2-SUF ;
 
 !! !!!ACTUAL CASES 
 
