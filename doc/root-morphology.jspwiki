@@ -10,100 +10,188 @@ The morphological analyses of wordforms of Veps are presented
 in this system in terms of the following symbols.
 (It is highly suggested to follow existing standards when adding new tags).
 
-The parts-of-speech are:
+!!The parts-of-speech are:
+ *  +A       = adjective
+ *  +Adp     = adposition
+ *  +Adv     = adverb
+ *  +CS      = subordinating conjunction
+ *  +CC      = coordinating conjunction
+ *  +Interj  = interjection 
+ *  +N       = noun
+ *  +Num     = numeral
+ *  +Pcle    = particle
+ *  +Pr      = preposition
+ *  +Po      = postposition
+ *  +Pron    = pronoun
+ *  +Qnt     = quantifier
+ *  +V       = verb
 
-  +N +A +Adv +V				  
-  +Pron +CS +CC +Adp +Po +Pr   
-  +Interj +Pcle +Num 		  
+!!Parts of speech are further split up into:
 
-The parts of speech are further split up into:
+Nouns
 
-  +Prop +Pers +Dem +Interr     
-  +Refl +Recipr +Rel +Indef    
+ *  +Prop   = proper
 
+!!Pronouns
+
+ *  +Dem    = demonstrative
+ *  +Indef  = indefinite
+ *  +Interr  = interrogative
+ *  +Pers    = personal
+ *  +Recipr  = reciprocal
+ *  +Refl    = reflexive
+ *  +Rel     = relative
+
+Nominals are inflected for Number and Case
+
+!!Number
+ *  +Sg  = singular
+ *  +Pl  = plural
+
+!!Case
+ *  +Abe  = abessive
+ *  +Acc  = accusative
+ *  +Abl  = ablative case
+ *  +Ade  = adessive
+ *  +All  = allative
+ *  +Dat  = dative case
+ *  +Ela  = elative
+ *  +Ess  = essive
+ *  +Exe  = essive
+ *  +Gen  = genitive case
+ *  +Ill  = illative
+ *  +Ine  = inessive
+ *  +Ins  = instrumental 
+ *  +Instr  = instructive -IN
+ *  +Lat  = Lative
+ *  +Loc  = Locative
+ *  +Nom  = nominative case
+ *  +Par  = partitive
+ *  +Prl  = prolative 
+ *  +Tra  = translative
+ *  +Voc  = Vocative
+
+ *  +Pros +Adc  +Apr +Egr		   = 
+ *  +Ter1 +Ter2 +Ter3 +Add1 +Add2	   = 
+ *  +Apr1 +Apr2						   = 
+ *  +EssInst							   = 
 
 The Usage extents are marked using the following tags:
 
-  +Use/Sub                     
-  +Use/-Spell                  
-
-The nominals are inflected in the following Case and Number
-
-  +Sg +Pl							  
-  +Nom +Acc +Gen  +Par 				  
-  +Abl +Dat +Loc +Pros +Tra +Abe +Adc  
-  +Ins +Apr +Ine +Ill +Ela +Egr		  
-  +Prl +Ter1 +Ter2 +Ter3 +Add1 +Add2	  
-  +Apr1 +Apr2						  
-  +EssInst							  
+ *  +Use/Sub                      = 
+ *  +Use/-Spell                   = 
 
 
-The possession is marked as such:
+!The possession is marked as such:
 
-  +PxSg1 +PxSg2 +PxSg3                 
-  +PxPl1 +PxPl2 +PxPl3                 
+ *  +PxSg1 +PxSg2 +PxSg3                  = 
+ *  +PxPl1 +PxPl2 +PxPl3                  = 
 
 The comparative forms are:
 
-  +Comp +Superl                 
+ *  +Comp +Superl                  = 
 
 Numerals are classified under:
 
-  +Attr +Card                
-  +Ord 		                
+ *  +Attr +Card                 = 
+ *  +Ord 		                 = 
 
 Verb tense and moods are:
 
-  +Prs +Prt 		            
-  +Ind +Cond +Imprt          
-  +Pos			            
+ *  +Cond  = conditional 
+ *  +Ind  = indicative
+ *  +Imprt  = imperative
+
+Tenses
+ *  +Prs +Prt 		             = 
+ *  +Pos			             = 
 
 Verb personal forms are:
 
-  +ScSg1 +ScSg2 +ScSg3 +ScPl1 +ScPl2 +ScPl3   
-  +RcSg1 +RcSg2 +RcSg3 +RcPl1 +RcPl2 +RcPl3   
-  +RcSg +RcPl +ScSg +ScPl				     
+ *  +ScSg1 +ScSg2 +ScSg3 +ScPl1 +ScPl2 +ScPl3    = 
+ *  +RcSg1 +RcSg2 +RcSg3 +RcPl1 +RcPl2 +RcPl3    = 
+ *  +RcSg +RcPl +ScSg +ScPl				      = 
 
 Other verb forms are
 
-  +Inf +Ger +Neg                 
-  +ConNeg +ConNegII              
-  +ImprtII 		                
-  +PrsPrc +PrfPrc                
-  +Sup +VGen +VAbess             
+ *  +Inf +Ger +Neg                  = 
+ *  +ConNeg +ConNegII               = 
+ *  +ImprtII          		 = 
+ *  +PrsPrc +PrfPrc                 = 
+ *  +Sup +VGen +VAbess              = 
+
+!ADVERBS
+ *  +Manner	 = 
+ *  +Spat		 = 
+ *  +Temp		 = 
 
 Abbreviated words are classified with:
 
-  +ABBR +ACR   
+ *  +ABBR +ACR    = 
 
 Special symbols are classified with:
 
- +CLB +PUNCT +LEFT +RIGHT 
+ *  +CLB +PUNCT +LEFT +RIGHT  = 
 
 The verbs are syntactically split according to transitivity:
 
-  +TV +IV  
+ *  +TV +IV   = 
 
 Special multiword units are analysed with:
 
-  +Multi 
+ *  +Multi  = 
 
 Non-dictionary words can be recognised with:
 
+ *  +Guess   = 
 
 
 Question and Focus particles:
 
+ *  +Qst +Foc        = 
+ * +Clt	          = 
+ * +Foc/ki	          = 
+ * +Foc/žo	          = 
 
+ * +Appr	          = 
+ * +Advc	          = 
+ * +Ter	          = 
+ * +Pro	          = 
+ * +Car 	          = 
 
+ * +PstI	          = 
+ * +PstII	          = 
 
 
 
 Semantics are classified with
+ *  +Mal +Fem +Sur     = 
+ *  +Plc 			    = 
+ *  +Org			    = 
+ *  +Obj			    = 
+ *  +Ani			    = 
+ *  +Hum			    = 
+ *  +Plant			    = 
+ *  +Group			    = 
+ *  +Time 			    = 
+ *  +Txt			    = 
+ *  +Route			    = 
+ *  +Measr 		    = 
+ *  +Wthr			    = 
+ *  +Build 		    = 
+ *  +Edu			    = 
+ *  +Veh			    = 
+ *  +Clth			    = 
 
 
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
+ *  +V→N +V→V +V→A      = 
+ * +Der/Ta		         = 
+ * +Der/Te		         = 
+ * +Der/ma		         = 
+ * +Der/Tu		         = 
+ * +Der/IA		         = 
 
 
 

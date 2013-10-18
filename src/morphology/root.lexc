@@ -24,135 +24,188 @@ Multichar_Symbols
 !! in this system in terms of the following symbols.
 !! (It is highly suggested to follow existing standards when adding new tags).
 
-!! The parts-of-speech are:
+!! !!The parts-of-speech are:
+ +A      !!= * @CODE@ = adjective
+ +Adp    !!= * @CODE@ = adposition
+ +Adv    !!= * @CODE@ = adverb
+ +CS     !!= * @CODE@ = subordinating conjunction
+ +CC     !!= * @CODE@ = coordinating conjunction
+ +Interj !!= * @CODE@ = interjection 
+ +N      !!= * @CODE@ = noun
+ +Num    !!= * @CODE@ = numeral
+ +Pcle   !!= * @CODE@ = particle
+ +Pr     !!= * @CODE@ = preposition
+ +Po     !!= * @CODE@ = postposition
+ +Pron   !!= * @CODE@ = pronoun
+ +Qnt    !!= * @CODE@ = quantifier
+ +V      !!= * @CODE@ = verb
 
- +N +A +Adv +V				  !!= @CODE@
- +Pron +CS +CC +Adp +Po +Pr   !!= @CODE@
- +Interj +Pcle +Num 		  !!= @CODE@
+!! !!Parts of speech are further split up into:
 
-!! The parts of speech are further split up into:
+!! Nouns
 
- +Prop +Pers +Dem +Interr     !!= @CODE@
- +Refl +Recipr +Rel +Indef    !!= @CODE@
+ +Prop  !!= * @CODE@ = proper
 
+!! !!Pronouns
+
+ +Dem   !!= * @CODE@ = demonstrative
+ +Indef !!= * @CODE@ = indefinite
+ +Interr !!= * @CODE@ = interrogative
+ +Pers   !!= * @CODE@ = personal
+ +Recipr !!= * @CODE@ = reciprocal
+ +Refl   !!= * @CODE@ = reflexive
+ +Rel    !!= * @CODE@ = relative
+
+!! Nominals are inflected for Number and Case
+
+!! !!Number
+ +Sg !!= * @CODE@ = singular
+ +Pl !!= * @CODE@ = plural
+
+!! !!Case
+ +Abe !!= * @CODE@ = abessive
+ +Acc !!= * @CODE@ = accusative
+ +Abl !!= * @CODE@ = ablative case
+ +Ade !!= * @CODE@ = adessive
+ +All !!= * @CODE@ = allative
+ +Dat !!= * @CODE@ = dative case
+ +Ela !!= * @CODE@ = elative
+ +Ess !!= * @CODE@ = essive
+ +Exe !!= * @CODE@ = essive
+ +Gen !!= * @CODE@ = genitive case
+ +Ill !!= * @CODE@ = illative
+ +Ine !!= * @CODE@ = inessive
+ +Ins !!= * @CODE@ = instrumental 
+ +Instr !!= * @CODE@ = instructive -IN
+ +Lat !!= * @CODE@ = Lative
+ +Loc !!= * @CODE@ = Locative
+ +Nom !!= * @CODE@ = nominative case
+ +Par !!= * @CODE@ = partitive
+ +Prl !!= * @CODE@ = prolative 
+ +Tra !!= * @CODE@ = translative
+ +Voc !!= * @CODE@ = Vocative
+
+ +Pros +Adc  +Apr +Egr		  !!= * @CODE@ = 
+ +Ter1 +Ter2 +Ter3 +Add1 +Add2	  !!= * @CODE@ = 
+ +Apr1 +Apr2						  !!= * @CODE@ = 
+ +EssInst							  !!= * @CODE@ = 
 
 !! The Usage extents are marked using the following tags:
 
- +Use/Sub                     !!= @CODE@
- +Use/-Spell                  !!= @CODE@
-
-!! The nominals are inflected in the following Case and Number
-
- +Sg +Pl							  !!= @CODE@
- +Nom +Acc +Gen  +Par 				  !!= @CODE@
- +Abl +Dat +Loc +Pros +Tra +Abe +Adc  !!= @CODE@
- +Ins +Apr +Ine +Ill +Ela +Egr		  !!= @CODE@
- +Prl +Ter1 +Ter2 +Ter3 +Add1 +Add2	  !!= @CODE@
- +Apr1 +Apr2						  !!= @CODE@
- +EssInst							  !!= @CODE@
+ +Use/Sub                     !!= * @CODE@ = 
+ +Use/-Spell                  !!= * @CODE@ = 
 
 
-!! The possession is marked as such:
+!! !The possession is marked as such:
 
- +PxSg1 +PxSg2 +PxSg3                 !!= @CODE@
- +PxPl1 +PxPl2 +PxPl3                 !!= @CODE@
+ +PxSg1 +PxSg2 +PxSg3                 !!= * @CODE@ = 
+ +PxPl1 +PxPl2 +PxPl3                 !!= * @CODE@ = 
 
 !! The comparative forms are:
 
- +Comp +Superl                 !!= @CODE@
+ +Comp +Superl                 !!= * @CODE@ = 
 
 !! Numerals are classified under:
 
- +Attr +Card                !!= @CODE@
- +Ord 		                !!= @CODE@
+ +Attr +Card                !!= * @CODE@ = 
+ +Ord 		                !!= * @CODE@ = 
 
 !! Verb tense and moods are:
 
- +Prs +Prt 		            !!= @CODE@
- +Ind +Cond +Imprt          !!= @CODE@
- +Pos			            !!= @CODE@
+ +Cond !!= * @CODE@ = conditional 
+ +Ind !!= * @CODE@ = indicative
+ +Imprt !!= * @CODE@ = imperative
+
+!! Tenses
+ +Prs +Prt 		            !!= * @CODE@ = 
+ +Pos			            !!= * @CODE@ = 
 
 !! Verb personal forms are:
 
- +ScSg1 +ScSg2 +ScSg3 +ScPl1 +ScPl2 +ScPl3   !!= @CODE@
- +RcSg1 +RcSg2 +RcSg3 +RcPl1 +RcPl2 +RcPl3   !!= @CODE@
- +RcSg +RcPl +ScSg +ScPl				     !!= @CODE@
+ +ScSg1 +ScSg2 +ScSg3 +ScPl1 +ScPl2 +ScPl3   !!= * @CODE@ = 
+ +RcSg1 +RcSg2 +RcSg3 +RcPl1 +RcPl2 +RcPl3   !!= * @CODE@ = 
+ +RcSg +RcPl +ScSg +ScPl				     !!= * @CODE@ = 
 
 !! Other verb forms are
 
- +Inf +Ger +Neg                 !!= @CODE@
- +ConNeg +ConNegII              !!= @CODE@
- +ImprtII 		                !!= @CODE@
- +PrsPrc +PrfPrc                !!= @CODE@
- +Sup +VGen +VAbess             !!= @CODE@
+ +Inf +Ger +Neg                 !!= * @CODE@ = 
+ +ConNeg +ConNegII              !!= * @CODE@ = 
+ +ImprtII          		!!= * @CODE@ = 
+ +PrsPrc +PrfPrc                !!= * @CODE@ = 
+ +Sup +VGen +VAbess             !!= * @CODE@ = 
+
+!! !ADVERBS
+ +Manner	!!= * @CODE@ = 
+ +Spat		!!= * @CODE@ = 
+ +Temp		!!= * @CODE@ = 
 
 !! Abbreviated words are classified with:
 
- +ABBR +ACR   !!= @CODE@
+ +ABBR +ACR   !!= * @CODE@ = 
 
 !! Special symbols are classified with:
 
-+CLB +PUNCT +LEFT +RIGHT !!= @CODE@
+ +CLB +PUNCT +LEFT +RIGHT !!= * @CODE@ = 
 
 !! The verbs are syntactically split according to transitivity:
 
- +TV +IV  !!= @CODE@
+ +TV +IV  !!= * @CODE@ = 
 
 !! Special multiword units are analysed with:
 
- +Multi !!= @CODE@
+ +Multi !!= * @CODE@ = 
 
 !! Non-dictionary words can be recognised with:
 
- +Guess  !!= @CODE@
+ +Guess  !!= * @CODE@ = 
 
 
 !! Question and Focus particles:
 
- +Qst +Foc       !!= @CODE@
-+Clt	         !!= @CODE@
-+Foc/ki	         !!= @CODE@
-+Foc/žo	         !!= @CODE@
+ +Qst +Foc       !!= * @CODE@ = 
++Clt	         !!= * @CODE@ = 
++Foc/ki	         !!= * @CODE@ = 
++Foc/žo	         !!= * @CODE@ = 
 
-+Appr	         !!= @CODE@
-+Advc	         !!= @CODE@
-+Ter	         !!= @CODE@
-+Pro	         !!= @CODE@
-+Car 	         !!= @CODE@
++Appr	         !!= * @CODE@ = 
++Advc	         !!= * @CODE@ = 
++Ter	         !!= * @CODE@ = 
++Pro	         !!= * @CODE@ = 
++Car 	         !!= * @CODE@ = 
 
-+PstI	         !!= @CODE@
-+PstII	         !!= @CODE@
++PstI	         !!= * @CODE@ = 
++PstII	         !!= * @CODE@ = 
 
 
 
 !! Semantics are classified with
- +Mal +Fem +Sur    !!= @CODE@
- +Plc 			   !!= @CODE@
- +Org			   !!= @CODE@
- +Obj			   !!= @CODE@
- +Ani			   !!= @CODE@
- +Hum			   !!= @CODE@
- +Plant			   !!= @CODE@
- +Group			   !!= @CODE@
- +Time 			   !!= @CODE@
- +Txt			   !!= @CODE@
- +Route			   !!= @CODE@
- +Measr 		   !!= @CODE@
- +Wthr			   !!= @CODE@
- +Build 		   !!= @CODE@
- +Edu			   !!= @CODE@
- +Veh			   !!= @CODE@
- +Clth			   !!= @CODE@
+ +Mal +Fem +Sur    !!= * @CODE@ = 
+ +Plc 			   !!= * @CODE@ = 
+ +Org			   !!= * @CODE@ = 
+ +Obj			   !!= * @CODE@ = 
+ +Ani			   !!= * @CODE@ = 
+ +Hum			   !!= * @CODE@ = 
+ +Plant			   !!= * @CODE@ = 
+ +Group			   !!= * @CODE@ = 
+ +Time 			   !!= * @CODE@ = 
+ +Txt			   !!= * @CODE@ = 
+ +Route			   !!= * @CODE@ = 
+ +Measr 		   !!= * @CODE@ = 
+ +Wthr			   !!= * @CODE@ = 
+ +Build 		   !!= * @CODE@ = 
+ +Edu			   !!= * @CODE@ = 
+ +Veh			   !!= * @CODE@ = 
+ +Clth			   !!= * @CODE@ = 
 
 
 !! Derivations are classified under the morphophonetic form of the suffix, the
 !! source and target part-of-speech.
- +V→N +V→V +V→A     !!= @CODE@
-+Der/Ta		        !!= @CODE@
-+Der/Te		        !!= @CODE@
-+Der/ma		        !!= @CODE@
-+Der/Tu		        !!= @CODE@
-+Der/IA		        !!= @CODE@
+ +V→N +V→V +V→A     !!= * @CODE@ = 
++Der/Ta		        !!= * @CODE@ = 
++Der/Te		        !!= * @CODE@ = 
++Der/ma		        !!= * @CODE@ = 
++Der/Tu		        !!= * @CODE@ = 
++Der/IA		        !!= * @CODE@ = 
 
 
 
