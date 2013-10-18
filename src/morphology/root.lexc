@@ -222,8 +222,8 @@ Multichar_Symbols
  {front} {back}
 %>
 %-
-%^WGStem %^TS %^RVws
- %^LVws %^LCns
+%^WGStem %^TS %^RVow
+ %^LVow %^LCns
 %^WCns
 %^AtoO
 %^ÄtoÖ
