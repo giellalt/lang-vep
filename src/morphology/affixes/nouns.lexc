@@ -237,6 +237,7 @@ LEXICON GEN-SUF
 +Gen:%>n K ;
 
 LEXICON SG-ACC-SUF
++Sg+Acc: K ;
 +Sg: ACC-SUF ;
 LEXICON ACC-SUF
 +Acc:%>n K ;
@@ -342,7 +343,7 @@ LEXICON PL-NOM-SUF
 
 LEXICON PL-GEN-SUF
 +Pl+Gen:%>iden K ;
-+Pl+Gen:%>id’en K ;
++Pl+Gen:%>idʼen K ;
 
 LEXICON PL-ACC-SUF
 +Pl+Acc:%>d K ;
