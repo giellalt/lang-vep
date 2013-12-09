@@ -56,6 +56,27 @@ V3:ä
 V3:ö
 V3:0
 
+! These are for developing underlying morphology rules:
+! SNM: Symbols copied from root.lexc, not earlier defined; they need proper
+! rules to be realised (or not) depending on context, and with correct
+! realisation.
+ AO1:0
+  D1:0
+  E1:0
+ EH1:0
+ EI1:0
+  I1:0
+INE1:0
+QAO1:0 QAO1:a
+QAQ1:0
+QEQ1:0
+QÄQ1:0
+  U1:0
+ ZD1:0
+ ZD1:0
+ ZS1:0
+ ZS1:0
+
 ! Veps 
  %^DEVOICE:0 ! vezi:vet; pen’:pen’t
 
@@ -150,10 +171,13 @@ Rules
 ! Stem vowel loss before preterite and plural "i"
 "StemVowLoss before _i_"
 !! __@RULENAME@__  
- X:Y <=> # Cns* Vow+ Cns+ _  %> i  ;
-           where X in (e )
-                 Y in (0 ) matched ;
- 
+ e:0 <=> # Cns* Vow+ Cns+ _  %> i  ;
+
+"QAO1 Sg Rule"
+QAO1:a <=> _ ( %^DEVOICE: ) %> Cns ;
+
+"QAO1 Pl Rule"
+QAO1:o <=> _ ( %^DEVOICE: ) %> :i ( %^DEVOICE: ) Cns ;
 
 
 
