@@ -62,50 +62,50 @@ Tests:
      marj+N+Pl+Add1: marjoihepäi
      marj+N+Pl+Add2: marjoilepäi
 
-     marj+N+Sg+Nom+Clt: marjki
-     marj+N+Sg+Gen+Clt: marjanki
-     marj+N+Sg+Acc+Clt: [marjki, marjanki]
-     marj+N+Sg+Par+Clt: marjadki
-     marj+N+Sg+Tra+Clt: marjakski
-     marj+N+Sg+Abe+Clt: marjataki
-     marj+N+Sg+Com+Clt: marjankeki
-     marj+N+Sg+Ine+Clt: marjaski
-     marj+N+Sg+Ela+Clt: marjaspäiki
-     marj+N+Sg+Ill+Clt: marjahoki
-     marj+N+Sg+Ade+Clt: marjalki
-     marj+N+Sg+Abl+Clt: marjalpäiki
-     marj+N+Sg+All+Clt: marjaleki
-     marj+N+Sg+EssInst+Clt: marjanki
-     marj+N+Sg+Prl+Clt: marjadmeki
-     marj+N+Sg+Apr1+Clt: marjannoki
-     marj+N+Sg+Apr2+Clt: marjannokski
-     marj+N+Sg+Egr+Clt: marjannopäiki
-     marj+N+Sg+Ter1+Clt: marjahosaiki
-     marj+N+Sg+Ter2+Clt: marjalesaiki
-     marj+N+Sg+Ter3+Clt: marjassaiki
-     marj+N+Sg+Add1+Clt: marjahopäiki
-     marj+N+Sg+Add2+Clt: marjalepäiki
+     marj+N+Sg+Nom+Foc/ki: marjki
+     marj+N+Sg+Gen+Foc/ki: marjanki
+     marj+N+Sg+Acc+Foc/ki: [marjki, marjanki]
+     marj+N+Sg+Par+Foc/ki: marjadki
+     marj+N+Sg+Tra+Foc/ki: marjakski
+     marj+N+Sg+Abe+Foc/ki: marjataki
+     marj+N+Sg+Com+Foc/ki: marjankeki
+     marj+N+Sg+Ine+Foc/ki: marjaski
+     marj+N+Sg+Ela+Foc/ki: marjaspäiki
+     marj+N+Sg+Ill+Foc/ki: marjahoki
+     marj+N+Sg+Ade+Foc/ki: marjalki
+     marj+N+Sg+Abl+Foc/ki: marjalpäiki
+     marj+N+Sg+All+Foc/ki: marjaleki
+     marj+N+Sg+EssInst+Foc/ki: marjanki
+     marj+N+Sg+Prl+Foc/ki: marjadmeki
+     marj+N+Sg+Apr1+Foc/ki: marjannoki
+     marj+N+Sg+Apr2+Foc/ki: marjannokski
+     marj+N+Sg+Egr+Foc/ki: marjannopäiki
+     marj+N+Sg+Ter1+Foc/ki: marjahosaiki
+     marj+N+Sg+Ter2+Foc/ki: marjalesaiki
+     marj+N+Sg+Ter3+Foc/ki: marjassaiki
+     marj+N+Sg+Add1+Foc/ki: marjahopäiki
+     marj+N+Sg+Add2+Foc/ki: marjalepäiki
 
-     marj+N+Pl+Nom+Clt: marjadki
-     marj+N+Pl+Gen+Clt: [marjoid'enki, marjoidenki] # Check
-     marj+N+Pl+Acc+Clt: marjadki
-     marj+N+Pl+Par+Clt: marjoidki
-     marj+N+Pl+Tra+Clt: marjoikški
-     marj+N+Pl+Abe+Clt: marjoitaki
-     marj+N+Pl+Com+Clt: marjoidenkeki
-     marj+N+Pl+Ine+Clt: marjoiški
-     marj+N+Pl+Ela+Clt: marjoišpäiki
-     marj+N+Pl+Ill+Clt: marjoiheki
-     marj+N+Pl+Ade+Clt: marjoilki
-     marj+N+Pl+Abl+Clt: marjoilpäiki
-     marj+N+Pl+All+Clt: marjoileki
-     marj+N+Pl+EssInst+Clt: marjoinki
-     marj+N+Pl+Prl+Clt: marjoidmeki
-     marj+N+Pl+Apr1+Clt: marjoidennoki
-     marj+N+Pl+Apr2+Clt: marjoidennokski
-     marj+N+Pl+Egr+Clt: marjoidennopäiki
-     marj+N+Pl+Ter1+Clt: marjoihesaiki
-     marj+N+Pl+Ter2+Clt: marjoilesaiki
-     marj+N+Pl+Add1+Clt: marjoihepäiki
-     marj+N+Pl+Add2+Clt: marjoilepäiki
+     marj+N+Pl+Nom+Foc/ki: marjadki
+     marj+N+Pl+Gen+Foc/ki: [marjoid'enki, marjoidenki] # Check
+     marj+N+Pl+Acc+Foc/ki: marjadki
+     marj+N+Pl+Par+Foc/ki: marjoidki
+     marj+N+Pl+Tra+Foc/ki: marjoikški
+     marj+N+Pl+Abe+Foc/ki: marjoitaki
+     marj+N+Pl+Com+Foc/ki: marjoidenkeki
+     marj+N+Pl+Ine+Foc/ki: marjoiški
+     marj+N+Pl+Ela+Foc/ki: marjoišpäiki
+     marj+N+Pl+Ill+Foc/ki: marjoiheki
+     marj+N+Pl+Ade+Foc/ki: marjoilki
+     marj+N+Pl+Abl+Foc/ki: marjoilpäiki
+     marj+N+Pl+All+Foc/ki: marjoileki
+     marj+N+Pl+EssInst+Foc/ki: marjoinki
+     marj+N+Pl+Prl+Foc/ki: marjoidmeki
+     marj+N+Pl+Apr1+Foc/ki: marjoidennoki
+     marj+N+Pl+Apr2+Foc/ki: marjoidennokski
+     marj+N+Pl+Egr+Foc/ki: marjoidennopäiki
+     marj+N+Pl+Ter1+Foc/ki: marjoihesaiki
+     marj+N+Pl+Ter2+Foc/ki: marjoilesaiki
+     marj+N+Pl+Add1+Foc/ki: marjoihepäiki
+     marj+N+Pl+Add2+Foc/ki: marjoilepäiki
   
