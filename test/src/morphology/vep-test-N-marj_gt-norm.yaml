@@ -18,7 +18,7 @@ Tests:
      marj+N+Sg+Nom: marj
      marj+N+Sg+Gen: marjan
      marj+N+Sg+Acc: [marj, marjan]
-     marj+N+Sg+Part: marjad
+     marj+N+Sg+Par: marjad
      marj+N+Sg+Tra: marjaks
      marj+N+Sg+Abe: marjata
      marj+N+Sg+Com: marjanke
@@ -40,9 +40,9 @@ Tests:
      marj+N+Sg+Add2: marjalepäi
 
      marj+N+Pl+Nom: marjad
-     marj+N+Pl+Gen: [nadoid'en, nadoiden]# checking needed
+     marj+N+Pl+Gen: [marjoid'en, marjoiden] # checking needed
      marj+N+Pl+Acc: marjad
-     marj+N+Pl+Part: marjoid
+     marj+N+Pl+Par: marjoid
      marj+N+Pl+Tra: marjoikš
      marj+N+Pl+Abe: marjoita
      marj+N+Pl+Com: marjoidenke
@@ -65,7 +65,7 @@ Tests:
      marj+N+Sg+Nom+Clt: marjki
      marj+N+Sg+Gen+Clt: marjanki
      marj+N+Sg+Acc+Clt: [marjki, marjanki]
-     marj+N+Sg+Part+Clt: marjadki
+     marj+N+Sg+Par+Clt: marjadki
      marj+N+Sg+Tra+Clt: marjakski
      marj+N+Sg+Abe+Clt: marjataki
      marj+N+Sg+Com+Clt: marjankeki
@@ -87,9 +87,9 @@ Tests:
      marj+N+Sg+Add2+Clt: marjalepäiki
 
      marj+N+Pl+Nom+Clt: marjadki
-     marj+N+Pl+Gen+Clt: [nadoid'enki, nadoidenki]# Check
+     marj+N+Pl+Gen+Clt: [marjoid'enki, marjoidenki] # Check
      marj+N+Pl+Acc+Clt: marjadki
-     marj+N+Pl+Part+Clt: marjoidki
+     marj+N+Pl+Par+Clt: marjoidki
      marj+N+Pl+Tra+Clt: marjoikški
      marj+N+Pl+Abe+Clt: marjoitaki
      marj+N+Pl+Com+Clt: marjoidenkeki
