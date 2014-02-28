@@ -9,16 +9,15 @@
             <st Contlex="CcTag">a</st>
          </stg>
       </lg>
-      <pos>CC</pos>
       <mg>
          <m>
             <head/>
          </m>
          <tg xml:lang="eng">
-            <t>but</t>
+            <t pos="CC">but</t>
          </tg>
          <tg xml:lang="fin">
-            <t>mutta</t>
+            <t pos="CC">mutta</t>
          </tg>
       </mg>
    </e>
@@ -29,16 +28,15 @@
             <st Contlex="CcTag">da</st>
          </stg>
       </lg>
-      <pos>CC</pos>
       <mg>
          <m>
             <head/>
          </m>
          <tg xml:lang="eng">
-            <t>and</t>
+            <t pos="CC">and</t>
          </tg>
          <tg xml:lang="fin">
-            <t>ja</t>
+            <t pos="CC">ja</t>
          </tg>
       </mg>
    </e>
@@ -49,16 +47,15 @@
             <st Contlex="CcTag">i</st>
          </stg>
       </lg>
-      <pos>CC</pos>
       <mg>
          <m>
             <head/>
          </m>
          <tg xml:lang="eng">
-            <t>and</t>
+            <t pos="CC">and</t>
          </tg>
          <tg xml:lang="fin">
-            <t>ja</t>
+            <t pos="CC">ja</t>
          </tg>
       </mg>
    </e>
