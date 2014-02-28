@@ -9,36 +9,34 @@
             <st Contlex="N_CIPUINE">cipu</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
          <m>
             <head/>
          </m>
          <tg xml:lang="eng">
-            <t>chick</t>
+            <t pos="N">chick</t>
          </tg>
          <tg xml:lang="fin">
-            <t>tipu</t>
+            <t pos="N">tipu</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="N">kel'</l>
+         <l pos="N">kelʼ</l>
          <stg>
-            <st Contlex="N_KEL">kel'</st>
+            <st Contlex="N_KEL">kelʼ</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
          <m>
             <head/>
          </m>
          <tg xml:lang="eng">
-            <t>tongue; language</t>
+            <t pos="N">tongue; language</t>
          </tg>
          <tg xml:lang="fin">
-            <t>kieli</t>
+            <t pos="N">kieli</t>
          </tg>
       </mg>
    </e>
@@ -49,16 +47,15 @@
             <st Contlex="N_KOJADUZ">kojaduz</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
          <m>
             <head/>
          </m>
          <tg xml:lang="eng">
-            <t>echo</t>
+            <t pos="N">echo</t>
          </tg>
          <tg xml:lang="fin">
-            <t>kaiku</t>
+            <t pos="N">kaiku</t>
          </tg>
       </mg>
    </e>
@@ -69,16 +66,15 @@
             <st Contlex="N_LANDEH">land</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
          <m>
             <head/>
          </m>
          <tg xml:lang="eng">
-            <t>hip</t>
+            <t pos="N">hip</t>
          </tg>
          <tg xml:lang="fin">
-            <t>lanne</t>
+            <t pos="N">lanne</t>
          </tg>
       </mg>
    </e>
@@ -89,16 +85,15 @@
             <st Contlex="N_MARJ">marj</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
          <m>
             <head/>
          </m>
          <tg xml:lang="eng">
-            <t>berry</t>
+            <t pos="N">berry</t>
          </tg>
          <tg xml:lang="fin">
-            <t>marja</t>
+            <t pos="N">marja</t>
          </tg>
       </mg>
    </e>
@@ -109,37 +104,35 @@
             <st Contlex="N_NADO">nado</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
          <m>
             <head/>
          </m>
          <tg xml:lang="eng">
-            <t>sister-in-law</t>
+            <t pos="N">sister-in-law</t>
          </tg>
          <tg xml:lang="fin">
-            <t>nato</t>
-            <t>käly???</t>
+            <t pos="N">nato</t>
+            <t pos="N">käly???</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="N">noruz'</l>
+         <l pos="N">noruzʼ</l>
          <stg>
             <st Contlex="N_NORUZ">norud</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
          <m>
             <head/>
          </m>
          <tg xml:lang="eng">
-            <t>youth</t>
+            <t pos="N">youth</t>
          </tg>
          <tg xml:lang="fin">
-            <t>nuoruus</t>
+            <t pos="N">nuoruus</t>
          </tg>
       </mg>
    </e>
@@ -150,16 +143,15 @@
             <st Contlex="N_SHAPUK">šapU1k</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
          <m>
             <head/>
          </m>
          <tg xml:lang="eng">
-            <t>chick</t>
+            <t pos="N">chick</t>
          </tg>
          <tg xml:lang="fin">
-            <t>tipu</t>
+            <t pos="N">tipu</t>
          </tg>
       </mg>
    </e>
@@ -170,16 +162,15 @@
             <st Contlex="N_VEDÄI">vedäi</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
          <m>
             <head/>
          </m>
          <tg xml:lang="eng">
-            <t>leader</t>
+            <t pos="N">leader</t>
          </tg>
          <tg xml:lang="fin">
-            <t>johtaja</t>
+            <t pos="N">johtaja</t>
          </tg>
       </mg>
    </e>
@@ -190,36 +181,34 @@
             <st Contlex="N_VEPS">veps</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
          <m>
             <head/>
          </m>
          <tg xml:lang="eng">
-            <t>Veps</t>
+            <t pos="N">Veps</t>
          </tg>
          <tg xml:lang="fin">
-            <t>vepsä</t>
+            <t pos="N">vepsä</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="N">voz'</l>
+         <l pos="N">vozʼ</l>
          <stg>
             <st Contlex="N_NORUZ">vod</st>
          </stg>
       </lg>
-      <pos>V</pos>
       <mg>
          <m>
             <head/>
          </m>
          <tg xml:lang="eng">
-            <t>year</t>
+            <t pos="N">year</t>
          </tg>
          <tg xml:lang="fin">
-            <t>vuosi</t>
+            <t pos="N">vuosi</t>
          </tg>
       </mg>
    </e>
@@ -230,17 +219,16 @@
             <st Contlex="N_KÄZI">käd</st>
          </stg>
       </lg>
-      <pos>N</pos>
       <mg>
          <m>
             <head/>
          </m>
          <tg xml:lang="eng">
-            <t>hand</t>
-            <t>arm</t>
+            <t pos="N">hand</t>
+            <t pos="N">arm</t>
          </tg>
          <tg xml:lang="fin">
-            <t>käsi</t>
+            <t pos="N">käsi</t>
          </tg>
       </mg>
    </e>
