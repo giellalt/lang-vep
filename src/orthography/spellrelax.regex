@@ -2,6 +2,20 @@
 
 # TODO: palatalization marks to be added.
 
+sʼ (->) s’, !!= * @CODE@ = U+02BC MODIFIER LETTER APOSTROPHE NOT right quote
+zʼ (->) z’, !!= * @CODE@ = U+02BC MODIFIER LETTER APOSTROPHE NOT right quote
+rʼ (->) r’, !!= * @CODE@ = U+02BC MODIFIER LETTER APOSTROPHE NOT right quote
+lʼ (->) l’, !!= * @CODE@ = U+02BC MODIFIER LETTER APOSTROPHE NOT right quote
+nʼ (->) n’, !!= * @CODE@ = U+02BC MODIFIER LETTER APOSTROPHE NOT right quote
+tʼ (->) t’, !!= * @CODE@ = U+02BC MODIFIER LETTER APOSTROPHE NOT right quote
+dʼ (->) d’, !!= * @CODE@ = U+02BC MODIFIER LETTER APOSTROPHE NOT right quote
+sʼ (->) s', !!= * @CODE@ = U+02BC MODIFIER LETTER APOSTROPHE NOT APOSTRPHE
+zʼ (->) z', !!= * @CODE@ = U+02BC MODIFIER LETTER APOSTROPHE NOT APOSTRPHE
+rʼ (->) r', !!= * @CODE@ = U+02BC MODIFIER LETTER APOSTROPHE NOT APOSTRPHE
+lʼ (->) l', !!= * @CODE@ = U+02BC MODIFIER LETTER APOSTROPHE NOT APOSTRPHE
+nʼ (->) n', !!= * @CODE@ = U+02BC MODIFIER LETTER APOSTROPHE NOT APOSTRPHE
+tʼ (->) t', !!= * @CODE@ = U+02BC MODIFIER LETTER APOSTROPHE NOT APOSTRPHE
+dʼ (->) d', !!= * @CODE@ = U+02BC MODIFIER LETTER APOSTROPHE NOT APOSTRPHE
 dʼ (->) d, !!= * @CODE@ = d with U+02BC MODIFIER LETTER APOSTROPHE
 á (->) á
 
