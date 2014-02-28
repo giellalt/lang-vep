@@ -9,16 +9,15 @@
             <st Contlex="A_">čoma</st>
          </stg>
       </lg>
-      <pos>A</pos>
       <mg>
          <m>
             <head/>
          </m>
          <tg xml:lang="eng">
-            <t>beautiful</t>
+            <t pos="A">beautiful</t>
          </tg>
          <tg xml:lang="fin">
-            <t>kaunis</t>
+            <t pos="A">kaunis</t>
          </tg>
       </mg>
    </e>
@@ -29,36 +28,34 @@
             <st Contlex="A_RUSKED">ruskedA1</st>
          </stg>
       </lg>
-      <pos>A</pos>
       <mg>
          <m>
             <head/>
          </m>
          <tg xml:lang="eng">
-            <t>red</t>
+            <t pos="A">red</t>
          </tg>
          <tg xml:lang="fin">
-            <t>punainen</t>
+            <t pos="A">punainen</t>
          </tg>
       </mg>
    </e>
    <e>
       <lg>
-         <l pos="A">uz’</l>
+         <l pos="A">uzʼ</l>
          <stg>
             <st Contlex="A_UZ">ud</st>
          </stg>
       </lg>
-      <pos>A</pos>
       <mg>
          <m>
             <head/>
          </m>
          <tg xml:lang="eng">
-            <t>new</t>
+            <t pos="A">new</t>
          </tg>
          <tg xml:lang="fin">
-            <t>uusi</t>
+            <t pos="A">uusi</t>
          </tg>
       </mg>
    </e>

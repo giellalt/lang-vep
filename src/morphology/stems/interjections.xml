@@ -4,12 +4,11 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions">
    <e>
       <lg>
-         <l pos="INTERJ">aj</l>
+         <l pos="Interj">aj</l>
          <stg>
             <st Contlex="InterjTag">aj</st>
          </stg>
       </lg>
-      <pos>INTERJ</pos>
       <mg>
          <m>
             <head/>
