@@ -10,7 +10,7 @@
   / [affixes|https://victorio.uit.no/langtech/trunk/langs/vep/src/morphology/affixes/] 
   / [syntax|https://victorio.uit.no/langtech/trunk/langs/vep/src/syntax/] 
   / [twolc|https://victorio.uit.no/langtech/trunk/langs/vep/src/phonology/vep-phon.twolc]   
-  / [yaml|https://victorio.uit.no/langtech/trunk/langs/vep/test/src/morphology/]
+  / [yaml|https://victorio.uit.no/langtech/trunk/langs/vep/test/src/gt-norm-yamls/]
 * Generation of: [paradigms|http://giellatekno.uit.no/cgi/p-vep.fin.html]
   / [text|http://giellatekno.uit.no/cgi/d-vep.fin.html]
 
