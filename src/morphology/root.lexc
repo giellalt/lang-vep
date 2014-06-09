@@ -86,9 +86,18 @@ Multichar_Symbols
  +Tra !!= * @CODE@ = translative
  +Voc !!= * @CODE@ = Vocative
 
- +Pros +Adc  +Apr +Egr		  !!= * @CODE@ = 
- +Ter1 +Ter2 +Ter3 +Add1 +Add2	  !!= * @CODE@ = 
- +Apr1 +Apr2						  !!= * @CODE@ = 
+ +Pros	  !!= * @CODE@ = 
+ +Adc	  !!= * @CODE@ = 
+
+ +Apr	  !!= * @CODE@ = 
+ +Egr		  !!= * @CODE@ = 
+ +Ter1	  !!= * @CODE@ = 	  
++Ter2	  !!= * @CODE@ = 
++Ter3	  !!= * @CODE@ = 
++Add1	  !!= * @CODE@ = 
++Add2	  !!= * @CODE@ = 
+ +Apr1	  !!= * @CODE@ = 
++Apr2						  !!= * @CODE@ = 
  +EssInst							  !!= * @CODE@ = 
 
 !! The Usage extents are marked using the following tags:
@@ -99,16 +108,22 @@ Multichar_Symbols
 
 !! !The possession is marked as such:
 
- +PxSg1 +PxSg2 +PxSg3                 !!= * @CODE@ = 
- +PxPl1 +PxPl2 +PxPl3                 !!= * @CODE@ = 
+ +PxSg1	  !!= * @CODE@ = 
++PxSg2	  !!= * @CODE@ = 
++PxSg3                 !!= * @CODE@ = 
+ +PxPl1	  !!= * @CODE@ = 
++PxPl2	  !!= * @CODE@ = 
++PxPl3                 !!= * @CODE@ = 
 
 !! The comparative forms are:
 
- +Comp +Superl                 !!= * @CODE@ = 
+ +Comp 	  !!= * @CODE@ = 
+ +Superl                 !!= * @CODE@ = 
 
 !! Numerals are classified under:
 
- +Attr +Card                !!= * @CODE@ = 
+ +Attr 	  !!= * @CODE@ = 
+ +Card                !!= * @CODE@ = 
  +Ord 		                !!= * @CODE@ = 
 
 !! Verb tense and moods are:
@@ -118,22 +133,42 @@ Multichar_Symbols
  +Imprt !!= * @CODE@ = imperative
 
 !! Tenses
- +Prs +Prt 		            !!= * @CODE@ = 
+ +Prs	  !!= * @CODE@ = 
+  +Prt 		            !!= * @CODE@ = 
  +Pos			            !!= * @CODE@ = 
 
 !! Verb personal forms are:
 
- +ScSg1 +ScSg2 +ScSg3 +ScPl1 +ScPl2 +ScPl3   !!= * @CODE@ = 
- +RcSg1 +RcSg2 +RcSg3 +RcPl1 +RcPl2 +RcPl3   !!= * @CODE@ = 
- +RcSg +RcPl +ScSg +ScPl				     !!= * @CODE@ = 
++ScSg1   !!= * @CODE@ 
++ScSg2   !!= * @CODE@ 
++ScSg3   !!= * @CODE@ 
++ScPl1   !!= * @CODE@ 
++ScPl2   !!= * @CODE@ 
++ScPl3   !!= * @CODE@ = 
+ +RcSg1   !!= * @CODE@
++RcSg2    !!= * @CODE@
++RcSg3    !!= * @CODE@
++RcPl1    !!= * @CODE@
++RcPl2    !!= * @CODE@
++RcPl3   !!= * @CODE@ = 
++RcSg    !!= * @CODE@
++RcPl    !!= * @CODE@
++ScSg    !!= * @CODE@
++ScPl				     !!= * @CODE@ = 
 
 !! Other verb forms are
 
- +Inf +Ger +Neg                 !!= * @CODE@ = 
- +ConNeg +ConNegII              !!= * @CODE@ = 
+ +Inf   !!= * @CODE@
++Ger  !!= * @CODE@
++Neg                 !!= * @CODE@ = 
+ +ConNeg   !!= * @CODE@
+ +ConNegII              !!= * @CODE@ = 
  +ImprtII          		!!= * @CODE@ = 
- +PrsPrc +PrfPrc                !!= * @CODE@ = 
- +Sup +VGen +VAbess             !!= * @CODE@ = 
+ +PrsPrc   !!= * @CODE@
+ +PrfPrc                !!= * @CODE@ = 
+ +Sup   !!= * @CODE@
+ +VGen   !!= * @CODE@
+ +VAbess             !!= * @CODE@ = 
 
 !! !ADVERBS
  +Manner	!!= * @CODE@ = 
@@ -142,15 +177,20 @@ Multichar_Symbols
 
 !! Abbreviated words are classified with:
 
- +ABBR +ACR   !!= * @CODE@ = 
+ +ABBR   !!= * @CODE@
+ +ACR   !!= * @CODE@ = 
 
 !! Special symbols are classified with:
 
- +CLB +PUNCT +LEFT +RIGHT !!= * @CODE@ = 
+ +CLB  !!= * @CODE@
++PUNCT  !!= * @CODE@
++LEFT  !!= * @CODE@
++RIGHT !!= * @CODE@ = 
 
 !! The verbs are syntactically split according to transitivity:
 
- +TV +IV  !!= * @CODE@ = 
+ +TV   !!= * @CODE@
+ +IV  !!= * @CODE@ = 
 
 !! Special multiword units are analysed with:
 
@@ -163,7 +203,8 @@ Multichar_Symbols
 
 !! Question and Focus particles:
 
- +Qst +Foc       !!= * @CODE@ = 
+ +Qst   !!= * @CODE@
+ +Foc       !!= * @CODE@ = 
 +Clt	         !!= * @CODE@ = 
 +Foc/ki	         !!= * @CODE@ = 
 +Foc/žo	         !!= * @CODE@ = 
@@ -180,7 +221,9 @@ Multichar_Symbols
 
 
 !! Semantics are classified with
- +Mal +Fem +Sur    !!= * @CODE@ = 
+ +Mal   !!= * @CODE@
+ +Fem   !!= * @CODE@
+ +Sur    !!= * @CODE@ = 
  +Plc 			   !!= * @CODE@ = 
  +Org			   !!= * @CODE@ = 
  +Obj			   !!= * @CODE@ = 
@@ -201,7 +244,9 @@ Multichar_Symbols
 
 !! Derivations are classified under the morphophonetic form of the suffix, the
 !! source and target part-of-speech.
- +V→N +V→V +V→A     !!= * @CODE@ = 
+ +V→N   !!= * @CODE@
+ +V→V   !!= * @CODE@
+ +V→A     !!= * @CODE@ = 
 +Der/Ta		        !!= * @CODE@ = 
 +Der/Te		        !!= * @CODE@ = 
 +Der/ma		        !!= * @CODE@ = 
@@ -215,37 +260,64 @@ Multichar_Symbols
 !! To represent phonologic variations in word forms we use the following
 !! symbols in the lexicon files:
 
- {aä} {oö} {uü}
+ {aä}   !!= * @CODE@
+ {oö}   !!= * @CODE@
+ {uü}  !!= * @CODE@
 
 !! And following triggers to control variation
 
- {front} {back}
+ {front}   !!= * @CODE@
+ {back}  !!= * @CODE@
 %>
 %-
-%^WGStem %^TS %^RVow
- %^LVow %^LCns
-%^WCns
-%^AtoO
-%^ÄtoÖ
-%^OddSyll
-%^StretchSyll2
-%^SyllBr
-%^E1
+%^WGStem         !!= * @CODE@
+%^TS 		     !!= * @CODE@
+%^RVow		     !!= * @CODE@
+ %^LVow 	     !!= * @CODE@
+ %^LCns		     !!= * @CODE@
+%^WCns		     !!= * @CODE@
+%^AtoO		     !!= * @CODE@
+%^ÄtoÖ		     !!= * @CODE@
+%^OddSyll	     !!= * @CODE@
+%^StretchSyll2   !!= * @CODE@
+%^SyllBr	     !!= * @CODE@
+%^E1		     !!= * @CODE@
 
 ! Protoletters for xfst
 
 %^DEVOICE
-QAQ1 QAO1 QÄQ1
-EH1 QEQ1 INE1 ZD1 ZS1 V1
-AO1 EI1 ZS1 ZD1  ! These are for developing underlying morphology rules
-D1 E1 U1 I1
+QAQ1   !!= * @CODE@
+QAO1   !!= * @CODE@
+QÄQ1   !!= * @CODE@
+EH1	   !!= * @CODE@
+QEQ1   !!= * @CODE@
+INE1   !!= * @CODE@
+ZD1	   !!= * @CODE@
+ZS1	   !!= * @CODE@
+V1	   !!= * @CODE@
+AO1	   !!= * @CODE@
+EI1	   !!= * @CODE@
+ZS1	   !!= * @CODE@
+ZD1    !!= * @CODE@ These are for developing underlying morphology rules
+D1	   !!= * @CODE@
+E1	   !!= * @CODE@
+U1	   !!= * @CODE@
+I1	   !!= * @CODE@
+	   !!= * @CODE@
+AÄ1	   !!= * @CODE@
+OÖ1	   !!= * @CODE@
+UY1	   !!= * @CODE@
+V1	   !!= * @CODE@
+V2	   !!= * @CODE@
+V3	   !!= * @CODE@
 
-AÄ1 OÖ1 UY1 V1 V2 V3 
 
 !! We have manually optimised the structure of our lexicon using following
 !! flag diacritics to restrict morhpological combinatorics:
 
-@P.NeedNoun.ON@  @D.NeedNoun.ON@  @C.NeedNoun@
+@P.NeedNoun.ON@    !!= * @CODE@
+@D.NeedNoun.ON@    !!= * @CODE@
+@C.NeedNoun@	   !!= * @CODE@
 
 LEXICON Root
 !! The word forms in Veps start from the lexeme roots of basic

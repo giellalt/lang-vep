@@ -72,9 +72,18 @@ Nominals are inflected for Number and Case
  *  +Tra  = translative
  *  +Voc  = Vocative
 
- *  +Pros +Adc  +Apr +Egr		   = 
- *  +Ter1 +Ter2 +Ter3 +Add1 +Add2	   = 
- *  +Apr1 +Apr2						   = 
+ *  +Pros	   = 
+ *  +Adc	   = 
+
+ *  +Apr	   = 
+ *  +Egr		   = 
+ *  +Ter1	   = 	  
+ * +Ter2	   = 
+ * +Ter3	   = 
+ * +Add1	   = 
+ * +Add2	   = 
+ *  +Apr1	   = 
+ * +Apr2						   = 
  *  +EssInst							   = 
 
 The Usage extents are marked using the following tags:
@@ -85,16 +94,22 @@ The Usage extents are marked using the following tags:
 
 !The possession is marked as such:
 
- *  +PxSg1 +PxSg2 +PxSg3                  = 
- *  +PxPl1 +PxPl2 +PxPl3                  = 
+ *  +PxSg1	   = 
+ * +PxSg2	   = 
+ * +PxSg3                  = 
+ *  +PxPl1	   = 
+ * +PxPl2	   = 
+ * +PxPl3                  = 
 
 The comparative forms are:
 
- *  +Comp +Superl                  = 
+ *  +Comp 	   = 
+ *  +Superl                  = 
 
 Numerals are classified under:
 
- *  +Attr +Card                 = 
+ *  +Attr 	   = 
+ *  +Card                 = 
  *  +Ord 		                 = 
 
 Verb tense and moods are:
@@ -104,22 +119,42 @@ Verb tense and moods are:
  *  +Imprt  = imperative
 
 Tenses
- *  +Prs +Prt 		             = 
+ *  +Prs	   = 
+ *   +Prt 		             = 
  *  +Pos			             = 
 
 Verb personal forms are:
 
- *  +ScSg1 +ScSg2 +ScSg3 +ScPl1 +ScPl2 +ScPl3    = 
- *  +RcSg1 +RcSg2 +RcSg3 +RcPl1 +RcPl2 +RcPl3    = 
- *  +RcSg +RcPl +ScSg +ScPl				      = 
+ * +ScSg1    
+ * +ScSg2    
+ * +ScSg3    
+ * +ScPl1    
+ * +ScPl2    
+ * +ScPl3    = 
+ *  +RcSg1   
+ * +RcSg2    
+ * +RcSg3    
+ * +RcPl1    
+ * +RcPl2    
+ * +RcPl3    = 
+ * +RcSg    
+ * +RcPl    
+ * +ScSg    
+ * +ScPl				      = 
 
 Other verb forms are
 
- *  +Inf +Ger +Neg                  = 
- *  +ConNeg +ConNegII               = 
+ *  +Inf   
+ * +Ger  
+ * +Neg                  = 
+ *  +ConNeg   
+ *  +ConNegII               = 
  *  +ImprtII          		 = 
- *  +PrsPrc +PrfPrc                 = 
- *  +Sup +VGen +VAbess              = 
+ *  +PrsPrc   
+ *  +PrfPrc                 = 
+ *  +Sup   
+ *  +VGen   
+ *  +VAbess              = 
 
 !ADVERBS
  *  +Manner	 = 
@@ -128,15 +163,20 @@ Other verb forms are
 
 Abbreviated words are classified with:
 
- *  +ABBR +ACR    = 
+ *  +ABBR   
+ *  +ACR    = 
 
 Special symbols are classified with:
 
- *  +CLB +PUNCT +LEFT +RIGHT  = 
+ *  +CLB  
+ * +PUNCT  
+ * +LEFT  
+ * +RIGHT  = 
 
 The verbs are syntactically split according to transitivity:
 
- *  +TV +IV   = 
+ *  +TV   
+ *  +IV   = 
 
 Special multiword units are analysed with:
 
@@ -149,7 +189,8 @@ Non-dictionary words can be recognised with:
 
 Question and Focus particles:
 
- *  +Qst +Foc        = 
+ *  +Qst   
+ *  +Foc        = 
  * +Clt	          = 
  * +Foc/ki	          = 
  * +Foc/žo	          = 
@@ -166,7 +207,9 @@ Question and Focus particles:
 
 
 Semantics are classified with
- *  +Mal +Fem +Sur     = 
+ *  +Mal   
+ *  +Fem   
+ *  +Sur     = 
  *  +Plc 			    = 
  *  +Org			    = 
  *  +Obj			    = 
@@ -187,7 +230,9 @@ Semantics are classified with
 
 Derivations are classified under the morphophonetic form of the suffix, the
 source and target part-of-speech.
- *  +V→N +V→V +V→A      = 
+ *  +V→N   
+ *  +V→V   
+ *  +V→A      = 
  * +Der/Ta		         = 
  * +Der/Te		         = 
  * +Der/ma		         = 
@@ -201,16 +246,60 @@ Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
 
+ *  {aä}   
+ *  {oö}   
+ *  {uü}  
 
 And following triggers to control variation
 
+ *  {front}   
+ *  {back}  
+ * %^WGStem         
+ * %^TS 		     
+ * %^RVow		     
+ *  %^LVow 	     
+ *  %^LCns		     
+ * %^WCns		     
+ * %^AtoO		     
+ * %^ÄtoÖ		     
+ * %^OddSyll	     
+ * %^StretchSyll2   
+ * %^SyllBr	     
+ * %^E1		     
 
 
+ * QAQ1   
+ * QAO1   
+ * QÄQ1   
+ * EH1	   
+ * QEQ1   
+ * INE1   
+ * ZD1	   
+ * ZS1	   
+ * V1	   
+ * AO1	   
+ * EI1	   
+ * ZS1	   
+ * ZD1     These are for developing underlying morphology rules
+ * D1	   
+ * E1	   
+ * U1	   
+ * I1	   
+ * 	   
+ * AÄ1	   
+ * OÖ1	   
+ * UY1	   
+ * V1	   
+ * V2	   
+ * V3	   
 
 
 We have manually optimised the structure of our lexicon using following
 flag diacritics to restrict morhpological combinatorics:
 
+ * @P.NeedNoun.ON@    
+ * @D.NeedNoun.ON@    
+ * @C.NeedNoun@	   
 
 The word forms in Veps start from the lexeme roots of basic
 word classes.
