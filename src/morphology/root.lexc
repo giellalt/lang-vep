@@ -31,7 +31,7 @@ Multichar_Symbols
  +Adv    !!= * @CODE@ = adverb
  +CS     !!= * @CODE@ = subordinating conjunction
  +CC     !!= * @CODE@ = coordinating conjunction
- +Interj !!= * @CODE@ = interjection 
+ +Interj !!= * @CODE@ = interjection
  +N      !!= * @CODE@ = noun
  +Num    !!= * @CODE@ = numeral
  +Pcle   !!= * @CODE@ = particle
@@ -76,182 +76,182 @@ Multichar_Symbols
  +Gen !!= * @CODE@ = genitive case
  +Ill !!= * @CODE@ = illative
  +Ine !!= * @CODE@ = inessive
- +Ins !!= * @CODE@ = instrumental 
+ +Ins !!= * @CODE@ = instrumental
  +Instr !!= * @CODE@ = instructive -IN
  +Lat !!= * @CODE@ = Lative
  +Loc !!= * @CODE@ = Locative
  +Nom !!= * @CODE@ = nominative case
  +Par !!= * @CODE@ = partitive
- +Prl !!= * @CODE@ = prolative 
+ +Prl !!= * @CODE@ = prolative
  +Tra !!= * @CODE@ = translative
  +Voc !!= * @CODE@ = Vocative
 
- +Pros	  !!= * @CODE@ = 
- +Adc	  !!= * @CODE@ = 
+ +Pros	  !!= * @CODE@ =
+ +Adc	  !!= * @CODE@ =
 
- +Apr	  !!= * @CODE@ = 
- +Egr		  !!= * @CODE@ = 
- +Ter1	  !!= * @CODE@ = 	  
-+Ter2	  !!= * @CODE@ = 
-+Ter3	  !!= * @CODE@ = 
-+Add1	  !!= * @CODE@ = 
-+Add2	  !!= * @CODE@ = 
- +Apr1	  !!= * @CODE@ = 
-+Apr2						  !!= * @CODE@ = 
- +EssInst							  !!= * @CODE@ = 
+ +Apr	  !!= * @CODE@ =
+ +Egr		  !!= * @CODE@ =
+ +Ter1	  !!= * @CODE@ =
++Ter2	  !!= * @CODE@ =
++Ter3	  !!= * @CODE@ =
++Add1	  !!= * @CODE@ =
++Add2	  !!= * @CODE@ =
+ +Apr1	  !!= * @CODE@ =
++Apr2						  !!= * @CODE@ =
+ +EssInst							  !!= * @CODE@ =
 
 !! The Usage extents are marked using the following tags:
 
- +Err/Sub                     !!= * @CODE@ = 
- +Use/-Spell                  !!= * @CODE@ = 
+ +Err/Sub                     !!= * @CODE@ =
+ +Use/-Spell                  !!= * @CODE@ =
 
 
 !! !The possession is marked as such:
 
- +PxSg1	  !!= * @CODE@ = 
-+PxSg2	  !!= * @CODE@ = 
-+PxSg3                 !!= * @CODE@ = 
- +PxPl1	  !!= * @CODE@ = 
-+PxPl2	  !!= * @CODE@ = 
-+PxPl3                 !!= * @CODE@ = 
+ +PxSg1	  !!= * @CODE@ =
++PxSg2	  !!= * @CODE@ =
++PxSg3                 !!= * @CODE@ =
+ +PxPl1	  !!= * @CODE@ =
++PxPl2	  !!= * @CODE@ =
++PxPl3                 !!= * @CODE@ =
 
 !! The comparative forms are:
 
- +Comp 	  !!= * @CODE@ = 
- +Superl                 !!= * @CODE@ = 
+ +Comp 	  !!= * @CODE@ =
+ +Superl                 !!= * @CODE@ =
 
 !! Numerals are classified under:
 
- +Attr 	  !!= * @CODE@ = 
- +Card                !!= * @CODE@ = 
- +Ord 		                !!= * @CODE@ = 
+ +Attr 	  !!= * @CODE@ =
+ +Card                !!= * @CODE@ =
+ +Ord 		                !!= * @CODE@ =
 
 !! Verb tense and moods are:
 
- +Cond !!= * @CODE@ = conditional 
+ +Cond !!= * @CODE@ = conditional
  +Ind !!= * @CODE@ = indicative
  +Imprt !!= * @CODE@ = imperative
 
 !! Tenses
- +Prs	  !!= * @CODE@ = 
-  +Prt 		            !!= * @CODE@ = 
- +Pos			            !!= * @CODE@ = 
+ +Prs	  !!= * @CODE@ =
+  +Prt 		            !!= * @CODE@ =
+ +Pos			            !!= * @CODE@ =
 
 !! Verb personal forms are:
 
-+ScSg1   !!= * @CODE@ 
-+ScSg2   !!= * @CODE@ 
-+ScSg3   !!= * @CODE@ 
-+ScPl1   !!= * @CODE@ 
-+ScPl2   !!= * @CODE@ 
-+ScPl3   !!= * @CODE@ = 
++ScSg1   !!= * @CODE@
++ScSg2   !!= * @CODE@
++ScSg3   !!= * @CODE@
++ScPl1   !!= * @CODE@
++ScPl2   !!= * @CODE@
++ScPl3   !!= * @CODE@ =
  +RcSg1   !!= * @CODE@
 +RcSg2    !!= * @CODE@
 +RcSg3    !!= * @CODE@
 +RcPl1    !!= * @CODE@
 +RcPl2    !!= * @CODE@
-+RcPl3   !!= * @CODE@ = 
++RcPl3   !!= * @CODE@ =
 +RcSg    !!= * @CODE@
 +RcPl    !!= * @CODE@
 +ScSg    !!= * @CODE@
-+ScPl				     !!= * @CODE@ = 
++ScPl				     !!= * @CODE@ =
 
 !! Other verb forms are
 
  +Inf   !!= * @CODE@
 +Ger  !!= * @CODE@
-+Neg                 !!= * @CODE@ = 
++Neg                 !!= * @CODE@ =
  +ConNeg   !!= * @CODE@
- +ConNegII              !!= * @CODE@ = 
- +ImprtII          		!!= * @CODE@ = 
+ +ConNegII              !!= * @CODE@ =
+ +ImprtII          		!!= * @CODE@ =
  +PrsPrc   !!= * @CODE@
- +PrfPrc                !!= * @CODE@ = 
+ +PrfPrc                !!= * @CODE@ =
  +Sup   !!= * @CODE@
  +VGen   !!= * @CODE@
- +VAbess             !!= * @CODE@ = 
+ +VAbess             !!= * @CODE@ =
 
 !! !ADVERBS
- +Manner	!!= * @CODE@ = 
- +Spat		!!= * @CODE@ = 
- +Temp		!!= * @CODE@ = 
+ +Manner	!!= * @CODE@ =
+ +Spat		!!= * @CODE@ =
+ +Temp		!!= * @CODE@ =
 
 !! Abbreviated words are classified with:
 
  +ABBR   !!= * @CODE@
- +ACR   !!= * @CODE@ = 
+ +ACR   !!= * @CODE@ =
 
 !! Special symbols are classified with:
 
  +CLB  !!= * @CODE@
 +PUNCT  !!= * @CODE@
 +LEFT  !!= * @CODE@
-+RIGHT !!= * @CODE@ = 
++RIGHT !!= * @CODE@ =
 
 !! The verbs are syntactically split according to transitivity:
 
  +TV   !!= * @CODE@
- +IV  !!= * @CODE@ = 
+ +IV  !!= * @CODE@ =
 
 !! Special multiword units are analysed with:
 
- +Multi !!= * @CODE@ = 
+ +Multi !!= * @CODE@ =
 
 !! Non-dictionary words can be recognised with:
 
- +Guess  !!= * @CODE@ = 
+ +Guess  !!= * @CODE@ =
 
 
 !! Question and Focus particles:
 
  +Qst   !!= * @CODE@
- +Foc       !!= * @CODE@ = 
-+Clt	         !!= * @CODE@ = 
-+Foc/ki	         !!= * @CODE@ = 
-+Foc/žo	         !!= * @CODE@ = 
+ +Foc       !!= * @CODE@ =
++Clt	         !!= * @CODE@ =
++Foc/ki	         !!= * @CODE@ =
++Foc/žo	         !!= * @CODE@ =
 
-+Appr	         !!= * @CODE@ = 
-+Advc	         !!= * @CODE@ = 
-+Ter	         !!= * @CODE@ = 
-+Pro	         !!= * @CODE@ = 
-+Car 	         !!= * @CODE@ = 
++Appr	         !!= * @CODE@ =
++Advc	         !!= * @CODE@ =
++Ter	         !!= * @CODE@ =
++Pro	         !!= * @CODE@ =
++Car 	         !!= * @CODE@ =
 
-+PstI	         !!= * @CODE@ = 
-+PstII	         !!= * @CODE@ = 
++PstI	         !!= * @CODE@ =
++PstII	         !!= * @CODE@ =
 
 
 
 !! Semantics are classified with
  +Mal   !!= * @CODE@
  +Fem   !!= * @CODE@
- +Sur    !!= * @CODE@ = 
- +Plc 			   !!= * @CODE@ = 
- +Org			   !!= * @CODE@ = 
- +Obj			   !!= * @CODE@ = 
- +Ani			   !!= * @CODE@ = 
- +Hum			   !!= * @CODE@ = 
- +Plant			   !!= * @CODE@ = 
- +Group			   !!= * @CODE@ = 
- +Time 			   !!= * @CODE@ = 
- +Txt			   !!= * @CODE@ = 
- +Route			   !!= * @CODE@ = 
- +Measr 		   !!= * @CODE@ = 
- +Wthr			   !!= * @CODE@ = 
- +Build 		   !!= * @CODE@ = 
- +Edu			   !!= * @CODE@ = 
- +Veh			   !!= * @CODE@ = 
- +Clth			   !!= * @CODE@ = 
+ +Sur    !!= * @CODE@ =
+ +Plc 			   !!= * @CODE@ =
+ +Org			   !!= * @CODE@ =
+ +Obj			   !!= * @CODE@ =
+ +Ani			   !!= * @CODE@ =
+ +Hum			   !!= * @CODE@ =
+ +Plant			   !!= * @CODE@ =
+ +Group			   !!= * @CODE@ =
+ +Time 			   !!= * @CODE@ =
+ +Txt			   !!= * @CODE@ =
+ +Route			   !!= * @CODE@ =
+ +Measr 		   !!= * @CODE@ =
+ +Wthr			   !!= * @CODE@ =
+ +Build 		   !!= * @CODE@ =
+ +Edu			   !!= * @CODE@ =
+ +Veh			   !!= * @CODE@ =
+ +Clth			   !!= * @CODE@ =
 
 
 !! Derivations are classified under the morphophonetic form of the suffix, the
 !! source and target part-of-speech.
  +V→N   !!= * @CODE@
  +V→V   !!= * @CODE@
- +V→A     !!= * @CODE@ = 
-+Der/Ta		        !!= * @CODE@ = 
-+Der/Te		        !!= * @CODE@ = 
-+Der/ma		        !!= * @CODE@ = 
-+Der/Tu		        !!= * @CODE@ = 
-+Der/IA		        !!= * @CODE@ = 
+ +V→A     !!= * @CODE@ =
++Der/Ta		        !!= * @CODE@ =
++Der/Te		        !!= * @CODE@ =
++Der/ma		        !!= * @CODE@ =
++Der/Tu		        !!= * @CODE@ =
++Der/IA		        !!= * @CODE@ =
 
 
 
@@ -338,13 +338,13 @@ POSTPOSITION ;
 SUBJUNCTION ;
 
 
-LEXICON CcTag 
+LEXICON CcTag
 +CC: # ;
 
 LEXICON CsTag
 +CS: # ;
- 
-LEXICON SUBJUNCTION  
+
+LEXICON SUBJUNCTION
 # ;
 
 LEXICON InterjTag
@@ -364,20 +364,20 @@ LEXICON ORDINAL
 
 
 LEXICON PUNCTUATION
-#; 
+#;
 
 LEXICON POSTPOSITION
-#; 
+#;
 
 LEXICON CADJ
-+A: #; 
++A: #;
 LEXICON DADJ
-+A: #; 
++A: #;
 LEXICON VADJ
 +A: #;
- 
+
 LEXICON AdvTag
-+Adv: # ; 
++Adv: # ;
 
 LEXICON MannerTag
 +Adv+Manner: K ;
@@ -389,13 +389,13 @@ LEXICON TempTag
 +Adv+Temp: K ;
 
 LEXICON CASESUF
-#; 
+#;
 LEXICON PRON
-#; 
+#;
 LEXICON DEM
-#; 
+#;
 LEXICON PERS
-#; 
+#;
 
 
 ! vim: set ft=xfst-lexc:
