@@ -133,6 +133,7 @@ tan
 temp
 trans
 transl
+ven
 vol
 
 LEXICON NOAB   !!= * __@CODE@__ du, gen, jur
