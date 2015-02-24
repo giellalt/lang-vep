@@ -220,7 +220,7 @@ Semantics are classified with
  *  +Sem/Time 			    =
  *  +Sem/Txt			    =
  *  +Sem/Route			    =
- *  +Measr 		    =
+ *  +Sem/Measr 		    =
  *  +Wthr			    =
  *  +Build 		    =
  *  +Edu			    =
