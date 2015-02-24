@@ -212,7 +212,7 @@ Semantics are classified with
  *  +Sem/Sur     =
  *  +Sem/Plc 			    =
  *  +Org			    =
- *  +Obj			    =
+ *  +Sem/Obj			    =
  *  +Ani			    =
  *  +Hum			    =
  *  +Plant			    =
