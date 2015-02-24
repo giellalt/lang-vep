@@ -226,7 +226,7 @@ Multichar_Symbols
  +Sem/Sur    !!= * @CODE@ =
  +Sem/Plc 			   !!= * @CODE@ =
  +Org			   !!= * @CODE@ =
- +Obj			   !!= * @CODE@ =
+ +Sem/Obj			   !!= * @CODE@ =
  +Ani			   !!= * @CODE@ =
  +Hum			   !!= * @CODE@ =
  +Plant			   !!= * @CODE@ =
