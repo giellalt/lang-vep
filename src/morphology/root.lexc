@@ -232,7 +232,7 @@ Multichar_Symbols
  +Sem/Plant			   !!= * @CODE@ =
  +Sem/Group			   !!= * @CODE@ =
  +Sem/Time 			   !!= * @CODE@ =
- +Txt			   !!= * @CODE@ =
+ +Sem/Txt			   !!= * @CODE@ =
  +Route			   !!= * @CODE@ =
  +Measr 		   !!= * @CODE@ =
  +Wthr			   !!= * @CODE@ =
