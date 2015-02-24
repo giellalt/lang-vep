@@ -234,7 +234,7 @@ Multichar_Symbols
  +Sem/Time 			   !!= * @CODE@ =
  +Sem/Txt			   !!= * @CODE@ =
  +Sem/Route			   !!= * @CODE@ =
- +Measr 		   !!= * @CODE@ =
+ +Sem/Measr 		   !!= * @CODE@ =
  +Wthr			   !!= * @CODE@ =
  +Build 		   !!= * @CODE@ =
  +Edu			   !!= * @CODE@ =
