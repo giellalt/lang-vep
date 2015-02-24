@@ -221,7 +221,7 @@ Multichar_Symbols
 
 
 !! Semantics are classified with
- +Mal   !!= * @CODE@
+ +Sem/Mal   !!= * @CODE@
  +Sem/Fem   !!= * @CODE@
  +Sem/Sur    !!= * @CODE@ =
  +Sem/Plc 			   !!= * @CODE@ =
