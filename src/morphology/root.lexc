@@ -225,7 +225,7 @@ Multichar_Symbols
  +Fem   !!= * @CODE@
  +Sem/Sur    !!= * @CODE@ =
  +Sem/Plc 			   !!= * @CODE@ =
- +Org			   !!= * @CODE@ =
+ +Sem/Org			   !!= * @CODE@ =
  +Sem/Obj			   !!= * @CODE@ =
  +Ani			   !!= * @CODE@ =
  +Hum			   !!= * @CODE@ =
