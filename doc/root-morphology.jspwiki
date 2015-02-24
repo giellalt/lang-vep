@@ -218,7 +218,7 @@ Semantics are classified with
  *  +Sem/Plant			    =
  *  +Sem/Group			    =
  *  +Sem/Time 			    =
- *  +Txt			    =
+ *  +Sem/Txt			    =
  *  +Route			    =
  *  +Measr 		    =
  *  +Wthr			    =
