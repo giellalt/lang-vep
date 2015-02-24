@@ -236,7 +236,7 @@ Multichar_Symbols
  +Sem/Route			   !!= * @CODE@ =
  +Sem/Measr 		   !!= * @CODE@ =
  +Sem/Wthr			   !!= * @CODE@ =
- +Build 		   !!= * @CODE@ =
+ +Sem/Build 		   !!= * @CODE@ =
  +Edu			   !!= * @CODE@ =
  +Veh			   !!= * @CODE@ =
  +Clth			   !!= * @CODE@ =
