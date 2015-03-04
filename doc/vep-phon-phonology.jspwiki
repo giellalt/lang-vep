@@ -1,0 +1,71 @@
+!!!The Veps morphophonological/twolc rules file 
+
+
+
+
+ * ʼ  = U+02BC MODIFIER LETTER APOSTROPHE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Right context for gradation
+
+
+!!!Rules
+
+
+!!Vowel change 
+
+__StemVowLoss before _i___  
+
+
+
+
+
+!!Consonant change 
+
+
+__d:z in vodes, voziš__  
+
+
+__d:t in voden, vot__  
+
+__d:0 in voden, vot__  
+
+__z:s in meletuz:meletust__  
+
+__’:0 before vowels__  
+
+
+Borrowed from Ingrian 
+
