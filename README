@@ -60,9 +60,10 @@ If you would rather install in e.g. your home directory
         ./configure --prefix=$HOME
 
 If you are checking out the development versions from SVN you must first create
-and install the necessary autotools files from the host system:
+and install the necessary autotools files from the host system, and check that
+your environment is correctly set up. This is done by doing:
 
-  autoreconf -i
+  ./autogen.sh
 
 It is common practice to keep `generated files out of version control
 <http://www.gnu.org/software/automake/manual/automake.html#CVS>`_.
@@ -81,7 +82,9 @@ procedure:
 	(as root) make install
 
 This will keep all the generated files within the build/ dir, and keep the src/
-dir (mostly) free of generated files.
+dir (mostly) free of generated files. If you are building from the development
+version in SVN, you must run the ./autogen.sh script BEFORE you take the steps
+above.
 
 For further installation instruction refer to file ``INSTALL``, which contains
 the standard installation instructions for GNU autoconf based software.
