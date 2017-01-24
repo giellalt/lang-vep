@@ -1,2 +1,0 @@
-LEXICON VerbRoot
-olda VERB "to be" ;
