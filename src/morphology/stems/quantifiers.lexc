@@ -1,18 +1,18 @@
 
 LEXICON quantifiers
 
-üks':ük NUM_NORUZ  "yksi" ;
-kaks':kak NUM_NORUZ  "kaksi" ;
-koume:koume NUM_  "kolme" ;
-nell':nell' NUM_  "kolme" ;
-viž:viž NUM_  "kolme" ;
-kuz':kuz' NUM_  "kolme" ;
-seičeme:seičeme NUM_  "kolme" ;
-kahesa:kahesa NUM_  "kolme" ;
-ühesa:ühesa NUM_  "kolme" ;
-kümne:kümne NUM_  "kolme" ;
-üks'toštkümne:üks'toštkümne NUM_  "yksitoista" ;
-kaks'toštkümne:kaks'toštkümne NUM_  "kaksitoista" ;
-kaks'kümne:kaks'kümne NUM_  "kaksikymmentä" ;
-sada:sada NUM_  "sata" ;
-tuha:tuhanD1E1 NUM_  "tuhat" ;
+üks'+Num:ük NUM_NORUZ  "yksi" ;
+kaks'+Num:kak NUM_NORUZ  "kaksi" ;
+koume+Num:koume NUM_  "kolme" ;
+nell'+Num:nell' NUM_  "kolme" ;
+viž+Num:viž NUM_  "kolme" ;
+kuz'+Num:kuz' NUM_  "kolme" ;
+seičeme+Num:seičeme NUM_  "kolme" ;
+kahesa+Num:kahesa NUM_  "kolme" ;
+ühesa+Num:ühesa NUM_  "kolme" ;
+kümne+Num:kümne NUM_  "kolme" ;
+üks'toštkümne+Num:üks'toštkümne NUM_  "yksitoista" ;
+kaks'toštkümne+Num:kaks'toštkümne NUM_  "kaksitoista" ;
+kaks'kümne+Num:kaks'kümne NUM_  "kaksikymmentä" ;
+sada+Num:sada NUM_  "sata" ;
+tuha+Num:tuhanD1E1 NUM_  "tuhat" ;
