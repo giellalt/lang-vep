@@ -1,7 +1,7 @@
 
 LEXICON conjuncts
 
-a:a CcTag  "mutta" ;
-da:da CcTag  "ja" ;
-i:i CcTag  "ja" ;
-den:den CsTag  "" ;
+a+CC:a CcTag  "mutta" ;
+da+CC:da CcTag  "ja" ;
+i+CC:i CcTag  "ja" ;
+den+CS:den CsTag  "" ;

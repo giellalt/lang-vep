@@ -1,6 +1,6 @@
 
 LEXICON adjectives
 
-čoma:čoma A_  "kaunis" ;
-rusked:ruskedA1 A_RUSKED  "punainen" ;
-uzʼ:ud A_UZ  "uusi" ;
+čoma+A:čoma A_  "kaunis" ;
+rusked+A:ruskedA1 A_RUSKED  "punainen" ;
+uzʼ+A:ud A_UZ  "uusi" ;
