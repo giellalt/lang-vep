@@ -18,7 +18,8 @@ LEXICON A_RUSKED !!= * @CODE@
 LEXICON A_  !!= * @CODE@, just beginning 
  N_ ;
 
-
+LEXICON A_CIPUINE
+ N_CIPUINE ;
 
 ! vim: set ft=xfst-lexc:
 
