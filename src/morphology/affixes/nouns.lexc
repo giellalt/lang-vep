@@ -20,16 +20,24 @@ LEXICON N_SANA
 :o NMN_RUSKED-PL-OBL ;
 
 LEXICON N_MARJ 
-:QAO1 NMN_ ;
-
-LEXICON N_LIND ! lind:lind
-:a SG-NOM-SUF ;
+!:QAO1 NMN_ ;
+: SG-NOM-SUF ;
 +Sg+Ill:%>ha K ;
 :%>a SG-OBLIQUE ;
 ! Plural
 :%>a PL-NOM-SUF ;
 :%>a PL-ACC-SUF ;
-: PL-OBLIQUE ;
+:o PL-OBLIQUE ;
+
+
+LEXICON N_LIND ! lind:lind
+: SG-NOM-SUF ;
++Sg+Ill:%>hu K ;
+:%>u SG-OBLIQUE ;
+! Plural
+:%>u PL-NOM-SUF ;
+:%>u PL-ACC-SUF ;
+:u PL-OBLIQUE ;
 
 LEXICON N_SHAPUK ! šapuk
 :U1 NMN_ ;
