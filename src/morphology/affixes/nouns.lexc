@@ -71,7 +71,7 @@ LEXICON N_SHAPUK ! šapuk
 
 LEXICON N_UNI ! uni:un
 :i SG-NOM-SUF ;
-: SG-PAR-SUF ;
+: SG-PAR-SUF_t ;
 :e SG-OBLIQUE ;
 ! Plural
 :e PL-NOM-SUF ;
@@ -80,7 +80,7 @@ LEXICON N_UNI ! uni:un
 
 LEXICON N_VENEH ! veneh:veneh
 : SG-NOM-SUF ;
-: SG-PAR-SUF ;
+: SG-PAR-SUF_t ;
 :e SG-OBLIQUE ;
 ! Plural
 :e PL-NOM-SUF ;
@@ -90,7 +90,7 @@ LEXICON N_VENEH ! veneh:veneh
 LEXICON N_LANDEH ! landeh:land
 !:EH1 NMN_ ;
 :eh SG-NOM-SUF ;
-:eh SG-PAR-SUF ;
+:eh SG-PAR-SUF_t ;
 :he SG-OBLIQUE ;
 ! Plural
 :he PL-NOM-SUF ;
@@ -99,7 +99,7 @@ LEXICON N_LANDEH ! landeh:land
 
 LEXICON N_SEIBAZ ! seibaz:seib
 :az SG-NOM-SUF ;
-:as SG-PAR-SUF ;
+:as SG-PAR-SUF_t ;
 :ha SG-OBLIQUE ;
 ! Plural
 :ha PL-NOM-SUF ;
@@ -108,7 +108,7 @@ LEXICON N_SEIBAZ ! seibaz:seib
 
 LEXICON N_KIRVEZ ! kirvez:kirv
 :ez SG-NOM-SUF ;
-:es SG-PAR-SUF ;
+:es SG-PAR-SUF_t ;
 :he SG-OBLIQUE ;
 ! Plural
 :he PL-NOM-SUF ;
@@ -117,7 +117,7 @@ LEXICON N_KIRVEZ ! kirvez:kirv
 
 LEXICON N_VANHAKOZ ! vanhakoz:vanhak
 :oz SG-NOM-SUF ;
-:os SG-PAR-SUF ;
+:os SG-PAR-SUF_t ;
 :ho SG-OBLIQUE ;
 ! Plural
 :ho PL-NOM-SUF ;
@@ -126,7 +126,7 @@ LEXICON N_VANHAKOZ ! vanhakoz:vanhak
 
 LEXICON N_NAGRIZH ! nagriž:nagr
 :iž SG-NOM-SUF ;
-:iš SG-PAR-SUF ;
+:iš SG-PAR-SUF_t ;
 :he SG-OBLIQUE ;
 ! Plural
 :he PL-NOM-SUF ;
@@ -135,7 +135,7 @@ LEXICON N_NAGRIZH ! nagriž:nagr
 
 LEXICON N_RUGIZH ! rügiž:rügi
 :ž SG-NOM-SUF ;
-:š SG-PAR-SUF ;
+:š SG-PAR-SUF_t ;
 :he SG-OBLIQUE ;
 ! Plural
 :he PL-NOM-SUF ;
@@ -144,7 +144,7 @@ LEXICON N_RUGIZH ! rügiž:rügi
 
 LEXICON N_VEDEKAZ ! vedekaz:vedeka
 :z SG-NOM-SUF ;
-:s SG-PAR-SUF ;
+:s SG-PAR-SUF_t ;
 :ha SG-OBLIQUE ;
 ! Plural
 :ha PL-NOM-SUF ;
@@ -153,7 +153,7 @@ LEXICON N_VEDEKAZ ! vedekaz:vedeka
 
 LEXICON N_MEZ1 ! mez':me
 :z' SG-NOM-SUF ;
-:s SG-PAR-SUF ;
+:s SG-PAR-SUF_t ;
 :he SG-OBLIQUE ;
 ! Plural
 :he PL-NOM-SUF ;
@@ -162,7 +162,7 @@ LEXICON N_MEZ1 ! mez':me
 
 LEXICON N_KENGATOI ! kengätoi:kengäto
 :i SG-NOM-SUF ;
-:n SG-PAR-SUF ;
+:n SG-PAR-SUF_t ;
 :me SG-OBLIQUE ;
 ! Plural
 :me PL-NOM-SUF ;
@@ -171,7 +171,7 @@ LEXICON N_KENGATOI ! kengätoi:kengäto
 
 LEXICON N_AVADIM ! avadim:avadi
 :m SG-NOM-SUF ;
-:n SG-PAR-SUF ;
+:n SG-PAR-SUF_t ;
 :me SG-OBLIQUE ;
 ! Plural
 :me PL-NOM-SUF ;
@@ -180,7 +180,7 @@ LEXICON N_AVADIM ! avadim:avadi
 
 LEXICON N_LUMI ! lumi:lu
 :mi SG-NOM-SUF ;
-:n SG-PAR-SUF ;
+:n SG-PAR-SUF_t ;
 :me SG-OBLIQUE ;
 ! Plural
 :me PL-NOM-SUF ;
@@ -493,6 +493,9 @@ LEXICON SG-PAR-SUF
 +Sg: PAR-SUF ;
 LEXICON PAR-SUF
 +Par:%>d K ; ! d/t
+
+LEXICON SG-PAR-SUF_t
++Sg+Par:%>t K ;
 
 LEXICON SG-TRA-SUF
 +Sg+Tra:%>ks K ;
