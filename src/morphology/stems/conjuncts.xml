@@ -6,13 +6,10 @@
       <lg>
          <l pos="CC">a</l>
          <stg>
-            <st Contlex="CcTag">a</st>
+            <st Contlex="CC_">a</st>
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CC">but</t>
          </tg>
@@ -25,13 +22,10 @@
       <lg>
          <l pos="CC">da</l>
          <stg>
-            <st Contlex="CcTag">da</st>
+            <st Contlex="CC_">da</st>
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CC">and</t>
          </tg>
@@ -44,13 +38,10 @@
       <lg>
          <l pos="CC">i</l>
          <stg>
-            <st Contlex="CcTag">i</st>
+            <st Contlex="CC_">i</st>
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CC">and</t>
          </tg>
@@ -63,13 +54,10 @@
       <lg>
          <l pos="CS">den</l>
          <stg>
-            <st Contlex="CsTag">den</st>
+            <st Contlex="CS_">den</st>
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="CS"></t>
          </tg>

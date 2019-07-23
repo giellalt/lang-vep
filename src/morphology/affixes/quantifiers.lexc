@@ -1,8 +1,18 @@
+
+LEXICON NUM_KAKS1
++Sg+Nom:ks' K ;
++Sg+Gen:hten K ;
+
+LEXICON NUM_YKS1
++Sg+Nom:ks' K ;
++Sg+Gen:hten K ;
+
+
 LEXICON NUM_NORUZ
-+Qnt+Adn:%>D1E1 K ;
-+Qnt+Der/MWN: N_NORUZ ;
++Sg+Nom:%>D1E1 K ;
+: N_NORUZ ; ! this applies correct case
 
 LEXICON NUM_
-+Qnt+Adn: K ;
-+Qnt+Der/MWN: # ;
++Sg+Nom: K ;
+!+Der/MWN: # ;
 

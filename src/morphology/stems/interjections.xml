@@ -6,13 +6,10 @@
       <lg>
          <l pos="Interj">aj</l>
          <stg>
-            <st Contlex="InterjTag">aj</st>
+            <st Contlex="INTERJ_">aj</st>
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
