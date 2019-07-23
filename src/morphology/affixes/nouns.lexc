@@ -3,8 +3,16 @@
 LEXICON N_
 +TYÄ: #;
 
-LEXICON N_MUNA ! Stem vowel alternation ZERO-A-ZERO
-:QAQ1 NMN_ ;
+LEXICON N_MUNA ! Stem vowel alternation ZERO-A-ZERO muna:mun
+!:QAQ1 NMN_ ;
+:a SG-NOM-SUF ;
++Sg+Ill:%>ha K ;
+:%>a SG-OBLIQUE ;
+! Plural
+:%>a PL-NOM-SUF ;
+:%>a PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
 
 LEXICON N_SANA
 :a NMN_RUSKED-SG ;
@@ -13,6 +21,15 @@ LEXICON N_SANA
 
 LEXICON N_MARJ 
 :QAO1 NMN_ ;
+
+LEXICON N_LIND ! lind:lind
+:a SG-NOM-SUF ;
++Sg+Ill:%>ha K ;
+:%>a SG-OBLIQUE ;
+! Plural
+:%>a PL-NOM-SUF ;
+:%>a PL-ACC-SUF ;
+: PL-OBLIQUE ;
 
 LEXICON N_SHAPUK ! šapuk
 :U1 NMN_ ;
@@ -28,6 +45,47 @@ LEXICON N_KEL
 ! Plural
 :%>e PL-NOM-SUF ;
 :%>e PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+LEXICON N_PU ! pu:pu
+: SG-NOM-SUF ;
+: SG-OBLIQUE ;
+! Plural
+: PL-NOM-SUF ;
+: PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+LEXICON N_KODI !kodi:kodi
+:i SG-NOM-SUF ;
+:%>i SG-OBLIQUE ;
+! Plural
+:%>i PL-NOM-SUF ;
+:%>i PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+
+LEXICON N_NIMI !nimi:nim
+:i SG-NOM-SUF ;
+:%>e SG-OBLIQUE ;
+! Plural
+:%>e PL-NOM-SUF ;
+:%>e PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+LEXICON N_SARV !sarv:sarv
+: SG-NOM-SUF ;
+:%>e SG-OBLIQUE ;
+! Plural
+:%>e PL-NOM-SUF ;
+:%>e PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+LEXICON N_POIG ! poig:poig
+: SG-NOM-SUF ;
+:a SG-OBLIQUE ;
+! Plural
+:a PL-NOM-SUF ;
+:a PL-ACC-SUF ;
 : PL-OBLIQUE ;
 
 
