@@ -1,0 +1,70 @@
+!! This is where new words are added as lexc entries before they are 
+!! added to the xml source files.
+!! kala:kala N_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
+
+
+LEXICON PROP_NEWWORDS
+test:test N_ "" ;
+!! ADD NOUNS BELOW
+Azii+N+Prop:Azi N_TEGII ;
+Baltii+N+Prop:Balti N_TEGII ;
+Francii+N+Prop:Franci N_TEGII ;
+Indii+N+Prop:Indi N_TEGII ;
+Japonii+N+Prop:Japoni N_TEGII ;
+Britanii+N+Prop:Britani N_TEGII ;
+Kaspii+N+Prop:Kaspi N_TEGII ;
+Avstralii+N+Prop:Avstrali N_TEGII ;
+Avstrii+N+Prop:Avstri N_TEGII ;
+Vikipedii+N+Prop:Vikipedi N_TEGII ;
+Ispanii+N+Prop:Ispani N_TEGII ;
+Germanii+N+Prop:Germani N_TEGII ;
+Anglii+N+Prop:Angli N_TEGII ;
+Norvegii+N+Prop:Norvegi N_TEGII ;
+Italii+N+Prop:Itali N_TEGII ;
+Brazilii+N+Prop:Brazili N_TEGII ;
+Arabii+N+Prop:Arabi N_TEGII ;
+Čuvašii+N+Prop:Čuvaši N_TEGII ;
+Irlandii+N+Prop:Irlandi N_TEGII ;
+Persii+N+Prop:Persi N_TEGII ;
+Mordovii+N+Prop:Mordovi N_TEGII ;
+Udmurtii+N+Prop:Udmurti N_TEGII ;
+Serbii+N+Prop:Serbi N_TEGII ;
+Danii+N+Prop:Dani N_TEGII ;
+Armenii+N+Prop:Armeni N_TEGII ;
+Albanii+N+Prop:Albani N_TEGII ;
+Čečenii+N+Prop:Čečeni N_TEGII ;
+Čerkesii+N+Prop:Čerkesi N_TEGII ;
+Romanii+N+Prop:Romani N_TEGII ;
+Nigerii+N+Prop:Nigeri N_TEGII ;
+Kabardinii+N+Prop:Kabardini N_TEGII ;
+Ingušetii+N+Prop:Ingušeti N_TEGII ;
+Evrazii+N+Prop:Evrazi N_TEGII ;
+Bolgarii+N+Prop:Bolgari N_TEGII ;
+Balkarii+N+Prop:Balkari N_TEGII ;
+Alanii+N+Prop:Alani N_TEGII ;
+Šotlandii+N+Prop:Šotlandi N_TEGII ;
+Zelandii+N+Prop:Zelandi N_TEGII ;
+Gruzii+N+Prop:Gruzi N_TEGII ;
+Bel'gii+N+Prop:Bel'gi N_TEGII ;
+Portugalii+N+Prop:Portugali N_TEGII ;
+Kalmikii+N+Prop:Kalmiki N_TEGII ;
+Hakasii+N+Prop:Hakasi N_TEGII ;
+Burätii+N+Prop:Buräti N_TEGII ;
+Kolumbii+N+Prop:Kolumbi N_TEGII ;
+Šveicarii+N+Prop:Šveicari N_TEGII ;
+Bosnii+N+Prop:Bosni N_TEGII ;
+Bolivii+N+Prop:Bolivi N_TEGII ;
+Skandinavii+N+Prop:Skandinavi N_TEGII ;
+Mongolii+N+Prop:Mongoli N_TEGII ;
+Latvii+N+Prop:Latvi N_TEGII ;
+Jakutii+N+Prop:Jakuti N_TEGII ;
+Tanzanii+N+Prop:Tanzani N_TEGII ;
+Efiopii+N+Prop:Efiopi N_TEGII ;
+Venecii+N+Prop:Veneci N_TEGII ;
+Prussii+N+Prop:Prussi N_TEGII ;
+Kenii+N+Prop:Keni N_TEGII ;
+Islandii+N+Prop:Islandi N_TEGII ;
+Livii+N+Prop:Livi N_TEGII ;
+Jordanii+N+Prop:Jordani N_TEGII ;
+Bolgarii+N+Prop:Bolgari N_TEGII ;
+
