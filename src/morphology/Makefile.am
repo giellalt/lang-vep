@@ -56,11 +56,12 @@ GENERATED_LEXC_SRCS=\
 			 $(srcdir)/stems/conjuncts.lexc     \
 			 $(srcdir)/stems/interjections.lexc \
 			 $(srcdir)/stems/nouns.lexc         \
-			 $(srcdir)/stems/pronouns.lexc      \
 			 $(srcdir)/stems/quantifiers.lexc   \
 			 $(srcdir)/stems/verbs.lexc         \
 			 generated_files/punctuation.lexc   \
 			 generated_files/symbols.lexc
+
+#			 $(srcdir)/stems/pronouns.lexc      
 
 # Set this to the names of all source xml files, if any
 GT_XML_SRCS=\
@@ -69,9 +70,10 @@ GT_XML_SRCS=\
 			 stems/conjuncts.xml     \
 			 stems/interjections.xml \
 			 stems/nouns.xml         \
-			 stems/pronouns.xml      \
 			 stems/quantifiers.xml   \
 			 stems/verbs.xml
+
+#			 stems/pronouns.xml      
 
 # Define any additional lexc sources here (compiled on their own):
 GT_LOCAL_SRCS=

@@ -6,14 +6,10 @@
       <lg>
          <l pos="Adv">lujas</l>
          <stg>
-            <st Contlex="MannerTag">lujas</st>
+            <st Contlex="MANNER_">lujas</st>
          </stg>
       </lg>
-      <pos>ADV-MANNER</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t/>
          </tg>
@@ -26,14 +22,10 @@
       <lg>
          <l pos="Adv">pigašti</l>
          <stg>
-            <st Contlex="MannerTag">pigašti</st>
+            <st Contlex="MANNER_">pigašti</st>
          </stg>
       </lg>
-      <pos>ADV-MANNER</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="Adv">quickly</t>
          </tg>
@@ -46,14 +38,10 @@
       <lg>
          <l pos="Adv">völ</l>
          <stg>
-            <st Contlex="TempTag">völ</st>
+            <st Contlex="TEMP_">völ</st>
          </stg>
       </lg>
-      <pos>TEMP</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="Adv">still</t>
          </tg>

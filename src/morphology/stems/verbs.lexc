@@ -2,7 +2,7 @@
 LEXICON verbs
 
 mända+V:män V_PESTA  "mennä" ;
-ei+V-AUX:e V_EI  "ei" ;
+ei+V+Aux:e V_EI  "ei" ;
 olda+V:o V_OLDA  "olla" ;
 oigeta+V:oige V_OIGETA  "lähettää" ;
 pesta+V:pez V_PESTA  "pestä" ;
