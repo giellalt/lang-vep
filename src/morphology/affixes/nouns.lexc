@@ -255,8 +255,24 @@ LEXICON N_POIG ! poig:poig
 : PL-OBLIQUE ;
 
 
-LEXICON N_CIPUINE
-:INE1 NMN_ ;
+LEXICON N_CIPUINE ! cipuine:cipu
+!:INE1 NMN_ ;
+:ine SG-NOM-SUF ;
+:š SG-PAR-SUF_t ;
+:iže SG-OBLIQUE ;
+! Plural
+:iže PL-NOM-SUF ;
+:iže PL-ACC-SUF ;
+:iž  PL-OBLIQUE ;
+
+LEXICON N_TOSHTMINE ! toštmine:toštmi
+:ne SG-NOM-SUF ;
+:š SG-PAR-SUF_t ;
+:že SG-OBLIQUE ;
+! Plural
+:že PL-NOM-SUF ;
+:že PL-ACC-SUF ;
+:ž  PL-OBLIQUE ;
 
 ! noruz’:norud
 LEXICON N_NORUZ ! OUN-ZD_QEQ
