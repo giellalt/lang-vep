@@ -6,6 +6,26 @@
 LEXICON N_NEWWORDS
 test:test N_ "" ;
 !! ADD NOUNS BELOW
-katus+N:katus N_KESKUS ;
-keskus+N:keskus N_KESKUS ;
+aluz+N:aluz N_ALUZ ;
+katuz+N:katuz N_ALUZ ;
+keskuz+N:keskuz N_ALUZ ;
+ižanduz+N:ižanduz N_ALUZ ;
+
+enambuz+N:enambuz N_ALUZ ;
+korktuz+N:korktuz N_ALUZ ;
+oiktuz+N:oiktuz N_ALUZ ;
+
+kirjutuz+N:kirjutuz N_ALUZ ;
+kohenduz+N:kohenduz N_ALUZ ;
+kunigahuz+N:kunigahuz N_ALUZ ;
+leviganduz+N:leviganduz N_ALUZ ;
+lühenduz+N:lühenduz N_ALUZ ;
+maižanduz+N:maižanduz N_ALUZ ;
+nimituz+N:nimituz N_ALUZ ;
+ohjastuz+N:ohjastuz N_ALUZ ;
+openduz+N:openduz N_ALUZ ;
+sijaduz+N:sijaduz N_ALUZ ;
+vägestuz+N:vägestuz N_ALUZ ;
+ühtištuz+N:ühtištuz N_ALUZ ;
+
 sana+N:san N_SANA ;
