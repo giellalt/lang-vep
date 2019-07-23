@@ -43,8 +43,8 @@ LEXICON N_NORUZ ! OUN-ZD_QEQ
 LEXICON N_KÄZI 
 : NMN_KÄZI ;
 
-! kojaduz:kojaduz
-LEXICON N_KOJADUZ ! z s _QEQ
+! aluz:aluz
+LEXICON N_ALUZ ! z s _QEQ
  SG-NOM-SUF ;
 :%^DEVOICE SG-PAR-SUF ;
 :%^DEVOICEe SG-OBLIQUE ;
