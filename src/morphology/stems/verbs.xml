@@ -10,9 +10,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="V">to go</t>
          </tg>
@@ -23,16 +20,12 @@
    </e>
    <e>
       <lg>
-         <l pos="V-AUX">ei</l>
+         <l pos="V" type="Aux">ei</l>
          <stg>
             <st Contlex="V_EI">e</st>
          </stg>
       </lg>
-      <pos>V-AUX</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="V">not</t>
          </tg>
@@ -49,9 +42,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="V">to be</t>
          </tg>
@@ -68,9 +58,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="V">to send</t>
          </tg>
@@ -87,9 +74,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="V">to wash</t>
          </tg>
@@ -106,9 +90,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <tCtn>
                <t pos="V">to brush</t>
@@ -128,9 +109,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="V">to support</t>
             <t pos="V">to prop up</t>
@@ -148,9 +126,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="V">to come</t>
          </tg>
@@ -167,9 +142,6 @@
          </stg>
       </lg>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t pos="V">to choose</t>
             <t pos="V">to select</t>

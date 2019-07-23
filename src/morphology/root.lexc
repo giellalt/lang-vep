@@ -137,14 +137,15 @@ Multichar_Symbols
   +Prt 		            !!= * @CODE@ =
  +Pos			            !!= * @CODE@ =
 
-!! Verb personal forms are:
+!! !Verb personal forms are:
 
-+ScSg1   !!= * @CODE@
-+ScSg2   !!= * @CODE@
-+ScSg3   !!= * @CODE@
-+ScPl1   !!= * @CODE@
-+ScPl2   !!= * @CODE@
-+ScPl3   !!= * @CODE@ =
++Sg1      !!≈ * __@CODE@__ Singular First Person
++Sg2      !!≈ * __@CODE@__ Singular Second Person
++Sg3      !!≈ * __@CODE@__ Singular Third Person
++Pl1      !!≈ * __@CODE@__ Plural First Person
++Pl2      !!≈ * __@CODE@__ Plural Second Person
++Pl3      !!≈ * __@CODE@__ Plural Third Person
+
  +RcSg1   !!= * @CODE@
 +RcSg2    !!= * @CODE@
 +RcSg3    !!= * @CODE@
@@ -348,7 +349,6 @@ LEXICON Root
    conjuncts	;
    interjections	;
    nouns	;
-   pronouns	;
    quantifiers	;
    verbs	;
 Abbreviation ;	! stems/abbr.lexc
@@ -359,26 +359,27 @@ Symbols     ;
 POSTPOSITION ;
 SUBJUNCTION ;
 
+PRONOUN-TYPES ;
 
-LEXICON CcTag
-+CC: # ;
+LEXICON CC_
+: # ;
 
-LEXICON CsTag
-+CS: # ;
+LEXICON CS_
+: # ;
 
 LEXICON SUBJUNCTION
 # ;
 
-LEXICON InterjTag
-+Interj: # ;
+LEXICON INTERJ_
+: # ;
 
 LEXICON NUMERAL
 #;
 
 LEXICON NUMBERSUF
-+Num: K;
-+Num:%> CASESUF ;
-+Num:%> ORDINAL ;
+: K;
+:%> CASESUF ;
+:%> ORDINAL ;
 
 LEXICON ORDINAL
 +Ord:этӥ K;
@@ -398,25 +399,23 @@ LEXICON DADJ
 LEXICON VADJ
 +A: #;
 
-LEXICON AdvTag
-+Adv: # ;
+LEXICON ADV_
+: # ;
 
-LEXICON MannerTag
-+Adv+Manner: K ;
+LEXICON MANNER_
++Manner: K ;
 
-LEXICON SpatTag
-+Adv+Spat: K ;
+LEXICON SPAT_
++Spat: K ;
 
-LEXICON TempTag
-+Adv+Temp: K ;
+LEXICON TEMP_
++Temp: K ;
 
 LEXICON CASESUF
 #;
 LEXICON PRON
 #;
 LEXICON DEM
-#;
-LEXICON PERS
 #;
 
 

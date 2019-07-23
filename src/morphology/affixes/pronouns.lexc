@@ -2,41 +2,56 @@
 
 !! Veps pronouns ...
 
+LEXICON PRONOUN-TYPES
+ PERS ;
+! INTERR ;
+! INDEFINITE-PRON ;
+! NEG-PRON ;
+! COLL-PRON ;
+
+LEXICON PERS
+minä+Pron:min PersSg1 ;
+sinä+Pron:sin PersSg2 ;
+hän+Pron:hä PersSg3 ;
+minä+Pron:m PersPl1 ;
+sinä+Pron:t PersPl2 ;
+hän+Pron:h PersPl3 ;
+
 LEXICON PersSg1
-+Pron+Pers+1Sg:ä NOM-SUF ;
-+Pron+Pers+1Sg:u GEN-SUF ;
-+Pron+Pers+1Sg:u ACC-SUF ;
++Pers+Sg1:ä NOM-SUF ;
++Pers+Sg1:u GEN-SUF ;
++Pers+Sg1:u ACC-SUF ;
 
 LEXICON PersSg2
-+Pron+Pers+2Sg+Nom:ä NOM-SUF ;
-+Pron+Pers+2Sg+Gen:u GEN-SUF ;
-+Pron+Pers+2Sg+Gen:u ACC-SUF ;
++Pers+Sg2+Nom:ä NOM-SUF ;
++Pers+Sg2+Gen:u GEN-SUF ;
++Pers+Sg2+Gen:u ACC-SUF ;
 
 LEXICON PersSg3
-+Pron+Pers+3Sg:n NOM-SUF ;
-+Pron+Pers+3Sg:ne GEN-SUF ;
-+Pron+Pers+3Sg:ne ACC-SUF ;
-+Pron+Pers+3Sg:n PAR-SUF ;
-+Pron+Pers+3Sg:ne ABE-SUF ;
-+Pron+Pers+3Sg:ne ILL-SUF ;
-+Pron+Pers+3Sg:ne INE-SUF ;
-+Pron+Pers+3Sg:ne ELA-SUF ;
-+Pron+Pers+3Sg:ne ALL-SUF ;
-+Pron+Pers+3Sg:ne ADE-SUF ;
-+Pron+Pers+3Sg:ne ABL-SUF ;
++Pers+Sg3:n NOM-SUF ;
++Pers+Sg3:ne GEN-SUF ;
++Pers+Sg3:ne ACC-SUF ;
++Pers+Sg3:n PAR-SUF ;
++Pers+Sg3:ne ABE-SUF ;
++Pers+Sg3:ne ILL-SUF ;
++Pers+Sg3:ne INE-SUF ;
++Pers+Sg3:ne ELA-SUF ;
++Pers+Sg3:ne ALL-SUF ;
++Pers+Sg3:ne ADE-SUF ;
++Pers+Sg3:ne ABL-SUF ;
 
-+Pron+Pers+3Sg:ne COM-SUF ; !hänenke
-+Pron+Pers+3Sg:ne APR1-SUF ; !hänenno
-+Pron+Pers+3Sg:ne APR2-SUF ; !hänennoks
++Pers+Sg3:ne COM-SUF ; !hänenke
++Pers+Sg3:ne APR1-SUF ; !hänenno
++Pers+Sg3:ne APR2-SUF ; !hänennoks
 
 LEXICON PersPl1
-+Pron+Pers+1Pl+Nom:ö K ;
++Pers+Pl1+Nom:ö K ;
 
 LEXICON PersPl2
-+Pron+Pers+2Pl+Nom:ö K ;
++Pers+Pl2+Nom:ö K ;
 
 LEXICON PersPl3
-+Pron+Pers+3Pl+Nom:ö K ;
++Pers+Pl3+Nom:ö K ;
 
 
 

@@ -4,16 +4,16 @@ LEXICON N_
 +TYÄ: #;
 
 LEXICON N_MUNA ! Stem vowel alternation ZERO-A-ZERO
-+N:QAQ1 NMN_ ;
+:QAQ1 NMN_ ;
 
 LEXICON N_MARJ 
-+N:QAO1 NMN_ ;
+:QAO1 NMN_ ;
 
 LEXICON N_SHAPUK ! šapuk
-+N:U1 NMN_ ;
+:U1 NMN_ ;
 
 LEXICON N_LANDEH ! OUN-EH
-+N:EH1 NMN_ ;
+:EH1 NMN_ ;
 
 !kel’:kel’
 LEXICON N_KEL
@@ -27,16 +27,16 @@ LEXICON N_KEL
 
 
 LEXICON N_CIPUINE
-+N:INE1 NMN_ ;
+:INE1 NMN_ ;
 
 ! noruz’:norud
 LEXICON N_NORUZ ! OUN-ZD_QEQ
-+N: NMN_NORUZ ;
+: NMN_NORUZ ;
 
 
 ! käzi:käd
 LEXICON N_KÄZI 
-+N: NMN_KÄZI ;
+: NMN_KÄZI ;
 
 ! kojaduz:kojaduz
 LEXICON N_KOJADUZ ! z s _QEQ
@@ -50,14 +50,14 @@ LEXICON N_KOJADUZ ! z s _QEQ
 
 
 LEXICON N_VEDÄI ! i j _QAQ1 Does this work like _muna_?
-+N:QAQ1 NMN_ ;
+:QAQ1 NMN_ ;
 
 LEXICON N_VEPS 
-+N:QÄQ1 NMN_ ;
+:QÄQ1 NMN_ ;
 
 LEXICON N_NADO !!= @CODE@ nado:nado
 !!* Yaml: __nado__
-+N: NMN_ ;
+: NMN_ ;
 
 !! !!Nominals
 

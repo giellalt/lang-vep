@@ -1,8 +1,8 @@
 
 LEXICON quantifiers
 
-üks'+Num:ük NUM_NORUZ  "yksi" ;
-kaks'+Num:kak NUM_NORUZ  "kaksi" ;
+üks'+Num:ü NUM_YKS1  "yksi" ;
+kaks'+Num:ka NUM_KAKS1  "kaksi" ;
 koume+Num:koume NUM_  "kolme" ;
 nell'+Num:nell' NUM_  "kolme" ;
 viž+Num:viž NUM_  "kolme" ;

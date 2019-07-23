@@ -6,14 +6,10 @@
       <lg>
          <l pos="Num">üks'</l>
          <stg>
-            <st Contlex="NUM_NORUZ">ük</st>
+            <st Contlex="NUM_YKS1">ü</st>
          </stg>
       </lg>
-      <pos>NUM</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>one</t>
          </tg>
@@ -26,14 +22,10 @@
       <lg>
          <l pos="Num">kaks'</l>
          <stg>
-            <st Contlex="NUM_NORUZ">kak</st>
+            <st Contlex="NUM_KAKS1">ka</st>
          </stg>
       </lg>
-      <pos>NUM</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>two</t>
          </tg>
@@ -49,11 +41,7 @@
             <st Contlex="NUM_">koume</st>
          </stg>
       </lg>
-      <pos>NUM</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>three</t>
          </tg>
@@ -69,11 +57,7 @@
             <st Contlex="NUM_">nell'</st>
          </stg>
       </lg>
-      <pos>NUM</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>three</t>
          </tg>
@@ -89,11 +73,7 @@
             <st Contlex="NUM_">viž</st>
          </stg>
       </lg>
-      <pos>NUM</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>three</t>
          </tg>
@@ -109,11 +89,7 @@
             <st Contlex="NUM_">kuz'</st>
          </stg>
       </lg>
-      <pos>NUM</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>three</t>
          </tg>
@@ -129,11 +105,7 @@
             <st Contlex="NUM_">seičeme</st>
          </stg>
       </lg>
-      <pos>NUM</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>three</t>
          </tg>
@@ -149,11 +121,7 @@
             <st Contlex="NUM_">kahesa</st>
          </stg>
       </lg>
-      <pos>NUM</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>three</t>
          </tg>
@@ -169,11 +137,7 @@
             <st Contlex="NUM_">ühesa</st>
          </stg>
       </lg>
-      <pos>NUM</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>three</t>
          </tg>
@@ -189,11 +153,7 @@
             <st Contlex="NUM_">kümne</st>
          </stg>
       </lg>
-      <pos>NUM</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>three</t>
          </tg>
@@ -209,11 +169,7 @@
             <st Contlex="NUM_">üks'toštkümne</st>
          </stg>
       </lg>
-      <pos>NUM</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>eleven</t>
          </tg>
@@ -229,11 +185,7 @@
             <st Contlex="NUM_">kaks'toštkümne</st>
          </stg>
       </lg>
-      <pos>NUM</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>twelve</t>
          </tg>
@@ -249,11 +201,7 @@
             <st Contlex="NUM_">kaks'kümne</st>
          </stg>
       </lg>
-      <pos>NUM</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>twenty</t>
          </tg>
@@ -269,11 +217,7 @@
             <st Contlex="NUM_">sada</st>
          </stg>
       </lg>
-      <pos>NUM</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>hundred</t>
          </tg>
@@ -289,11 +233,7 @@
             <st Contlex="NUM_">tuhanD1E1</st>
          </stg>
       </lg>
-      <pos>NUM</pos>
       <mg>
-         <m>
-            <head/>
-         </m>
          <tg xml:lang="eng">
             <t>thousand</t>
          </tg>
