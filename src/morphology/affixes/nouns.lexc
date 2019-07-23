@@ -29,6 +29,24 @@ LEXICON N_MARJ
 :%>a PL-ACC-SUF ;
 :o PL-OBLIQUE ;
 
+LEXICON N_IGA ! igä:ig
+:ä SG-NOM-SUF ;
++Sg+Ill:%>hä K ;
+:%>ä SG-OBLIQUE ;
+! Plural
+:%>ä PL-NOM-SUF ;
+:%>ä PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+LEXICON N_LEIB ! leib:leib
+: SG-NOM-SUF ;
++Sg+Ill:%>hä K ;
+:%>ä SG-OBLIQUE ;
+! Plural
+:%>ä PL-NOM-SUF ;
+:%>ä PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
 
 LEXICON N_LIND ! lind:lind
 : SG-NOM-SUF ;
@@ -39,11 +57,151 @@ LEXICON N_LIND ! lind:lind
 :%>u PL-ACC-SUF ;
 :u PL-OBLIQUE ;
 
+LEXICON N_JAUH ! jauh:jauh
+: SG-NOM-SUF ;
++Sg+Ill:%>ho K ;
+:%>o SG-OBLIQUE ;
+! Plural
+:%>o PL-NOM-SUF ;
+:%>o PL-ACC-SUF ;
+:o PL-OBLIQUE ;
+
 LEXICON N_SHAPUK ! šapuk
 :U1 NMN_ ;
 
-LEXICON N_LANDEH ! OUN-EH
-:EH1 NMN_ ;
+LEXICON N_UNI ! uni:un
+:i SG-NOM-SUF ;
+: SG-PAR-SUF ;
+:e SG-OBLIQUE ;
+! Plural
+:e PL-NOM-SUF ;
+:e PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+LEXICON N_VENEH ! veneh:veneh
+: SG-NOM-SUF ;
+: SG-PAR-SUF ;
+:e SG-OBLIQUE ;
+! Plural
+:e PL-NOM-SUF ;
+:e PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+LEXICON N_LANDEH ! landeh:land
+!:EH1 NMN_ ;
+:eh SG-NOM-SUF ;
+:eh SG-PAR-SUF ;
+:he SG-OBLIQUE ;
+! Plural
+:he PL-NOM-SUF ;
+:he PL-ACC-SUF ;
+:h PL-OBLIQUE ;
+
+LEXICON N_SEIBAZ ! seibaz:seib
+:az SG-NOM-SUF ;
+:as SG-PAR-SUF ;
+:ha SG-OBLIQUE ;
+! Plural
+:ha PL-NOM-SUF ;
+:ha PL-ACC-SUF ;
+:h PL-OBLIQUE ;
+
+LEXICON N_KIRVEZ ! kirvez:kirv
+:ez SG-NOM-SUF ;
+:es SG-PAR-SUF ;
+:he SG-OBLIQUE ;
+! Plural
+:he PL-NOM-SUF ;
+:he PL-ACC-SUF ;
+:h PL-OBLIQUE ;
+
+LEXICON N_VANHAKOZ ! vanhakoz:vanhak
+:oz SG-NOM-SUF ;
+:os SG-PAR-SUF ;
+:ho SG-OBLIQUE ;
+! Plural
+:ho PL-NOM-SUF ;
+:ho PL-ACC-SUF ;
+:h PL-OBLIQUE ;
+
+LEXICON N_NAGRIZH ! nagriž:nagr
+:iž SG-NOM-SUF ;
+:iš SG-PAR-SUF ;
+:he SG-OBLIQUE ;
+! Plural
+:he PL-NOM-SUF ;
+:he PL-ACC-SUF ;
+:h PL-OBLIQUE ;
+
+LEXICON N_RUGIZH ! rügiž:rügi
+:ž SG-NOM-SUF ;
+:š SG-PAR-SUF ;
+:he SG-OBLIQUE ;
+! Plural
+:he PL-NOM-SUF ;
+:he PL-ACC-SUF ;
+:h PL-OBLIQUE ;
+
+LEXICON N_VEDEKAZ ! vedekaz:vedeka
+:z SG-NOM-SUF ;
+:s SG-PAR-SUF ;
+:ha SG-OBLIQUE ;
+! Plural
+:ha PL-NOM-SUF ;
+:ha PL-ACC-SUF ;
+:h PL-OBLIQUE ;
+
+LEXICON N_MEZ1 ! mez':me
+:z' SG-NOM-SUF ;
+:s SG-PAR-SUF ;
+:he SG-OBLIQUE ;
+! Plural
+:he PL-NOM-SUF ;
+:he PL-ACC-SUF ;
+:h PL-OBLIQUE ;
+
+LEXICON N_KENGATOI ! kengätoi:kengäto
+:i SG-NOM-SUF ;
+:n SG-PAR-SUF ;
+:me SG-OBLIQUE ;
+! Plural
+:me PL-NOM-SUF ;
+:me PL-ACC-SUF ;
+:m PL-OBLIQUE ;
+
+LEXICON N_AVADIM ! avadim:avadi
+:m SG-NOM-SUF ;
+:n SG-PAR-SUF ;
+:me SG-OBLIQUE ;
+! Plural
+:me PL-NOM-SUF ;
+:me PL-ACC-SUF ;
+:m PL-OBLIQUE ;
+
+LEXICON N_LUMI ! lumi:lu
+:mi SG-NOM-SUF ;
+:n SG-PAR-SUF ;
+:me SG-OBLIQUE ;
+! Plural
+:me PL-NOM-SUF ;
+:me PL-ACC-SUF ;
+:m PL-OBLIQUE ;
+
+LEXICON N_KONDI ! kondi:kond
+:i SG-NOM-SUF ;
+:ja SG-OBLIQUE ;
+! Plural
+:ja PL-NOM-SUF ;
+:ja PL-ACC-SUF ;
+:j PL-OBLIQUE ;
+
+LEXICON N_TEGII ! tegii:tegi
+:i SG-NOM-SUF ;
+:ja SG-OBLIQUE ;
+! Plural
+:ja PL-NOM-SUF ;
+:ja PL-ACC-SUF ;
+:jo PL-OBLIQUE ;
 
 !kel’:kel’
 LEXICON N_KEL
