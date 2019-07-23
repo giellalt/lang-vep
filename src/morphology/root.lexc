@@ -57,6 +57,9 @@ Multichar_Symbols
  +Refl   !!= * @CODE@ = reflexive
  +Rel    !!= * @CODE@ = relative
 
+!! !Verbs
++Aux
+
 !! Nominals are inflected for Number and Case
 
 !! !!Number
@@ -356,6 +359,7 @@ Acronym ;    	! stems/acro.lexc
 Punctuation	;
 Symbols     ;
 !Numerals ;
+N_NEWWORDS ;
 POSTPOSITION ;
 SUBJUNCTION ;
 
@@ -390,7 +394,8 @@ LEXICON PUNCTUATION
 #;
 
 LEXICON POSTPOSITION
-#;
+al+Po+Ade:al # ;
+keskes+Po+Ine:keskes # ;
 
 LEXICON CADJ
 +A: #;
