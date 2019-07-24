@@ -57,13 +57,16 @@ LEXICON PersPl3
 +Pers+Pl3:e PERS-PL_01 ;
 
 LEXICON PERS-PL_01
-+Ade:il K ;
-+All:ile K ;
-+Com:idenke K ;
-+Ela:išpäi K ;
-+Gen:iden K ;
-+Ill:ihe K ;
-+Par:id K ;
++Abl:%>ilpäi K ;
++Add1:%>ihepäi K ;
++Ade:%>il K ;
++All:%>ile K ;
++Com:%>idenke K ;
++Ela:%>išpäi K ;
++Gen:%>iden K ;
++Ill:%>ihe K ;
++Ine:%>iš K ;
++Par:%>id K ;
 
 
 
