@@ -237,12 +237,15 @@ source and target part-of-speech.
  *  +V→N   
  *  +V→V   
  *  +V→A      =
+ * +Der/Uz1                 = sur»uz' A»N
  * +Der/Ta		         =
  * +Der/Te		         =
  * +Der/ma		         =
  * +Der/Tu		         =
  * +Der/IA		         =
-
+ * +Der/Toi		 = nime»toi N»A
+ * +Der/Matoi		 = V»A
+ * +Der/Mine		 = V»N
 
 
 Morphophonology

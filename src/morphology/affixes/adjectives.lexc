@@ -10,7 +10,7 @@
 
 ! uz’:ud
 LEXICON A_UZ !!= * @CODE@
-+A: NMN_NORUZ ;
+: NMN_NORUZ ;
 
 LEXICON A_RUSKED !!= * @CODE@
 +A: NMN_RUSKED ;
@@ -18,8 +18,19 @@ LEXICON A_RUSKED !!= * @CODE@
 LEXICON A_  !!= * @CODE@, just beginning 
  N_ ;
 
-LEXICON A_CIPUINE
+LEXICON A_CIPUINE !cipuine:cipu
  N_CIPUINE ;
++Der+Der/Uz1+N:ižud N_NORUZ ;
+
+LEXICON A_KENGATOI ! kengätoi:kengäto
++Der+Der/Uz1+N:mud N_NORUZ ;
+:i SG-NOM-SUF ;
+:n SG-PAR-SUF_t ;
+:ma SG-OBLIQUE ;
+! Plural
+:ma PL-NOM-SUF ;
+:ma PL-ACC-SUF ;
+:m PL-OBLIQUE ;
 
 ! vim: set ft=xfst-lexc:
 

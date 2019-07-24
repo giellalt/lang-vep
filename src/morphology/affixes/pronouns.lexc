@@ -46,12 +46,25 @@ LEXICON PersSg3
 
 LEXICON PersPl1
 +Pers+Pl1+Nom:ö K ;
++Pers+Pl1:e PERS-PL_01 ;
 
 LEXICON PersPl2
 +Pers+Pl2+Nom:ö K ;
++Pers+Pl2:e PERS-PL_01 ;
 
 LEXICON PersPl3
 +Pers+Pl3+Nom:ö K ;
++Pers+Pl3:e PERS-PL_01 ;
+
+LEXICON PERS-PL_01
++Ade:il K ;
++All:ile K ;
++Com:idenke K ;
++Ela:išpäi K ;
++Gen:iden K ;
++Ill:ihe K ;
++Par:id K ;
+
 
 
 

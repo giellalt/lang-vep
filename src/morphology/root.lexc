@@ -252,12 +252,16 @@ Multichar_Symbols
  +V→N   !!= * @CODE@
  +V→V   !!= * @CODE@
  +V→A     !!= * @CODE@ =
++Der
++Der/Uz1                !!= * @CODE@ = sur»uz' A»N
 +Der/Ta		        !!= * @CODE@ =
 +Der/Te		        !!= * @CODE@ =
 +Der/ma		        !!= * @CODE@ =
 +Der/Tu		        !!= * @CODE@ =
 +Der/IA		        !!= * @CODE@ =
-
++Der/Toi		!!= * @CODE@ = nime»toi N»A
++Der/Matoi		!!= * @CODE@ = V»A
++Der/Mine		!!= * @CODE@ = V»N
 
 
 !! Morphophonology
@@ -362,6 +366,7 @@ Symbols     ;
 A_NEWWORDS ;
 N_NEWWORDS ;
 PROP_NEWWORDS ;
+V_NEWWORDS ;
 POSTPOSITION ;
 SUBJUNCTION ;
 
