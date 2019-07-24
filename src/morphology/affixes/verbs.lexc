@@ -28,10 +28,104 @@ LEXICON V_PESTA
 : V-ConsonantStem ;
 :e INDPRS3 ;
 
-LEXICON V_OIGETA
-:nda V-VowelStem ;
-:%^DEVOICE V-ConsonantStem ;
+LEXICON V_TEHTA ! tehta:te
+:ge V-VowelStem-PRS ;
+:g V-VowelStem-PRT ;
+:g V-ConsonantStem_OTHER ;
+ V-ConsonantStem_t ;
+:ge INDPRS3 ;
+
+LEXICON V_SIRTA ! sirta:sir
+:da V-VowelStem-PRS ;
+:d V-VowelStem-PRT ;
+:d V-ConsonantStem_OTHER ;
+ V-ConsonantStem_t ;
+:da INDPRS3 ;
+
+LEXICON V_JOKSTA ! joksta:joks
+:e V-VowelStem-PRS ;
+: V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:e INDPRS3 ;
+
+LEXICON V_LETA ! leta:le
+:nda V-VowelStem-PRS ;
+:nd V-VowelStem-PRT ;
+:nd V-ConsonantStem_OTHER ;
+ V-ConsonantStem_t ;
 :nda INDPRS3 ;
+
+LEXICON V_JODA ! joda:jo
+: V-VowelStem-PRS ;
+: V-VowelStem-PRT ;
+ V-ConsonantStem ;
+: INDPRS3 ;
+
+LEXICON V_VEDADA ! vedada:ved
+:a V-VowelStem-PRS ;
+: V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:a INDPRS3 ;
+
+LEXICON V_MAKSTA ! maksta:maks
+:a V-VowelStem-PRS ;
+:o V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:a INDPRS3 ;
+
+LEXICON V_ASTTA ! astta:ast
+:u V-VowelStem-PRS ;
+:u V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:u INDPRS3 ;
+
+LEXICON V_HUBETA ! hubeta:hube
+:ne V-VowelStem-PRS ;
+:n V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:ne INDPRS3 ;
+
+LEXICON V_TULDA ! tulda:tul
+:e V-VowelStem-PRS ;
+: V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:e INDPRS3 ;
+
+LEXICON V_OTTA ! otta:ot
+:a V-VowelStem-PRS ;
+: V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:a INDPRS3 ;
+
+LEXICON V_HOMAITA ! homaita:homai
+:če V-VowelStem-PRS ;
+:č V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:če INDPRS3 ;
+
+LEXICON V_OIGETA
+:nda V-VowelStem-PRS ;
+:nz V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:nda INDPRS3 ;
+
+LEXICON V_VIRIGATA ! virigata:viriga
+:nde V-VowelStem-PRS ;
+:nz V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:nde INDPRS3 ;
+
+LEXICON V_KERATA ! kerata:kera
+:da V-VowelStem-PRS ;
+:z V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:da INDPRS3 ;
+
+LEXICON V_JAGADA ! jagada:jag
+:a V-VowelStem-PRS ;
+:o V-VowelStem-PRT ;
+:a V-ConsonantStem ;
+:a INDPRS3 ;
 
 !! tugeta:tuge
 LEXICON V_TUGETA
@@ -45,6 +139,13 @@ LEXICON V_VALITA
 :%^DEVOICE V-ConsonantStem ;
 :če INDPRS3 ;
 
+LEXICON V_AVAITA ! avaita:avai
+!avaidab avaiži
+:da V-VowelStem-PRS ;
+:ž V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:da INDPRS3 ;
+
 LEXICON V_
  V-VowelStem ;
  V-ConsonantStem ;
@@ -54,7 +155,10 @@ LEXICON INDPRS3
 +Ind+Prs+Pl3:%>ba K ;
 
 LEXICON V-VowelStem
+V-VowelStem-PRS ;
+V-VowelStem-PRT ;
 
+LEXICON V-VowelStem-PRS
 !!!!!!!!!!!
 !! PRESENT 
 !!!!!!!!!!!
@@ -64,6 +168,30 @@ LEXICON V-VowelStem
 +Ind+Prs+Pl1:%>m K ;
 +Ind+Prs+Pl2:%>t K ;
 
++Ind+ConNeg+Prs+Sg: K ;
++Ind+ConNeg+Prt+Sg:%>nd K ;
+
+!!!!!!!!!!!!!!
+!! IMPERATIVE 
+!!!!!!!!!!!!!!
+
++Imprt+Sg2: K ;
+
+!!!!!!!!!!!!!
+!! REFLEXIVE
+!!!!!!!!!!!!!
+
+!! PRESENT 
+
++Refl+Ind+Prs+Sg1:%>moi K ;
++Refl+Ind+Prs+Sg2:%>toi K ;
++Refl+Ind+Prs+Sg3:%>se K ;
++Refl+Ind+Prs+Pl1:%>moiš K ;
++Refl+Ind+Prs+Pl2:%>toiš K ;
++Refl+Ind+Prs+Pl3:%>se K ;
+
+
+LEXICON V-VowelStem-PRT
 !!!!!!!!!!!!!
 !! IMPERFECT 
 !!!!!!!!!!!!!
@@ -76,18 +204,9 @@ LEXICON V-VowelStem
 +Ind+Prt+Pl3:%>iba K ;
 
 
-+Ind+ConNeg+Prs+Sg: K ;
-+Ind+ConNeg+Prt+Sg:%>nd K ;
-
 +Cond+ConNeg+Prs:%>iži K ;
 
 
-
-!!!!!!!!!!!!!!
-!! IMPERATIVE 
-!!!!!!!!!!!!!!
-
-+Imprt+Sg2: K ;
 
 !!!!!!!!!!!!!!!!!!!!!!!
 !! CONDITIONAL PRESENT 
@@ -104,23 +223,14 @@ LEXICON V-VowelStem
 !! REFLEXIVE 
 !!!!!!!!!!!!!
 
-!! PRESENT 
-
-+Refl+Ind+Prs+Sg1:%>moi K ;
-+Refl+Ind+Prs+Sg2:%>toi K ;
-+Refl+Ind+Prs+Sg3:%>se K ;
-+Refl+Ind+Prs+Pl1:%>moiš K ;
-+Refl+Ind+Prs+Pl2:%>toiš K ;
-+Refl+Ind+Prs+Pl3:%>se K ;
-
 !! IMPERFECT 
 
-+Refl+Ind+Prs+Sg1:%>imoi K ;
-+Refl+Ind+Prs+Sg2:%>itoi K ;
-+Refl+Ind+Prs+Sg3:%>ihe K ;
-+Refl+Ind+Prs+Pl1:%>imoiš K ;
-+Refl+Ind+Prs+Pl2:%>itoiš K ;
-+Refl+Ind+Prs+Pl3:%>ihe K ;
++Refl+Ind+Prt+Sg1:%>imoi K ;
++Refl+Ind+Prt+Sg2:%>itoi K ;
++Refl+Ind+Prt+Sg3:%>ihe K ;
++Refl+Ind+Prt+Pl1:%>imoiš K ;
++Refl+Ind+Prt+Pl2:%>itoiš K ;
++Refl+Ind+Prt+Pl3:%>ihe K ;
 
 !!!!!!!!!!!!!!!!!!!!!!!
 !! CONDITIONAL PRESENT 
@@ -138,6 +248,10 @@ LEXICON V-VowelStem
 
 
 LEXICON V-ConsonantStem
+ V-ConsonantStem_OTHER ;
+ V-ConsonantStem_t ;
+
+LEXICON V-ConsonantStem_OTHER
 +Ind+ConNeg+Prs+Pl:%>koi K ;
 +Ind+ConNeg+Prt+Pl:%>nugoi K ;
 +Prf+Sg:%>nu K ;
@@ -168,7 +282,6 @@ LEXICON V-ConsonantStem
 !! REFLEXIVE 
 !!!!!!!!!!!!!
 
-+Refl+Ind+Prs+ConNeg+Sg:%>te K ;
 +Refl+Ind+Prs+ConNeg+Pl:%>koiš K ;
 +Refl+Ind+Prt+ConNeg+Pl:%>nus K ;
 +Refl+Ind+Prf+Pl:%>nus K ;
@@ -177,26 +290,33 @@ LEXICON V-ConsonantStem
 !! IMPERATIVE 
 !!!!!!!!!!!!!!
 
-+Refl+Imprt+Sg2:%>te K ;
 +Refl+Imprt+Sg3:%>kahas K ;
 +Refl+Imprt+Pl1:%>kamoiš K ;
 +Refl+Imprt+Pl2:%>katoiš K ;
 +Refl+Imprt+Pl3:%>kahas K ;
 
-+Refl+Imprt+Sg2:%>te K ;
 +Refl+Imprt+Sg3:%>koiš K ;
 +Refl+Imprt+Pl:%>koiš K ;
 
+LEXICON V-ConsonantStem_t
+
++Refl+Ind+Prs+ConNeg+Sg:%>te K ;
++Refl+Imprt+Sg2:%>te K ;
++Refl+Imprt+Sg2:%>te K ;
 +Der/Tu+Ptc+Pass+Pst:%>tu K ; ! This will have to be AdjTag or something
-+Der/IA+Ptc+Act+Prs:%>jA1 K ; ! This will have to be AdjTag or something
-+Der/Ta+Inf:%>ta K ;
++Inf:%>ta K ;
++Inf+Refl:%>tas K ;
 +Pass+Prs:%>ta K ;
 +Pass+Prt:%>ti K ;
-+Der/Te+Inf+Ine:%>tes K ;
-+Der/Te+Inf+EssInst:%>ten K ;
-+Der/ma+Inf+Ill:%>mha K ;
-+Der/ma+Inf3+Ine:%>mas K ;
-+Der/ma+Inf3+Ela:%>maspäi K ;
-+Der/ma+Inf3+Ade:%>mal K ;
++Inf+Der/Te+Ine:%>tes K ;
++Inf+Der/Te+EssInst:%>ten K ;
+
++Der/IA+Ptc+Act+Prs:%>jA1 K ; ! This will have to be AdjTag or something
++Inf+Der/ma+Ill:%>mha K ;
++Inf+Der/ma+Ine:%>mas K ;
++Inf+Der/ma+Ela:%>maspäi K ;
++Inf+Der/ma+Ade:%>mal K ;
++Der+Der/Mine+N:%>mi N_TOSHTMINE ;
++Der+Der/Matoi+A:%>mato A_KENGATOI ;
 
 ! vim: set ft=xfst-lexc:
