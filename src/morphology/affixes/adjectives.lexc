@@ -18,11 +18,57 @@ LEXICON A_RUSKED !!= * @CODE@
 LEXICON A_  !!= * @CODE@, just beginning 
  N_ ;
 
+LEXICON A_MUNA !  muna:mun
+ N_MUNA ;
++Cmp:e%>mb N_POIG ;
+
+LEXICON A_NADO !  nado:nado
+ N_NADO ;
++Cmp:%>mb N_POIG ;
+
+
+LEXICON A_POIG ! poig:poig
+ N_POIG ;
++Cmp:e%>mb N_POIG ;
+
+LEXICON A_MARJ ! marj:marj
+ N_MARJ ;
++Cmp:e%>mb N_POIG ;
+
+LEXICON A_JAUH ! jauh:jauh
+!(-on\,\ -oid\)
+ N_JAUH ;
++Cmp:%>mb N_POIG ;
+
+LEXICON A_OIGED !oiged:oig%{eØ%}d
+!oi|ged (-ktan, -ktoid)
+ N_OIGED ;
++Cmp:%^RmVow%^DEVOICE%>e%>mb N_POIG ;
+
+
+LEXICON A_LANDEH ! landeh:land
+ N_LANDEH ;
++Cmp:%>he%>mb N_POIG ;
+
+LEXICON A_VEDEKAZ ! vedekaz:vedeka
+ N_VEDEKAZ ;
++Cmp:ha%>mb N_POIG ;
+
+LEXICON A_SEIBAZ ! seibaz:seib
+ N_SEIBAZ ;
++Cmp:ha%>mb N_POIG ;
+
 LEXICON A_CIPUINE !cipuine:cipu
  N_CIPUINE ;
++Cmp:iže%>mb N_POIG ;
 +Der+Der/Uz1+N:ižud N_NORUZ ;
 
+LEXICON A_TOSHTMINE ! toštmine:toštmi
+ N_TOSHTMINE ;
++Cmp:že%>mb N_POIG ;
+
 LEXICON A_KENGATOI ! kengätoi:kengäto
++Cmp:ma%>mb N_POIG ;
 +Der+Der/Uz1+N:mud N_NORUZ ;
 :i SG-NOM-SUF ;
 :n SG-PAR-SUF_t ;
@@ -31,6 +77,17 @@ LEXICON A_KENGATOI ! kengätoi:kengäto
 :ma PL-NOM-SUF ;
 :ma PL-ACC-SUF ;
 :m PL-OBLIQUE ;
+
+LEXICON PRFPRC-DECLENSION ! -nu
++Cmp:%>mb N_POIG ;
+ SG-NOM-SUF ;
+: SG-PAR-SUF_t ;
+:de SG-OBLIQUE ;
+! Plural
+:de PL-NOM-SUF ;
+:de PL-ACC-SUF ;
+:z  PL-OBLIQUE ;
+
 
 ! vim: set ft=xfst-lexc:
 

@@ -1,4 +1,18 @@
 !! !!!Veps Noun inflection
+!Metrical feetDisyllables
+!˘ ˘	 pyrrhic, dibrach : kala
+!˘ ¯	 iamb	  	  : veneh
+!¯ ˘	 trochee, choree  : sanha sana+N+Sg+Ill
+!¯ ¯	 spondee	: landeh
+!Trisyllables
+!˘ ˘ ˘	tribrach
+!¯ ˘ ˘	dactyl
+!˘ ¯ ˘	amphibrach
+!˘ ˘ ¯	anapaest, antidactylus : venehed 
+!˘ ¯ ¯	bacchius
+!¯ ¯ ˘	antibacchius
+!¯ ˘ ¯	cretic, amphimacer
+!¯ ¯ ¯	molossus
 
 LEXICON N_
 +TYÄ: #;
@@ -15,6 +29,9 @@ LEXICON N_MUNA ! Stem vowel alternation ZERO-A-ZERO muna:mun
 
 
 LEXICON N_SANA
+! sana = pyrrhic <
+! sanad = iamb   <
+! sanha = trochee < *sanahan anapaest
 :a NMN_RUSKED-SG ;
 :a NMN_RUSKED-PL-NOM ;
 :o NMN_RUSKED-PL-OBL ;
@@ -76,6 +93,14 @@ LEXICON N_UNI ! uni:un
 ! Plural
 :e PL-NOM-SUF ;
 :e PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+LEXICON N_POIG ! poig:poig
+: SG-NOM-SUF ;
+:a SG-OBLIQUE ;
+! Plural
+:a PL-NOM-SUF ;
+:a PL-ACC-SUF ;
 : PL-OBLIQUE ;
 
 LEXICON N_VENEH ! veneh:veneh
@@ -213,6 +238,17 @@ LEXICON N_KEL
 :%>e PL-ACC-SUF ;
 : PL-OBLIQUE ;
 
+
+LEXICON N_OIGED !oiged:oig%{eØ%}d
+!oi|ged (-ktan, -ktoid)
+: SG-NOM-SUF ;
+:%^DEVOICE SG-NOM-SUF ;
+:%^RmVow%^DEVOICE%>a SG-OBLIQUE ;
+! Plural
+:%^RmVow%^DEVOICE%>a PL-NOM-SUF ;
+:%^RmVow%^DEVOICE%>a PL-ACC-SUF ;
+:%^RmVow%^DEVOICE%>o PL-OBLIQUE ;
+
 LEXICON N_PU ! pu:pu
 : SG-NOM-SUF ;
 : SG-OBLIQUE ;
@@ -244,14 +280,6 @@ LEXICON N_SARV !sarv:sarv
 ! Plural
 :%>e PL-NOM-SUF ;
 :%>e PL-ACC-SUF ;
-: PL-OBLIQUE ;
-
-LEXICON N_POIG ! poig:poig
-: SG-NOM-SUF ;
-:a SG-OBLIQUE ;
-! Plural
-:a PL-NOM-SUF ;
-:a PL-ACC-SUF ;
 : PL-OBLIQUE ;
 
 

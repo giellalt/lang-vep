@@ -13,6 +13,9 @@
 
 
 
+ * %^RmVow:0  for removing vowels
+
+
 
 
 
@@ -45,15 +48,21 @@ Right context for gradation
 !!!Rules
 
 
+
 !!Vowel change 
 
 __StemVowLoss before _i___  
+
+__Stem-internal vowel loss__
+
 
 
 
 
 
 !!Consonant change 
+
+__devoicing of adjecent stops__ vauged: vauktan
 
 
 __d:z in vodes, voziš__  

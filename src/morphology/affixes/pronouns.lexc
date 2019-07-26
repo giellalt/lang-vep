@@ -4,10 +4,11 @@
 
 LEXICON PRONOUN-TYPES
  PERS ;
-! INTERR ;
+ INTERR ;
 ! INDEFINITE-PRON ;
-! NEG-PRON ;
+ NEG-PRON ;
 ! COLL-PRON ;
+  DEM-PRON ;
 
 LEXICON PERS
 minä+Pron:min PersSg1 ;
@@ -68,7 +69,28 @@ LEXICON PERS-PL_01
 +Ine:%>iš K ;
 +Par:%>id K ;
 
+LEXICON INTERR
+mi+Pron+Interr+Sg+Nom:mi K ;
+mi+Pron+Interr+Sg+Par:midä K ;
+mi+Pron+Interr+Sg+Gen:min K ;
+mi+Pron+Interr+Sg+Acc:min K ;
+mi+Pron+Interr+Sg+Ade:mil K ;
+mi+Pron+Interr+Sg+Ine:miš K ;
+mi+Pron+Interr+Sg+Ela:mišpäi K ;
+mi+Pron+Interr+Sg+Ill:mihe K ;
+mi+Pron+Interr+Sg+Tra:mikš K ;
+ken+Pron+Interr+Sg+Nom:ken K ;
+ken+Pron+Interr+Sg+Gen:kenen K ;
+ken+Pron+Interr+Sg+Par:keda K ;
 
+LEXICON DEM-PRON
+se+Pron+Dem+Sg+Nom:se K ;
+se+Pron+Dem+Sg+Gen:sen K ;
+se+Pron+Dem+Sg+Par:sidä K ;
 
+LEXICON NEG-PRON
+niken+Pron+Neg+Sg+Nom:niken K ;
+niken+Pron+Neg+Sg+Gen:nikenen K ;
+niken+Pron+Neg+Sg+Par:nikeda K ;
 
 ! vim: set ft=xfst-lexc:
