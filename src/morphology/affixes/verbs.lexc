@@ -254,8 +254,9 @@ LEXICON V-ConsonantStem
 LEXICON V-ConsonantStem_OTHER
 +Ind+ConNeg+Prs+Pl:%>koi K ;
 +Ind+ConNeg+Prt+Pl:%>nugoi K ;
-+Prf+Sg:%>nu K ;
-+Prf+Pl:%>nuded K ;
++PrfPrc:%>nu PRFPRC-DECLENSION ;
++PrfPrc+Sg:%>nu K ;
++PrfPrc+Pl:%>nuded K ;
 +Cond+ConNeg+Prt:%>nuiži K ;
 
 !!!!!!!!!!!!!!
@@ -311,7 +312,7 @@ LEXICON V-ConsonantStem_t
 +Inf+Der/Te+Ine:%>tes K ;
 +Inf+Der/Te+EssInst:%>ten K ;
 
-+Der/IA+Ptc+Act+Prs:%>jA1 K ; ! This will have to be AdjTag or something
++Der/IA+Act+PrsPrc:%>jA1 K ; ! This will have to be AdjTag or something
 +Inf+Der/ma+Ill:%>mha K ;
 +Inf+Der/ma+Ine:%>mas K ;
 +Inf+Der/ma+Ela:%>maspäi K ;
