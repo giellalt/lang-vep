@@ -169,7 +169,7 @@ Multichar_Symbols
  +ConNegII              !!= * @CODE@ =
  +ImprtII          		!!= * @CODE@ =
  +PrsPrc   !!= * @CODE@
- +PrfPrc                !!= * @CODE@ =
+ +PrfPrc                !!= * @CODE@ = nu
  +Sup   !!= * @CODE@
  +VGen   !!= * @CODE@
  +VAbess             !!= * @CODE@ =
@@ -269,6 +269,8 @@ Multichar_Symbols
 !! To represent phonologic variations in word forms we use the following
 !! symbols in the lexicon files:
 
+%{eØ%} !!= * @CODE@ vowel loss in oiged:oiktan
+
  {aä}   !!= * @CODE@
  {oö}   !!= * @CODE@
  {uü}  !!= * @CODE@
@@ -277,6 +279,8 @@ Multichar_Symbols
 
  {front}   !!= * @CODE@
  {back}  !!= * @CODE@
+%^RmVow !!= * @CODE@ for removing vowels
+
 %>
 %-
 %^WGStem         !!= * @CODE@

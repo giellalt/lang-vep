@@ -154,7 +154,7 @@ Other verb forms are
  *  +ConNegII               =
  *  +ImprtII          		 =
  *  +PrsPrc   
- *  +PrfPrc                 =
+ *  +PrfPrc                 = nu
  *  +Sup   
  *  +VGen   
  *  +VAbess              =
@@ -252,6 +252,8 @@ Morphophonology
 To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
 
+ * %{eØ%}  vowel loss in oiged:oiktan
+
  *  {aä}   
  *  {oö}   
  *  {uü}  
@@ -260,6 +262,8 @@ And following triggers to control variation
 
  *  {front}   
  *  {back}  
+ * %^RmVow  for removing vowels
+
  * %^WGStem         
  * %^TS 		     
  * %^RVow		     
