@@ -2,7 +2,7 @@
 LEXICON nouns
 
 cipuine+N:cipu N_CIPUINE  "tipu" ;
-kelʼ+N:kelʼ N_KEL  "kieli" ;
+kel'+N:kel N_KEL  "kieli" ;
 kojaduz+N:kojaduz N_ALUZ  "kaiku" ;
 landeh+N:land N_LANDEH  "lanne" ;
 marj+N:marj N_MARJ  "marja" ;

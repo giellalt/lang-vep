@@ -59,6 +59,8 @@ Multichar_Symbols
 
 !! !Verbs
 +Aux
++Act !!= * @CODE@ = active voice
++Pss !!= * @CODE@ = passive voice
 
 !! Nominals are inflected for Number and Case
 
@@ -270,6 +272,10 @@ Multichar_Symbols
 !! symbols in the lexicon files:
 
 %{eØ%} !!= * @CODE@ vowel loss in oiged:oiktan
+%{uØ%} !!= * @CODE@ vowel loss in sapug:sapkan
+%{iØ%} !!= * @CODE@ vowel loss in paltin:paltnan
+%{aØ%} !!= * @CODE@ vowel loss in samal:samlan
+%{oØ%} !!= * @CODE@ vowel loss in zerkol:zerklon
 
  {aä}   !!= * @CODE@
  {oö}   !!= * @CODE@

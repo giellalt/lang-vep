@@ -32,9 +32,13 @@ LEXICON N_SANA
 ! sana = pyrrhic <
 ! sanad = iamb   <
 ! sanha = trochee < *sanahan anapaest
-:a NMN_RUSKED-SG ;
-:a NMN_RUSKED-PL-NOM ;
-:o NMN_RUSKED-PL-OBL ;
+: SG-NOM-SUF ;
++Sg+Ill:%>ha K ;
+:%>a SG-OBLIQUE ;
+! Plural
+:%>a PL-NOM-SUF ;
+:%>a PL-ACC-SUF ;
+:o PL-OBLIQUE ;
 
 LEXICON N_MARJ 
 !:QAO1 NMN_ ;
@@ -106,6 +110,15 @@ LEXICON N_POIG ! poig:poig
 LEXICON N_VENEH ! veneh:veneh
 : SG-NOM-SUF ;
 : SG-PAR-SUF_t ;
+:e SG-OBLIQUE ;
+! Plural
+:e PL-NOM-SUF ;
+:e PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+LEXICON N_HANG ! hang:hang
+: SG-NOM-SUF ;
+: SG-PAR-SUF ;
 :e SG-OBLIQUE ;
 ! Plural
 :e PL-NOM-SUF ;
@@ -228,34 +241,71 @@ LEXICON N_TEGII ! tegii:tegi
 :ja PL-ACC-SUF ;
 :jo PL-OBLIQUE ;
 
-!kel’:kel’
-LEXICON N_KEL
-: SG-NOM-SUF ;
-:%^DEVOICE SG-NOM-SUF ;
+LEXICON N_KEL !kel':kel
+:' SG-NOM-SUF ;
+:' SG-PAR-SUF_t ;
 :%>e SG-OBLIQUE ;
 ! Plural
 :%>e PL-NOM-SUF ;
 :%>e PL-ACC-SUF ;
 : PL-OBLIQUE ;
 
+LEXICON N_SAR1 !sar':sar
+:' SG-NOM-SUF ;
+: SG-PAR-SUF_t ;
+:%>e SG-OBLIQUE ;
+! Plural
+:%>e PL-NOM-SUF ;
+:%>e PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+LEXICON N_JOUCEN !joucen:jouc%{eØ%}
+: SG-NOM-SUF ;
+: SG-PAR-SUF_t ;
+:%^RmVow%>e SG-OBLIQUE ;
+! Plural
+:%^RmVow%>e PL-NOM-SUF ;
+:%^RmVow%>e PL-ACC-SUF ;
+:%^RmVow PL-OBLIQUE ;
+
 
 LEXICON N_OIGED !oiged:oig%{eØ%}d
 !oi|ged (-ktan, -ktoid)
 : SG-NOM-SUF ;
-:%^DEVOICE SG-NOM-SUF ;
 :%^RmVow%^DEVOICE%>a SG-OBLIQUE ;
 ! Plural
 :%^RmVow%^DEVOICE%>a PL-NOM-SUF ;
 :%^RmVow%^DEVOICE%>a PL-ACC-SUF ;
 :%^RmVow%^DEVOICE%>o PL-OBLIQUE ;
 
+LEXICON N_SAMAL !samal:sam%{aØ%}l
+: SG-NOM-SUF ;
+:%^RmVow%^DEVOICE%>o SG-OBLIQUE ;
+! Plural
+:%^RmVow%^DEVOICE%>o PL-NOM-SUF ;
+:%^RmVow%^DEVOICE%>o PL-ACC-SUF ;
+:%^RmVow%^DEVOICE%>o PL-OBLIQUE ;
+
 LEXICON N_PU ! pu:pu
+ N_PU-SG ;
+ N_PU-PL ;
+LEXICON N_PU-SG
 : SG-NOM-SUF ;
 : SG-OBLIQUE ;
+LEXICON N_PU-PL
 ! Plural
 : PL-NOM-SUF ;
 : PL-ACC-SUF ;
 : PL-OBLIQUE ;
+
+LEXICON	N_VIDENZ1 ! videnz':viden (-den, -t, -zid)
+:z' SG-NOM-SUF ;
+: SG-PAR-SUF_t ;
+:de SG-OBLIQUE ;
+! Plural
+:de PL-NOM-SUF ;
+:de PL-ACC-SUF ;
+:nz PL-OBLIQUE ;
 
 LEXICON N_KODI !kodi:kodi
 :i SG-NOM-SUF ;

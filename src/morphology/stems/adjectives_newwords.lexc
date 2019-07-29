@@ -477,6 +477,35 @@ kivine+A:kivi A_TOSHTMINE ;
 demonstrativine+A:demonstrativi A_TOSHTMINE ;
 oficialine+A:oficiali A_TOSHTMINE ;
 ortodoksine+A:ortodoksi A_TOSHTMINE ;
+populärine+A:populäri A_TOSHTMINE ;
+politine+A:politi A_TOSHTMINE ;
+politehnine+A:politehni A_TOSHTMINE ;
+policentri+A:policentri A_TOSHTMINE ;
+
+nor'+A:nor A_SAR1 ;
+sur'+A:sur A_SAR1 ;
+tün'+A:tün A_KEL ;
+pen'+A:pen A_KEL ;
+
+ühesanz'+A:ühesan A_VIDENZ1 ;
+videnz'+A:viden A_VIDENZ1 ;
+kümnenz'+A:kümnen A_VIDENZ1 ;
+nellänz'+A:nellän A_VIDENZ1 ;
+londuseline+A:londuseli A_TOSHTMINE ;
+pohjoine+A:pohjoi A_TOSHTMINE ;
+kundali+A:kundali A_TOSHTMINE ;
+administrativiž-territorialine+A:administrativiž-territoriali A_TOSHTMINE ;
+professionaline+A:professionali A_TOSHTMINE ;
+ühtennimine+A:ühtennimi A_TOSHTMINE ;
+periodine+A:periodi A_TOSHTMINE ;
+järgenduseline+A:järgenduseli A_TOSHTMINE ;
+municipaline+A:municipali A_TOSHTMINE ;
+federaline+A:federali A_TOSHTMINE ;
+avtonomine+A:avtonomi A_TOSHTMINE ;
+specialine+A:speciali A_TOSHTMINE ;
+tedoline+A:tedoli A_TOSHTMINE ;
+verhine+A:verhi A_TOSHTMINE ;
+lähine+A:lähi A_TOSHTMINE ;
 
 kengätoi+A:kengäto A_KENGATOI ;
 mererandatoi+A:mererandato A_KENGATOI ;

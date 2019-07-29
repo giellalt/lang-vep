@@ -64,7 +64,7 @@ LEXICON V_JODA ! joda:jo
 LEXICON V_VEDADA ! vedada:ved
 :a V-VowelStem-PRS ;
 : V-VowelStem-PRT ;
- V-ConsonantStem ;
+:a V-ConsonantStem ;!CHECKME2019-07-25
 :a INDPRS3 ;
 
 LEXICON V_MAKSTA ! maksta:maks
@@ -304,11 +304,12 @@ LEXICON V-ConsonantStem_t
 +Refl+Ind+Prs+ConNeg+Sg:%>te K ;
 +Refl+Imprt+Sg2:%>te K ;
 +Refl+Imprt+Sg2:%>te K ;
-+Der/Tu+Ptc+Pass+Pst:%>tu K ; ! This will have to be AdjTag or something
++Pss+PrfPrs:%>tud K ;
+!+Der/Tu+Ptc+Pss+Pst:%>tu K ; ! This will have to be AdjTag or something
 +Inf:%>ta K ;
 +Inf+Refl:%>tas K ;
-+Pass+Prs:%>ta K ;
-+Pass+Prt:%>ti K ;
++Pss+Prs:%>ta K ;
++Pss+Prt:%>ti K ;
 +Inf+Der/Te+Ine:%>tes K ;
 +Inf+Der/Te+EssInst:%>ten K ;
 
