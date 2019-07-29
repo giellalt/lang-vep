@@ -45,6 +45,19 @@ LEXICON A_OIGED !oiged:oig%{eØ%}d
  N_OIGED ;
 +Cmp:%^RmVow%^DEVOICE%>e%>mb N_POIG ;
 
+LEXICON A_KEL !kel':kel
+ N_KEL ;
++Cmp:%>e%>mb N_POIG ;
++Der+Der/Uz1+N:ud N_NORUZ ;
+
+LEXICON A_SAR1 !sar':sar
+ N_SAR1 ;
++Cmp:%>e%>mb N_POIG ;
++Der+Der/Uz1+N:ud N_NORUZ ;
+
+LEXICON A_VIDENZ1 ! videnz':viden (-den, -t, -zid)
+N_VIDENZ1 ;
+
 
 LEXICON A_LANDEH ! landeh:land
  N_LANDEH ;

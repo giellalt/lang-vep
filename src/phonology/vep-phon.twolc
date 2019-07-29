@@ -14,6 +14,10 @@ A B D E F G H I J K L M N O P R S Š T U V Z Ž Ü Ä Ö
 ' !!= * @CODE@ = U+0027  APOSTROPHE
 
 %{eØ%}:e ! vowel loss in oiged:oiktan
+%{uØ%}:u ! vowel loss in sapug:sapkan
+%{iØ%}:i ! vowel loss in paltin:paltnan
+%{aØ%}:a ! vowel loss in samal:samlan
+%{oØ%}:o ! vowel loss in zerkol:zerklon
 
 ! Vowel harmony with "(t)a/ä"
 AÄ1:a
@@ -182,7 +186,8 @@ Rules
 
 "Stem-internal vowel loss"
 !! __@RULENAME@__
-%{eØ%}:0 <=> _ d: %^RmVow: ;
+ Vx:0 <=> _ Cns: %^RmVow: ;
+              where Vx in (%{aØ%} %{iØ%} %{uØ%} %{eØ%} %{oØ%} ) ;
 
 
 "QAO1 Sg Rule"
@@ -197,8 +202,8 @@ QAO1:o <=> _ ( %^DEVOICE: ) %> :i ( %^DEVOICE: ) Cns ;
 
 "devoicing of adjecent stops"
 !! __@RULENAME@__ vauged: vauktan
- Cx:Cy <=>  _ %{eØ%}: Cns:CnsVoiceless %^RmVow: %^DEVOICE: %> ;
-            Cns:CnsVoiceless %{eØ%}: _ %^RmVow: %^DEVOICE: %> ;
+ Cx:Cy <=>  _ [%{eØ%}: |%{uØ%}: ] Cns:CnsVoiceless %^RmVow: %^DEVOICE: %> ;
+            Cns:CnsVoiceless [ %{eØ%}: | %{uØ%}: ] _ %^RmVow: %^DEVOICE: %> ;
               where Cx in (g d)
                     Cy in (k t) matched ;
 

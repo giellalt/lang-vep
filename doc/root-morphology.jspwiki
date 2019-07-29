@@ -44,6 +44,8 @@ Nouns
  *  +Rel     = relative
 
 !Verbs
+ * +Act  = active voice
+ * +Pss  = passive voice
 
 Nominals are inflected for Number and Case
 
@@ -253,6 +255,10 @@ To represent phonologic variations in word forms we use the following
 symbols in the lexicon files:
 
  * %{eØ%}  vowel loss in oiged:oiktan
+ * %{uØ%}  vowel loss in sapug:sapkan
+ * %{iØ%}  vowel loss in paltin:paltnan
+ * %{aØ%}  vowel loss in samal:samlan
+ * %{oØ%}  vowel loss in zerkol:zerklon
 
  *  {aä}   
  *  {oö}   
