@@ -491,6 +491,18 @@ pen'+A:pen A_KEL ;
 videnz'+A:viden A_VIDENZ1 ;
 kümnenz'+A:kümnen A_VIDENZ1 ;
 nellänz'+A:nellän A_VIDENZ1 ;
+koumanz'+A:kouman A_VIDENZ1 ;
+seičemenz'+A:seičemen A_VIDENZ1 ;
+
+jähine+A:jähi A_TOSHTMINE ;
+venähine+A:venähi A_TOSHTMINE ;
+ičhine+A:ičhi A_TOSHTMINE ;
+
+ezine+A:ezi A_TOSHTMINE ;
+todesine+A:todesi A_TOSHTMINE ;
+ruskedverine+A:rusked#veri A_TOSHTMINE ;
+näpine+A:näpi A_TOSHTMINE ;
+sinine+A:sini A_TOSHTMINE ;
 londuseline+A:londuseli A_TOSHTMINE ;
 pohjoine+A:pohjoi A_TOSHTMINE ;
 kundali+A:kundali A_TOSHTMINE ;

@@ -146,6 +146,12 @@ unikuva+N:uni#kuv N_MUNA ;
 čoga+N:čog N_MUNA ;
 čura+N:čur N_MUNA ;
 
+kezi+N:ked N_KEZI ;
+lezi+N:led N_KEZI ;
+südäivezi+N:südäi#ved N_KEZI ;
+tozi+A:tod A_KEZI ;
+vezi+N:ved N_KEZI ;
+
 lad+N:lad N_LIND ;
 suks'lad+N:suks'#lad N_LIND ;
 kuhm+N:kuhm N_LIND ;
@@ -427,6 +433,7 @@ nem'+N:nem N_SAR1 ;
 tom'+N:tom N_SAR1 ;
 samal+N:sam%{aØ%}l N_SAMAL ;
 zerkol+N:zerk%{oØ%}l N_SAMAL ;
+garbol+N:gar#b%{oØ%}l N_SAMAL ;
 
 joucen+N:jouc%{eØ%}n N_JOUCEN ;
 paimen+N:paim%{eØ%}n N_JOUCEN ;
@@ -1433,6 +1440,9 @@ materii+N:materi N_TEGII ;
 konferencii+N:konferenci N_TEGII ;
 kodihimii+N:kodihimi N_TEGII ;
 kalii+N:kali N_TEGII ;
+tulleitamine+N:tulleitami N_TOSHTMINE ;
+löudmine+N:löudmi N_TOSHTMINE ;
+vedehine+N:vedehi N_TOSHTMINE ;
 
 čigičaine+N:čigiča N_CIPUINE ;
 čokkaine+N:čokka N_CIPUINE ;
