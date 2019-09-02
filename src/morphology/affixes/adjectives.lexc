@@ -55,6 +55,12 @@ LEXICON A_SAR1 !sar':sar
 +Cmp:%>e%>mb N_POIG ;
 +Der+Der/Uz1+N:ud N_NORUZ ;
 
+LEXICON A_KEZI !kezi:ked
+ N_KEZI ;
++Cmp:%>e%>mb N_POIG ;
++Der+Der/Uz1+N:ud N_NORUZ ;
+
+
 LEXICON A_VIDENZ1 ! videnz':viden (-den, -t, -zid)
 N_VIDENZ1 ;
 
