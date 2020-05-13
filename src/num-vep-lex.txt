@@ -1,0 +1,16 @@
+LEXICON NumRoot
+üks' CNUM "one" ;
+kaks' VNUM "two" ;
+koume NNUM "three" ;
+nell' CNUM "four" ;
+viž CNUM "five" ;
+kuz' DNUM "six" ; 
+seičeme CNUM "seven" ;
+kahesa CNUM "eight" ;
+ühesa DNUM "nine" ;
+kümne DNUM "ten" ;
+üks'toštkümne DNUM "eleven" ;
+kaks'toštkümne DNUM "twelve" ;
+kaks'kümne DNUM "twenty" ;
+sada DNUM "hundred" ;
+tuha DNUM "thousand" ;
