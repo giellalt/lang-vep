@@ -1,0 +1,64 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Noun - nado: # Noun 'sister-in-law'
+     nado+N+Sg+Nom: nado
+     nado+N+Sg+Gen: nadon
+     nado+N+Sg+Acc: [nado, nadon]
+     nado+N+Sg+Par: nadod
+     nado+N+Sg+Tra: nadoks
+     nado+N+Sg+Abe: nadota
+     nado+N+Sg+Com: nadonke
+     nado+N+Sg+Ine: nados
+     nado+N+Sg+Ela: nadospäi
+     nado+N+Sg+Ill: nadoho
+     nado+N+Sg+Ade: nadol
+     nado+N+Sg+Abl: nadolpäi
+     nado+N+Sg+All: nadole
+     nado+N+Sg+EssInst: nadon
+     nado+N+Sg+Prl: nadodme
+     nado+N+Sg+Apr1: nadonno
+     nado+N+Sg+Apr2: nadonnoks
+     nado+N+Sg+Egr: nadonnopäi
+     nado+N+Sg+Ter1: nadohosai
+     nado+N+Sg+Ter2: nadolesai
+     nado+N+Sg+Ter3: nadossai
+     nado+N+Sg+Add1: nadohopäi
+     nado+N+Sg+Add2: nadolepäi
+
+     nado+N+Pl+Nom: nadod
+     nado+N+Pl+Gen: [nadoiden, nadoidʼen]
+     nado+N+Pl+Acc: nadod 
+     nado+N+Pl+Par: nadoid
+     nado+N+Pl+Tra: nadoikš
+     nado+N+Pl+Abe: nadoita
+     nado+N+Pl+Com: nadoidenke
+     nado+N+Pl+Ine: nadoiš
+     nado+N+Pl+Ela: nadoišpäi
+     nado+N+Pl+Ill: nadoihe
+     nado+N+Pl+Ade: nadoil
+     nado+N+Pl+Abl: nadoilpäi
+     nado+N+Pl+All: nadoile
+     nado+N+Pl+EssInst: nadoin
+     nado+N+Pl+Prl: nadoidme
+     nado+N+Pl+Apr1: nadoidenno
+     nado+N+Pl+Apr2: nadoidennoks
+     nado+N+Pl+Egr: nadoidennopäi
+     nado+N+Pl+Ter1: nadoihesai
+     nado+N+Pl+Ter2: nadoilesai
+#     nado+N+Pl+Ter3: nadossai
+     nado+N+Pl+Add1: nadoihepäi
+     nado+N+Pl+Add2: nadoilepäi

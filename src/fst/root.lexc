@@ -1,0 +1,444 @@
+! Divvun & Giellatekno - open source grammars for Veps language
+! Copyright © 2015 The University of Tromsø & the Norwegian Sámi Parliament
+! http://giellatekno.uit.no & http://divvun.no
+!
+! This program is free software; you can redistribute and/or modify
+! this file under the terms of the GNU General Public License as published by
+! the Free Software Foundation, either version 3 of the License, or
+! (at your option) any later version. The GNU General Public License
+! is found at http://www.gnu.org/licenses/gpl.html. It is
+! also available in the file $GTHOME/LICENSE.txt.
+!
+! Other licensing options are available upon request, please contact
+! giellatekno@uit.no or feedback@divvun.no
+
+!! Morphology
+
+!! !!!INTRODUCTION TO MORPHOLOGICAL ANALYSER OF VEPS
+
+Multichar_Symbols
+!! Multichar_symbols
+
+ +TYÄ !!= * @CODE@ =  Work that has to be done
+
+!! The morphological analyses of wordforms of Veps are presented
+!! in this system in terms of the following symbols.
+!! (It is highly suggested to follow existing standards when adding new tags).
+
+!! !!The parts-of-speech are:
+ +A      !!= * @CODE@ = adjective
+ +Adp    !!= * @CODE@ = adposition
+ +Adv    !!= * @CODE@ = adverb
+ +CS     !!= * @CODE@ = subordinating conjunction
+ +CC     !!= * @CODE@ = coordinating conjunction
+ +Interj !!= * @CODE@ = interjection
+ +N      !!= * @CODE@ = noun
+ +Num    !!= * @CODE@ = numeral
+ +Pcle   !!= * @CODE@ = particle
+ +Pr     !!= * @CODE@ = preposition
+ +Po     !!= * @CODE@ = postposition
+ +Pron   !!= * @CODE@ = pronoun
+ +Qnt    !!= * @CODE@ = quantifier
+ +V      !!= * @CODE@ = verb
+
+!! !!Parts of speech are further split up into:
+
+!! Nouns
+
+ +Prop  !!= * @CODE@ = proper
+
+!! !!Pronouns
+
+ +Dem   !!= * @CODE@ = demonstrative
+ +Indef !!= * @CODE@ = indefinite
+ +Interr !!= * @CODE@ = interrogative
+ +Pers   !!= * @CODE@ = personal
+ +Recipr !!= * @CODE@ = reciprocal
+ +Refl   !!= * @CODE@ = reflexive
+ +Rel    !!= * @CODE@ = relative
+
+!! !Verbs
++Aux
++Act !!= * @CODE@ = active voice
++Pss !!= * @CODE@ = passive voice
+
+!! Nominals are inflected for Number and Case
+
+!! !!Number
+ +Sg !!= * @CODE@ = singular
+ +Pl !!= * @CODE@ = plural
+
+!! !!Case
+ +Abe !!= * @CODE@ = abessive
+ +Acc !!= * @CODE@ = accusative
+ +Abl !!= * @CODE@ = ablative case
+ +Ade !!= * @CODE@ = adessive
+ +All !!= * @CODE@ = allative
+ +Dat !!= * @CODE@ = dative case
+ +Ela !!= * @CODE@ = elative
+ +Ess !!= * @CODE@ = essive
+ +Exe !!= * @CODE@ = essive
+ +Gen !!= * @CODE@ = genitive case
+ +Ill !!= * @CODE@ = illative
+ +Ine !!= * @CODE@ = inessive
+ +Ins !!= * @CODE@ = instrumental
+ +Instr !!= * @CODE@ = instructive -IN
+ +Lat !!= * @CODE@ = Lative
+ +Loc !!= * @CODE@ = Locative
+ +Nom !!= * @CODE@ = nominative case
+ +Par !!= * @CODE@ = partitive
+ +Prl !!= * @CODE@ = prolative
+ +Tra !!= * @CODE@ = translative
+ +Voc !!= * @CODE@ = Vocative
+
+ +Pros	  !!= * @CODE@ =
+ +Adc	  !!= * @CODE@ =
+
+ +Apr	  !!= * @CODE@ =
+ +Egr		  !!= * @CODE@ =
+ +Ter1	  !!= * @CODE@ =
++Ter2	  !!= * @CODE@ =
++Ter3	  !!= * @CODE@ =
++Add1	  !!= * @CODE@ =
++Add2	  !!= * @CODE@ =
+ +Apr1	  !!= * @CODE@ =
++Apr2						  !!= * @CODE@ =
+ +EssInst							  !!= * @CODE@ =
+
+!! The Usage extents are marked using the following tags:
+
+ +Err/Orth                     !!= * @CODE@ =
+ +Use/-Spell                  !!= * @CODE@ =
+
+
+!! !The possession is marked as such:
+
+ +PxSg1	  !!= * @CODE@ =
++PxSg2	  !!= * @CODE@ =
++PxSg3                 !!= * @CODE@ =
+ +PxPl1	  !!= * @CODE@ =
++PxPl2	  !!= * @CODE@ =
++PxPl3                 !!= * @CODE@ =
+
+!! The comparative forms are:
+
+ +Comp 	  !!= * @CODE@ =
+ +Superl                 !!= * @CODE@ =
+
+!! Numerals are classified under:
+
+ +Attr 	  !!= * @CODE@ =
+ +Card                !!= * @CODE@ =
+ +Ord 		                !!= * @CODE@ =
+
+!! Verb tense and moods are:
+
+ +Cond !!= * @CODE@ = conditional
+ +Ind !!= * @CODE@ = indicative
+ +Imprt !!= * @CODE@ = imperative
+
+!! Tenses
+ +Prs	  !!= * @CODE@ =
+  +Prt 		            !!= * @CODE@ =
+ +Pos			            !!= * @CODE@ =
+
+!! !Verb personal forms are:
+
++Sg1      !!≈ * __@CODE@__ Singular First Person
++Sg2      !!≈ * __@CODE@__ Singular Second Person
++Sg3      !!≈ * __@CODE@__ Singular Third Person
++Pl1      !!≈ * __@CODE@__ Plural First Person
++Pl2      !!≈ * __@CODE@__ Plural Second Person
++Pl3      !!≈ * __@CODE@__ Plural Third Person
+
+ +RcSg1   !!= * @CODE@
++RcSg2    !!= * @CODE@
++RcSg3    !!= * @CODE@
++RcPl1    !!= * @CODE@
++RcPl2    !!= * @CODE@
++RcPl3   !!= * @CODE@ =
++RcSg    !!= * @CODE@
++RcPl    !!= * @CODE@
++ScSg    !!= * @CODE@
++ScPl				     !!= * @CODE@ =
+
+!! Other verb forms are
+
+ +Inf   !!= * @CODE@
++Ger  !!= * @CODE@
++Neg                 !!= * @CODE@ =
+ +ConNeg   !!= * @CODE@
+ +ConNegII              !!= * @CODE@ =
+ +ImprtII          		!!= * @CODE@ =
+ +PrsPrc   !!= * @CODE@
+ +PrfPrc                !!= * @CODE@ = nu
+ +Sup   !!= * @CODE@
+ +VGen   !!= * @CODE@
+ +VAbess             !!= * @CODE@ =
+
+!! !ADVERBS
+ +Manner	!!= * @CODE@ =
+ +Spat		!!= * @CODE@ =
+ +Temp		!!= * @CODE@ =
+
+!! Abbreviated words are classified with:
+
+ +ABBR   !!= * @CODE@
++Symbol !!≈ * @CODE@ = independent symbols in the text stream, like £, €, ©
+ +ACR   !!= * @CODE@ =
+
+!! Special symbols are classified with:
+
+ +CLB  !!= * @CODE@
++PUNCT  !!= * @CODE@
++LEFT  !!= * @CODE@
++RIGHT !!= * @CODE@ =
+
+!! The verbs are syntactically split according to transitivity:
+
+ +TV   !!= * @CODE@
+ +IV  !!= * @CODE@ =
+
+!! Special multiword units are analysed with:
+
+ +Multi !!= * @CODE@ =
+
+!! Non-dictionary words can be recognised with:
+
+ +Guess  !!= * @CODE@ =
+
+
+!! Question and Focus particles:
+
+ +Qst   !!= * @CODE@
+ +Foc       !!= * @CODE@ =
++Clt	         !!= * @CODE@ =
++Foc/ki	         !!= * @CODE@ =
++Foc/žo	         !!= * @CODE@ =
+
++Appr	         !!= * @CODE@ =
++Advc	         !!= * @CODE@ =
++Ter	         !!= * @CODE@ =
++Pro	         !!= * @CODE@ =
++Car 	         !!= * @CODE@ =
+
++PstI	         !!= * @CODE@ =
++PstII	         !!= * @CODE@ =
+
+
+
+!! Semantics are classified with
+ +Sem/Mal   !!= * @CODE@
+ +Sem/Fem   !!= * @CODE@
+ +Sem/Sur    !!= * @CODE@ =
+ +Sem/Plc 			   !!= * @CODE@ =
+ +Sem/Org			   !!= * @CODE@ =
+ +Sem/Obj			   !!= * @CODE@ =
+ +Sem/Ani			   !!= * @CODE@ =
+ +Sem/Hum			   !!= * @CODE@ =
+ +Sem/Plant			   !!= * @CODE@ =
+ +Sem/Group			   !!= * @CODE@ =
+ +Sem/Time 			   !!= * @CODE@ =
+ +Sem/Txt			   !!= * @CODE@ =
+ +Sem/Route			   !!= * @CODE@ =
+ +Sem/Measr 		   !!= * @CODE@ =
+ +Sem/Wthr			   !!= * @CODE@ =
+ +Sem/Build 		   !!= * @CODE@ =
+ +Sem/Edu			   !!= * @CODE@ =
+ +Sem/Veh			   !!= * @CODE@ =
+ +Sem/Clth			   !!= * @CODE@ =
+
+
+!! Derivations are classified under the morphophonetic form of the suffix, the
+!! source and target part-of-speech.
+ +V→N   !!= * @CODE@
+ +V→V   !!= * @CODE@
+ +V→A     !!= * @CODE@ =
++Der
++Der/Uz1                !!= * @CODE@ = sur»uz' A»N
++Der/Ta		        !!= * @CODE@ =
++Der/Te		        !!= * @CODE@ =
++Der/ma		        !!= * @CODE@ =
++Der/Tu		        !!= * @CODE@ =
++Der/IA		        !!= * @CODE@ =
++Der/Toi		!!= * @CODE@ = nime»toi N»A
++Der/Matoi		!!= * @CODE@ = V»A
++Der/Mine		!!= * @CODE@ = V»N
+
+
+!! Morphophonology
+!  ---------------
+!! To represent phonologic variations in word forms we use the following
+!! symbols in the lexicon files:
+
+%{eØ%} !!= * @CODE@ vowel loss in oiged:oiktan
+%{uØ%} !!= * @CODE@ vowel loss in sapug:sapkan
+%{iØ%} !!= * @CODE@ vowel loss in paltin:paltnan
+%{aØ%} !!= * @CODE@ vowel loss in samal:samlan
+%{oØ%} !!= * @CODE@ vowel loss in zerkol:zerklon
+
+ {aä}   !!= * @CODE@
+ {oö}   !!= * @CODE@
+ {uü}  !!= * @CODE@
+
+!! And following triggers to control variation
+
+ {front}   !!= * @CODE@
+ {back}  !!= * @CODE@
+%^RmVow !!= * @CODE@ for removing vowels
+
+%>
+%-
+%^WGStem         !!= * @CODE@
+%^TS 		     !!= * @CODE@
+%^RVow		     !!= * @CODE@
+ %^LVow 	     !!= * @CODE@
+ %^LCns		     !!= * @CODE@
+%^WCns		     !!= * @CODE@
+%^AtoO		     !!= * @CODE@
+%^ÄtoÖ		     !!= * @CODE@
+%^OddSyll	     !!= * @CODE@
+%^StretchSyll2   !!= * @CODE@
+%^SyllBr	     !!= * @CODE@
+%^E1		     !!= * @CODE@
+
+! Protoletters for xfst
+
+%^DEVOICE
+QAQ1   !!= * @CODE@
+QAO1   !!= * @CODE@
+QÄQ1   !!= * @CODE@
+EH1	   !!= * @CODE@
+QEQ1   !!= * @CODE@
+INE1   !!= * @CODE@
+ZD1	   !!= * @CODE@
+ZS1	   !!= * @CODE@
+V1	   !!= * @CODE@
+AO1	   !!= * @CODE@
+EI1	   !!= * @CODE@
+ZS1	   !!= * @CODE@
+ZD1    !!= * @CODE@ These are for developing underlying morphology rules
+D1	   !!= * @CODE@
+E1	   !!= * @CODE@
+U1	   !!= * @CODE@
+I1	   !!= * @CODE@
+AÄ1	   !!= * @CODE@
+OÖ1	   !!= * @CODE@
+UY1	   !!= * @CODE@
+V1	   !!= * @CODE@
+V2	   !!= * @CODE@
+V3	   !!= * @CODE@
+
+
+!! !!Flag diacritics
+!! We have manually optimised the structure of our lexicon using following
+!! flag diacritics to restrict morhpological combinatorics - only allow compounds
+!! with verbs if the verb is further derived into a noun again:
+ @P.NeedNoun.ON@    !!≈ | @CODE@ | (Dis)allow compounds with verbs unless nominalised
+ @D.NeedNoun.ON@    !!≈ | @CODE@ | (Dis)allow compounds with verbs unless nominalised
+ @C.NeedNoun@       !!≈ | @CODE@ | (Dis)allow compounds with verbs unless nominalised
+!! 
+!! For languages that allow compounding, the following flag diacritics are needed
+!! to control position-based compounding restrictions for nominals. Their use is
+!! handled automatically if combined with +CmpN/xxx tags. If not used, they will
+!! do no harm.
+ @P.CmpFrst.FALSE@ !!≈ | @CODE@ | Require that words tagged as such only appear first
+ @D.CmpPref.TRUE@  !!≈ | @CODE@ | Block such words from entering ENDLEX
+ @P.CmpPref.FALSE@ !!≈ | @CODE@ | Block these words from making further compounds
+ @D.CmpLast.TRUE@  !!≈ | @CODE@ | Block such words from entering R
+ @D.CmpNone.TRUE@  !!≈ | @CODE@ | Combines with the next tag to prohibit compounding
+ @U.CmpNone.FALSE@ !!≈ | @CODE@ | Combines with the prev tag to prohibit compounding
+ @P.CmpOnly.TRUE@  !!≈ | @CODE@ | Sets a flag to indicate that the word has passed R
+ @D.CmpOnly.FALSE@ !!≈ | @CODE@ | Disallow words coming directly from root.
+!! 
+!! Use the following flag diacritics to control downcasing of derived proper
+!! nouns (e.g. Finnish Pariisi -> pariisilainen). See e.g. North Sámi for how to use
+!! these flags. There exists a ready-made regex that will do the actual down-casing
+!! given the proper use of these flags.
+ @U.Cap.Obl@        !!≈ | @CODE@ | Allowing downcasing of derived names: deatnulasj.
+ @U.Cap.Opt@        !!≈ | @CODE@ | Allowing downcasing of derived names: deatnulasj.
+
+LEXICON Root
+!! The word forms in Veps start from the lexeme roots of basic
+!! word classes.
+  adjectives	 ;
+   adverbs	;
+   conjuncts	;
+   interjections	;
+   nouns	;
+   quantifiers	;
+   verbs	;
+Abbreviation ;	! stems/abbr.lexc
+Acronym ;    	! stems/acro.lexc
+Punctuation	;
+Symbols     ;
+!Numerals ;
+A_NEWWORDS ;
+N_NEWWORDS ;
+PROP_NEWWORDS ;
+V_NEWWORDS ;
+POSTPOSITION ;
+SUBJUNCTION ;
+
+PRONOUN-TYPES ;
+
+LEXICON CC_
+: # ;
+
+LEXICON CS_
+: # ;
+
+LEXICON SUBJUNCTION
+# ;
+
+LEXICON INTERJ_
+: # ;
+
+LEXICON NUMERAL
+#;
+
+LEXICON NUMBERSUF
+: K;
+:%> CASESUF ;
+:%> ORDINAL ;
+
+LEXICON ORDINAL
++Ord:этӥ K;
+
+
+
+LEXICON PUNCTUATION
+#;
+
+LEXICON POSTPOSITION
+al+Po+Ade:al # ;
+keskes+Po+Ine:keskes # ;
+
+LEXICON CADJ
++A: #;
+LEXICON DADJ
++A: #;
+LEXICON VADJ
++A: #;
+
+LEXICON ADV_
+: # ;
+
+LEXICON MANNER_
++Manner: K ;
+
+LEXICON SPAT_
++Spat: K ;
+
+LEXICON TEMP_
++Temp: K ;
+
+LEXICON CASESUF
+#;
+LEXICON PRON
+#;
+LEXICON DEM
+#;
+
+
+! vim: set ft=xfst-lexc:

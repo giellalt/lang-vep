@@ -1,0 +1,112 @@
+!! Adjective inflection
+!! ----
+
+!! Veps adjectives compare.
+
+! LEXICON Comparisons
+! +A+pos:0        Cases   ;
+! +A+cmp:er       Cases   ;
+! +A+sup:est      Cases   ;
+
+! uz’:ud
+LEXICON A_UZ !!= * @CODE@
+: NMN_NORUZ ;
+
+LEXICON A_RUSKED !!= * @CODE@
++A: NMN_RUSKED ;
+
+LEXICON A_  !!= * @CODE@, just beginning 
+ N_ ;
+
+LEXICON A_MUNA !  muna:mun
+ N_MUNA ;
++Cmp:e%>mb N_POIG ;
+
+LEXICON A_NADO !  nado:nado
+ N_NADO ;
++Cmp:%>mb N_POIG ;
+
+
+LEXICON A_POIG ! poig:poig
+ N_POIG ;
++Cmp:e%>mb N_POIG ;
+
+LEXICON A_MARJ ! marj:marj
+ N_MARJ ;
++Cmp:e%>mb N_POIG ;
+
+LEXICON A_JAUH ! jauh:jauh
+!(-on\,\ -oid\)
+ N_JAUH ;
++Cmp:%>mb N_POIG ;
+
+LEXICON A_OIGED !oiged:oig%{eØ%}d
+!oi|ged (-ktan, -ktoid)
+ N_OIGED ;
++Cmp:%^RmVow%^DEVOICE%>e%>mb N_POIG ;
+
+LEXICON A_KEL !kel':kel
+ N_KEL ;
++Cmp:%>e%>mb N_POIG ;
++Der+Der/Uz1+N:ud N_NORUZ ;
+
+LEXICON A_SAR1 !sar':sar
+ N_SAR1 ;
++Cmp:%>e%>mb N_POIG ;
++Der+Der/Uz1+N:ud N_NORUZ ;
+
+LEXICON A_KEZI !kezi:ked
+ N_KEZI ;
++Cmp:%>e%>mb N_POIG ;
++Der+Der/Uz1+N:ud N_NORUZ ;
+
+
+LEXICON A_VIDENZ1 ! videnz':viden (-den, -t, -zid)
+N_VIDENZ1 ;
+
+
+LEXICON A_LANDEH ! landeh:land
+ N_LANDEH ;
++Cmp:%>he%>mb N_POIG ;
+
+LEXICON A_VEDEKAZ ! vedekaz:vedeka
+ N_VEDEKAZ ;
++Cmp:ha%>mb N_POIG ;
+
+LEXICON A_SEIBAZ ! seibaz:seib
+ N_SEIBAZ ;
++Cmp:ha%>mb N_POIG ;
+
+LEXICON A_CIPUINE !cipuine:cipu
+ N_CIPUINE ;
++Cmp:iže%>mb N_POIG ;
++Der+Der/Uz1+N:ižud N_NORUZ ;
+
+LEXICON A_TOSHTMINE ! toštmine:toštmi
+ N_TOSHTMINE ;
++Cmp:že%>mb N_POIG ;
+
+LEXICON A_KENGATOI ! kengätoi:kengäto
++Cmp:ma%>mb N_POIG ;
++Der+Der/Uz1+N:mud N_NORUZ ;
+:i SG-NOM-SUF ;
+:n SG-PAR-SUF_t ;
+:ma SG-OBLIQUE ;
+! Plural
+:ma PL-NOM-SUF ;
+:ma PL-ACC-SUF ;
+:m PL-OBLIQUE ;
+
+LEXICON PRFPRC-DECLENSION ! -nu
++Cmp:%>mb N_POIG ;
+ SG-NOM-SUF ;
+: SG-PAR-SUF_t ;
+:de SG-OBLIQUE ;
+! Plural
+:de PL-NOM-SUF ;
+:de PL-ACC-SUF ;
+:z  PL-OBLIQUE ;
+
+
+! vim: set ft=xfst-lexc:
+

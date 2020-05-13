@@ -1,0 +1,71 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Verb - sanuda: # Verb '/(eng) to say /(fin) sanoa' - full paradigm
+# (Zaiceva, Nina 2010: Uz' vepsä-venälaine vajehnik, pp. 503-507)
+     sanuda+V+Der/da+Inf: sanuda
+# check these
+#     sanuda+V+Der/des+Inf+Ine: sanudes
+#     sanuda+V+Der/den+Inf+EssInst: sanuden
+     sanuda+V+Der/ma+Inf+Ill: sanumha
+     sanuda+V+Der/ma+Inf+Ine: sanumas
+     sanuda+V+Der/ma+Inf+Ela: sanumaspäi
+     sanuda+V+Der/ma+Inf+Ade: sanumal
+     sanuda+V+Ind+Prs+ScSg1: sanun
+     sanuda+V+Ind+Prs+ScSg2: sanud
+     sanuda+V+Ind+Prs+ScSg3: sanub
+     sanuda+V+Ind+Prs+ScPl1: sanum
+     sanuda+V+Ind+Prs+ScPl2: sanut
+     sanuda+V+Ind+Prs+ScPl3: sanuba
+     sanuda+V+Ind+Prs+ConNeg+ScSg: sanu
+     sanuda+V+Ind+Prs+ConNeg+ScPl: sanugoi
+
+     sanuda+V+Ind+Prt+ScSg1: sanuin
+     sanuda+V+Ind+Prt+ScSg2: sanuid
+     sanuda+V+Ind+Prt+ScSg3: sanui
+     sanuda+V+Ind+Prt+ScPl1: sanuim
+     sanuda+V+Ind+Prt+ScPl2: sanuit
+     sanuda+V+Ind+Prt+ScPl3: sanuiba
+     sanuda+V+Ind+Prt+ConNeg+ScSg: sanund
+     sanuda+V+Ind+Prt+ConNeg+ScPl: sanunugoi
+     sanuda+V+Ind+PrfPrc+ScSg: sanunu
+     sanuda+V+Ind+PrfPrc+ScPl: sanunuded
+
+     sanuda+V+Imprt+ScSg2: sanu
+     sanuda+V+Imprt+ScSg3: sanugaha
+     sanuda+V+Imprt+ScPl1: sanugam
+     sanuda+V+Imprt+ScPl2: sanugat
+     sanuda+V+Imprt+ScPl3: sanugaha
+     sanuda+V+Imprt+ConNeg+ScSg: sanu
+     sanuda+V+Imprt+ConNeg+ScPl: sanugoi
+
+     sanuda+V+Cond+Prs+ScSg1: sanuižin
+     sanuda+V+Cond+Prs+ScSg2: sanuižid
+     sanuda+V+Cond+Prs+ScSg3: sanuiži
+     sanuda+V+Cond+Prs+ScPl1: sanuižim
+     sanuda+V+Cond+Prs+ScPl2: sanuižit
+     sanuda+V+Cond+Prs+ScPl3: sanuižiba
+     sanuda+V+Cond+Prs+ConNeg+ScSg: sanuiži
+     sanuda+V+Cond+Prs+ConNeg+ScPl: sanuiži
+
+     sanuda+V+Cond+Prt+ScSg1: sanunuižin
+     sanuda+V+Cond+Prt+ScSg2: sanunuižid
+     sanuda+V+Cond+Prt+ScSg3: sanunuiži
+     sanuda+V+Cond+Prt+ScPl1: sanunuižim
+     sanuda+V+Cond+Prt+ScPl2: sanunuižit
+     sanuda+V+Cond+Prt+ScPl3: sanunuižiba
+     sanuda+V+Cond+Prt+ConNeg+ScSg: sanunuiži
+     sanuda+V+Cond+Prt+ConNeg+ScPl: sanunuiži

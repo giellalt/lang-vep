@@ -1,0 +1,324 @@
+!! Verb inflection
+!! ---
+
+! ei:e
+LEXICON V_EI
++Neg+Sg1:%>n K ;
++Neg+Sg2:%>d K ;
++Neg+Sg3:%>i K ;
++Neg+Pl1:%>m K ;
++Neg+Pl2:%>t K ;
++Neg+Pl3:%>i K ; !Is there any other variant
+
+
+LEXICON V_SUGIDA
+: V-VowelStem ;
+: V-ConsonantStem ;
+: INDPRS3 ;
+
+LEXICON V_OLDA
+:le V-VowelStem ;
+:l V-ConsonantStem ;
++Ind+Prs+Sg3:%>m K ;
++Ind+Prs+Pl3:%>ba K ;
+
+
+LEXICON V_PESTA
+:e V-VowelStem ;
+: V-ConsonantStem ;
+:e INDPRS3 ;
+
+LEXICON V_TEHTA ! tehta:te
+:ge V-VowelStem-PRS ;
+:g V-VowelStem-PRT ;
+:g V-ConsonantStem_OTHER ;
+ V-ConsonantStem_t ;
+:ge INDPRS3 ;
+
+LEXICON V_SIRTA ! sirta:sir
+:da V-VowelStem-PRS ;
+:d V-VowelStem-PRT ;
+:d V-ConsonantStem_OTHER ;
+ V-ConsonantStem_t ;
+:da INDPRS3 ;
+
+LEXICON V_JOKSTA ! joksta:joks
+:e V-VowelStem-PRS ;
+: V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:e INDPRS3 ;
+
+LEXICON V_LETA ! leta:le
+:nda V-VowelStem-PRS ;
+:nd V-VowelStem-PRT ;
+:nd V-ConsonantStem_OTHER ;
+ V-ConsonantStem_t ;
+:nda INDPRS3 ;
+
+LEXICON V_JODA ! joda:jo
+: V-VowelStem-PRS ;
+: V-VowelStem-PRT ;
+ V-ConsonantStem ;
+: INDPRS3 ;
+
+LEXICON V_VEDADA ! vedada:ved
+:a V-VowelStem-PRS ;
+: V-VowelStem-PRT ;
+:a V-ConsonantStem ;!CHECKME2019-07-25
+:a INDPRS3 ;
+
+LEXICON V_MAKSTA ! maksta:maks
+:a V-VowelStem-PRS ;
+:o V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:a INDPRS3 ;
+
+LEXICON V_ASTTA ! astta:ast
+:u V-VowelStem-PRS ;
+:u V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:u INDPRS3 ;
+
+LEXICON V_HUBETA ! hubeta:hube
+:ne V-VowelStem-PRS ;
+:n V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:ne INDPRS3 ;
+
+LEXICON V_TULDA ! tulda:tul
+:e V-VowelStem-PRS ;
+: V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:e INDPRS3 ;
+
+LEXICON V_OTTA ! otta:ot
+:a V-VowelStem-PRS ;
+: V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:a INDPRS3 ;
+
+LEXICON V_HOMAITA ! homaita:homai
+:če V-VowelStem-PRS ;
+:č V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:če INDPRS3 ;
+
+LEXICON V_OIGETA
+:nda V-VowelStem-PRS ;
+:nz V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:nda INDPRS3 ;
+
+LEXICON V_VIRIGATA ! virigata:viriga
+:nde V-VowelStem-PRS ;
+:nz V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:nde INDPRS3 ;
+
+LEXICON V_KERATA ! kerata:kera
+:da V-VowelStem-PRS ;
+:z V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:da INDPRS3 ;
+
+LEXICON V_JAGADA ! jagada:jag
+:a V-VowelStem-PRS ;
+:o V-VowelStem-PRT ;
+:a V-ConsonantStem ;
+:a INDPRS3 ;
+
+!! tugeta:tuge
+LEXICON V_TUGETA
+:da V-VowelStem ;
+:%^DEVOICE V-ConsonantStem ;
+:nda INDPRS3 ;
+
+! valita:vali
+LEXICON V_VALITA
+:če V-VowelStem ;
+:%^DEVOICE V-ConsonantStem ;
+:če INDPRS3 ;
+
+LEXICON V_AVAITA ! avaita:avai
+!avaidab avaiži
+:da V-VowelStem-PRS ;
+:ž V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:da INDPRS3 ;
+
+LEXICON V_
+ V-VowelStem ;
+ V-ConsonantStem ;
+
+LEXICON INDPRS3
++Ind+Prs+Sg3:%>b K ;
++Ind+Prs+Pl3:%>ba K ;
+
+LEXICON V-VowelStem
+V-VowelStem-PRS ;
+V-VowelStem-PRT ;
+
+LEXICON V-VowelStem-PRS
+!!!!!!!!!!!
+!! PRESENT 
+!!!!!!!!!!!
+
++Ind+Prs+Sg1:%>n K ;
++Ind+Prs+Sg2:%>d K ;
++Ind+Prs+Pl1:%>m K ;
++Ind+Prs+Pl2:%>t K ;
+
++Ind+ConNeg+Prs+Sg: K ;
++Ind+ConNeg+Prt+Sg:%>nd K ;
+
+!!!!!!!!!!!!!!
+!! IMPERATIVE 
+!!!!!!!!!!!!!!
+
++Imprt+Sg2: K ;
+
+!!!!!!!!!!!!!
+!! REFLEXIVE
+!!!!!!!!!!!!!
+
+!! PRESENT 
+
++Refl+Ind+Prs+Sg1:%>moi K ;
++Refl+Ind+Prs+Sg2:%>toi K ;
++Refl+Ind+Prs+Sg3:%>se K ;
++Refl+Ind+Prs+Pl1:%>moiš K ;
++Refl+Ind+Prs+Pl2:%>toiš K ;
++Refl+Ind+Prs+Pl3:%>se K ;
+
+
+LEXICON V-VowelStem-PRT
+!!!!!!!!!!!!!
+!! IMPERFECT 
+!!!!!!!!!!!!!
+
++Ind+Prt+Sg1:%>in K ;
++Ind+Prt+Sg2:%>id K ;
++Ind+Prt+Sg3:%>i K ;
++Ind+Prt+Pl1:%>im K ;
++Ind+Prt+Pl2:%>it K ;
++Ind+Prt+Pl3:%>iba K ;
+
+
++Cond+ConNeg+Prs:%>iži K ;
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!
+!! CONDITIONAL PRESENT 
+!!!!!!!!!!!!!!!!!!!!!!!
+
++Cond+Prs+Sg1:%>ižin K ;
++Cond+Prs+Sg2:%>ižid K ;
++Cond+Prs+Sg3:%>iži K ;
++Cond+Prs+Pl1:%>ižim K ;
++Cond+Prs+Pl2:%>ižit K ;
++Cond+Prs+Pl3:%>ižiba K ;
+
+!!!!!!!!!!!!!
+!! REFLEXIVE 
+!!!!!!!!!!!!!
+
+!! IMPERFECT 
+
++Refl+Ind+Prt+Sg1:%>imoi K ;
++Refl+Ind+Prt+Sg2:%>itoi K ;
++Refl+Ind+Prt+Sg3:%>ihe K ;
++Refl+Ind+Prt+Pl1:%>imoiš K ;
++Refl+Ind+Prt+Pl2:%>itoiš K ;
++Refl+Ind+Prt+Pl3:%>ihe K ;
+
+!!!!!!!!!!!!!!!!!!!!!!!
+!! CONDITIONAL PRESENT 
+!!!!!!!!!!!!!!!!!!!!!!!
+
++Refl+Cond+Prs+Sg1:%>ižimoi K ;
++Refl+Cond+Prs+Sg2:%>ižitoi K ;
++Refl+Cond+Prs+Sg3:%>ižihe K ;
++Refl+Cond+Prs+Pl1:%>ižimoiš K ;
++Refl+Cond+Prs+Pl2:%>ižitoiš K ;
++Refl+Cond+Prs+Pl3:%>ižihe K ;
+
++Refl+Cond+Prs+ConNeg:%>ižihe K ;
+
+
+
+LEXICON V-ConsonantStem
+ V-ConsonantStem_OTHER ;
+ V-ConsonantStem_t ;
+
+LEXICON V-ConsonantStem_OTHER
++Ind+ConNeg+Prs+Pl:%>koi K ;
++Ind+ConNeg+Prt+Pl:%>nugoi K ;
++PrfPrc:%>nu PRFPRC-DECLENSION ;
++PrfPrc+Sg:%>nu K ;
++PrfPrc+Pl:%>nuded K ;
++Cond+ConNeg+Prt:%>nuiži K ;
+
+!!!!!!!!!!!!!!
+!! IMPERATIVE 
+!!!!!!!!!!!!!!
+
++Imprt+Sg3:%>kaha K ;
++Imprt+Pl1:%>kam K ;
++Imprt+Pl2:%>kat K ;
++Imprt+Pl3:%>kaha K ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!
+!! CONDITIONAL IMPERFECT 
+!!!!!!!!!!!!!!!!!!!!!!!!!
+
++Cond+Prt+Sg1:%>nuižin K ;
++Cond+Prt+Sg2:%>nuižid K ;
++Cond+Prt+Sg3:%>nuiži K ;
++Cond+Prt+Pl1:%>nuižim K ;
++Cond+Prt+Pl2:%>nuižit K ;
++Cond+Prt+Pl3:%>nuižiba K ;
+
+!!!!!!!!!!!!!
+!! REFLEXIVE 
+!!!!!!!!!!!!!
+
++Refl+Ind+Prs+ConNeg+Pl:%>koiš K ;
++Refl+Ind+Prt+ConNeg+Pl:%>nus K ;
++Refl+Ind+Prf+Pl:%>nus K ;
+
+!!!!!!!!!!!!!!
+!! IMPERATIVE 
+!!!!!!!!!!!!!!
+
++Refl+Imprt+Sg3:%>kahas K ;
++Refl+Imprt+Pl1:%>kamoiš K ;
++Refl+Imprt+Pl2:%>katoiš K ;
++Refl+Imprt+Pl3:%>kahas K ;
+
++Refl+Imprt+Sg3:%>koiš K ;
++Refl+Imprt+Pl:%>koiš K ;
+
+LEXICON V-ConsonantStem_t
+
++Refl+Ind+Prs+ConNeg+Sg:%>te K ;
++Refl+Imprt+Sg2:%>te K ;
++Refl+Imprt+Sg2:%>te K ;
++Pss+PrfPrs:%>tud K ;
+!+Der/Tu+Ptc+Pss+Pst:%>tu K ; ! This will have to be AdjTag or something
++Inf:%>ta K ;
++Inf+Refl:%>tas K ;
++Pss+Prs:%>ta K ;
++Pss+Prt:%>ti K ;
++Inf+Der/Te+Ine:%>tes K ;
++Inf+Der/Te+EssInst:%>ten K ;
+
++Der/IA+Act+PrsPrc:%>jA1 K ; ! This will have to be AdjTag or something
++Inf+Der/ma+Ill:%>mha K ;
++Inf+Der/ma+Ine:%>mas K ;
++Inf+Der/ma+Ela:%>maspäi K ;
++Inf+Der/ma+Ade:%>mal K ;
++Der+Der/Mine+N:%>mi N_TOSHTMINE ;
++Der+Der/Matoi+A:%>mato A_KENGATOI ;
+
+! vim: set ft=xfst-lexc:

@@ -1,0 +1,809 @@
+!! !!!Veps Noun inflection
+!Metrical feetDisyllables
+!˘ ˘	 pyrrhic, dibrach : kala
+!˘ ¯	 iamb	  	  : veneh
+!¯ ˘	 trochee, choree  : sanha sana+N+Sg+Ill
+!¯ ¯	 spondee	: landeh
+!Trisyllables
+!˘ ˘ ˘	tribrach
+!¯ ˘ ˘	dactyl
+!˘ ¯ ˘	amphibrach
+!˘ ˘ ¯	anapaest, antidactylus : venehed 
+!˘ ¯ ¯	bacchius
+!¯ ¯ ˘	antibacchius
+!¯ ˘ ¯	cretic, amphimacer
+!¯ ¯ ¯	molossus
+
+LEXICON N_
++TYÄ: #;
+
+LEXICON N_MUNA ! Stem vowel alternation ZERO-A-ZERO muna:mun
+!:QAQ1 NMN_ ;
+:a SG-NOM-SUF ;
++Sg+Ill:%>ha K ;
+:%>a SG-OBLIQUE ;
+! Plural
+:%>a PL-NOM-SUF ;
+:%>a PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+
+LEXICON N_SANA
+! sana = pyrrhic <
+! sanad = iamb   <
+! sanha = trochee < *sanahan anapaest
+: SG-NOM-SUF ;
++Sg+Ill:%>ha K ;
+:%>a SG-OBLIQUE ;
+! Plural
+:%>a PL-NOM-SUF ;
+:%>a PL-ACC-SUF ;
+:o PL-OBLIQUE ;
+
+LEXICON N_MARJ 
+!! The accusative singular has two forms, one is the same as the 
+!! nominative singular in form and the other is identical to the 
+!! genitive singular. This definition is dependent on the school
+!! and its use should be associated with the user group, perhaps.
+!!€gt-norm:   Noun 'berry / marja' - full paradigm: Noun - marj
+!!€  marj: marj+N+Sg+Nom
+!!€  marjan: marj+N+Sg+Gen
+!!€  [marj, marjan]: marj+N+Sg+Acc
+!!€  marjad: marj+N+Sg+Par
+!!€  marjaks: marj+N+Sg+Tra
+!!€  marjata: marj+N+Sg+Abe
+!!€  marjanke: marj+N+Sg+Com
+!!€  marjas: marj+N+Sg+Ine
+!!€  marjaspäi: marj+N+Sg+Ela
+!!€  marjaha: marj+N+Sg+Ill
+!!€  marjal: marj+N+Sg+Ade
+!!€  marjalpäi: marj+N+Sg+Abl
+!!€  marjale: marj+N+Sg+All
+!!€  marjan: marj+N+Sg+EssInst
+!!€  marjadme: marj+N+Sg+Prl
+!!€  marjanno: marj+N+Sg+Apr1
+!!€  marjannoks: marj+N+Sg+Apr2
+!!€  marjannopäi: marj+N+Sg+Egr
+!!€  marjahosai: marj+N+Sg+Ter1
+!!€  marjalesai: marj+N+Sg+Ter2
+!!€  marjassai: marj+N+Sg+Ter3
+!!€  marjahopäi: marj+N+Sg+Add1
+!!€  marjalepäi: marj+N+Sg+Add2
+
+!!€  marjad: marj+N+Pl+Nom
+!!€  [marjoid'en, marjoiden] # checking needed: marj+N+Pl+Gen
+!!€  marjad: marj+N+Pl+Acc
+!!€  marjoid: marj+N+Pl+Par
+!!€  marjoikš: marj+N+Pl+Tra
+!!€  marjoita: marj+N+Pl+Abe
+!!€  marjoidenke: marj+N+Pl+Com
+!!€  marjoiš: marj+N+Pl+Ine
+!!€  marjoišpäi: marj+N+Pl+Ela
+!!€  marjoihe: marj+N+Pl+Ill
+!!€  marjoil: marj+N+Pl+Ade
+!!€  marjoilpäi: marj+N+Pl+Abl
+!!€  marjoile: marj+N+Pl+All
+!!€  marjoin: marj+N+Pl+EssInst
+!!€  marjoidme: marj+N+Pl+Prl
+!!€  marjoidenno: marj+N+Pl+Apr1
+!!€  marjoidennoks: marj+N+Pl+Apr2
+!!€  marjoidennopäi: marj+N+Pl+Egr
+!!€  marjoihesai: marj+N+Pl+Ter1
+!!€  marjoilesai: marj+N+Pl+Ter2
+!!€  marjoihepäi: marj+N+Pl+Add1
+!!€  marjoilepäi: marj+N+Pl+Add2
+!:QAO1 NMN_ ;
+: SG-NOM-SUF ;
++Sg+Ill:%>ha K ;
+:%>a SG-OBLIQUE ;
+! Plural
+:%>a PL-NOM-SUF ;
+:%>a PL-ACC-SUF ;
+:o PL-OBLIQUE ;
+
+LEXICON N_IGA ! igä:ig
+:ä SG-NOM-SUF ;
++Sg+Ill:%>hä K ;
+:%>ä SG-OBLIQUE ;
+! Plural
+:%>ä PL-NOM-SUF ;
+:%>ä PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+LEXICON N_LEIB ! leib:leib
+: SG-NOM-SUF ;
++Sg+Ill:%>hä K ;
+:%>ä SG-OBLIQUE ;
+! Plural
+:%>ä PL-NOM-SUF ;
+:%>ä PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+
+LEXICON N_LIND ! lind:lind
+: SG-NOM-SUF ;
++Sg+Ill:%>hu K ;
+:%>u SG-OBLIQUE ;
+! Plural
+:%>u PL-NOM-SUF ;
+:%>u PL-ACC-SUF ;
+:u PL-OBLIQUE ;
+
+LEXICON N_JAUH ! jauh:jauh
+: SG-NOM-SUF ;
++Sg+Ill:%>ho K ;
+:%>o SG-OBLIQUE ;
+! Plural
+:%>o PL-NOM-SUF ;
+:%>o PL-ACC-SUF ;
+:o PL-OBLIQUE ;
+
+LEXICON N_SHAPUK ! šapuk
+:U1 NMN_ ;
+
+LEXICON N_UNI ! uni:un
+:i SG-NOM-SUF ;
+: SG-PAR-SUF_t ;
+:e SG-OBLIQUE ;
+! Plural
+:e PL-NOM-SUF ;
+:e PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+LEXICON N_POIG ! poig:poig
+: SG-NOM-SUF ;
+:a SG-OBLIQUE ;
+! Plural
+:a PL-NOM-SUF ;
+:a PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+LEXICON N_VENEH ! veneh:veneh
+: SG-NOM-SUF ;
+: SG-PAR-SUF_t ;
+:e SG-OBLIQUE ;
+! Plural
+:e PL-NOM-SUF ;
+:e PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+LEXICON N_HANG ! hang:hang
+: SG-NOM-SUF ;
+: SG-PAR-SUF ;
+:e SG-OBLIQUE ;
+! Plural
+:e PL-NOM-SUF ;
+:e PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+LEXICON N_LANDEH ! landeh:land
+!:EH1 NMN_ ;
+:eh SG-NOM-SUF ;
+:eh SG-PAR-SUF_t ;
+:he SG-OBLIQUE ;
+! Plural
+:he PL-NOM-SUF ;
+:he PL-ACC-SUF ;
+:h PL-OBLIQUE ;
+
+LEXICON N_SEIBAZ ! seibaz:seib
+:az SG-NOM-SUF ;
+:as SG-PAR-SUF_t ;
+:ha SG-OBLIQUE ;
+! Plural
+:ha PL-NOM-SUF ;
+:ha PL-ACC-SUF ;
+:h PL-OBLIQUE ;
+
+LEXICON N_KIRVEZ ! kirvez:kirv
+:ez SG-NOM-SUF ;
+:es SG-PAR-SUF_t ;
+:he SG-OBLIQUE ;
+! Plural
+:he PL-NOM-SUF ;
+:he PL-ACC-SUF ;
+:h PL-OBLIQUE ;
+
+LEXICON N_VANHAKOZ ! vanhakoz:vanhak
+:oz SG-NOM-SUF ;
+:os SG-PAR-SUF_t ;
+:ho SG-OBLIQUE ;
+! Plural
+:ho PL-NOM-SUF ;
+:ho PL-ACC-SUF ;
+:h PL-OBLIQUE ;
+
+LEXICON N_NAGRIZH ! nagriž:nagr
+:iž SG-NOM-SUF ;
+:iš SG-PAR-SUF_t ;
+:he SG-OBLIQUE ;
+! Plural
+:he PL-NOM-SUF ;
+:he PL-ACC-SUF ;
+:h PL-OBLIQUE ;
+
+LEXICON N_RUGIZH ! rügiž:rügi
+:ž SG-NOM-SUF ;
+:š SG-PAR-SUF_t ;
+:he SG-OBLIQUE ;
+! Plural
+:he PL-NOM-SUF ;
+:he PL-ACC-SUF ;
+:h PL-OBLIQUE ;
+
+LEXICON N_VEDEKAZ ! vedekaz:vedeka
+:z SG-NOM-SUF ;
+:s SG-PAR-SUF_t ;
+:ha SG-OBLIQUE ;
+! Plural
+:ha PL-NOM-SUF ;
+:ha PL-ACC-SUF ;
+:h PL-OBLIQUE ;
+
+LEXICON N_MEZ1 ! mez':me
+:z' SG-NOM-SUF ;
+:s SG-PAR-SUF_t ;
+:he SG-OBLIQUE ;
+! Plural
+:he PL-NOM-SUF ;
+:he PL-ACC-SUF ;
+:h PL-OBLIQUE ;
+
+LEXICON N_KENGATOI ! kengätoi:kengäto
+:i SG-NOM-SUF ;
+:n SG-PAR-SUF_t ;
+:me SG-OBLIQUE ;
+! Plural
+:me PL-NOM-SUF ;
+:me PL-ACC-SUF ;
+:m PL-OBLIQUE ;
+
+LEXICON N_AVADIM ! avadim:avadi
+:m SG-NOM-SUF ;
+:n SG-PAR-SUF_t ;
+:me SG-OBLIQUE ;
+! Plural
+:me PL-NOM-SUF ;
+:me PL-ACC-SUF ;
+:m PL-OBLIQUE ;
+
+LEXICON N_LUMI ! lumi:lu
+:mi SG-NOM-SUF ;
+:n SG-PAR-SUF_t ;
+:me SG-OBLIQUE ;
+! Plural
+:me PL-NOM-SUF ;
+:me PL-ACC-SUF ;
+:m PL-OBLIQUE ;
+
+LEXICON N_KONDI ! kondi:kond
+:i SG-NOM-SUF ;
+:ja SG-OBLIQUE ;
+! Plural
+:ja PL-NOM-SUF ;
+:ja PL-ACC-SUF ;
+:j PL-OBLIQUE ;
+
+LEXICON N_TEGII ! tegii:tegi
+:i SG-NOM-SUF ;
+:ja SG-OBLIQUE ;
+! Plural
+:ja PL-NOM-SUF ;
+:ja PL-ACC-SUF ;
+:jo PL-OBLIQUE ;
+
+LEXICON N_KEL !kel':kel
+:' SG-NOM-SUF ;
+:' SG-PAR-SUF_t ;
+:%>e SG-OBLIQUE ;
+! Plural
+:%>e PL-NOM-SUF ;
+:%>e PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+LEXICON N_SAR1 !sar':sar
+:' SG-NOM-SUF ;
+: SG-PAR-SUF_t ;
+:%>e SG-OBLIQUE ;
+! Plural
+:%>e PL-NOM-SUF ;
+:%>e PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+LEXICON N_JOUCEN !joucen:jouc%{eØ%}
+: SG-NOM-SUF ;
+: SG-PAR-SUF_t ;
+:%^RmVow%>e SG-OBLIQUE ;
+! Plural
+:%^RmVow%>e PL-NOM-SUF ;
+:%^RmVow%>e PL-ACC-SUF ;
+:%^RmVow PL-OBLIQUE ;
+
+
+LEXICON N_OIGED !oiged:oig%{eØ%}d
+!oi|ged (-ktan, -ktoid)
+: SG-NOM-SUF ;
+:%^RmVow%^DEVOICE%>a SG-OBLIQUE ;
+! Plural
+:%^RmVow%^DEVOICE%>a PL-NOM-SUF ;
+:%^RmVow%^DEVOICE%>a PL-ACC-SUF ;
+:%^RmVow%^DEVOICE%>o PL-OBLIQUE ;
+
+LEXICON N_SAMAL !samal:sam%{aØ%}l
+: SG-NOM-SUF ;
+:%^RmVow%^DEVOICE%>o SG-OBLIQUE ;
+! Plural
+:%^RmVow%^DEVOICE%>o PL-NOM-SUF ;
+:%^RmVow%^DEVOICE%>o PL-ACC-SUF ;
+:%^RmVow%^DEVOICE%>o PL-OBLIQUE ;
+
+LEXICON N_PU ! pu:pu
+ N_PU-SG ;
+ N_PU-PL ;
+LEXICON N_PU-SG
+: SG-NOM-SUF ;
+: SG-OBLIQUE ;
+LEXICON N_PU-PL
+! Plural
+: PL-NOM-SUF ;
+: PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+LEXICON	N_VIDENZ1 ! videnz':viden (-den, -t, -zid)
+:z' SG-NOM-SUF ;
+: SG-PAR-SUF_t ;
+:de SG-OBLIQUE ;
+! Plural
+:de PL-NOM-SUF ;
+:de PL-ACC-SUF ;
+:nz PL-OBLIQUE ;
+
+LEXICON N_KODI !kodi:kodi
+:i SG-NOM-SUF ;
+:%>i SG-OBLIQUE ;
+! Plural
+:%>i PL-NOM-SUF ;
+:%>i PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+
+LEXICON N_NIMI !nimi:nim
+:i SG-NOM-SUF ;
+:%>e SG-OBLIQUE ;
+! Plural
+:%>e PL-NOM-SUF ;
+:%>e PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+LEXICON N_SARV !sarv:sarv
+: SG-NOM-SUF ;
+:%>e SG-OBLIQUE ;
+! Plural
+:%>e PL-NOM-SUF ;
+:%>e PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+
+LEXICON N_CIPUINE ! cipuine:cipu
+!:INE1 NMN_ ;
+:ine SG-NOM-SUF ;
+:š SG-PAR-SUF_t ;
+:iže SG-OBLIQUE ;
+! Plural
+:iže PL-NOM-SUF ;
+:iže PL-ACC-SUF ;
+:iž  PL-OBLIQUE ;
+
+LEXICON N_TOSHTMINE ! toštmine:toštmi
+:ne SG-NOM-SUF ;
+:š SG-PAR-SUF_t ;
+:že SG-OBLIQUE ;
+! Plural
+:že PL-NOM-SUF ;
+:že PL-ACC-SUF ;
+:ž  PL-OBLIQUE ;
+
+! noruz’:norud
+LEXICON N_NORUZ ! OUN-ZD_QEQ
+: NMN_NORUZ ;
+
+
+
+LEXICON N_KEZI ! kezi:ked
+: NMN_KEZI ;
+
+! aluz:aluz
+LEXICON N_ALUZ ! z s _QEQ
+ SG-NOM-SUF ;
+:%^DEVOICE SG-PAR-SUF ;
+:%^DEVOICEe SG-OBLIQUE ;
+! Plural
+:%^DEVOICEe PL-NOM-SUF ;
+:%^DEVOICEe PL-ACC-SUF ;
+:%^DEVOICE  PL-OBLIQUE ;
+
+LEXICON N_KESKUS ! keskus:keskus
+ SG-NOM-SUF ;
+: SG-PAR-SUF ;
+:e SG-OBLIQUE ;
+! Plural
+:e PL-NOM-SUF ;
+:e PL-ACC-SUF ;
+:  PL-OBLIQUE ;
+
+
+LEXICON N_VEDÄI ! i j _QAQ1 Does this work like _muna_?
+:QAQ1 NMN_ ;
+
+LEXICON N_VEPS 
+:QÄQ1 NMN_ ;
+
+LEXICON N_NADO !!= @CODE@ nado:nado
+!!* Yaml: __nado__
+: NMN_ ;
+
+!! !!Nominals
+
+LEXICON NMN_NORUZ
+:%^TS’ SG-NOM-SUF ;
+:%^DEVOICE SG-PAR-SUF ;
+:e SG-OBLIQUE ;
+! Plural
+:e PL-NOM-SUF ;
+:e PL-ACC-SUF ;
+:%^TS PL-OBLIQUE ;
+
+LEXICON NMN_RUSKED
+NMN_RUSKED-SG ;
+NMN_RUSKED-PL ;
+
+LEXICON NMN_RUSKED-SG
+SG-NOM-SUF ; !!= * @CODE@
+SG-GEN-SUF ;
+SG-ACC-SUF ;
+SG-PAR-SUF ;
+SG-TRA-SUF ;
+SG-ABE-SUF ;
+SG-COM-SUF ;
+SG-INE-SUF ;
+SG-ILL-SUF ;
+SG-ADE-SUF ;
+SG-ABL-SUF ;
+SG-ALL-SUF ;
+SG-ESS-SUF ;
+SG-PRL-SUF ;
+SG-APR1-SUF ;
+SG-APR2-SUF ;
+SG-EGR-SUF ;
+SG-TER1-SUF ;
+SG-TER2-SUF ;
+SG-ADD1-SUF ;
+SG-ADD2-SUF ;
+
+LEXICON NMN_RUSKED-PL
+ NMN_RUSKED-PL-NOM ;
+ NMN_RUSKED-PL-OBL ;
+LEXICON NMN_RUSKED-PL-NOM
+PL-NOM-SUF ;
+PL-ACC-SUF ;
+LEXICON NMN_RUSKED-PL-OBL
+PL-GEN-SUF ;
+PL-PAR-SUF ;
+PL-TRA-SUF ;
+PL-ABE-SUF ;
+PL-COM-SUF ;
+PL-INE-SUF ;
+PL-ILL-SUF ;
+PL-ADE-SUF ;
+PL-ABL-SUF ;
+PL-ALL-SUF ;
+PL-ESS-SUF ;
+PL-PRL-SUF ;
+PL-APR1-SUF ;
+PL-APR2-SUF ;
+PL-EGR-SUF ;
+PL-TER1-SUF ;
+PL-TER2-SUF ;
+PL-ADD1-SUF ;
+PL-ADD2-SUF ;
+
+
+LEXICON NMN_KEZI
+:%^TSi SG-NOM-SUF ;
+:%^DEVOICE SG-PAR-SUF ;
+:e SG-OBLIQUE ;
+! Plural
+:e PL-NOM-SUF ;
+:e PL-ACC-SUF ;
+:%^TS PL-OBLIQUE ;
+
+ 
+
+LEXICON SG-OBLIQUE
++Der+Der/Toi+A:%>to A_KENGATOI ;
+ SG-GEN-SUF ;
+ SG-ACC-SUF ;
+ SG-TRA-SUF ;
+ SG-ABE-SUF ;
+ SG-COM-SUF ;
+ SG-INE-SUF ;
+ SG-ILL-SUF ;
+ SG-ELA-SUF ;
+ SG-ADE-SUF ;
+ SG-ABL-SUF ;
+ SG-ALL-SUF ;
+ SG-ESS-SUF ;
+ SG-PRL-SUF ;
+ SG-APR1-SUF ;
+ SG-APR2-SUF ;
+ SG-EGR-SUF ;
+ SG-TER1-SUF ;
+ SG-TER2-SUF ;
+ SG-TER3-SUF ;
+ SG-ADD1-SUF ;
+ SG-ADD2-SUF ;
+
+LEXICON PL-OBLIQUE
+ PL-GEN-SUF ;
+ PL-PAR-SUF ;
+ PL-TRA-SUF ;
+ PL-ABE-SUF ;
+ PL-COM-SUF ;
+ PL-INE-SUF ;
+ PL-ELA-SUF ;
+ PL-ILL-SUF ;
+ PL-ADE-SUF ;
+ PL-ABL-SUF ;
+ PL-ALL-SUF ;
+ PL-ESS-SUF ;
+ PL-PRL-SUF ;
+ PL-APR1-SUF ;
+ PL-APR2-SUF ;
+ PL-EGR-SUF ;
+ PL-TER1-SUF ;
+ PL-TER2-SUF ;
+! +N: PL-TER3-SUF ; ! Does this exist
+ PL-ADD1-SUF ;
+ PL-ADD2-SUF ;
+
+
+LEXICON NMN_
+ SG-NOM-SUF ;
+ SG-GEN-SUF ;
+ SG-ACC-SUF ;
+ SG-PAR-SUF ;
+ SG-TRA-SUF ;
+ SG-ABE-SUF ;
+ SG-COM-SUF ;
+ SG-INE-SUF ;
+ SG-ILL-SUF ;
+ SG-ELA-SUF ;
+ SG-ADE-SUF ;
+ SG-ABL-SUF ;
+ SG-ALL-SUF ;
+ SG-ESS-SUF ;
+ SG-PRL-SUF ;
+ SG-APR1-SUF ;
+ SG-APR2-SUF ;
+ SG-EGR-SUF ;
+ SG-TER1-SUF ;
+ SG-TER2-SUF ;
+ SG-TER3-SUF ;
+ SG-ADD1-SUF ;
+ SG-ADD2-SUF ;
+
+ PL-NOM-SUF ;
+ PL-GEN-SUF ;
+ PL-ACC-SUF ;
+ PL-PAR-SUF ;
+ PL-TRA-SUF ;
+ PL-ABE-SUF ;
+ PL-COM-SUF ;
+ PL-INE-SUF ;
+ PL-ELA-SUF ;
+ PL-ILL-SUF ;
+ PL-ADE-SUF ;
+ PL-ABL-SUF ;
+ PL-ALL-SUF ;
+ PL-ESS-SUF ;
+ PL-PRL-SUF ;
+ PL-APR1-SUF ;
+ PL-APR2-SUF ;
+ PL-EGR-SUF ;
+ PL-TER1-SUF ;
+ PL-TER2-SUF ;
+! +N: PL-TER3-SUF ; ! Does this exist
+ PL-ADD1-SUF ;
+ PL-ADD2-SUF ;
+
+!! !!!ACTUAL CASES 
+
+
+LEXICON SG-NOM-SUF
++Sg: NOM-SUF ;
+LEXICON NOM-SUF
++Nom: K ;
+
+LEXICON SG-GEN-SUF
++Sg: GEN-SUF ;
+LEXICON GEN-SUF
++Gen:%>n K ;
+
+LEXICON SG-ACC-SUF
++Sg+Acc: K ;
++Sg: ACC-SUF ;
+LEXICON ACC-SUF
++Acc:%>n K ;
+
+LEXICON SG-PAR-SUF
++Sg: PAR-SUF ;
+LEXICON PAR-SUF
++Par:%>d K ; ! d/t
+
+LEXICON SG-PAR-SUF_t
++Sg+Par:%>t K ;
+
+LEXICON SG-TRA-SUF
++Sg+Tra:%>ks K ;
+
+LEXICON SG-ABE-SUF
++Sg: ABE-SUF ;
+LEXICON ABE-SUF
++Abe:%^DEVOICE%>ta K ;
+
+LEXICON SG-COM-SUF
++Sg: COM-SUF ;
+LEXICON COM-SUF
++Com:%>nke K ;
+
+LEXICON SG-INE-SUF
++Sg: INE-SUF ;
+LEXICON INE-SUF
++Ine:%>s K ; ! s/š kül’betiš 
+
+LEXICON SG-ELA-SUF
++Sg: ELA-SUF ;
+LEXICON ELA-SUF
++Ela:%>späi K ; ! späi/špäi 
+
+LEXICON SG-ILL-SUF
++Sg: ILL-SUF ;
+LEXICON ILL-SUF
++Ill:%>hV1 K ; ! o-ho
+
+LEXICON SG-ADE-SUF
++Sg: ADE-SUF ;
+LEXICON ADE-SUF
++Ade:%>l K ;
+
+LEXICON SG-ABL-SUF
++Sg: ABL-SUF ;
+LEXICON ABL-SUF
++Abl:%>lpäi K ;
+
+LEXICON SG-ALL-SUF
++Sg: ALL-SUF ;
+LEXICON ALL-SUF
++All:%>le K ;
+
+LEXICON SG-ESS-SUF ! Essive-instructive
++Sg: ESS-SUF  ;
+LEXICON ESS-SUF 
++EssInst:%>n K ;
+
+LEXICON SG-PRL-SUF
++Sg: PRL-SUF ;
+LEXICON PRL-SUF
++Prl:%>dme K ;
+
+LEXICON SG-APR1-SUF
++Sg: APR1-SUF ;
+LEXICON APR1-SUF
++Apr1:%>nno K ;
+
+LEXICON SG-APR2-SUF
++Sg: APR2-SUF ;
+LEXICON APR2-SUF
++Apr2:%>nnoks K ;
+
+LEXICON SG-EGR-SUF
++Sg: EGR-SUF ;
+LEXICON EGR-SUF
++Egr:%>nnopäi K ;
+
+LEXICON SG-TER1-SUF
++Sg: TER1-SUF ;
+LEXICON TER1-SUF
++Ter1:%>hV1sai K ;
+
+LEXICON SG-TER2-SUF
++Sg+Ter2:%>lesai K ;
+
+LEXICON SG-TER3-SUF
++Sg+Ter3:%>ssai K ;
+
+LEXICON SG-ADD1-SUF
++Sg+Add1:%>hV1päi K ;
+
+LEXICON SG-ADD2-SUF
++Sg+Add2:%>lepäi K ;
+
+
+
+
+
+
+!! !!!Start Plural
+LEXICON PL-NOM-SUF
++Pl+Nom:%>d K ;
+
+LEXICON PL-GEN-SUF
++Pl+Gen:%>iden K ;
++Pl+Gen:%>idʼen K ;
+
+LEXICON PL-ACC-SUF
++Pl+Acc:%>d K ;
+
+LEXICON PL-PAR-SUF
++Pl+Par:%>id K ; ! d/t
+
+LEXICON PL-TRA-SUF
++Pl+Tra:%>ikš K ;
+
+LEXICON PL-ABE-SUF
++Pl+Abe:%>i%^DEVOICEta K ;
+
+LEXICON PL-COM-SUF
++Pl+Com:%>idenke K ;
+
+LEXICON PL-INE-SUF
++Pl+Ine:%>iš K ; ! s/š kül’betiš 
+
+LEXICON PL-ELA-SUF
++Pl+Ela:%>išpäi K ; ! späi/špäi 
+
+LEXICON PL-ILL-SUF
++Pl+Ill:%>ihe K ; ! o-ho
+
+LEXICON PL-ADE-SUF
++Pl+Ade:%>il K ;
+
+LEXICON PL-ABL-SUF
++Pl+Abl:%>ilpäi K ;
+
+LEXICON PL-ALL-SUF
++Pl+All:%>ile K ;
+
+LEXICON PL-ESS-SUF ! Essive-instructive
++Pl+EssInst:%>in K ;
+
+LEXICON PL-PRL-SUF
++Pl+Prl:%>idme K ;
+
+LEXICON PL-APR1-SUF
++Pl+Apr1:%>idenno K ;
+
+LEXICON PL-APR2-SUF
++Pl+Apr2:%>idennoks K ;
+
+LEXICON PL-EGR-SUF
++Pl+Egr:%>idennopäi K ;
+
+LEXICON PL-TER1-SUF
++Pl+Ter1:%>ihesai K ;
+
+LEXICON PL-TER2-SUF
++Pl+Ter2:%>ilesai K ;
+
+LEXICON PL-ADD1-SUF
++Pl+Add1:%>ihepäi K ;
+
+LEXICON PL-ADD2-SUF
++Pl+Add2:%>ilepäi K ;
+
+
+!! !!!Possessor Indices
+
+!! Not yet written...
+
+! vim: set ft=xfst-lexc:
