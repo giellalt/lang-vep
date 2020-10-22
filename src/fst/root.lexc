@@ -91,19 +91,19 @@ Multichar_Symbols
  +Tra !!= * @CODE@ = translative
  +Voc !!= * @CODE@ = Vocative
 
- +Pros	  !!= * @CODE@ =
- +Adc	  !!= * @CODE@ =
+ +Pros   !!= * @CODE@ =
+ +Adc   !!= * @CODE@ =
 
- +Apr	  !!= * @CODE@ =
- +Egr		  !!= * @CODE@ =
- +Ter1	  !!= * @CODE@ =
-+Ter2	  !!= * @CODE@ =
-+Ter3	  !!= * @CODE@ =
-+Add1	  !!= * @CODE@ =
-+Add2	  !!= * @CODE@ =
- +Apr1	  !!= * @CODE@ =
-+Apr2						  !!= * @CODE@ =
- +EssInst							  !!= * @CODE@ =
+ +Apr   !!= * @CODE@ =
+ +Egr    !!= * @CODE@ =
+ +Ter1   !!= * @CODE@ =
++Ter2   !!= * @CODE@ =
++Ter3   !!= * @CODE@ =
++Add1   !!= * @CODE@ =
++Add2   !!= * @CODE@ =
+ +Apr1   !!= * @CODE@ =
++Apr2        !!= * @CODE@ =
+ +EssInst         !!= * @CODE@ =
 
 !! The Usage extents are marked using the following tags:
 
@@ -113,23 +113,23 @@ Multichar_Symbols
 
 !! !The possession is marked as such:
 
- +PxSg1	  !!= * @CODE@ =
-+PxSg2	  !!= * @CODE@ =
+ +PxSg1   !!= * @CODE@ =
++PxSg2   !!= * @CODE@ =
 +PxSg3                 !!= * @CODE@ =
- +PxPl1	  !!= * @CODE@ =
-+PxPl2	  !!= * @CODE@ =
+ +PxPl1   !!= * @CODE@ =
++PxPl2   !!= * @CODE@ =
 +PxPl3                 !!= * @CODE@ =
 
 !! The comparative forms are:
 
- +Comp 	  !!= * @CODE@ =
+ +Comp    !!= * @CODE@ =
  +Superl                 !!= * @CODE@ =
 
 !! Numerals are classified under:
 
- +Attr 	  !!= * @CODE@ =
+ +Attr    !!= * @CODE@ =
  +Card                !!= * @CODE@ =
- +Ord 		                !!= * @CODE@ =
+ +Ord                   !!= * @CODE@ =
 
 !! Verb tense and moods are:
 
@@ -138,9 +138,9 @@ Multichar_Symbols
  +Imprt !!= * @CODE@ = imperative
 
 !! Tenses
- +Prs	  !!= * @CODE@ =
-  +Prt 		            !!= * @CODE@ =
- +Pos			            !!= * @CODE@ =
+ +Prs   !!= * @CODE@ =
+  +Prt               !!= * @CODE@ =
+ +Pos               !!= * @CODE@ =
 
 !! !Verb personal forms are:
 
@@ -160,7 +160,7 @@ Multichar_Symbols
 +RcSg    !!= * @CODE@
 +RcPl    !!= * @CODE@
 +ScSg    !!= * @CODE@
-+ScPl				     !!= * @CODE@ =
++ScPl         !!= * @CODE@ =
 
 !! Other verb forms are
 
@@ -169,7 +169,7 @@ Multichar_Symbols
 +Neg                 !!= * @CODE@ =
  +ConNeg   !!= * @CODE@
  +ConNegII              !!= * @CODE@ =
- +ImprtII          		!!= * @CODE@ =
+ +ImprtII            !!= * @CODE@ =
  +PrsPrc   !!= * @CODE@
  +PrfPrc                !!= * @CODE@ = nu
  +Sup   !!= * @CODE@
@@ -177,9 +177,9 @@ Multichar_Symbols
  +VAbess             !!= * @CODE@ =
 
 !! !ADVERBS
- +Manner	!!= * @CODE@ =
- +Spat		!!= * @CODE@ =
- +Temp		!!= * @CODE@ =
+ +Manner !!= * @CODE@ =
+ +Spat  !!= * @CODE@ =
+ +Temp  !!= * @CODE@ =
 
 !! Abbreviated words are classified with:
 
@@ -212,18 +212,18 @@ Multichar_Symbols
 
  +Qst   !!= * @CODE@
  +Foc       !!= * @CODE@ =
-+Clt	         !!= * @CODE@ =
-+Foc/ki	         !!= * @CODE@ =
-+Foc/žo	         !!= * @CODE@ =
++Clt          !!= * @CODE@ =
++Foc/ki          !!= * @CODE@ =
++Foc/žo          !!= * @CODE@ =
 
-+Appr	         !!= * @CODE@ =
-+Advc	         !!= * @CODE@ =
-+Ter	         !!= * @CODE@ =
-+Pro	         !!= * @CODE@ =
-+Car 	         !!= * @CODE@ =
++Appr          !!= * @CODE@ =
++Advc          !!= * @CODE@ =
++Ter          !!= * @CODE@ =
++Pro          !!= * @CODE@ =
++Car           !!= * @CODE@ =
 
-+PstI	         !!= * @CODE@ =
-+PstII	         !!= * @CODE@ =
++PstI          !!= * @CODE@ =
++PstII          !!= * @CODE@ =
 
 
 
@@ -231,22 +231,22 @@ Multichar_Symbols
  +Sem/Mal   !!= * @CODE@
  +Sem/Fem   !!= * @CODE@
  +Sem/Sur    !!= * @CODE@ =
- +Sem/Plc 			   !!= * @CODE@ =
- +Sem/Org			   !!= * @CODE@ =
- +Sem/Obj			   !!= * @CODE@ =
- +Sem/Ani			   !!= * @CODE@ =
- +Sem/Hum			   !!= * @CODE@ =
- +Sem/Plant			   !!= * @CODE@ =
- +Sem/Group			   !!= * @CODE@ =
- +Sem/Time 			   !!= * @CODE@ =
- +Sem/Txt			   !!= * @CODE@ =
- +Sem/Route			   !!= * @CODE@ =
- +Sem/Measr 		   !!= * @CODE@ =
- +Sem/Wthr			   !!= * @CODE@ =
- +Sem/Build 		   !!= * @CODE@ =
- +Sem/Edu			   !!= * @CODE@ =
- +Sem/Veh			   !!= * @CODE@ =
- +Sem/Clth			   !!= * @CODE@ =
+ +Sem/Plc       !!= * @CODE@ =
+ +Sem/Org      !!= * @CODE@ =
+ +Sem/Obj      !!= * @CODE@ =
+ +Sem/Ani      !!= * @CODE@ =
+ +Sem/Hum      !!= * @CODE@ =
+ +Sem/Plant      !!= * @CODE@ =
+ +Sem/Group      !!= * @CODE@ =
+ +Sem/Time       !!= * @CODE@ =
+ +Sem/Txt      !!= * @CODE@ =
+ +Sem/Route      !!= * @CODE@ =
+ +Sem/Measr      !!= * @CODE@ =
+ +Sem/Wthr      !!= * @CODE@ =
+ +Sem/Build      !!= * @CODE@ =
+ +Sem/Edu      !!= * @CODE@ =
+ +Sem/Veh      !!= * @CODE@ =
+ +Sem/Clth      !!= * @CODE@ =
 
 
 !! Derivations are classified under the morphophonetic form of the suffix, the
@@ -256,14 +256,14 @@ Multichar_Symbols
  +V→A     !!= * @CODE@ =
 +Der
 +Der/Uz1                !!= * @CODE@ = sur»uz' A»N
-+Der/Ta		        !!= * @CODE@ =
-+Der/Te		        !!= * @CODE@ =
-+Der/ma		        !!= * @CODE@ =
-+Der/Tu		        !!= * @CODE@ =
-+Der/IA		        !!= * @CODE@ =
-+Der/Toi		!!= * @CODE@ = nime»toi N»A
-+Der/Matoi		!!= * @CODE@ = V»A
-+Der/Mine		!!= * @CODE@ = V»N
++Der/Ta          !!= * @CODE@ =
++Der/Te          !!= * @CODE@ =
++Der/ma          !!= * @CODE@ =
++Der/Tu          !!= * @CODE@ =
++Der/IA          !!= * @CODE@ =
++Der/Toi  !!= * @CODE@ = nime»toi N»A
++Der/Matoi  !!= * @CODE@ = V»A
++Der/Mine  !!= * @CODE@ = V»N
 
 
 !! Morphophonology
@@ -290,17 +290,17 @@ Multichar_Symbols
 %>
 %-
 %^WGStem         !!= * @CODE@
-%^TS 		     !!= * @CODE@
-%^RVow		     !!= * @CODE@
- %^LVow 	     !!= * @CODE@
- %^LCns		     !!= * @CODE@
-%^WCns		     !!= * @CODE@
-%^AtoO		     !!= * @CODE@
-%^ÄtoÖ		     !!= * @CODE@
-%^OddSyll	     !!= * @CODE@
+%^TS        !!= * @CODE@
+%^RVow       !!= * @CODE@
+ %^LVow       !!= * @CODE@
+ %^LCns       !!= * @CODE@
+%^WCns       !!= * @CODE@
+%^AtoO       !!= * @CODE@
+%^ÄtoÖ       !!= * @CODE@
+%^OddSyll      !!= * @CODE@
 %^StretchSyll2   !!= * @CODE@
-%^SyllBr	     !!= * @CODE@
-%^E1		     !!= * @CODE@
+%^SyllBr      !!= * @CODE@
+%^E1       !!= * @CODE@
 
 ! Protoletters for xfst
 
@@ -308,26 +308,26 @@ Multichar_Symbols
 QAQ1   !!= * @CODE@
 QAO1   !!= * @CODE@
 QÄQ1   !!= * @CODE@
-EH1	   !!= * @CODE@
+EH1    !!= * @CODE@
 QEQ1   !!= * @CODE@
 INE1   !!= * @CODE@
-ZD1	   !!= * @CODE@
-ZS1	   !!= * @CODE@
-V1	   !!= * @CODE@
-AO1	   !!= * @CODE@
-EI1	   !!= * @CODE@
-ZS1	   !!= * @CODE@
+ZD1    !!= * @CODE@
+ZS1    !!= * @CODE@
+V1    !!= * @CODE@
+AO1    !!= * @CODE@
+EI1    !!= * @CODE@
+ZS1    !!= * @CODE@
 ZD1    !!= * @CODE@ These are for developing underlying morphology rules
-D1	   !!= * @CODE@
-E1	   !!= * @CODE@
-U1	   !!= * @CODE@
-I1	   !!= * @CODE@
-AÄ1	   !!= * @CODE@
-OÖ1	   !!= * @CODE@
-UY1	   !!= * @CODE@
-V1	   !!= * @CODE@
-V2	   !!= * @CODE@
-V3	   !!= * @CODE@
+D1    !!= * @CODE@
+E1    !!= * @CODE@
+U1    !!= * @CODE@
+I1    !!= * @CODE@
+AÄ1    !!= * @CODE@
+OÖ1    !!= * @CODE@
+UY1    !!= * @CODE@
+V1    !!= * @CODE@
+V2    !!= * @CODE@
+V3    !!= * @CODE@
 
 
 !! !!Flag diacritics
@@ -361,17 +361,17 @@ V3	   !!= * @CODE@
 LEXICON Root
 !! The word forms in Veps start from the lexeme roots of basic
 !! word classes.
-  adjectives	 ;
-   adverbs	;
-   conjuncts	;
-   interjections	;
-   nouns	;
-   quantifiers	;
-   verbs	;
-Abbreviation ;	! stems/abbr.lexc
-Acronym ;    	! stems/acro.lexc
-Punctuation	;
-Symbols     ;
+  adjectives ;
+   adverbs ;
+   conjuncts ;
+   interjections ;
+   nouns ;
+   quantifiers ;
+   verbs ;
+Abbreviation ; ! stems/abbr.lexc
+Acronym ;     ! stems/acro.lexc
+Punctuation ;
+Symbols ;
 !Numerals ;
 A_NEWWORDS ;
 N_NEWWORDS ;
