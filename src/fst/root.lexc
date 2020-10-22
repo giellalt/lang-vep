@@ -382,10 +382,10 @@ LEXICON Root
   PRONOUN-TYPES ;
 
 LEXICON CC_
-: # ;
+ # ;
 
 LEXICON CS_
-: # ;
+ # ;
 
 LEXICON SUBJUNCTION
 # ;
