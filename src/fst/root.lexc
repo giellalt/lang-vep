@@ -361,26 +361,25 @@ V3    !!= * @CODE@
 LEXICON Root
 !! The word forms in Veps start from the lexeme roots of basic
 !! word classes.
-  adjectives ;
-   adverbs ;
-   conjuncts ;
-   interjections ;
-   nouns ;
-   quantifiers ;
-   verbs ;
-Abbreviation ; ! stems/abbr.lexc
-Acronym ;     ! stems/acro.lexc
-Punctuation ;
-Symbols ;
-!Numerals ;
-A_NEWWORDS ;
-N_NEWWORDS ;
-PROP_NEWWORDS ;
-V_NEWWORDS ;
-POSTPOSITION ;
-SUBJUNCTION ;
-
-PRONOUN-TYPES ;
+  adjectives    ;
+  adverbs       ;
+  conjuncts     ;
+  interjections ;
+  nouns         ;
+  quantifiers   ;
+  verbs         ;
+  Abbreviation  ; ! stems/abbr.lexc
+  Acronym       ; ! stems/acro.lexc
+  Punctuation   ;
+  Symbols       ;
+  !Numerals     ;
+  A_NEWWORDS    ;
+  N_NEWWORDS    ;
+  PROP_NEWWORDS ;
+  V_NEWWORDS    ;
+  POSTPOSITION  ;
+! SUBJUNCTION   ;
+  PRONOUN-TYPES ;
 
 LEXICON CC_
 : # ;
