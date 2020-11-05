@@ -22,7 +22,7 @@ Documentation
 
 Documentation can be found at:
 
--   <https://giellalt.uit.no/lang/vepdoc/index.html>
+-   <https://giellalt.uit.no/lang/vep/VepsDocumentation.html>
 -   <https://giellalt.uit.no/index.html>
 
 Core dependencies
