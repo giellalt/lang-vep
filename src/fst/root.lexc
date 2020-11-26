@@ -17,6 +17,75 @@
 !! !!!INTRODUCTION TO MORPHOLOGICAL ANALYSER OF VEPS
 
 Multichar_Symbols
+
+! TODO: Have a look at these:
+
++Arab
++CLBfinal
++Cmp
++CmpNP/First
++CmpNP/None
++Coll
++Com
++Err/Hyph
++Err/Lex
++Err/SpaceCmp
++MWE
++OLang/ENG
++OLang/FIN
++OLang/NNO
++OLang/NOB
++OLang/RUS
++OLang/SMA
++OLang/SME
++OLang/SWE
++OLang/UND
++Prf
++PrfPrs
++Rom
++Sem/Amount
++Sem/Build-room
++Sem/Cat
++Sem/Curr
++Sem/Date
++Sem/Domain
++Sem/Domain_Hum
++Sem/Dummytag
++Sem/Edu_Hum
++Sem/Event
++Sem/Food-med
++Sem/Group_Hum
++Sem/ID
++Sem/Lang
++Sem/Mat
++Sem/Money
++Sem/Obj-el
++Sem/Obj-ling
++Sem/Org_Prod-audio
++Sem/Org_Prod-vis
++Sem/Part
++Sem/Prod-vis
++Sem/Rule
++Sem/Sign
++Sem/State
++Sem/State-sick
++Sem/Substnc
++Sem/Time-clock
++Sem/Tool-it
++Sem/Year
++Use/-PMatch
++Use/Circ
++Use/NG
++Use/PMatch
++Use/SpellNoSugg
++v1
++v2
+@C.ErrOrth
+@D.ErrOrth.ON
+@P.ErrOrth.ON
+
+
+
 !! Multichar_symbols
 
  +TYÄ !!= * @CODE@ =  Work that has to be done
