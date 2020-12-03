@@ -1,25 +1,396 @@
-# NOTE! Replace the content of this file (including thist comment) with a
-# number of paragraphs and sentences suitable for testing regressions in the
-# morphological and syntactic analyses. The whole file is used as input to
-# preprocessing/segmentation, morphological analysis, disambiguation, etc.
+Ob'  om Venäman lidn da lidnümbrik Novosibirskan agjan päivnouzmas. Se om Novosibirskan päivlaskmaine ezilidn.
+Istorii.
+Ob'-raudtestancii om saudud Transsibal vl 1895, kävutihe sidä bazaks sauvomha raudtesildad Ob'-joges päliči vll 1893−1897. Nimitihe stancijad jogen mödhe, hot' se jokseb 10 kilometras žilospäi.
+Eländpunktan aluz om pandud vl 1934 "žiloks Ob'-raudtestancijanno". Vl 1947 ühtištuihe Tolmačovo-žilon palanke da kätihe lidnanvuiččeks žiloks. Žilo sai lidnan statusad vl 1969. Om lidnaks oiktanke alištusenke agjan tobmudele vspäi 1989.
+Ob'-lidn šingotase Tolmačovo-lendimportal (vspäi 1957), lendimiden i raudten kohenduzedheotandoil, libutimiden tegimel i uksiden edheotandal, om «Sibir'»-aviakompanijan päfateraks (se-žo «S7 Airlines», kahtenz' surtte valdkundas). Severz'-se sodapalakundoid sijadasoiš lidnas.
+Geografijan andmused.
+Lidn sijadase 110 m ü.m.t. keskmäižel korktusel. Vlasih-jogi (, Obin hura ližajogi) jokseb pidust' lidnan pohjoižpäivnouzmašt röunad, Ob'-lidnan i Novosibirskan keskes. Matkad Novosibirskan röunhasai om 1 km päivnouzmha orhal, avtotedme vai raudtedme. Transsib i «Irtiš»-avtote (R-254) jagadas lidnad kaks'haz. Lendimport om saudud lidnan pohjoižes.
+Seižutezplatform 3307. km-eländpunkt (, 63 rist. vl 2017) mülüb lidnümbrikho Ob'-lidnan ližaks.
+Eläjad.
+Vn 2010 Venäman rahvahanlugemižen mödhe lidnan eläjiden lugu oli 25 382 ristitud, lidnümbrikon — 25 725 ristitud. Kaikiš suremb lidnan ristitišt om nügüd'. Vl 2018 kaik 29 499 ristitud elädas lidnümbrikos. Ortodoksižen hristanuskondan ph. Tihon Donantaguižen jumalanpert' om olmas vspäi 2008.
+Professionaližen opendusen aluzkund om buhgalteroiden ližakvalifikacijan škol, toižed lähižed aluzkundad sijadasoiš Novosibirskas.
 
-Son namuha ahte sii leat gal ávžžuhan olbmuid geat dihtet ahte dárbbašit jođánit beassat buohccevissui, nugo ovdamearkka dihte áhpehis nissonolbmuid geain lahkona riegádahttináigi, árvvoštallat galget go ovdal go buohccájit juo vuolgit buohccevissui.
-Sávan didjiide lihku, vástidii Evo Morales.
-Rievtti mielde lea duodjeluohkás gulahallanoahpaheaddji, muhto son ii leat doppe nu dávjá go oahppit sávvet.
-Ávvir ii ožžon rektor Mats Steinfjella jearahallamii.
-Miehtá čájáhuslanja lea lebbejuvvon plastihkkagovččas ja gávcci máná njuni ovddas lea čáhcemála.
-Lea meara láhkai go das oidnojit bárut.
-Gaskavahku eahkeda lei Kárášjoga kulturvisttis álbmotčoahkkin gosa ledje sullii 50 olbmo boahtán.
-Juohke gielddas ožžot olbmot skoviid maid sii galget deavdit ja sii jearahallet maiddái olbmuid, muhto Isaksen imašta kommišuvnna bargovugiid.
-Loahpas jearai Johttisámelisttu Anders Somby jr. sudnos njuolga háliida go čearru gulahallat, juo dahje ii.
-Stáhta lea dadjan don galggat duosa.
-Son ii bivdde gal akto.
-Báhpárruskkat eai váilon, ja eanaš bisánanbáikkit ledje erenoamáš ruivasat.
-Son muittaša movt ovdal lávii ja jietna šaddá litnáseabbon.
-Doppe vástida Farmen-Mikkel, dahje Mikkel Isak Eira.
-Dattetge lea Internašunála Sámi Filbmaguovddáža jođiheaddji mielas áibbas dárbbašlaš ahte gávdno sámegiel fálaldat mánáide.
-Juoba ge dán áigodagas.
-Ii fal runiidan jalges gittiide, muhto meahccái, gosa návddit dávjá ja lunddolaččat fievrredit ráppiid.
-Dál lea rábbeohcanbeana, dan lea čájehan go nealgečovjjiin borragođii ráppis.
-Dan dihte leage riekta ja dehálaš go skuvla čielga vugiin dovddasta dat lea maiddái sámi ohppiid skuvla.
-Dán filmma leat Kárášjoga nuorat oaidnán, eaige šat vuolgge sirkusii.
+
+Tatarsk.
+Tatarsk om Venäman lidn da lidnankund Novosibirskan agjan päivlaskmas. Se om Tatarskan rajonan administrativine keskuz.
+Istorii.
+Eländpunktan aluz om pandud vl 1894 kuti "Tatarskai-raudtestancii" žilonke senno sauvomha da holitamha Transsibad i sirdnikoiden Venäman imperijan evropižes palaspäi bazaks. Nimitihe lähižen "Tatarkankülän" mödhe, sijazihe kahtes virstas da oli pandud 18. voz'sadal. Žilo sai lidnan statusad vn 1911 27. päiväl vilukud. Vll 1912−1914 saudihe Kulundan magistralid suvipäivnouzmha vemha villäd ajaden, kätihe Tatarskad raudtesol'meks.
+Lidn šingotase raudten edheotandoil (vagonoiden kohenduzdepo, raudten distancii) i sömtegimištol (leibänkombinat, villänelevator, kuivan maidon tegim).
+Geografijan andmused.
+Lidn sijadase 105 m ü.m.t. keskmäižel korktusel. Matkad Novosibirskhasai om 443 km päivnouzmha orhal, 473 km avtotedme vai raudtedme. Lähembaine lidn om Kalačinsk (Omskan agj) 90 km päivlaskmha Transsibal vai avtotedme. «Irtiš»-avtote (R-254) om lidnan suviröunaks.
+Eläjad.
+Vn 2010 Venäman rahvahanlugemižen mödhe eläjiden lugu oli 24 217 ristitud, rajonan koume videndest. Kaikiš suremb ristitišt oli 29..30 tuhad eläjid vll 1959−1998 (30 893 eläjad vl 1979). Ortodoksižen hristanuskondan Jumalanmaman Katken pühäpert' om saudud vll 1994−2001.
+Tatarskan politehnine i pedagogine kolledžad oma professionaližen opendusen aluzkundoikš.
+Irdkosketused.
+*
+
+
+Dalmatovo.
+Dalmatovo om Venäman lidn da lidnankund Kurganan agjan lodehes. Se om Dalmatovon rajonan administrativine keskuz.
+Istorii.
+Pühä Dalmat Isetilaine pani Emäganpäivän mez'jumalankodin alust vl 1644. Eländpunktan aluz om pandud vl 1651 kuti "Služnäi-slabad" jumalankodinno. Vll 1691−1781 oli "Nikolajevskoje-žiloks". Se sai lidnan statusad vl 1781 "Dalmatov"-nimenke. Vll 1924−1947 kadoti lidnan statusad i oli "Dalmatovo-žiloks". Vn 1947 7. päiväl kezakud radnikžilo sai lidnan statusad tošti.
+Dalmatovo šingotase avtocisternoiden tegimel, sömtegimišton mašiništon tegimel, sömtegimištol (konditerine fabrik, villänelevator, kombisömän tegim) i tekstil'edheotandal. Sadas uranad lidnan ümbrištos manalaižel mahtusel.
+Geografijan andmused.
+Lidn sijadase Iset'-jogen hural randal (Tobolan hura ližajogi), 100 m ü.m.t. keskmäižel korktusel. Matkad Kurganhasai om 174 km suvipäivnouzmha orhal, 196 km avtol vai raudtedme. Lähembaine lidn om Kataisk 25 km päivlaskmha kaikil teil.
+Koume pen't küläd mülüdas lidnankundha Dalmatovon ližaks. Lidnankundan pind — 169,56 km².
+Eläjad.
+Vn 2010 Venäman rahvahanlugemižen mödhe lidnan eläjiden lugu oli 13 911 ristitud, lidnankundan — 14 172 ristitud, rajonan pol'. Kaikiš suremb lidnan ristitišt oli 17 494 eläjad vl 1989. Kaik 13 020 ristitud elihe lidnankundas vl 2017. Ortodoksižen hristanuskondan Emäganpäivän mez'jumalankodi udessündutase vspäi 2011.
+Kurganan tehnologižen kolledžan filial om professionaližen opendusen aluzkundaks.
+Irdkosketused.
+*
+
+
+Čoser Džefri.
+Džefri Čoser (mugažo Džeffri vai Gotfrid, [ˈtʃɔːsər]; sünd. läz 1343 vot, London, Anglijan kunigahuz — kol. 25. reduku 1400, sigäna-žo, om mahapandud Vestminsteran abbatuses) oli anglijalaine runokirjutai, literaturižen anglijan kelen i angližen literaturan alusenpanii. Kirjuti ičeze sädusid anglijan kelel ezmäižeks latinan kelen sijas. Sädi prozad-ki («The astrolab»-tedotraktat, kirjutused elos), tegi poemiden kändusid italijan i francijan kelišpäi.
+Čoseran tat torgui vinal, i hänen poig putui tanhale 17-voččel kunigahan poigan akan pažaks. Ühtni vn 1359 sodamatkha Francijad vaste, putui plenha, i Eduard Koumanz'-kunigaz maksoi päzutamha händast, kändi ičeze kamerdineraks da azegenkandajaks. Vll 1360−1367 Čoser openui Londonan juridižes üläškolas, tedoiži Amuižen Riman klassižid kirjutajid, tezi Francijan nügüd'aigaižiden runokirjutajiden sädusid. Opendusen jäl'ghe ajeli Italijha diplomataks i tegi tundmust Italijan runoištonke da torguindlidnoidenke.
+Vl 1366 Džefri i Filippa (de Roe neiččel, 1346−1387) vändiba sajad. Sündutihe kaks' last, Elizabet i Tomas Čoserad.
+
+
+Kataisk.
+Kataisk om Venäman lidn da lidnankund Kurganan agjan lodehes. Se om Kataiskan rajonan administrativine keskuz.
+Istorii.
+Eländpunktan aluz om pandud kozakoil vl 1655 kuti Katain lidnuz (), baškiralaižiden heimoiden karakatajalaižed-ühtištusen nimen mödhe. Lidnuz kaiči torguindted Tobol'skaspäi Moskvha. Alištui kalaidajiden heimoiden londoile, i vodele 1695 lidnuz oli saudud jo koumanden kerdan. Sid' nimitihe "Kataiskai slabadaks". 19. voz'sadal "Kataiskoje-žilo" oli villän torguindan järedaks keskuseks. Vll 1911−1913 raudte läbiti žilod. Vn 1944 12. päiväl uhokud žilo sai lidnan statusad Troickoje-žilon, Korablövo-, Odino- i Savino-küliden mülütandanke.
+Kataisk šingotase erazvuiččiden pompiden tegimel i maidtegimel.
+Geografijan andmused.
+Lidn sijadase Iset'-jogen hural randal (Tobolan hura ližajogi) Kataik-jogen lanktendan sijas, 100 m ü.m.t. keskmäižel korktusel. Matkad Kurganhasai om 195 km suvipäivnouzmha orhal, 219 km avtol vai raudtedme. Lähembaine lidn om Dalmatovo 25 km päivnouzmha kaikil teil.
+Kataisk om lidnankundan üks'jäine eländpunkt. Lidnankundan pind — 145,5 km².
+Eläjad.
+Vn 2010 Venäman rahvahanlugemižen mödhe eläjiden lugu oli 14 003 ristitud, rajonan koume videndest. Kaikiš suremb lidnan ristitišt oli 15..16 tuh. eläjid vll 1979−2006 (16 789 rist. vl 1989). Ortodoksižen hristanuskondan Jumalanmaman «Kaikiden gorähižiden ihastuz»-jumalaižen puine pühäpert' om avaitud vl 2010.
+Kataiskan professionaliž-pedagogine tehnikum om professionaližen opendusen aluzkundaks.
+Irdkosketused.
+*
+
+
+Kurtamiš.
+Kurtamiš om Venäman lidn da lidnankund Kurganan agjan suvipäivlaskmas. Se om Kurtamišan rajonan administrativine keskuz.
+Istorii.
+Eländpunktan aluz om pandud lidnuseks ühtennimižen jogen randal Isetin agjan kancelärijan käskön mödhe vl 1745. Vodele 1753 saudihe ezmäšt jumalanpertid ümbrištos, phh. Pedroin da Pauloin oiktastuseks, i nimitaškanzihe žilod senno Kurtamiš-jogen mödhe. Jumalanpert' om olmas nügüd'-ki. Vspäi 1756 kätihe žilod makundan keskuseks. 19. voz'sadal 5 jarmankad oleskeli joga vodes. Vn 1956 5. päiväl heinkud žilo sai lidnan statusad.
+Kurtamiš šingotase kohenduzmehanižel tegimel i sömtegimištol (sagudtegim, jauhon tehmine).
+Geografijan andmused.
+Lidn sijadase Kurtamiš-jogen randoil (Tobolan hura ližajogi), 110 m ü.m.t. keskmäižel korktusel. Matkad Kurganhasai om 77 km pohjoižpäivnouzmha orhal vai 83 km avtol. Toine lähembaine lidn om Šumih 82 km lodeheze orhal vai 219 km avtotedme.
+Kurtamiš om lidnankundan üks'jäine eländpunkt. Lidnankundan pind — 96,71 km².
+Eläjad.
+Vn 2010 Venäman rahvahanlugemižen mödhe eläjiden lugu oli 17 099 ristitud, rajonan viž ühesandest. Kaikiš suremb lidnan ristitišt oli 18..19 tuh. eläjid vll 1989−2003 (19 155 rist. vl 1989).
+Kurtamišan maižanduztehnikum i Kurganan pedagogižen kolledžan filial oma professionaližen opendusen aluzkundoikš.
+Irdkosketused.
+*
+
+
+Kukmor.
+Kukmor (,) om Venäman lidn Tatarstanan Tazovaldkundan pohjoižes. Se om Kukmoran rajonan i lidnankundan administrativine keskuz.
+Istorii.
+Eländpunktan aluz om pandud vl 1741 kuti žilo sauvomha da holitamha Tajiševon vas'ktegint (), nimitihe "Kukmor-tegim" mugažo. Vspäi 1851 oli Kukmor-žiloks, vl 1923 kätihe radnikžiloks. Vn 2017 28. päiväl sulakud Kukmor sai lidnan statusad.
+Kukmor šingotase hobkombinatal, metalližastjoiden tegimel, omblendfabrikal, sauvondkeramikan tegimel i maidkombinatal.
+Geografijan andmused.
+Lidn sijadase Vätk-jogen oiktal randpolel, 102 m ü.m.t. keskmäižel korktusel. Matkad Kazanihesai om 115 km suvipäivlaskmha. Röunatab Kirovan agjanke pohjoižes i päivnouzmas, lähembaine lidn om sen Vätkan Poläni 10 km pohjoižpäivnouzmha. "Kukmor-raudtestancii" om olmas «Kazan' — Jekaterinburg»-jonol.
+Eläjad.
+Vn 2010 kaiken Venäman rahvahanlugemižen mödhe eläjiden lugu oli 16 918 ristitud, rajonan koumandez. Kaikiš suremb lidnan ristitišt om 16..17 tuhad eläjid vspäi 2002 i om nügüd'.
+Kaks' sportkompleksad, jäpert'kulu i mägisuksiden baz oma olmas lidnas.
+Irdkosketused.
+*
+
+
+Basshunter.
+Basshunter [beishanter], todesine nimi om Junas Erik Oltberg (; sünd. 22. tal'vku 1984, Hal'mstad, Ročinma) om ročilaine pajatai, muzikprodüser da didžei. Edestab anglijan i ročin kelil.
+
+
+Makušino.
+Makušino om Venäman lidn da lidnankund Kurganan agjan päivnouzmas. Se om Makušinon rajonan administrativine keskuz.
+Istorii.
+Eländpunktan aluz om pandud sirdanuziden manmehiden küläks 17. voz'sadan lopus. Saudihe Transsiban «Kurgan — Omsk»-palad vl 1894, i raudte läbiti Makušinod. Žilo kändihe järedaks 20. voz'sadan augotišes. Vn 1944 sulakus kätihe radnikžiloks. Vn 1963 23. päiväl uhokud žilo sai lidnan statusad.
+Makušino šingotase sömtegimištol (argvoitegim, villänelevator i kombisömän tehmine).
+Geografijan andmused.
+Lidn sijadase 140 m ü.m.t. keskmäižel korktusel. Vedhudetoi reskveden Vanh-järv (, 2,46 km²) om lidnan suvipäivlaskmas, täutase atmosferan sadegil. Matkad Kurganhasai om 125 km päivlaskmha orhal, 141 km avtol vai raudtel. Lähembaine lidn om Petuhovo 43 km päivnouzmha orhal, 55 km «Irtiš»-avtotrassadme (R-254) vai Transsib-raudtedme. Trass om lidnan pohjoižröunaks.
+Makušino om lidnankundan üks'jäine eländpunkt. Lidnankundan pind — 68 km².
+Eläjad.
+Vn 2010 Venäman rahvahanlugemižen mödhe eläjiden lugu oli 8 338 ristitud, rajonan pol'. Kaikiš suremb lidnan ristitišt oli 15 tuh. eläjid vl 1967. Ortodoksižen hristanuskondan Mihail-arhangelan jumalanpert' om pühästandud vl 2010.
+Kurganan bazižen medicinižen kolledžan Makušinon äiprofil'ne filial (ende erine tehnikum) om professionaližen opendusen aluzkundaks.
+Irdkosketused.
+*
+
+
+Ekonomik (tedo).
+Taričendan (S, angl. "supply") i küzumižen (D, angl. "demand") koverad ozutadas küzumižen ližadusen effektoid. Q — verd, P — arv.
+Ekonomik (amuižgrekan kelen "οἰκονομία"-sanaspäi «kodiižandusen vedandan čomamaht»,) tedoližes el'genduses om kundaližiden tedoiden ühtmuz tavaroiden da holitišiden tehmižes, jagamižes da kulutuses (kävutamižes). Džon Mill' kävuti tärtust ičeze «Politižen ekonomijan principad»-tedotön pälkirjuteses (angl. "Principles of Political Economy") vl 1848, i se leviganzi avaros.
+Adam Smitan «Tedoiduz rahvahiden elokahusen süiš da purtkiš»-tedotö (1776) järgenzi pit'kan aigan olnuzid Evropas melid ižandusen logikas i pani ekonomižen tedon alust. Erazvuiččed «Domostrojad» da abukirjad oliba Smitan monografijan endustajikš. Amuižgrekalaine Ksenofont sädi ezmäižen «Domostrojan» 4. voz'sadal EME.
+Kaks' jagust.
+Ekonomikantedo jagase kahthe tedoiden gruppha: ekonomine teorii i sättutoitud ekonomik. Ekonomine toziolend om niiden tedoiden objektaks. Ekonomikan subjektad oma personad i kompanijad, kaik ned kosketadas rahoiden kal't nügüd'aigan.
+Teoretine čuraduz (ekonomine teorii) tedoidab röunatud varoid, niiden vajehtamižen, jagamižen, kävutandan mahtusen valičendan processan eriližusid. Praktine čuraduz (sättutoitud ekonomik) ecib teorijan käskusiden da taričendoiden kävutandoid ižanduzsistemiden elementoiden funkcioniruindas.
+Tedoidusen suruden mödhe tedo jagase "makroekonomikha" (rahvahaline ižanduz täuzin) i "mikroekonomikha", jäl'geline tedoidab kodiižandusid, erižid edheotandoid da firmoid.
+Metod i funkcijad.
+Ristituiden kulutuzmärad oma röunatomad, no varad oma röunatud täutamha kulutusid, i pidab valita kaikuččes ekonomižes sistemas: kuiččid tavaroid tehta, kut pidab tehta niid, ken da mittušt radod piidab oigeta, i kenen täht radon rezul'tatad oma. Löuta pätandoid nenihe küzundoihe oma ekonomižen tedon metod.
+Ekonomižen tedon funkcijad: tedonandai, praktine, endustusen, mail'mannägendan šingotesen, metodologine, ideologine, kritine i teoretine.
+
+
+Petuhovo (lidn).
+Petuhovo om Venäman lidn da lidnankund Kurganan agjan päivnouzmas. Se om Petuhovon rajonan administrativine keskuz.
+Istorii.
+Eländpunktan aluz om pandud kuti "Judino-žilo" vl 1779. Panihe "Petuhovo-raudtestancijan" alust vl 1892 i saudihe Transsiban «Kurgan — Omsk»-keskustad vodele 1894. Vn 1942 redukus kätihe Judinod radnikžiloks. Vn 1944 16. päiväl keväz'kud žilo sai lidnan statusad, udesnimitihe raudtestancijan mödhe.
+Petuhovo šingotase valamižmehanižel tegimel (kärauzimed, vedimiden i raudterividen paloiden tehmine) i konditerižiden tegesiden edheotandal.
+Geografijan andmused.
+Lidn sijadase Išiman tazangištol, 135 m ü.m.t. keskmäižel korktusel. Matkad Kazahstanan röunhasai (Pohjoižkazahstanan agj) om 10 km suvhe orhal vai 25 km päivlaskmha raud- i avtoteidme, Kurganhasai om 168 km päivlaskmha orhal, 187 km avtol vai raudtel. Lähembaižed lidnad oma Makušino 43 km päivlaskmha orhal, 55 km «Irtiš»-avtotrassadme (R-254) vai Transsib-raudtedme, i Mamlütk (Kazahstan) 44 km päivnouzmha orhal i Transsib-raudtedme vai 61 km avtotedme. «Irtiš»-trass om lidnan pohjoižröunaks.
+Petuhovo om lidnankundan üks'jäine eländpunkt. Lidnankundan pind — 40,76 km².
+Eläjad.
+Vn 2010 Venäman rahvahanlugemižen mödhe eläjiden lugu oli 11 292 ristitud, rajonan koume videndest. Kaikiš suremb lidnan ristitišt oli 15 100 eläjad vl 1996. Ortodoksižen hristanuskondan Jumalan ozutandan pühäpert' om saudud vll 2009−2014.
+Petuhovon maižandusen mehanizacijan da elektrifikacijan tehnikum om professionaližen opendusen aluzkundaks.
+Irdkosketused.
+*
+
+
+Šadrinsk.
+Šadrinsk om Venäman lidn da lidnümbrik Kurganan agjan lodehes. Se om agjan kahtenz' surtte lidn, mugažo Šadrinskan rajonan administrativižeks keskuseks, ei mülü sihe.
+Istorii.
+Jurii Malečkin (Juška Solovei «sadakelič») pani slabadan da lidnusen alust Šadrinskan parččoman sijas kuti "Šadrinskai-slabad" vl 1662. Se sai lidnan statusad vl 1712 "Arhangel'skii Šadrinskii-lidneihut"-nimenke, mugažo "Maloarhangel'sk". Vl 1733 lämoipalo mureni lidnad. Vspäi 1737 om nügüdläiženke nimenke. Vll 1737−1744 oli Isetin agjan keskuseks, vspäi 1781 om makundan lidnan statusanke. Vn 1941 semendkuspäi alištub agjan tobmudele oikti (vn 1943 uhokuhusai Kurganan agjan territorii mülüi Čeläbinskan agjaha).
+Šadrinsk šingotase avtoradiatoriden tegimel, pressformiden tegimel i valamižtegimel, sauvondmaterialiden tehmižel (metalližkonstrukcijad, raudbetontegesed, elektrodad), sömtegimištol (maidkonservkombinat, oludtegim, leibproduktoiden kombinat, konditerine edheotand), pakuitesen edheotandoil, mebel'fabrikal, vedimiden kohenduzedheotandal i proppantan tehmižel samha kivivoid.
+Geografijan andmused.
+Lidn sijadase Iset'-jogen muugotil randoil (Tobolan hura ližajogi), 80 m ü.m.t. keskmäižel korktusel. Matkad Kurganhasai om 127 km suvipäivnouzmha orhal, 147 km avtol vai raudtedme. Lähembaine lidn om Dalmatovo 50 km lodeheze kaikil teil.
+Eläjad.
+Vn 2010 Venäman rahvahanlugemižen mödhe eläjiden lugu oli 77 756 ristitud. Kaikiš suremb ristitišt oli 86..88 tuh. eläjid vll 1986−2001 (88 500 rist. vl 1997). Ortodoksižen hristanuskondan 2 päjumalanpertid i jumalanpert', baptizman pühäpert' i islaman pämečet' oma olmas lidnas.
+Professionaližen opendusen aluzkundad: Uralantagaine fizkul'turan da tervhuden kolledž, Šadrinskan politehnine, medicinine i finansiž-ekonomine kolledžad, proftehnologijoiden i kooperativine tehnikumad, Šadrinskan valdkundaline pedagogine universitet.
+Irdkosketused.
+*
+
+
+Šumih (lidn).
+Šumih om Venäman lidn da lidnankund Kurganan agjan päivlaskmas. Se om Šumihan rajonan administrativine keskuz.
+Istorii.
+Eländpunktan aluz om pandud Transsiban raudtestancijaks vl 1892. Kätihe žilod stancijanno lidnaks vl 1944.
+Šumih šingotase torvenarmaturan edheotandal i raudtelibutimiden tegimel, sömtegimištol (maidedheotandad, leibän i paštatesen pästand, villänelevator i kombisömän tehmine), mebel'fabrik radab, mugažo uranan samižen edheotand baziruiše lidnas.
+Geografijan andmused.
+Lidn sijadase Uralantagaižes, 170 m ü.m.t. keskmäižel korktusel. Matkad Kurganhasai om 131 km päivnouzmha orhal, 146 km avtol vai raudtel. Lähembaine lidn om Ščučje 34 km päivlaskmha orhal, 39 km «Irtiš»-avtotrassadme (R-254) vai Transsib-raudtedme. Trass om saudud 2 kilometras lidnan pohjoižröunaspäi.
+Eläjad.
+Vn 2010 Venäman rahvahanlugemižen mödhe eläjiden lugu oli 17 819 ristitud, rajonan kaks' koumandest. Kaikiš suremb lidnan ristitišt oli 20..21 tuh. eläjid vll 1967−2001 (21 984 rist. vl 1989).
+Šumihan agrariž-sauvondkolledž om professionaližen opendusen aluzkundaks.
+Irdkosketused.
+*
+
+
+Ščučje (lidn, Kurganan agj).
+Ščučje om Venäman lidn da lidnankund Kurganan agjan päivlaskmas. Se om Ščučjen rajonan administrativine keskuz.
+Istorii.
+Eländpunktan aluz om pandud pagenuziden manmehiden Keskuzvenämaspäi "Ščučje-küläks" vl 1750. Sai nimitust järven edeližen nimen mödhe (vn 1805 kartal), se oli haugidenke. Saudihe Transsiban «Čeläbinsk — Omsk»-augotižpalan Čumläk-stancijad žilonno vl 1896, nimitihe stancijad penen jogen mödhe. Kätihe žilod lidnaks vn 1945 16. päiväl semendkud. Udesnimitihe raudtestancijad lidnan mödhe vl 1974.
+Ščučje šingotase sömtegimištol (jauhon i leibän tehmine, sömän živatoiden täht pästand), omblendan i pilindmaterialiden edheotandoil, mugažo himižen azegišton likvidacijan tegimen uz' profiliruind mäneb i sodapalakundad sijadasoiš lidnanno.
+Geografijan andmused.
+Lidn sijadase Uralantagaižes, Nifanskoje-järven pohjoižrandal (5,33 km²), 165 m ü.m.t. keskmäižel korktusel. Matkad Čeläbinskan agjan röunhasai om 35 km päivlaskmha, Kurganhasai om 165 km päivnouzmha orhal, 176 km avtol vai raudtel. Lähembaine lidn om Šumih 34 km päivnouzmha orhal, 39 km «Irtiš»-avtotrassadme (R-254) vai Transsib-raudtedme. Trass om saudud 2 kilometras lidnan pohjoižröunaspäi.
+Eläjad.
+Vn 2010 Venäman rahvahanlugemižen mödhe eläjiden lugu oli 10 973 ristitud, rajonan pol'. Kaikiš suremb lidnan ristitišt oli 11 094 eläjad vl 1989. Ortodoksižen hristanuskondan Jumalanmaman Kazanin jumalaižen uz' pühäpert' om olmas lidnas. Lähembaine professionaližen opendusen aluzkund sijadase Šumihas.
+Irdkosketused.
+*
+
+
+Tobol'sk.
+Tobol'sk (,) om lidn da lidnümbrik Venäman Sibirin suvipäivlaskmas. Se om federacijan subjektan kahtenz' lidn eläjiden lugun mödhe, mugažo Tobol'skan rajonan administrativižeks keskuseks, ei mülü sihe.
+Istorii.
+Eländpunktan aluz om pandud vl 1587 kuti lidnuz da kreml' i Sibirin otandan kävutamižhe keskuz, nimitihe jogen mödhe. Panihe Stroican nemel 17 kilometras sijaližiden totarlaižiden Sibir'-pälidnaspäi (mž. Kašlik, Isker), i se oli lidnan toižeks nimeks kartoil 18. voz'sadhasai. Tobol'sk sai lidnan statusad vl 1590, ezmäižel Venäman Sibiriš, 17. voz'sadal oli sen päkeskuseks. Ende nimitihe "Tobolesk" i "Tobolesk-Ladeinii".
+Vspäi 1708 oli Sibirin gubernijan pälidnaks. Om lidnaks agjan alištusenke vn 1944 elokuspäi. Raudte tuli lidnha vl 1973.
+Tobol'sk šingotase järedal kivivoinhimižel kombinatal sen kommunikacijoidenke (polimeriden tehmine, elektrusen samine, kivivoin- da gazanveimiden holituz), sauvondmaterialiden edheotandoil (2 raudbetonan tegint, savičtegim, pumaterialoiden pästand), sömtegimištol, rahvahanpramozloiden tegesiden fabrikal i turizmal.
+Geografijan andmused.
+Lidn sijadase agjan pohjoižes, Irtiš-jogen oiktal randal tobjimalaz huran Tobol-ližajogen lanktendan sijas, 90 metrad keskmäižel korktusel valdmeren pindan päl. Taigmec da sod ümbärtas lidnad. Matkad Tümenihesai om 200 km suvipäivlaskmha orhal, 246 km avtotedme vai raudtedme. Toižed lähembaižed lidnad om Jalutorovsk 207 km suvipäivlaskmha orhal vai 248 km avtol i Tavd (Sverdlovskan agj) 176 km päivlaskmha orhal vai 358 km avtotedme. Lähembaine lendimport sijadase Tümeniš.
+Sumkino-žilo (3531 rist. vl 2017) mülüb lidnümbrikho Tobol'skan ližaks. Lidnümbrikon pind — 222 km².
+Eläjad.
+Vn 2010 Venäman rahvahanlugemižen mödhe lidnan eläjiden lugu oli 99 694 ristitud, lidnümbrikon — 103 583 ristitud. Kaikiš suremb lidnan ristitišt oli 101 100 eläjad vl 2005. Vl 2017 kaik 102 417 ristitud elihe lidnümbrikos.
+Rahvahad (lidn, enamba 0,4% vl 2016): venälaižed — 73,3%, totarlaižed — 16,6%, ukrainalaižed — 1,8%, azerbaidžanlaižed — 0,8%, saksalaižed — 0,4%, baškiralaižed — 0,4%, vaugedvenälaižed — 0,4%, toižed rahvahad — 1,8%, rahvahuden ozutandata — 4,5%.
+Irdkosketused.
+*
+
+
+Išim (lidn, Tümenin agj).
+Išim om Venäman lidn da lidnümbrik Tümenin agjan suvipäivnouzmas. Se om federacijan subjektan koumanz' lidn eläjiden lugun mödhe, Išiman rajonan administrativižeks keskuseks mugažo, ei mülü sihe.
+Istorii.
+Eländpunktan aluz om pandud vl 1670 (vai 1687) kuti Korkin-slabad (). Vspäi 1721 i kaiken 19. voz'sadan aigan vedihe Nikol'skai-jarmankad tal'vkuidme. Vl 1782 sai makundan lidnan statusad nügüdläiženke nimenke. Nimitihe jogen mödhe, mülüi Tobol'skan gubernijha.
+Lidn kändihe tegimišton keskuseks 19. voz'sadan lopus. Vspäi 1913 "Išim-stancii" radab Transsiban päjonol, «Tümen' — Omsk»-keskustan pol'tel.
+Išim šingotase mehanižel tegimel (raudtetransportan kohenduz i varapaloiden pästand), sauvondmaterialiden edheotandoil (raudbeton, asfal't), sömtegimištol (leibänproduktad, konditerine fabrik, maidkombinat, lihakombinat, alkogoližiden i alkogolitomiden jomižiden tegimed), kengiden i omblendan fabrikoil.
+Geografijan andmused.
+Lidn sijadase Išim-jogen hural randal (Irtišan hura ližajogi), 82 metrad ü.m.t. keskmäižel korktusel. Matkad Tümenihesai om 267 km lodeheze-päivlaskmha orhal, 302 km avtotedme vai raudtedme. Lähembaižed lidnad oma Nazivajevsk (Omskan agj) 132 km suvipäivnouzmha orhal vai Transsibal, 201 km avtol, i Petropavlovsk (Kazahstan) 140 km suvhe orhal vai 163 km avtotedme.
+Eläjad.
+Vn 2010 Venäman rahvahanlugemižen mödhe eläjiden lugu oli 65 243 ristitud. Kaikiš suremb ristitišt oli 67 800 eläjad vl 2003. Ortodoksižen hristanuskondan kaks' päjumalanpertid da jumalanpert' oma olmas lidnas.
+Rahvahad (2010): venälaižed — 95,5%, toižed rahvahad — 4,5%.
+Irdkosketused.
+*
+
+
+Jalutorovsk.
+Jalutorovsk om Venäman lidn da lidnümbrik Tümenin agjan suvipäivlaskmas. Se om federacijan subjektan nellänz' lidn eläjiden lugun mödhe, Jalutorovskan rajonan administrativižeks keskuseks mugažo, ei mülü sihe.
+Istorii.
+Nügüdläižen eländpunktan aluz om pandud vl 1659 kuti "Jalutorovskii-lidnuz" da "Jalutorovskai-slabad" totarlaižiden Javlu-tur-lidneihuden sijas, se oli tetab 14. voz'sadaspäi. Vl 1782 sai makundan lidnan statusad Jalutorovsk-nimitusenke. Oli kükstud dekabristoiden eländsijaks.
+Sibirin trakt läbiti lidnad 19. voz'sadan ezmäižel polel, i se kändihe tegimišton keskuseks 19. voz'sadan lopus. Vn 1912 semendkus ezmäine jonuz tuli lidnha Tümenišpäi.
+Jalutorovsk šingotase sömtegimištol (Danone-firman maidkombinat, lihakombinat, leibänproduktoiden kombinat), sauvondmaterialiden edheotandoil (metalližtorviden tegim, betonan pästand), valamižtegimel i mebel'fabrikal.
+Geografijan andmused.
+Lidn sijadase Tobol-jogen hural randpolel (Irtišan hura ližajogi), 65 metrad ü.m.t. keskmäižel korktusel. Om maižandusen rajonan keskuseks. Matkad Tümenihesai om 73 km lodeheze orhal, 85 km avtotedme vai Transsib-raudtedme. Lähembaine lidn om Zavodoukovsk 21 km suvipäivnouzmha orhal, 26 km avtotedme vai raudtedme. «Tümen' — Omsk»-trass (R-402) om lidnan suviröunaks.
+Eläjad.
+Vn 2010 Venäman rahvahanlugemižen mödhe eläjiden lugu oli 36 493 ristitud. Kaikiš suremb ristitišt om nügüd'. Ortodoksižen hristanuskondan Jumalan Sreten'jan päjumalanpert' (udessündutihe vll 2006−2010) i Emäganpäivän da ph. Mikulain jumalanpert' oma olmas lidnas.
+Rahvahad (2010): venälaižed — 88,7%, totarlaižed — 6,5%, ukrainalaižed — 1,0%, toižed rahvahad — 3,8%.
+Irdkosketused.
+*
+
+
+Zavodoukovsk.
+Zavodoukovsk om Venäman lidn Tümenin agjan suvipäivlaskmas. Se om Zavodoukovskan lidnümbrikon administrativine keskuz.
+Istorii.
+Eländpunktan aluz om pandud vl 1729 kuti "Ukovskai-külä" (). Vintegim radoi, i vl 1787 udesnimitihe "Zavodoukovskoje-žiloks" läz 2 tuhad ristitištonke. Vspäi 1913 regulärine likund zavodihe Transsiban pohjoižsarakodme, Zavodoukovskai-raudtestancii om olmas. Vn 1939 kül'mkus kätihe radnikžiloks, mülüi Jalutorovskan rajonha. Vn 1960 26. päiväl sulakud Zavodoukovskoje-žilo sai lidnan statusad, ühtištuihe lähižidenke külidenke.
+Vspäi 1963 lidn oli alištunu Jalutorovskan nevondkundale. Vspäi 1965 Zavodoukovsk oli ühtennimižen rajonan keskuseks, kätihe rajonad lidnanke lidnümbrikoks vl 2005.
+Zavodoukovsk šingotase plastikan i polimeriden tegimel, mašiništonsauvomižen tegimel (vagonpertid), sömtegimištol (lihakombinat i konditerine fabrik), sauvondmaterialiden kombinatal (raudbeton, gazbetonblokad, silikatine savič), mebel'fabrikal, plastikverkon tegimel maploduiden täht i omblendedheotandal.
+Geografijan andmused.
+Lidn sijadase penen Uk-jogen randoil (55 km pitte, Tobolan oiged ližajogi), 75 metrad ü.m.t. keskmäižel korktusel. Matkad Tümenihesai om 94 km lodeheze orhal, 103 km avtotedme vai Transsib-raudtedme. Lähembaine lidn om Jalutorovsk 21 km lodeheze orhal, 26 km avtotedme vai raudtedme. «Tümen' — Omsk»-trass (R-402) om lidnan pohjoižröunaks.
+Eläjad.
+Vn 2010 Venäman rahvahanlugemižen mödhe lidnan eläjiden lugu oli 25 647 ristitud, lidnümbrikon viž ühesandest. Kaikiš suremb lidnan ristitišt om 25..26 tuh. eläjid vspäi 1989 (26 800 rist. vl 1998). Ortodoksižen hristanuskondan ph. Jurgii-vägestusenkandajan jumalanpert' om saudud lidnas vll 1993−2004.
+Irdkosketused.
+*
+
+
+Belojarskii (lidn).
+Belojarskii (,) om Venäman lidn da lidnankund Hantin da Mansin avtonomižen ümbrikon lodehes. Se om Belojarskijan rajonan administrativine keskuz.
+Istorii.
+Eländpunktan aluz om pandud vl 1969 pedroiden paimendusen "Huv Sanghum"-tahondha («pit'k kall'» hantin kelel) sauvomha da holitamha londuseližen gazan veimen palad kompressorstancijanke sil. Vl 1988 žilo sai lidnan statusad.
+Belojarskii šingotase kivivoin da gazan pompandal, sömtegimištol (leibän edheotand i maidtegim), sauvondmaterialiden pästandal (raudbeton, asfal't).
+Geografijan andmused.
+Lidn sijadase Päivlaskmaižen Sibirin tazangištol, 22 m korktusel valdmeren pindan päl, Kazim-jogen hural randal (Obin oiged ližajogi). Matkad Obinjogehesai om 60 km päivlaskmha Kazim-laivjogedme, Hanti-Mansiiskhasai om 325 km suvhe-suvipäivnouzmha orhal vai 566 km avtotedme. Lähembaine lidn om Nägan' 186 km suvhe-suvipäivlaskmha orhal vai 280 km avtol. Regionaline civiline lendimport ("БЛР") om saudud lidnan suvipäivnouzmas, om reisid Näganihesai.
+Klimat om kontinentaline. Voden keskmäine lämuz — −2,0 C°, vilukun lämuz −17,8 C°, heinkun — +17,0 C°.
+Eläjad.
+Vn 2010 kaiken Venäman rahvahanlugemižen mödhe eläjiden lugu oli 20 283 ristitud, rajonan kaks' koumandest. Kaikiš suremb lidnan ristitišt om 20 tuh. eläjid da sen enamba vspäi 2007 (20 282 rist. vl 2016). Ortodoksižen hristanuskondan kaks' pühäpertid om olmas lidnas: ph. Serafim Sarovalaižen (2003) i Kaikiden pühämehiden (2017).
+Rahvahad (enamba 0,5% vl 2010): venälaižed — 68,7%, ukrainalaižed — 8,2%, totarlaižed — 5,3%, hantilaižed — 2,7%, vaugedvenälaižed — 1,8%, kumikad — 1,7%, baškiralaižed — 1,6%, kirgizlaižed — 1,2%, armenijalaižed — 0,6%, čuvašalaižed — 0,6%, tabasaranalaižed — 0,5%, toižed rahvahad — 4,8%, rahvahuden ozutandata — 2,3%.
+Belojarskijan politehnine kolledž om professionaližen opendusen aluzkundaks.
+Irdkosketused.
+*
+
+
+Jugorsk.
+Jugorsk om Venäman lidn da lidnümbrik Hantin da Mansin avtonomižen ümbrikon päivlaskmas. Om ümbärtud Sovetskijan rajonan territorijal.
+Istorii.
+Eländpunktan aluz om pandud vl 1962 kuti "Komsomol'skii-žilo" Ess-raudtestancijanno (nimitihe Ess-jogen mödhe, nüg. Geologičeskai-stancii,) sauvomha da holitamha «Ivdel' — Priobje»-raudted i otmaha kävutamižhe mecan parččomid da gazan löudmižsijid. Vl 1992 žilo sai lidnan statusad, udesnimitihe sen tahondan amuižen nimitusen mödhe (Jugr). Vl 1996 ühtištuihe Mansiiskii-žilod i Komsomol'skii-2-sodažilod lidnanke.
+Jugorsk šingotase gazan pompandal, gazanveimiden sauvondan trestal, sauvondmaterialiden pästandal (materialoiden kombinat, savič) i omblendfabrikal.
+Geografijan andmused.
+Lidn sijadase Ess-jogen hural randpolel (, Kondan oiged ližajogi, Irtišan hurapol'ne bassein), 110 m korktusel valdmeren pindan päl. Matkad jogehesai om 4 km päivlaskmha, Hanti-Mansiiskhasai om 305 km päivnouzmha orhal vai 380 km avtotedme. Lähembaižed lidnad oma Nägan' 144 km pohjoižpäivnouzmha orhal vai raudtel, 276 km avtotedme, Urai 154 km suvipäivnouzmha orhal vai 204 km avtol i Ivdel' (Sverdlovskan agj) 171 km suvipäivlaskmha orhal, 187 km avtol vai raudtel. Lähembaine civiline lendimport sijadase Sovetskii-žilos ("OVS / СОЙ") 15 km päivnouzmpolehe, om reisid Moskvha, Piterihe, tranzitreisid Tümen' — Belojarskii, sijaližid reisid punolendimil.
+Klimat om kontinentaline. Voden keskmäine lämuz — −0,7 C°, vilukun lämuz −16,5 C°, heinkun — +17,5 C°. Paneb sadegid 529 mm vodes.
+Jugorsk om lidnümbrikon üks'jäine eländpunkt. Lidnümbrikon pind — 152,18 km².
+Eläjad.
+Vn 2010 kaiken Venäman rahvahanlugemižen mödhe eläjiden lugu oli 34 067 ristitud. Kaikiš suremb lidnan ristitišt om nügüd'. Ortodoksižen hristanuskondan ph. Sergii Radonežalaižen päjumalanpert' om saudud lidnha vll 1995−2001, sen ližaks časoun' om olmas kahesan pühämehen kuvanke.
+Jugorskan politehnine kolledž i Gazproman openduztegimištoline keskuz oma professionaližen opendusen aluzkundoikš.
+
+
+Urai.
+Urai om Venäman lidn da lidnümbrik Hantin da Mansin avtonomižen ümbrikon suvipäivlaskmas. Om ümbärtud Kondinskojen rajonan territorijal.
+Istorii.
+Eländpunktan aluz om pandud sirdanuzil mehil Keskuzvenämaspäi vl 1922 kuti "Urai-žilo". Vl 1960 otaškanzihe kävutamižhe Päivlaskmaižen Sibirin kivivoin ezmäšt Šaiman löudmižsijad (lähine žilo). Vl 1965 žilo sai lidnan statusad ümbrikon alištusenke.
+Urai šingotase kivivoin samižel da sömtegimištol.
+Geografijan andmused.
+Lidn sijadase tazangištol, igähižen rougun zonas i sen röunanno, Kond-jogen oiktal randal (, Irtišan hura ližajogi), 55 m korktusel valdmeren pindan päl. Matkad Hanti-Mansiiskhasai om 250 km pohjoižpäivnouzmha orhal vai 430 km avtotedme. Lähembaine lidn om Jugorsk 154 km lodeheze orhal vai 204 km avtol. Lendimport om olmas. Paneb sadegid 400..450 mm vodes.
+Eläjad.
+Vn 2010 kaiken Venäman rahvahanlugemižen mödhe eläjiden lugu oli 39 457 ristitud. Kaikiš suremb lidnan ristitišt oli 43 224 eläjad vl 2009. Ortodoksižen hristanuskondan Jumalanmaman Sündundpäivän pühäpert' om saudud lidnha vll 1999−2001.
+Urain politehnine kolledž om professionaližen opendusen aluzkundaks.
+
+
+Kogalim.
+Kogalim (ven. i,) om Venäman lidn da lidnümbrik Hantin da Mansin avtonomižen ümbrikon keskuzpalan pohjoižpäivnouzmas. Om ümbärtud Surgutan rajonan territorijal.
+Istorii.
+Eländpunktan aluz om pandud vl 1975 kuti "Kogalimskai-raudtestancii" olnudel sauvomas «Surgut — Korotčaevo»-raudtel, vspäi 1976 oli "Kogalimskii-žilo", hantin kelen "коголым"-sana znamoičeb «nova». Vspäi 1978 otaškanzihe kävutamižhe kivivoin sijaližid järedoid löudmižsijid. Vn 1985 15. päiväl elokud žilo sai lidnan statusad ümbrikon alištusenke.
+Kogalim šingotase kivivoin samižel («Lukoil-Päivlaskmaine Sibir'»-kompanijan päedheotandad), ventil'likutimiden tegimel, sauvondmaterialiden tehmižel (plastiktorved), sömän pästandal (maidtegim) i himižreagentoiden tegimel.
+Geografijan andmused.
+Lidn sijadase Ingujagun-jogen hural randal tobjimalaz (235 km pitte, Obin oigedpol'ne bassein), 80 m korktusel valdmeren pindan päl. Om ümbärtud penil järvil. Matkad Hanti-Mansiiskhasai om 321 km suvipäivlaskmha orhal vai 468 km avtotedme. Lähembaine lidn om Pokači 82 km suvipäivnouzmha orhal vai 140 km avtol. Regionaline lendimport ("KGP / КОГ") om saudud 6 km suvhe lidnaspäi, tehtas reisid Moskvha, Ufaha, Samarha i Iževskha.
+Klimat om kontinentaline. Heinkun lämuz om +17,1 C°, vilukun — −18,4 C°. Voden keskmäine lämuz om −2,5 C°. Paneb sadegid 550 mm vodes.
+Ortjagun-žilo (142 rist. vl 2017) mülüb lidnümbrikho Kogaliman ližaks. Lidnfartaliden pind om läz 35 km².
+Eläjad.
+Vn 2010 kaiken Venäman rahvahanlugemižen mödhe lidnan eläjiden lugu oli 58 181 ristitud, lidnümbrikon — 58 337 ristitud. Kaikiš suremb lidnan ristitišt om nügüd'. Vl 2017 kaik 64 846 ristitud elihe lidnümbrikos. Ortodoksižen hristanuskondan kaks' pühäpertid, protestantizman jumalanpert' (videnkümnenden päivän polenpidajad) i islamanuskojiden mečet' oma saudud lidnha.
+Rahvahad (lidn, enamba 0,8% vl 2010): venälaižed — 57,8%, ukrainalaižed — 10,0%, totarlaižed — 9,2%, azerbaidžanlaižed — 3,8%, baškiralaižed — 3,7%, kumikad — 2,1%, moldovalaižed — 1,7%, čečenalaižed — 1,6%, čuvašalaižed — 1,1%, avarad — 1,0%, vaugedvenälaižed — 0,9%, marilaižed — 0,9%, lezgilaižed — 0,9%, toižed rahvahad — 4,8%, rahvahuden ozutandata — 0,5%.
+
+
+Langepas.
+Langepas (ven. i, «oravmectusen tahond») om Venäman lidn da lidnümbrik Hantin da Mansin avtonomižen ümbrikon päivnouzmas. Om ümbärtud Nižnevartovskan rajonan territorijal.
+Istorii.
+Eländpunktan aluz om pandud vl 1980 kuti "Langepas-žilo" otmaha kävutamižhe kivivoin löudmižsijid («Langepasneftegaz») da sauvomha Lokosovon kivivoingazan ümbriradajad tegint (benzin, nozoltadud gaz, kebnoiden hil'vezinikoiden segoituz), nügüd' molembad edheotandad mülüdas «» gruppha. Langepas om ezmäižeks kirjamaks Lukoil-nimituses. Vn 1981 9. päiväl sulakud kätihe radnikžiloks. Vn 1985 15. päiväl elokud žilo sai lidnan statusad ümbrikon alištusenke.
+Langepas šingotase kivivoin samižel da ümbriradmižel i maidtegimel.
+Geografijan andmused.
+Lidn sijadase Obin oiktan Langepas- (vai Kajukovan,) hijaman oiktal randal, 15 kilometras pohjoižhe Obin pävagospäi, 45 m keskmäižel korktusel valdmeren pindan päl, «Surgut — Nižnevartovsk»-raudtel. "Langepasovskii-raudtestancii" om saudud lidnan pohjoižpäivnouzmas. Langepas om ümbärtud segoitadud taigamecal. Matkad Hanti-Mansiiskhasai om 332 km päivlaskmha orhal vai 419 km avtotedme. Lähembaižed lidnad oma Megion 55 km suvipäivnouzmha orhal, 65 km raudtel vai avtol, i Pokači 59 km pohjoižhe orhal vai 69 km avtol.
+Langepas om lidnümbrikon üks'jäine eländpunkt. Lidn sauvose avaros, generaližen planan mödhe ezmässai, kogoneb 10 mikrorajonaspäi da Suvifartalaspäi.
+Eläjad.
+Vn 2010 kaiken Venäman rahvahanlugemižen mödhe eläjiden lugu oli 41 670 ristitud. Kaikiš suremb ristitišt om nügüd'.
+Rahvahad (enamba 1% vl 2010): venälaižed — 60,2%, totarlaižed — 9,9%, ukrainalaižed — 7,3%, vaugedvenälaižed — 6,4%, tadžikalaižed — 2,9%, baškiralaižed — 2,4%, lezgilaižed — 1,4%, azerbaidžanlaižed — 1,2%, uzbekad — 1,0%, toižed rahvahad — 7,3%.
+Viž sportkompleksad ratas lidnas. Langepasan politehnine kolledž om professionaližen opendusen aluzkundaks.
+
+
+Slichenko Nikolai.
+Nikolai Alekseyevich Slichenko (; sünd. 27. tal'vku 1934) om Venäman akt'or i pajatai čiganaiženke augotižlibundanke..
+
+
+Läntor.
+Läntor (ven. i,) om Venäman lidn da lidnankund Hantin da Mansin avtonomižen ümbrikon keskuses. Se mülüb Surgutan rajonha.
+Istorii.
+Eländpunktan aluz om pandud vl 1931 kuti kalanpüdajiden rahvahaline "Pim-žilo", nimitihe jogen mödhe. Vl 1966 avaitihe kivivoin da sen gazan Läntoran löudmižsijan, nimitihe Läntor-Tuhlor-järven mödhe. Vl 1978 sauvoškanzihe kivivoin sajiden žilod Piman sijas, udesnimitihe sidä "Läntorskii-žiloks". Vn 1992 18. päiväl semendkud se sai lidnan statusad nügüdläiženke nimenke.
+Läntor šingotase kivivoin samižel («Läntorneft'»-kompanijan 9 löudmižsijad lidnan ümbrištos, «Surgutneftegaz:an» pala) i kivivoingazan ümbriradmižen tegimel.
+Geografijan andmused.
+Lidn sijadase Pim-jogen hural randal (390 km pitte, Obin oiged ližajogi), 55 m keskmäižel korktusel valdmeren pindan päl. Vačim-Jagun-jogi lankteb Pimha lidnas. Läntor om ümbärtud penil järvil. Matkad Hanti-Mansiiskhasai om 182 km suvipäivlaskmha orhal vai 365 km avtotedme. Lähembaižed lidnad oma Surgut (lähembaine raudtestancii da rahvahidenkeskeine lendimport avtotedme) 77 km suvipäivnouzmha orhal vai 92 km avtol i Neftejugansk 64 km suvhe orhal vai 134 km avtotedme.
+Läntor om lidnankundan üks'jäine eländpunkt. Lidnankundan pind — 87,56 km².
+Eläjad.
+Vn 2010 kaiken Venäman rahvahanlugemižen mödhe eläjiden lugu oli 38 992 ristitud, rajonan koumandez. Kaikiš suremb ristitišt oli 40 135 eläjad vl 2015.
+Rahvahad (enamba 0,8% vl 2010): venälaižed — 51,4%, totarlaižed — 9,8%, ukrainalaižed — 8,1%, baškiralaižed — 4,1%, kumikad — 3,5%, tadžikalaižed — 2,4%, azerbaidžanlaižed — 2,0%, čuvašalaižed — 1,7%, čečenalaižed — 1,4%, lezgilaižed — 1,2%, nogailaižed — 1,1%, uzbekad — 1,1%, armenijalaižed — 0,8%, kazahlaižed — 0,8%, toižed rahvahad — 6,6%, rahvahuden ozutandata — 4,0%.
+Läntoran kivivointehnikum (Jugran valdkundaližen universitetan filial) om professionaližen opendusen aluzkundaks.
+
+
+Megion.
+Megion (ven. i,) om Venäman lidn da lidnümbrik Hantin da Mansin avtonomižen ümbrikon päivnouzmas. Om ümbärtud Nižnevartovskan rajonan territorijal, Nižnevartovskan lodehline ezilidn.
+Istorii.
+Eländpunkt mainitase ezmäižen kerdan Sibirin Aleksandr Dunin-Gorkavič-tedoidajan kirjutusiš vl 1910 kuti hantilaižiden "Majon-žilo" «venui ümbärdajan kontinentad hijaman sus». Vl 1912 mainitase Venäman imperijan oficialižiš andmusiš kuti "Magajon" (). Vspäi 1959 tedoitihe i vl 1961 avaitihe kivivoid läz "Megionad" (zavottihe kävutada nügüdläižen nimitusen), se oli Samotloran löudmižsijan ezmäine fontan. Vn 1964 semendkul kätihe Megionad radnikžiloks. Vn 1980 23. päiväl heinkud se sai lidnan statusad ümbrikon alištusenke.
+Megion šingotase kivivoin tedištelendan da samižen kompanijoil, kivivoinveimiden sauvondan, holitusen da kohendusen edheotandoil, mugažo konditerine fabrik i meblin tehmižen ceh oma olmas, raudbetonan tegim radab.
+Geografijan andmused.
+Lidn sijadase sokahas tahondas, Ob'-jogen da sen Meg-hijaman oiktal randal (), 40 m keskmäižel korktusel valdmeren pindan päl. Segoitadud taigamec ümbärdab lidnad. Matkad Hanti-Mansiiskhasai om 382 km päivlaskmha orhal vai 479 km avtotedme. Lähembaižed lidnad oma Nižnevartovsk (lähembaine rahvahidenkeskeine lendimport) 20 km suvipäivnouzmha orhal vai 25 km «Surgut — Nižnevartovsk»-avtotedme, i Langepas 55 km lodeheze orhal vai 65 km avtotedme.
+Lidnanvuitte Korged-žilo (, 6 968 rist. vl 2017) mülüb lidnümbrikho Megionan ližaks. "Megion-raudtestancii" om saudud siš «Surgut — Nižnevartovsk»-raudtel, 10 km lodeheze Megion-lidnaspäi. Raudte mäneb ühtes kilometras lidnan pohjoižröunan taga. Lidnümbrikon pind — 50,51 km².
+Eläjad.
+Vn 2010 kaiken Venäman rahvahanlugemižen mödhe lidnan eläjiden lugu oli 49 449 ristitud (kaikiš suremb), lidnümbrikon — 56 382 ristitud. Kaikiš suremb lidnan ristitišt om 48..49 tuhad eläjid vspäi 2007. Vl 2017 kaik 55 251 ristitud elihe lidnümbrikos.
+Rahvahad (enamba 0,8% vl 2010): venälaižed — 62,4%, ukrainalaižed — 7,4%, totarlaižed — 7,1%, baškiralaižed — 3,5%, azerbaidžanlaižed — 1,7%, lezgilaižed — 1,2%, kumikad — 1,0%, čečenalaižed — 0,9%, moldovalaižed — 0,8%, vaugedvenälaižed — 0,8%, čuvašalaižed — 0,8%, toižed rahvahad — 4,6%, rahvahuden ozutandata — 7,8%.
+Megionan politehnine kolledž om professionaližen opendusen aluzkundaks.
+
+
+Nägan'.
+Nägan' (ven. i) om Venäman lidn da lidnümbrik Hantin da Mansin avtonomižen ümbrikon päivlaskmas. Om ümbärtud Oktäbr'skojen rajonan territorijal.
+Istorii.
+Eländpunktan aluz om pandud vl 1965 kuti "Näh-žilo" varhapanemha mecad. Vl 1967 saudihe raudted Ivdelišpäi (Sverdlovskan agj) žilhosai, ezmäine jonuz tuli. Vl 1978 sädihe «Krasnoleninskneftegazgeologija»-tedištelendekspedicijan, i pigai löuzihe kivivoid žilon ümbrištos. Vl 1985 žilo sai lidnan statusad nügüdläiženke nimitusenke.
+Nägan' šingotase kivivoin da sen gazan samižel (6 mln tonnoid i 1,5 mlrd m³ vl 2015, «PN-Nägan'neftegaz» om «Rosneft'»-kompanijan palaks), kivivoinümbriradajal tegimel, Näganin GRES:al, kivivoin gazan ümbriradmižel, irgän kvarcan edheotandal, mecan varhapanendal da ümbriradmižel brusha.
+Geografijan andmused.
+Lidn sijadase Nägin'jugan-jogen hural randal (120 km pitte, Obin hura ližajogi), 40 m keskmäižel korktusel valdmeren pindan päl. Matkad Hanti-Mansiiskhasai om 228 km suvipäivnouzmha orhal vai 288 km avtotedme. Lähembaine lidn om Jugorsk 144 km suvipäivlaskmha orhal vai raudtel, 276 km avtotedme. Regionaline Nägan'-lendimport om saudud 10 km suvipäivnouzmha lidnan röunaspäi.
+Klimat om kontinentaline. Voden keskmäine lämuz — −1,4 C°, vilukun lämuz −23,1 C°, heinkun — +17,3 C°.
+Nägan' om lidnümbrikon üks'jäine eländpunkt. Lidnümbrikon pind — 814 km².
+Eläjad.
+Vn 2010 kaiken Venäman rahvahanlugemižen mödhe eläjiden lugu oli 54 890 ristitud. Kaikiš suremb lidnan ristitišt oli 60 700 eläjad vl 1996. Ortodoksižen hristanuskondan ph. Aleksii Moskvalaižen päjumalanpert' om saudud lidnha vll 1993−2004, islaman mečet' om olmas.
+Rahvahad (enamba 0,8% vl 2010): venälaižed — 67,5%, totarlaižed — 7,1%, ukrainalaižed — 5,0%, baškiralaižed — 2,1%, azerbaidžanlaižed — 1,7%, uzbekad — 1,5%, kirgizlaižed — 0,9%, vaugedvenälaižed — 0,9%, čuvašalaižed — 0,8%, kumikad — 0,8%, toižed rahvahad — 6,9%, rahvahuden ozutandata — 4,8%.
+Professionaližen opendusen aluzkundad: Näganin tehnologine kolledž, Uralan politehnižen kolledžan filial (Jekaterinburg), Uralan tegimištoliž-ekonomižen tehnikuman filial (Jekaterinburg) i Žirnovskan kivivoitehnikuman filial.
+
+
+Pokači.
+Pokači (ven. i,) om Venäman lidn da lidnümbrik Hantin da Mansin avtonomižen ümbrikon päivnouzmas. Om ümbärtud Nižnevartovskan rajonan territorijal.
+Istorii.
+Eländpunktan aluz om pandud vl 1978 kuti "Pokači-vahtžilo" samha kivivoid. Nimitihe hantilaižiden Pokačev-rodun mödhe, kenen mal burautihe satusekahid mareiguid. Vn 1983 31. päiväl redukud kätihe radnikžiloks. Vl 1984 sauvoškanzihe ut Pokači-žilod 15 kilometras edeližespäi. Vn 1986 24. päiväl kezakud žilo oli alištunu Langepas-lidnan nevondkundale. Vl 1992 žilo sai lidnan statusad.
+Pokači šingotase kivivoin samižel, «Pokačevneftegaz»-kompanii om «» palaks.
+Geografijan andmused.
+Lidn sijadase Vat'jogan-jogen oiktal randal (, 293 km pitte, Obin oigedpol'ne bassein) 2 kilometras sen lanktendan sijaspäi Agan-jogehe, 55 m keskmäižel korktusel valdmeren pindan päl. Pokači om ümbärtud penil järvil, Sisllor-järv (, läz 6 km²) om pohjoižhe lidnaspäi. Matkad Hanti-Mansiiskhasai om 360 km päivlaskmha-suvipäivlaskmha orhal vai 483 km avtotedme. Lähembaižed lidnad oma Langepas (raudtestancii) 59 km suvhe orhal vai 69 km avtol i Kogalim 82 km lodeheze orhal vai 140 km avtol.
+Eläjad.
+Vn 2010 kaiken Venäman rahvahanlugemižen mödhe eläjiden lugu oli 17 171 ristitud. Kaikiš suremb ristitišt om 16..17 tuhad eläjid vspäi 2002 i om nügüd'.
+Rahvahad (enamba 1% vl 2010): venälaižed — 48,7%, ukrainalaižed — 9,8%, totarlaižed — 7,6%, lezgilaižed — 5,5%, kumikad — 2,7%, azerbaidžanlaižed — 2,5%, baškiralaižed — 2,5%, čečenalaižed — 2,4%, moldovalaižed — 2,3%, vaugedvenälaižed — 1,8%, darginalaižed — 1,6%, gagauzalaižed — 1,1%, čuvašalaižed — 1,0%, toižed rahvahad — 5,2%, rahvahuden ozutandata — 5,3%.
+Langepasan politehnižen kolledžan Pokačin filial om professionaližen opendusen aluzkundaks.
+
+
+Pit' Jah.
+Pit' Jah (ven. i,) om Venäman lidn da lidnümbrik Hantin da Mansin avtonomižen ümbrikon keskuzpalan suvipäivnouzmas. Om ümbärtud Neftejuganskan rajonan territorijal.
+Istorii.
+Eländpunktan aluz om pandud vl 1968 kuti "Mamontovo-žilo" i "Mamontovon burauduzkontor" samha kivivoid, i vspäi 1970 jätktas samižen kahtendes surtte Samotloran jäl'ghe löudmižsijaspäi. Nimitihe "Pit' Jah"-žilod Pit'jah-jogen mödhe (, 50 km pitte, lankteb Surhe Balikha huraspäi), nimi znamoičeb «jogite» hantin kelespäi. Vn 1982 keväz'kus ühtištuihe Mamontovo-, Suvibalik- i Pit' Jah-žiloid, kätihe lidnanvuiččeks Pit' Jah-radnikžiloks. Vn 1990 6. päiväl elokud žilo sai lidnan statusad ümbrikon alištusenke.
+Pit' Jah šingotase kivivoin samižel da pompandal («RN-Juganskneftegaz»-kompanii om «Rosneftin» palaks), sen gazan Suvibalikan ümbriradajal kompleksal, töhöpästandan edheotandal («RN-Avtomatika») i mecan ümbriradmižel, mugažo mebel'ceh radab.
+Geografijan andmused.
+Lidn sijadase Sur' Balik-jogen oiktal randal (, 243 km pitte, Obin hura ližajogi), 50 m keskmäižel korktusel valdmeren pindan päl. Matkad Hanti-Mansiiskhasai om 209 km päivlaskmha orhal vai 259 km avtotedme. Lähembaine lidn om Neftejugansk 39 km pohjoižhe orhal vai 49 km avtol. Pit' Jahan päraudtestancii om lähembaine Neftejuganskan eläjiden täht.
+Pit' Jah om lidnümbrikon üks'jäine eländpunkt. Lidn jagase 11 mikrorajonha.
+Eläjad.
+Vn 2010 kaiken Venäman rahvahanlugemižen mödhe eläjiden lugu oli 41 488 ristitud. Kaikiš suremb ristitišt oli 41..42 tuhad eläjid vll 1998−2015 (42 500 rist. vl 1998).
+Rahvahad (enamba 0,8% vl 2010): venälaižed — 55,8%, ukrainalaižed — 9,3%, totarlaižed — 7,4%, kumikad — 5,0%, baškiralaižed — 3,2%, azerbaidžanlaižed — 2,7%, čečenalaižed — 1,7%, čuvašalaižed — 1,4%, lezgilaižed — 1,3%, moldovalaižed — 1,1%, vaugedvenälaižed — 0,8%, toižed rahvahad — 5,9%, rahvahuden ozutandata — 4,4%.
+Pit' Jahan industrialine kolledž om professionaližen opendusen aluzkundaks.
+
+
+Radužnii (Hantin da Mansin avtonomine ümbrik).
+Radužnii (ven. i,) om Venäman lidn da lidnümbrik Hantin da Mansin avtonomižen ümbrikon pohjoižpäivnouzmas. Om ümbärtud Nižnevartovskan rajonan territorijal.
+Istorii.
+Eländpunktan aluz om pandud vl 1973 kuti kivivoiradnikoiden žilo otmaha kävutamižhe Varjoganan kivivoin da sen gazan löudmižsijad. Hantilaižed nimitadas tahondad "Varjogan Maa". Vn 1978 keväz'kul registriruihe eländpunktad "Radužnii-žiloks" i sauvoškanzihe kaikenaigašt pertištod. Vn 1982 22. päiväl uhokud kätihe Radužnijad radnikžiloks (lidnanvuiččeks žiloks). Vn 1985 15. päiväl elokud žilo sai lidnan statusad.
+Radužnii šingotase kivivoin samižel, «Varjoganneftegaz»-kompanii om lidnan päedheotandaks. Sen ližaks, elektrokabeliden somustoitandan tegim radab, tualetbumagan pästandan edheotand i leibtegim oma olmas.
+Geografijan andmused.
+Lidn sijadase Agan-jogen (, 544 km pitte, Obin oigedpol'ne bassein) da sen Agrnjogan- i Nöhisjaun-ližajogiden randoil, 70 m keskmäižel korktusel valdmeren pindan päl. Matkad Hanti-Mansiiskhasai om 464 km päivlaskmha-suvipäivlaskmha orhal vai 671 km avtotedme. Lähembaižed lidnad oma Nižnevartovsk (raudtestancii) 142 km suvhe orhal vai 165 km avtol i Pokači 107 km päivlaskmha-suvipäivlaskmha orhal vai 320 km avtotedme, voib sadas Agan-jogedme. Vspäi 2007 ei ole lendimportad.
+Eläjad.
+Vn 2010 kaiken Venäman rahvahanlugemižen mödhe eläjiden lugu oli 43 399 ristitud. Kaikiš suremb ristitišt oli 46..47 tuhad eläjid vll 1992−2009 (47 900 rist. vll 2005−2006).
+Rahvahad (enamba 0,8% vl 2010): venälaižed — 51,2%, ukrainalaižed — 9,2%, totarlaižed — 6,9%, lezgilaižed — 4,2%, azerbaidžanlaižed — 3,6%, baškiralaižed — 3,2%, kumikad — 2,4%, tadžikalaižed — 1,8%, vaugedvenälaižed — 1,0%, moldovalaižed — 0,8%, toižed rahvahad — 7,0%, rahvahuden ozutandata — 8,7%.
+Radužnijan politehnine kolledž om professionaližen opendusen aluzkundaks.
+
