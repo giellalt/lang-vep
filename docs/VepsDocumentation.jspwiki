@@ -3,16 +3,14 @@
 
 
 
-!!! Dynamic documentation
 
-* [Links to generated source file documentation|Links.html]
-* Source files: [stems|https://gtsvn.uit.no/langtech/trunk/langs/vep/src/fst/stems/]   
-  / [affixes|https://gtsvn.uit.no/langtech/trunk/langs/vep/src/fst/affixes/] 
-  / [syntax|https://gtsvn.uit.no/langtech/trunk/langs/vep/src/syntax/] 
-  / [twolc|https://gtsvn.uit.no/langtech/trunk/langs/vep/src/phonology/vep-phon.twolc]   
-  / [yaml|https://gtsvn.uit.no/langtech/trunk/langs/vep/test/src/gt-norm-yamls/]
+
+ 
+ 
+ 
+ 
 * Generation of: [paradigms|http://giellatekno.uit.no/cgi/p-vep.fin.html]
-  / [text|http://giellatekno.uit.no/cgi/d-vep.fin.html]
+ 
 
 !!! Grammatical issues
 
