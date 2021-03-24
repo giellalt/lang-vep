@@ -64,6 +64,8 @@ GENERATED_LEXC_SRCS=\
 			 $(srcdir)/stems/nouns.lexc         \
 			 $(srcdir)/stems/quantifiers.lexc   \
 			 $(srcdir)/stems/verbs.lexc         \
+			 generated_files/smi-digits.lexc \
+			 generated_files/arabic_roman_digits.lexc \
 			 generated_files/punctuation.lexc   \
 			 generated_files/symbols.lexc
 
