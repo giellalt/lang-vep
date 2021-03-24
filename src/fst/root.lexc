@@ -25,6 +25,8 @@ Multichar_Symbols
 +Cmp
 +CmpNP/First
 +CmpNP/None
++Cmp/SplitR
++Cmp"/Hyph
 +Coll
 +Com
 +Err/Hyph
