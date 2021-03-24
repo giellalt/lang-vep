@@ -25,15 +25,25 @@ GT_LEXC_ROOT=$(srcdir)/root.lexc
 
 # Set this to the names of all regular lexc source files:
 GT_LEXC_SRCS_L1_L2=\
+			 compounding.lexc         \
 			 stems/abbreviations.lexc \
 			 stems/acronyms.lexc      \
 			 stems/adjectives_newwords.lexc      \
 			 stems/nouns_newwords.lexc      \
 			 stems/propernouns_newwords.lexc      \
 			 stems/verbs_newwords.lexc      \
+			 stems/adjectives.lexc    \
+			 stems/adverbs.lexc       \
+			 stems/conjuncts.lexc     \
+			 stems/interjections.lexc \
+			 stems/nouns.lexc         \
+			 stems/numerals.lexc      \
+			 stems/quantifiers.lexc   \
+			 stems/verbs.lexc         \
 			 affixes/adjectives.lexc  \
 			 affixes/clitics.lexc     \
 			 affixes/nouns.lexc       \
+			 affixes/numerals.lexc    \
 			 affixes/pronouns.lexc    \
 			 affixes/propernouns.lexc \
 			 affixes/quantifiers.lexc \
@@ -56,20 +66,11 @@ GT_LEXC_L2_SRCS=\
 			$(L2)
 
 # Set this to the names of all generated lexc files, if any
-GENERATED_LEXC_SRCS=\
-			 $(srcdir)/stems/adjectives.lexc    \
-			 $(srcdir)/stems/adverbs.lexc       \
-			 $(srcdir)/stems/conjuncts.lexc     \
-			 $(srcdir)/stems/interjections.lexc \
-			 $(srcdir)/stems/nouns.lexc         \
-			 $(srcdir)/stems/quantifiers.lexc   \
-			 $(srcdir)/stems/verbs.lexc         \
-			 generated_files/smi-digits.lexc \
+GENERATED_LEXC_SRCS=generated_files/punctuation.lexc   \
+			 generated_files/smi-digits.lexc    \
 			 generated_files/arabic_roman_digits.lexc \
-			 generated_files/punctuation.lexc   \
 			 generated_files/symbols.lexc
 
-#			 $(srcdir)/stems/pronouns.lexc      
 
 # Set this to the names of all source xml files, if any
 GT_XML_SRCS=\
