@@ -83,7 +83,7 @@ LIST Cmp/Hyph = Cmp/Hyph ;
 LIST Cmp/SgGen = Cmp/SgGen ;
 LIST Cmp/Attr = Cmp/Attr ;
 LIST Cmp/SgNom = Cmp/SgNom ;
-
+LIST Cmp/SplitR = Cmp/SplitR ;
 
 #!! !Numerus
 LIST Pers = Pers ;
