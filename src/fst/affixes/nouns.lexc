@@ -1,4 +1,4 @@
-!! !!!Veps Noun inflection
+!! # Veps Noun inflection
 !Metrical feetDisyllables
 !˘ ˘	 pyrrhic, dibrach : kala
 !˘ ¯	 iamb	  	  : veneh
@@ -442,7 +442,7 @@ LEXICON N_NADO !!= @CODE@ nado:nado
 !!* Yaml: __nado__
 : NMN_ ;
 
-!! !!Nominals
+!! ## Nominals
 
 LEXICON NMN_NORUZ
 :%^TS’ SG-NOM-SUF ;
@@ -616,7 +616,7 @@ LEXICON NMN_
  PL-ADD1-SUF ;
  PL-ADD2-SUF ;
 
-!! !!!ACTUAL CASES 
+!! # ACTUAL CASES 
 
 
 LEXICON SG-NOM-SUF
@@ -733,7 +733,7 @@ LEXICON SG-ADD2-SUF
 
 
 
-!! !!!Start Plural
+!! # Start Plural
 LEXICON PL-NOM-SUF
 +Pl+Nom:%>d K ;
 
@@ -802,7 +802,7 @@ LEXICON PL-ADD2-SUF
 +Pl+Add2:%>ilepäi K ;
 
 
-!! !!!Possessor Indices
+!! # Possessor Indices
 
 !! Not yet written...
 
