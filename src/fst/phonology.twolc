@@ -1,5 +1,5 @@
 ! =================================== 
-!! !!!The Veps morphophonological/twolc rules file 
+!! # The Veps morphophonological/twolc rules file 
 ! =================================== 
 
 
@@ -170,22 +170,22 @@ GRC =  [ [ ( %> ) AÄ1: | OÖ1: | UY1: | Vow: | :Vow ]  ( %> i ) |  %>  i ] %> %
 ! preceeded by "Cns _"
 ! 2012-10-11 SLV =  [ :Vow [ ( %> %^LCns:0 %^LVow:0 | %> %^LCns:0 | %> i %> | %> ) [ V1:Vow | AÄ1: ] |  0:Vow %> ( %^LCns:0 | %^WCns: ) %^LVow: | %> %^LCns:0  ] ] ;
 
-!! !!!Rules
+!! # Rules
 
 Rules
 
 
 !
-!! !!Vowel change 
+!! ## Vowel change 
 !
 
 ! Stem vowel loss before preterite and plural "i"
 "StemVowLoss before _i_"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
  e:0 <=> # Cns* Vow+ Cns+ _  %> i  ;
 
 "Stem-internal vowel loss"
-!! __@RULENAME@__
+!! **@RULENAME@**
  Vx:0 <=> _ Cns: %^RmVow: ;
               where Vx in (%{aØ%} %{iØ%} %{uØ%} %{eØ%} %{oØ%} ) ;
 
@@ -198,10 +198,10 @@ QAO1:o <=> _ ( %^DEVOICE: ) %> :i ( %^DEVOICE: ) Cns ;
 
 
 
-!! !!Consonant change 
+!! ## Consonant change 
 
 "devoicing of adjecent stops"
-!! __@RULENAME@__ vauged: vauktan
+!! **@RULENAME@** vauged: vauktan
  Cx:Cy <=>  _ [%{eØ%}: |%{uØ%}: ] Cns:CnsVoiceless %^RmVow: %^DEVOICE: %> ;
             Cns:CnsVoiceless [ %{eØ%}: | %{uØ%}: ] _ %^RmVow: %^DEVOICE: %> ;
               where Cx in (g d)
@@ -209,7 +209,7 @@ QAO1:o <=> _ ( %^DEVOICE: ) %> :i ( %^DEVOICE: ) Cns ;
 
 
 "d:z in vodes, voziš"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
 d:z <=> Vow+  _  %^TS:0  ; ! GRC ;
 ! last-minute verbs
 ! "ti:si in verbs"
@@ -217,19 +217,19 @@ d:z <=> Vow+  _  %^TS:0  ; ! GRC ;
 
 
 "d:t in voden, vot"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
  d:t <=> [ d: | ( n | l | r ) ’ | z: ] %^DEVOICE:0 %> _ [ # | %- ] ;
 
 "d:0 in voden, vot"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
  d:0 <=> _ %^DEVOICE:0 %> d: ;
 
 "z:s in meletuz:meletust"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
  z:s <=> _ %^DEVOICE:0 ;
 
 "’:0 before vowels"
-!! __@RULENAME@__  
+!! **@RULENAME@**  
  ’:0 <=> _  %>  Vow ;
 
 ! Working with Veps
