@@ -35,5 +35,6 @@ MD_PAGES=root-morphology.md \
 # smi-propernouns-stems.md    \
 # subjunctions-stems.md       \
 # verbs-stems.md              \
-# adjectives-oahpa-affixes.md \
+# adjectives-oahpa-affixes.md
+
 include $(top_srcdir)/../giella-core/am-shared/docs-dir-include.am
