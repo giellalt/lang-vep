@@ -14,90 +14,62 @@
 
 !! Morphology
 
-!! # INTRODUCTION TO MORPHOLOGICAL ANALYSER OF VEPS
+!! # Multichar_Symbols and *Root* lexicon for Veps
 
 Multichar_Symbols
 
-! TODO: Have a look at these:
 
-+Arab
-+CLBfinal
-+Cmp
-+CmpNP/First
-+CmpNP/None
-+Cmp/SplitR
-+Cmp/Hyph
-+Coll
-+Com
-+Err/Hyph
-+Err/Lex
-+Err/SpaceCmp
-+Err/MissingSpace
-+MWE
-+OLang/ENG
-+OLang/FIN
-+OLang/NNO
-+OLang/NOB
-+OLang/RUS
-+OLang/SMA
-+OLang/SME
-+OLang/SWE
-+OLang/UND
-+Prf
-+PrfPrs
-+Rom
-+Sem/Amount
-+Sem/Build-room
-+Sem/Cat
-+Sem/Curr
-+Sem/Date
-+Sem/Domain
-+Sem/Domain_Hum
-+Sem/Dummytag
-+Sem/Edu_Hum
-+Sem/Event
-+Sem/Food-med
-+Sem/Group_Hum
-+Sem/ID
-+Sem/Lang
-+Sem/Mat
-+Sem/Money
-+Sem/Obj-el
-+Sem/Obj-ling
-+Sem/Org_Prod-audio
-+Sem/Org_Prod-vis
-+Sem/Part
-+Sem/Prod-vis
-+Sem/Rule
-+Sem/Sign
-+Sem/State
-+Sem/State-sick
-+Sem/Substnc
-+Sem/Time-clock
-+Sem/Tool-it
-+Sem/Year
-+Use/-PMatch
-+Use/Circ
-+Use/NG
-+Use/PMatch
-+Use/SpellNoSugg
-+v1
-+v2
-@C.ErrOrth@
-@D.ErrOrth.ON@
-@P.ErrOrth.ON@
+!! TODO: Have a look at these:
+
++Arab			    !!≈ * **@CODE@** 
++CLBfinal		    !!≈ * **@CODE@** 
++Cmp			    !!≈ * **@CODE@** 
++CmpNP/First	    !!≈ * **@CODE@** 
++CmpNP/None		    !!≈ * **@CODE@** 
++Cmp/SplitR		    !!≈ * **@CODE@** 
++Cmp/Hyph		    !!≈ * **@CODE@** 
++Coll			    !!≈ * **@CODE@** 
++Com			    !!≈ * **@CODE@** 
++Err/Hyph		    !!≈ * **@CODE@** 
++Err/Lex		    !!≈ * **@CODE@** 
++Err/SpaceCmp	    !!≈ * **@CODE@** 
++Err/MissingSpace   !!≈ * **@CODE@** 
++MWE			    !!≈ * **@CODE@** 
++OLang/ENG		    !!≈ * **@CODE@** 
++OLang/FIN		    !!≈ * **@CODE@** 
++OLang/NNO		    !!≈ * **@CODE@** 
++OLang/NOB		    !!≈ * **@CODE@** 
++OLang/RUS		    !!≈ * **@CODE@** 
++OLang/SMA		    !!≈ * **@CODE@** 
++OLang/SME		    !!≈ * **@CODE@** 
++OLang/SWE		    !!≈ * **@CODE@** 
++OLang/UND		    !!≈ * **@CODE@** 
++Prf			    !!≈ * **@CODE@** 
++PrfPrs			    !!≈ * **@CODE@** 
++Rom			    !!≈ * **@CODE@** 
++Use/-PMatch	    !!≈ * **@CODE@** 
++Use/Circ		    !!≈ * **@CODE@** 
++Use/NG			    !!≈ * **@CODE@** 
++Use/PMatch		    !!≈ * **@CODE@** 
++Use/SpellNoSugg    !!≈ * **@CODE@** 
++v1				    !!≈ * **@CODE@** 
++v2				    !!≈ * **@CODE@** 
+@C.ErrOrth@		    !!≈ * **@CODE@** 
+@D.ErrOrth.ON@	    !!≈ * **@CODE@** 
+@P.ErrOrth.ON@	    !!≈ * **@CODE@** 
 
 
 
 !! Multichar_symbols
 
- +TYÄ !!= * @CODE@ =  Work that has to be done
 
 !! The morphological analyses of wordforms of Veps are presented
 !! in this system in terms of the following symbols.
 !! (It is highly suggested to follow existing standards when adding new tags).
 
-!! ## The parts-of-speech are:
+!! ## Grammatical tags
+
+!! ### The parts-of-speech 
  +A      !!= * @CODE@ = adjective
  +Adp    !!= * @CODE@ = adposition
  +Adv    !!= * @CODE@ = adverb
@@ -113,13 +85,13 @@ Multichar_Symbols
  +Qnt    !!= * @CODE@ = quantifier
  +V      !!= * @CODE@ = verb
 
-!! ## Parts of speech are further split up into:
+!! ### Subtags
 
-!! Nouns
+!! #### Noun subtags
 
  +Prop  !!= * @CODE@ = proper
 
-!! ## Pronouns
+!! #### Pronoun tags
 
  +Dem   !!= * @CODE@ = demonstrative
  +Indef !!= * @CODE@ = indefinite
@@ -129,8 +101,8 @@ Multichar_Symbols
  +Refl   !!= * @CODE@ = reflexive
  +Rel    !!= * @CODE@ = relative
 
-!! ### Verbs
-+Aux
+!! #### Verb tags
++Aux !!= * @CODE@ = a
 +Act !!= * @CODE@ = active voice
 +Pss !!= * @CODE@ = passive voice
 
@@ -299,7 +271,7 @@ Multichar_Symbols
 
 
 
-!! Semantics are classified with
+!! #### Semtags 
  +Sem/Mal   !!= * @CODE@
  +Sem/Fem   !!= * @CODE@
  +Sem/Sur    !!= * @CODE@ =
@@ -320,13 +292,44 @@ Multichar_Symbols
  +Sem/Veh      !!= * @CODE@ =
  +Sem/Clth      !!= * @CODE@ =
 
+!! #### More semtags
++Sem/Amount		    !!≈ * **@CODE@** 
++Sem/Build-room	    !!≈ * **@CODE@** 
++Sem/Cat		    !!≈ * **@CODE@** 
++Sem/Curr		    !!≈ * **@CODE@** 
++Sem/Date		    !!≈ * **@CODE@** 
++Sem/Domain		    !!≈ * **@CODE@** 
++Sem/Domain_Hum	    !!≈ * **@CODE@** 
++Sem/Dummytag	    !!≈ * **@CODE@** 
++Sem/Edu_Hum	    !!≈ * **@CODE@** 
++Sem/Event		    !!≈ * **@CODE@** 
++Sem/Food-med	    !!≈ * **@CODE@** 
++Sem/Group_Hum	    !!≈ * **@CODE@** 
++Sem/ID			    !!≈ * **@CODE@** 
++Sem/Lang		    !!≈ * **@CODE@** 
++Sem/Mat		    !!≈ * **@CODE@** 
++Sem/Money		    !!≈ * **@CODE@** 
++Sem/Obj-el		    !!≈ * **@CODE@** 
++Sem/Obj-ling	    !!≈ * **@CODE@** 
++Sem/Org_Prod-audio !!≈ * **@CODE@** 
++Sem/Org_Prod-vis   !!≈ * **@CODE@** 
++Sem/Part		    !!≈ * **@CODE@** 
++Sem/Prod-vis	    !!≈ * **@CODE@** 
++Sem/Rule		    !!≈ * **@CODE@** 
++Sem/Sign		    !!≈ * **@CODE@** 
++Sem/State		    !!≈ * **@CODE@** 
++Sem/State-sick	    !!≈ * **@CODE@** 
++Sem/Substnc	    !!≈ * **@CODE@** 
++Sem/Time-clock	    !!≈ * **@CODE@** 
++Sem/Tool-it	    !!≈ * **@CODE@** 
++Sem/Year		    !!≈ * **@CODE@** 
 
 !! Derivations are classified under the morphophonetic form of the suffix, the
 !! source and target part-of-speech.
  +V→N   !!= * @CODE@
  +V→V   !!= * @CODE@
  +V→A     !!= * @CODE@ =
-+Der
++Der            !!= * @CODE@ =
 +Der/Uz1                !!= * @CODE@ = sur»uz' A»N
 +Der/Ta          !!= * @CODE@ =
 +Der/Te          !!= * @CODE@ =
@@ -359,8 +362,8 @@ Multichar_Symbols
  {back}  !!= * @CODE@
 %^RmVow !!= * @CODE@ for removing vowels
 
-%>
-%-
+%>      !!= * @CODE@ =
+%-      !!= * @CODE@ =
 %^WGStem         !!= * @CODE@
 %^TS        !!= * @CODE@
 %^RVow       !!= * @CODE@
@@ -376,7 +379,7 @@ Multichar_Symbols
 
 ! Protoletters for xfst
 
-%^DEVOICE
+%^DEVOICE     !!= * @CODE@ =
 QAQ1   !!= * @CODE@
 QAO1   !!= * @CODE@
 QÄQ1   !!= * @CODE@
@@ -406,14 +409,20 @@ V3    !!= * @CODE@
 !! We have manually optimised the structure of our lexicon using following
 !! flag diacritics to restrict morhpological combinatorics - only allow compounds
 !! with verbs if the verb is further derived into a noun again:
+
+!! | Flag [ Explanation
+!! | ---- | ----------- 
  @P.NeedNoun.ON@    !!≈ |  @CODE@ | (Dis)allow compounds with verbs unless nominalised
  @D.NeedNoun.ON@    !!≈ |  @CODE@ | (Dis)allow compounds with verbs unless nominalised
  @C.NeedNoun@       !!≈ |  @CODE@ | (Dis)allow compounds with verbs unless nominalised
-!! 
+
 !! For languages that allow compounding, the following flag diacritics are needed
 !! to control position-based compounding restrictions for nominals. Their use is
 !! handled automatically if combined with +CmpN/xxx tags. If not used, they will
 !! do no harm.
+
+!! | Flag [ Explanation
+!! | ---- | ----------- 
  @P.CmpFrst.FALSE@ !!≈ |  @CODE@ | Require that words tagged as such only appear first
  @D.CmpPref.TRUE@  !!≈ |  @CODE@ | Block such words from entering ENDLEX
  @P.CmpPref.FALSE@ !!≈ |  @CODE@ | Block these words from making further compounds
@@ -422,11 +431,14 @@ V3    !!= * @CODE@
  @U.CmpNone.FALSE@ !!≈ |  @CODE@ | Combines with the prev tag to prohibit compounding
  @P.CmpOnly.TRUE@  !!≈ |  @CODE@ | Sets a flag to indicate that the word has passed R
  @D.CmpOnly.FALSE@ !!≈ |  @CODE@ | Disallow words coming directly from root.
-!! 
+
 !! Use the following flag diacritics to control downcasing of derived proper
 !! nouns (e.g. Finnish Pariisi -> pariisilainen). See e.g. North Sámi for how to use
 !! these flags. There exists a ready-made regex that will do the actual down-casing
 !! given the proper use of these flags.
+
+!! | Flag [ Explanation
+!! | ---- | ----------- 
  @U.Cap.Obl@        !!≈ |  @CODE@ | Allowing downcasing of derived names: deatnulasj.
  @U.Cap.Opt@        !!≈ |  @CODE@ | Allowing downcasing of derived names: deatnulasj.
 
