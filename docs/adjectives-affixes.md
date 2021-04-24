@@ -1,0 +1,34 @@
+Adjective inflection
+----
+
+Veps adjectives compare.
+
+
+ * LEXICON A_UZ 
+
+ * LEXICON A_RUSKED 
+
+ * LEXICON A_  , just beginning 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
