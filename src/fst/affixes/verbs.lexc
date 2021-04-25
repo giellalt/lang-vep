@@ -1,8 +1,13 @@
-!! Verb inflection
-!! ---
 
+!! # Verb inflection in Vepsian
+! ---
+
+!! ## Lexica from the *stems* file
+
+!! ### Irregular verbs
 ! ei:e
 LEXICON V_EI
+!! @LEXNAME@ all forms of the *ei* verb
 +Neg+Sg1:%>n K ;
 +Neg+Sg2:%>d K ;
 +Neg+Sg3:%>i K ;
@@ -10,13 +15,16 @@ LEXICON V_EI
 +Neg+Pl2:%>t K ;
 +Neg+Pl3:%>i K ; !Is there any other variant
 
+!! ### Regular verbs
 
 LEXICON V_SUGIDA
+!! @LEXNAME@ This and all V_... lexica redirect to *V-VowelStem, V-ConsonantStem, INDPRS3* (see below)
 : V-VowelStem ;
 : V-ConsonantStem ;
 : INDPRS3 ;
 
 LEXICON V_OLDA
+!! @LEXNAME@ (adding :le to vowstem)
 :le V-VowelStem ;
 :l V-ConsonantStem ;
 +Ind+Prs+Sg3:%>m K ;
@@ -24,145 +32,181 @@ LEXICON V_OLDA
 
 
 LEXICON V_PESTA
+!! @LEXNAME@ (adding -e) ti vowstem and indprs3)
 :e V-VowelStem ;
 : V-ConsonantStem ;
 :e INDPRS3 ;
 
-LEXICON V_TEHTA ! tehta:te
+LEXICON V_TEHTA ! 
+!! @LEXNAME@ = tehta:te (adding :ge to vowst and indprs3)
 :ge V-VowelStem-PRS ;
 :g V-VowelStem-PRT ;
 :g V-ConsonantStem_OTHER ;
  V-ConsonantStem_t ;
 :ge INDPRS3 ;
 
-LEXICON V_SIRTA ! sirta:sir
+LEXICON V_SIRTA !
+!! @LEXNAME@ =  sirta:sir
 :da V-VowelStem-PRS ;
 :d V-VowelStem-PRT ;
 :d V-ConsonantStem_OTHER ;
  V-ConsonantStem_t ;
 :da INDPRS3 ;
 
-LEXICON V_JOKSTA ! joksta:joks
+LEXICON V_JOKSTA ! 
+!! @LEXNAME@ = joksta:joks
 :e V-VowelStem-PRS ;
 : V-VowelStem-PRT ;
  V-ConsonantStem ;
 :e INDPRS3 ;
 
-LEXICON V_LETA ! leta:le
+LEXICON V_LETA ! 
+!! @LEXNAME@ = leta:le
 :nda V-VowelStem-PRS ;
 :nd V-VowelStem-PRT ;
 :nd V-ConsonantStem_OTHER ;
  V-ConsonantStem_t ;
 :nda INDPRS3 ;
 
-LEXICON V_JODA ! joda:jo
+LEXICON V_JODA ! 
+!! @LEXNAME@ = joda:jo
 : V-VowelStem-PRS ;
 : V-VowelStem-PRT ;
  V-ConsonantStem ;
 : INDPRS3 ;
 
-LEXICON V_VEDADA ! vedada:ved
+LEXICON V_VEDADA !
+!! @LEXNAME@ =  vedada:ved
 :a V-VowelStem-PRS ;
 : V-VowelStem-PRT ;
-:a V-ConsonantStem ;!CHECKME2019-07-25
+:a V-ConsonantStem ; !CHECKME2019-07-25
 :a INDPRS3 ;
 
-LEXICON V_MAKSTA ! maksta:maks
+LEXICON V_MAKSTA ! 
+!! @LEXNAME@ = maksta:maks
 :a V-VowelStem-PRS ;
 :o V-VowelStem-PRT ;
  V-ConsonantStem ;
 :a INDPRS3 ;
 
-LEXICON V_ASTTA ! astta:ast
+LEXICON V_ASTTA ! 
+!! @LEXNAME@ = astta:ast
 :u V-VowelStem-PRS ;
 :u V-VowelStem-PRT ;
  V-ConsonantStem ;
 :u INDPRS3 ;
 
-LEXICON V_HUBETA ! hubeta:hube
+LEXICON V_HUBETA ! 
+!! @LEXNAME@ = hubeta:hube
 :ne V-VowelStem-PRS ;
 :n V-VowelStem-PRT ;
  V-ConsonantStem ;
 :ne INDPRS3 ;
 
-LEXICON V_TULDA ! tulda:tul
+LEXICON V_TULDA ! 
+!! @LEXNAME@ = tulda:tul
 :e V-VowelStem-PRS ;
 : V-VowelStem-PRT ;
  V-ConsonantStem ;
 :e INDPRS3 ;
 
-LEXICON V_OTTA ! otta:ot
+LEXICON V_OTTA ! 
+!! @LEXNAME@ = otta:ot
 :a V-VowelStem-PRS ;
 : V-VowelStem-PRT ;
  V-ConsonantStem ;
 :a INDPRS3 ;
 
-LEXICON V_HOMAITA ! homaita:homai
+LEXICON V_HOMAITA !
+!! @LEXNAME@ =  homaita:homai
 :če V-VowelStem-PRS ;
 :č V-VowelStem-PRT ;
  V-ConsonantStem ;
 :če INDPRS3 ;
 
 LEXICON V_OIGETA
+!! @LEXNAME@
 :nda V-VowelStem-PRS ;
 :nz V-VowelStem-PRT ;
  V-ConsonantStem ;
 :nda INDPRS3 ;
 
-LEXICON V_VIRIGATA ! virigata:viriga
+LEXICON V_VIRIGATA !
+!! @LEXNAME@ =  virigata:viriga
 :nde V-VowelStem-PRS ;
 :nz V-VowelStem-PRT ;
  V-ConsonantStem ;
 :nde INDPRS3 ;
 
-LEXICON V_KERATA ! kerata:kera
+LEXICON V_KERATA ! 
+!! @LEXNAME@ = kerata:kera
 :da V-VowelStem-PRS ;
 :z V-VowelStem-PRT ;
  V-ConsonantStem ;
 :da INDPRS3 ;
 
-LEXICON V_JAGADA ! jagada:jag
+LEXICON V_JAGADA 
+!! @LEXNAME@ =  jagada:jag (adding a to prt and a elsewhere)
 :a V-VowelStem-PRS ;
 :o V-VowelStem-PRT ;
 :a V-ConsonantStem ;
 :a INDPRS3 ;
 
-!! tugeta:tuge
+
 LEXICON V_TUGETA
+!! @LEXNAME@ = tugeta:tuge
 :da V-VowelStem ;
 :%^DEVOICE V-ConsonantStem ;
 :nda INDPRS3 ;
 
-! valita:vali
+!
 LEXICON V_VALITA
+!! @LEXNAME@  =  valita:vali
 :če V-VowelStem ;
 :%^DEVOICE V-ConsonantStem ;
 :če INDPRS3 ;
 
-LEXICON V_AVAITA ! avaita:avai
-!avaidab avaiži
+LEXICON V_AVAITA ! 
+!! @LEXNAME@ = avaita:avai, avaidab avaiži
 :da V-VowelStem-PRS ;
 :ž V-VowelStem-PRT ;
  V-ConsonantStem ;
 :da INDPRS3 ;
 
+
+!! ### Default lexicon
+
 LEXICON V_
+!! @LEXNAME@ default verb lexicon
  V-VowelStem ;
  V-ConsonantStem ;
 
+!! ## The three contlex types
+
+!! ### PNDPRS3
+
 LEXICON INDPRS3
+!! @LEXNAME@ for Sg3 and Pl3
 +Ind+Prs+Sg3:%>b K ;
 +Ind+Prs+Pl3:%>ba K ;
 
+
+
+!! ### Vowel stems
+
 LEXICON V-VowelStem
+!! @LEXNAME@
 V-VowelStem-PRS ;
 V-VowelStem-PRT ;
 
-LEXICON V-VowelStem-PRS
-!!!!!!!!!!!
-!! PRESENT 
-!!!!!!!!!!!
 
+
+LEXICON V-VowelStem-PRS
+!! @LEXNAME@ This lexicon gives all  forms for vowel stems
+
+!!!!!!!!!!!
+!! #### Present Morphology
+!!!!!!!!!!!
 +Ind+Prs+Sg1:%>n K ;
 +Ind+Prs+Sg2:%>d K ;
 +Ind+Prs+Pl1:%>m K ;
@@ -172,16 +216,12 @@ LEXICON V-VowelStem-PRS
 +Ind+ConNeg+Prt+Sg:%>nd K ;
 
 !!!!!!!!!!!!!!
-!! IMPERATIVE 
+!! #### IMPERATIVE 
 !!!!!!!!!!!!!!
 
 +Imprt+Sg2: K ;
 
-!!!!!!!!!!!!!
-!! REFLEXIVE
-!!!!!!!!!!!!!
-
-!! PRESENT 
+!! #### present reflexive
 
 +Refl+Ind+Prs+Sg1:%>moi K ;
 +Refl+Ind+Prs+Sg2:%>toi K ;
@@ -193,7 +233,7 @@ LEXICON V-VowelStem-PRS
 
 LEXICON V-VowelStem-PRT
 !!!!!!!!!!!!!
-!! IMPERFECT 
+!! #### Preterite 
 !!!!!!!!!!!!!
 
 +Ind+Prt+Sg1:%>in K ;
@@ -204,13 +244,13 @@ LEXICON V-VowelStem-PRT
 +Ind+Prt+Pl3:%>iba K ;
 
 
+
+
+!!!!!!!!!!!!!!!!!!!!!!!
+!! #### conditional present 
+!!!!!!!!!!!!!!!!!!!!!!!
+
 +Cond+ConNeg+Prs:%>iži K ;
-
-
-
-!!!!!!!!!!!!!!!!!!!!!!!
-!! CONDITIONAL PRESENT 
-!!!!!!!!!!!!!!!!!!!!!!!
 
 +Cond+Prs+Sg1:%>ižin K ;
 +Cond+Prs+Sg2:%>ižid K ;
@@ -220,10 +260,8 @@ LEXICON V-VowelStem-PRT
 +Cond+Prs+Pl3:%>ižiba K ;
 
 !!!!!!!!!!!!!
-!! REFLEXIVE 
+!! #### Imperfect Reflexive 
 !!!!!!!!!!!!!
-
-!! IMPERFECT 
 
 +Refl+Ind+Prt+Sg1:%>imoi K ;
 +Refl+Ind+Prt+Sg2:%>itoi K ;
@@ -233,7 +271,7 @@ LEXICON V-VowelStem-PRT
 +Refl+Ind+Prt+Pl3:%>ihe K ;
 
 !!!!!!!!!!!!!!!!!!!!!!!
-!! CONDITIONAL PRESENT 
+!! #### Conditional Present Reflexive
 !!!!!!!!!!!!!!!!!!!!!!!
 
 +Refl+Cond+Prs+Sg1:%>ižimoi K ;
@@ -246,12 +284,14 @@ LEXICON V-VowelStem-PRT
 +Refl+Cond+Prs+ConNeg:%>ižihe K ;
 
 
+!! ### Consonant Stems
 
 LEXICON V-ConsonantStem
- V-ConsonantStem_OTHER ;
+!! @LEXNAME@ V-ConsonantStem_OTHER ;
  V-ConsonantStem_t ;
 
 LEXICON V-ConsonantStem_OTHER
+!! @LEXNAME@ 
 +Ind+ConNeg+Prs+Pl:%>koi K ;
 +Ind+ConNeg+Prt+Pl:%>nugoi K ;
 +PrfPrc:%>nu PRFPRC-DECLENSION ;
@@ -260,7 +300,7 @@ LEXICON V-ConsonantStem_OTHER
 +Cond+ConNeg+Prt:%>nuiži K ;
 
 !!!!!!!!!!!!!!
-!! IMPERATIVE 
+!! #### Imperative 
 !!!!!!!!!!!!!!
 
 +Imprt+Sg3:%>kaha K ;
@@ -269,7 +309,7 @@ LEXICON V-ConsonantStem_OTHER
 +Imprt+Pl3:%>kaha K ;
 
 !!!!!!!!!!!!!!!!!!!!!!!!!
-!! CONDITIONAL IMPERFECT 
+!! #### Conditional Imperfect 
 !!!!!!!!!!!!!!!!!!!!!!!!!
 
 +Cond+Prt+Sg1:%>nuižin K ;
@@ -280,7 +320,7 @@ LEXICON V-ConsonantStem_OTHER
 +Cond+Prt+Pl3:%>nuižiba K ;
 
 !!!!!!!!!!!!!
-!! REFLEXIVE 
+!! #### Reflexive 
 !!!!!!!!!!!!!
 
 +Refl+Ind+Prs+ConNeg+Pl:%>koiš K ;
@@ -288,18 +328,18 @@ LEXICON V-ConsonantStem_OTHER
 +Refl+Ind+Prf+Pl:%>nus K ;
 
 !!!!!!!!!!!!!!
-!! IMPERATIVE 
+!! #### Imperative 
 !!!!!!!!!!!!!!
 
 +Refl+Imprt+Sg3:%>kahas K ;
 +Refl+Imprt+Pl1:%>kamoiš K ;
 +Refl+Imprt+Pl2:%>katoiš K ;
 +Refl+Imprt+Pl3:%>kahas K ;
-
 +Refl+Imprt+Sg3:%>koiš K ;
 +Refl+Imprt+Pl:%>koiš K ;
 
 LEXICON V-ConsonantStem_t
+!! @LEXNAME@ 
 
 +Refl+Ind+Prs+ConNeg+Sg:%>te K ;
 +Refl+Imprt+Sg2:%>te K ;
