@@ -3,6 +3,7 @@
 !! Veps pronouns ...
 
 LEXICON PRONOUN-TYPES
+!! @LEXNAME@ split in types: prs, interr, neg, dem.
  PERS ;
  INTERR ;
 ! INDEFINITE-PRON ;
@@ -11,6 +12,7 @@ LEXICON PRONOUN-TYPES
   DEM-PRON ;
 
 LEXICON PERS
+!! @LEXNAME@  split in persons
 minä+Pron:min PersSg1 ;
 sinä+Pron:sin PersSg2 ;
 hän+Pron:hä PersSg3 ;
@@ -19,16 +21,19 @@ sinä+Pron:t PersPl2 ;
 hän+Pron:h PersPl3 ;
 
 LEXICON PersSg1
+!! @LEXNAME@ split in Nom, Gen, Acc
 +Pers+Sg1:ä NOM-SUF ;
 +Pers+Sg1:u GEN-SUF ;
 +Pers+Sg1:u ACC-SUF ;
 
 LEXICON PersSg2
+!! @LEXNAME@ split in Nom, Gen, Acc
 +Pers+Sg2+Nom:ä NOM-SUF ;
 +Pers+Sg2+Gen:u GEN-SUF ;
 +Pers+Sg2+Gen:u ACC-SUF ;
 
 LEXICON PersSg3
+!! @LEXNAME@ split in Nom, Gen, Acc, Par and 10 other cases
 +Pers+Sg3:n NOM-SUF ;
 +Pers+Sg3:ne GEN-SUF ;
 +Pers+Sg3:ne ACC-SUF ;
@@ -40,24 +45,27 @@ LEXICON PersSg3
 +Pers+Sg3:ne ALL-SUF ;
 +Pers+Sg3:ne ADE-SUF ;
 +Pers+Sg3:ne ABL-SUF ;
-
 +Pers+Sg3:ne COM-SUF ; !hänenke
 +Pers+Sg3:ne APR1-SUF ; !hänenno
 +Pers+Sg3:ne APR2-SUF ; !hänennoks
 
 LEXICON PersPl1
+!! @LEXNAME@ split in Nom and obl
 +Pers+Pl1+Nom:ö K ;
 +Pers+Pl1:e PERS-PL_01 ;
 
 LEXICON PersPl2
+!! @LEXNAME@ split in Nom and obl
 +Pers+Pl2+Nom:ö K ;
 +Pers+Pl2:e PERS-PL_01 ;
 
 LEXICON PersPl3
+!! @LEXNAME@ split in Nom and obl
 +Pers+Pl3+Nom:ö K ;
 +Pers+Pl3:e PERS-PL_01 ;
 
 LEXICON PERS-PL_01
+!! @LEXNAME@ add case suffix
 +Abl:%>ilpäi K ;
 +Add1:%>ihepäi K ;
 +Ade:%>il K ;
@@ -70,6 +78,7 @@ LEXICON PERS-PL_01
 +Par:%>id K ;
 
 LEXICON INTERR
+!! @LEXNAME@ add case suff
 mi+Pron+Interr+Sg+Nom:mi K ;
 mi+Pron+Interr+Sg+Par:midä K ;
 mi+Pron+Interr+Sg+Gen:min K ;
@@ -84,11 +93,13 @@ ken+Pron+Interr+Sg+Gen:kenen K ;
 ken+Pron+Interr+Sg+Par:keda K ;
 
 LEXICON DEM-PRON
+!! @LEXNAME@ split in Nom Gen par
 se+Pron+Dem+Sg+Nom:se K ;
 se+Pron+Dem+Sg+Gen:sen K ;
 se+Pron+Dem+Sg+Par:sidä K ;
 
 LEXICON NEG-PRON
+!! @LEXNAME@ split in Nom Gen Par
 niken+Pron+Neg+Sg+Nom:niken K ;
 niken+Pron+Neg+Sg+Gen:nikenen K ;
 niken+Pron+Neg+Sg+Par:nikeda K ;

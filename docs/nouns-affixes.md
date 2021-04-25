@@ -1,4 +1,20 @@
 # Veps Noun inflection
+* Metrical feet
+	* Disyllables
+		* pyrrhic, dibrach : kala
+		* iamb	  	  : veneh
+		* trochee, choree  : sanha sana+N+Sg+Ill
+		* spondee	: landeh
+	* Trisyllables
+		* tribrach
+		* dactyl
+		* amphibrach
+		* anapaest, antidactylus : venehed 
+		* bacchius
+		* antibacchius
+		* cretic, amphimacer
+		* molossus
+
 
 
 
@@ -8,6 +24,7 @@ The accusative singular has two forms, one is the same as the
 nominative singular in form and the other is identical to the 
 genitive singular. This definition is dependent on the school
 and its use should be associated with the user group, perhaps.
+
 
 *Noun 'berry / marja' - full paradigm: Noun - marj examples:*
 * *marj:* `marj+N+Sg+Nom`
