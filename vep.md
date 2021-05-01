@@ -1,3 +1,571 @@
+# Veps Noun inflection
+* Metrical feet
+	* Disyllables
+		* pyrrhic, dibrach : kala
+		* iamb	  	  : veneh
+		* trochee, choree  : sanha sana+N+Sg+Ill
+		* spondee	: landeh
+	* Trisyllables
+		* tribrach
+		* dactyl
+		* amphibrach
+		* anapaest, antidactylus : venehed 
+		* bacchius
+		* antibacchius
+		* cretic, amphimacer
+		* molossus
+
+
+
+
+
+
+The accusative singular has two forms, one is the same as the 
+nominative singular in form and the other is identical to the 
+genitive singular. This definition is dependent on the school
+and its use should be associated with the user group, perhaps.
+
+
+*Noun 'berry / marja' - full paradigm: Noun - marj examples:*
+* *marj:* `marj+N+Sg+Nom`
+* *marjan:* `marj+N+Sg+Gen`
+* *[marj,* `marjan]:` (Eng. marj+N+Sg+Acc)
+* *marjad:* `marj+N+Sg+Par`
+* *marjaks:* `marj+N+Sg+Tra`
+* *marjata:* `marj+N+Sg+Abe`
+* *marjanke:* `marj+N+Sg+Com`
+* *marjas:* `marj+N+Sg+Ine`
+* *marjaspäi:* `marj+N+Sg+Ela`
+* *marjaha:* `marj+N+Sg+Ill`
+* *marjal:* `marj+N+Sg+Ade`
+* *marjalpäi:* `marj+N+Sg+Abl`
+* *marjale:* `marj+N+Sg+All`
+* *marjan:* `marj+N+Sg+EssInst`
+* *marjadme:* `marj+N+Sg+Prl`
+* *marjanno:* `marj+N+Sg+Apr1`
+* *marjannoks:* `marj+N+Sg+Apr2`
+* *marjannopäi:* `marj+N+Sg+Egr`
+* *marjahosai:* `marj+N+Sg+Ter1`
+* *marjalesai:* `marj+N+Sg+Ter2`
+* *marjassai:* `marj+N+Sg+Ter3`
+* *marjahopäi:* `marj+N+Sg+Add1`
+* *marjalepäi:* `marj+N+Sg+Add2`
+
+* *marjad:* `marj+N+Pl+Nom`
+* *[marjoid'en,* `marjoiden]` (Eng. # checking needed: marj+N+Pl+Gen)
+* *marjad:* `marj+N+Pl+Acc`
+* *marjoid:* `marj+N+Pl+Par`
+* *marjoikš:* `marj+N+Pl+Tra`
+* *marjoita:* `marj+N+Pl+Abe`
+* *marjoidenke:* `marj+N+Pl+Com`
+* *marjoiš:* `marj+N+Pl+Ine`
+* *marjoišpäi:* `marj+N+Pl+Ela`
+* *marjoihe:* `marj+N+Pl+Ill`
+* *marjoil:* `marj+N+Pl+Ade`
+* *marjoilpäi:* `marj+N+Pl+Abl`
+* *marjoile:* `marj+N+Pl+All`
+* *marjoin:* `marj+N+Pl+EssInst`
+* *marjoidme:* `marj+N+Pl+Prl`
+* *marjoidenno:* `marj+N+Pl+Apr1`
+* *marjoidennoks:* `marj+N+Pl+Apr2`
+* *marjoidennopäi:* `marj+N+Pl+Egr`
+* *marjoihesai:* `marj+N+Pl+Ter1`
+* *marjoilesai:* `marj+N+Pl+Ter2`
+* *marjoihepäi:* `marj+N+Pl+Add1`
+* *marjoilepäi:* `marj+N+Pl+Add2`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ LEXICON N_NADO  nado:nado
+
+## Nominals
+
+
+
+ * SG-NOM-SUF ; 
+
+
+
+
+
+
+
+
+
+
+
+# ACTUAL CASES 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Start Plural
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Possessor Indices
+
+Not yet written...
+
+# Proper noun inflection
+
+Veps proper nouns inflect in the same cases as regular
+nouns. Veps acronyms, however, take a hyphen ('-') as a separator.
+
+
+PROPER NOUNS 
+
+
+
+
+
+# Pronouns
+
+Veps pronouns ...
+
+PRONOUN-TYPES split in types: prs, interr, neg, dem.
+
+PERS  split in persons
+
+PersSg1 split in Nom, Gen, Acc
+
+PersSg2 split in Nom, Gen, Acc
+
+PersSg3 split in Nom, Gen, Acc, Par and 10 other cases
+
+PersPl1 split in Nom and obl
+
+PersPl2 split in Nom and obl
+
+PersPl3 split in Nom and obl
+
+PERS-PL_01 add case suffix
+
+INTERR add case suff
+
+DEM-PRON split in Nom Gen par
+
+NEG-PRON split in Nom Gen Par
+
+
+# Symbol affixes
+
+
+
+
+
+# Adjective inflection
+
+
+
+
+## Temporary lexicon
+
+
+ * **LEXICON A_** = , when we do not know. Redirecting to N_ (?) 
+
+
+## Regolar lexica
+
+ * **LEXICON A_UZ** = uz’:ud, goes to NMN_NORUZ
+
+ * **LEXICON A_RUSKED** = gets +A and goes to NMN\_RUSKED
+
+ **LEXICON A_MUNA**   muna:mun
+
+ * **LEXICON A_NADO** =  nado:nado
+
+
+ * **LEXICON A_POIG** =  poig:poig
+
+ * **LEXICON A_MARJ** =  marj:marj
+
+ * **LEXICON A_JAUH** =  jauh:jauh
+
+ * **LEXICON A_OIGED** = oiged:oig%{eØ%}d
+
+ * **LEXICON A_KEL** = kel':kel
+
+ * **LEXICON A_SAR1** = sar':sar
+
+ * **LEXICON A_KEZI** = kezi:ked
+
+
+ * **LEXICON A_VIDENZ1** =  videnz':viden (-den, -t, -zid)
+
+
+ * **LEXICON A_LANDEH** =  landeh:land
+
+ * **LEXICON A_VEDEKAZ** =  vedekaz:vedeka
+
+ * **LEXICON A_SEIBAZ** =  seibaz:seib
+
+ * **LEXICON A_CIPUINE** = cipuine:cipu
+
+ * **LEXICON A_TOSHTMINE** =  toštmine:toštmi
+
+ * **LEXICON A_KENGATOI** =  kengätoi:kengäto
+
+ * **LEXICON PRFPRC-DECLENSION** =  -nu
+
+
+
+
+# Verb inflection in Vepsian
+
+## Lexica from the *stems* file
+
+### Irregular verbs
+V_EI all forms of the *ei* verb
+
+### Regular verbs
+
+V_SUGIDA This and all V_... lexica redirect to *V-VowelStem, V-ConsonantStem, INDPRS3* (see below)
+
+V_OLDA (adding :le to vowstem)
+
+
+V_PESTA (adding -e) ti vowstem and indprs3)
+
+V_TEHTA = tehta:te (adding :ge to vowst and indprs3)
+
+V_SIRTA =  sirta:sir
+
+V_JOKSTA = joksta:joks
+
+V_LETA = leta:le
+
+V_JODA = joda:jo
+
+V_VEDADA =  vedada:ved
+
+V_MAKSTA = maksta:maks
+
+V_ASTTA = astta:ast
+
+V_HUBETA = hubeta:hube
+
+V_TULDA = tulda:tul
+
+V_OTTA = otta:ot
+
+V_HOMAITA =  homaita:homai
+
+V_OIGETA
+
+V_VIRIGATA =  virigata:viriga
+
+V_KERATA = kerata:kera
+
+V_JAGADA =  jagada:jag (adding a to prt and a elsewhere)
+
+
+V_TUGETA = tugeta:tuge
+
+V_VALITA  =  valita:vali
+
+V_AVAITA = avaita:avai, avaidab avaiži
+
+
+### Default lexicon
+
+V_ default verb lexicon
+
+## The three contlex types
+
+### PNDPRS3
+
+INDPRS3 for Sg3 and Pl3
+
+
+
+### Vowel stems
+
+V-VowelStem
+
+
+
+V-VowelStem-PRS This lexicon gives all  forms for vowel stems
+
+#### Present Morphology
+
+
+#### IMPERATIVE 
+
+
+#### present reflexive
+
+
+
+#### Preterite 
+
+
+
+
+
+#### conditional present 
+
+
+
+#### Imperfect Reflexive 
+
+
+#### Conditional Present Reflexive
+
+
+
+
+### Consonant Stems
+
+V-ConsonantStem V-ConsonantStem_OTHER ;
+
+V-ConsonantStem_OTHER 
+
+#### Imperative 
+
+
+#### Conditional Imperfect 
+
+
+#### Reflexive 
+
+
+#### Imperative 
+
+
+V-ConsonantStem_t 
+
+
+
+# Veps clitics
+
+K 3 clitics plus #
+
+
+
+
+# Olonets numerals 
+
+# Numeral inflection
+Numeral inflection is like nominal, except that numerals compound in all
+forms which requires great amount of care in the inflection patterns.
+
+
+
+
+
+
+ * **LEXICON ARABICCOMPOUNDS**  ! 1-osainen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * **LEXICON ARABICCASES**  adds +Arab
+
+ * **LEXICON ARABICCASE**  adds +Arab
+
+ * **LEXICON ARABICCASE0**  adds +Arab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# The Veps morphophonological/twolc rules file 
+
+
+
+
+ * ʼ  = U+02BC MODIFIER LETTER APOSTROPHE
+ * '  = U+0027  APOSTROPHE
+
+
+
+
+
+
+
+
+ * %^RmVow:0  for removing vowels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Right context for gradation
+
+
+# Rules
+
+
+
+## Vowel change 
+
+**StemVowLoss before _i_**  
+
+**Stem-internal vowel loss**
+
+
+
+
+
+
+## Consonant change 
+
+**devoicing of adjecent stops** vauged: vauktan
+
+
+**d:z in vodes, voziš**  
+
+
+**d:t in voden, vot**  
+
+**d:0 in voden, vot**  
+
+**z:s in meletuz:meletust**  
+
+**’:0 before vowels**  
+
+
+Borrowed from Ingrian 
+
 
 Morphology 
 
@@ -470,143 +1038,58 @@ CASESUF
 PRON 
 DEM 
 
-# Adjective inflection
+Acronyms
+Veps acronyms ...
 
 
 
 
-## Temporary lexicon
 
 
- * **LEXICON A_** = , when we do not know. Redirecting to N_ (?) 
 
 
-## Regolar lexica
 
- * **LEXICON A_UZ** = uz’:ud, goes to NMN_NORUZ
 
- * **LEXICON A_RUSKED** = gets +A and goes to NMN\_RUSKED
 
- **LEXICON A_MUNA**   muna:mun
 
- * **LEXICON A_NADO** =  nado:nado
 
 
- * **LEXICON A_POIG** =  poig:poig
+This is where new words are added as lexc entries before they are 
+added to the xml source files.
+kala:kala N_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
 
- * **LEXICON A_MARJ** =  marj:marj
 
- * **LEXICON A_JAUH** =  jauh:jauh
+ADD NOUNS BELOW
 
- * **LEXICON A_OIGED** = oiged:oig%{eØ%}d
 
- * **LEXICON A_KEL** = kel':kel
 
- * **LEXICON A_SAR1** = sar':sar
 
- * **LEXICON A_KEZI** = kezi:ked
 
 
- * **LEXICON A_VIDENZ1** =  videnz':viden (-den, -t, -zid)
 
 
- * **LEXICON A_LANDEH** =  landeh:land
 
- * **LEXICON A_VEDEKAZ** =  vedekaz:vedeka
 
- * **LEXICON A_SEIBAZ** =  seibaz:seib
 
- * **LEXICON A_CIPUINE** = cipuine:cipu
 
- * **LEXICON A_TOSHTMINE** =  toštmine:toštmi
 
- * **LEXICON A_KENGATOI** =  kengätoi:kengäto
 
- * **LEXICON PRFPRC-DECLENSION** =  -nu
 
 
 
-# Veps clitics
 
-K 3 clitics plus #
 
 
 
-# Veps Noun inflection
-* Metrical feet
-	* Disyllables
-		* pyrrhic, dibrach : kala
-		* iamb	  	  : veneh
-		* trochee, choree  : sanha sana+N+Sg+Ill
-		* spondee	: landeh
-	* Trisyllables
-		* tribrach
-		* dactyl
-		* amphibrach
-		* anapaest, antidactylus : venehed 
-		* bacchius
-		* antibacchius
-		* cretic, amphimacer
-		* molossus
 
 
 
 
 
 
-The accusative singular has two forms, one is the same as the 
-nominative singular in form and the other is identical to the 
-genitive singular. This definition is dependent on the school
-and its use should be associated with the user group, perhaps.
 
 
-*Noun 'berry / marja' - full paradigm: Noun - marj examples:*
-* *marj:* `marj+N+Sg+Nom`
-* *marjan:* `marj+N+Sg+Gen`
-* *[marj,* `marjan]:` (Eng. marj+N+Sg+Acc)
-* *marjad:* `marj+N+Sg+Par`
-* *marjaks:* `marj+N+Sg+Tra`
-* *marjata:* `marj+N+Sg+Abe`
-* *marjanke:* `marj+N+Sg+Com`
-* *marjas:* `marj+N+Sg+Ine`
-* *marjaspäi:* `marj+N+Sg+Ela`
-* *marjaha:* `marj+N+Sg+Ill`
-* *marjal:* `marj+N+Sg+Ade`
-* *marjalpäi:* `marj+N+Sg+Abl`
-* *marjale:* `marj+N+Sg+All`
-* *marjan:* `marj+N+Sg+EssInst`
-* *marjadme:* `marj+N+Sg+Prl`
-* *marjanno:* `marj+N+Sg+Apr1`
-* *marjannoks:* `marj+N+Sg+Apr2`
-* *marjannopäi:* `marj+N+Sg+Egr`
-* *marjahosai:* `marj+N+Sg+Ter1`
-* *marjalesai:* `marj+N+Sg+Ter2`
-* *marjassai:* `marj+N+Sg+Ter3`
-* *marjahopäi:* `marj+N+Sg+Add1`
-* *marjalepäi:* `marj+N+Sg+Add2`
 
-* *marjad:* `marj+N+Pl+Nom`
-* *[marjoid'en,* `marjoiden]` (Eng. # checking needed: marj+N+Pl+Gen)
-* *marjad:* `marj+N+Pl+Acc`
-* *marjoid:* `marj+N+Pl+Par`
-* *marjoikš:* `marj+N+Pl+Tra`
-* *marjoita:* `marj+N+Pl+Abe`
-* *marjoidenke:* `marj+N+Pl+Com`
-* *marjoiš:* `marj+N+Pl+Ine`
-* *marjoišpäi:* `marj+N+Pl+Ela`
-* *marjoihe:* `marj+N+Pl+Ill`
-* *marjoil:* `marj+N+Pl+Ade`
-* *marjoilpäi:* `marj+N+Pl+Abl`
-* *marjoile:* `marj+N+Pl+All`
-* *marjoin:* `marj+N+Pl+EssInst`
-* *marjoidme:* `marj+N+Pl+Prl`
-* *marjoidenno:* `marj+N+Pl+Apr1`
-* *marjoidennoks:* `marj+N+Pl+Apr2`
-* *marjoidennopäi:* `marj+N+Pl+Egr`
-* *marjoihesai:* `marj+N+Pl+Ter1`
-* *marjoilesai:* `marj+N+Pl+Ter2`
-* *marjoihepäi:* `marj+N+Pl+Add1`
-* *marjoilepäi:* `marj+N+Pl+Add2`
 
 
 
@@ -624,16 +1107,24 @@ and its use should be associated with the user group, perhaps.
 
 
 
+This is where new words are added as lexc entries before they are 
+added to the xml source files.
+kala:kala N_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
 
 
+ADD NOUNS BELOW
 
 
 
 
 
 
+This is where new words are added as lexc entries before they are 
+added to the xml source files.
+kala:kala A_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
 
 
+ADD ADJECTIVES BELOW
 
 
 
@@ -652,16 +1143,17 @@ and its use should be associated with the user group, perhaps.
 
 
 
+This is where new words are added as lexc entries before they are 
+added to the xml source files.
+avaita:avai V_ "" ;
 
 
+ADD VERBS BELOW
 
- LEXICON N_NADO  nado:nado
 
-## Nominals
 
 
 
- * SG-NOM-SUF ; 
 
 
 
@@ -673,311 +1165,34 @@ and its use should be associated with the user group, perhaps.
 
 
 
-# ACTUAL CASES 
 
+# Veps numerals
 
 
+Numerals have been split in three sections, the compounding parts
+of cardinals and ordinals, and the non-compounding ones:
 
+*Numeral examples:*
+* *kaksikymmentäkolmetuhatta:* `kaksi+Num+Sg+Nom#kymmenen+Num+Sg+Par#kolme+Num+Sg+Nom#tuhat+Num+Sg+Par` (Eng. ! 23,000)
+* *kakskymmentäkolmetuhatta:* `kaksi+Num+Sg+Nom#kymmenen+Num+Sg+Par#kolme+Num+Sg+Nom#tuhat+Num+Sg+Par`
+* *kahđessađasneljes:* `kahđes+A+Ord+Sg+Nom#sađas+A+Ord+Sg+Nom#neljes+A+Ord+Sg+Nom` (Eng. ! 204rd)
+* *viitisenkymmentä:* `viitisen+Num#kymmentä` (Eng. ! 50-ish)
 
 
 
 
 
 
+We describe here how abbreviations are in Veps are read out, e.g.
+for text-to-speech systems.
 
+For example:
 
+ * s.:syntynyt # ;  
+ * os.:omaa% sukua # ;  
+ * v.:vuosi # ;  
+ * v.:vuonna # ;  
+ * esim.:esimerkki # ; 
+ * esim.:esimerkiksi # ; 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Start Plural
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Possessor Indices
-
-Not yet written...
-
-# Pronouns
-
-Veps pronouns ...
-
-PRONOUN-TYPES split in types: prs, interr, neg, dem.
-
-PERS  split in persons
-
-PersSg1 split in Nom, Gen, Acc
-
-PersSg2 split in Nom, Gen, Acc
-
-PersSg3 split in Nom, Gen, Acc, Par and 10 other cases
-
-PersPl1 split in Nom and obl
-
-PersPl2 split in Nom and obl
-
-PersPl3 split in Nom and obl
-
-PERS-PL_01 add case suffix
-
-INTERR add case suff
-
-DEM-PRON split in Nom Gen par
-
-NEG-PRON split in Nom Gen Par
-
-# Proper noun inflection
-
-Veps proper nouns inflect in the same cases as regular
-nouns. Veps acronyms, however, take a hyphen ('-') as a separator.
-
-
-PROPER NOUNS 
-
-
-
-
-
-
-# Verb inflection in Vepsian
-
-## Lexica from the *stems* file
-
-### Irregular verbs
-V_EI all forms of the *ei* verb
-
-### Regular verbs
-
-V_SUGIDA This and all V_... lexica redirect to *V-VowelStem, V-ConsonantStem, INDPRS3* (see below)
-
-V_OLDA (adding :le to vowstem)
-
-
-V_PESTA (adding -e) ti vowstem and indprs3)
-
-V_TEHTA = tehta:te (adding :ge to vowst and indprs3)
-
-V_SIRTA =  sirta:sir
-
-V_JOKSTA = joksta:joks
-
-V_LETA = leta:le
-
-V_JODA = joda:jo
-
-V_VEDADA =  vedada:ved
-
-V_MAKSTA = maksta:maks
-
-V_ASTTA = astta:ast
-
-V_HUBETA = hubeta:hube
-
-V_TULDA = tulda:tul
-
-V_OTTA = otta:ot
-
-V_HOMAITA =  homaita:homai
-
-V_OIGETA
-
-V_VIRIGATA =  virigata:viriga
-
-V_KERATA = kerata:kera
-
-V_JAGADA =  jagada:jag (adding a to prt and a elsewhere)
-
-
-V_TUGETA = tugeta:tuge
-
-V_VALITA  =  valita:vali
-
-V_AVAITA = avaita:avai, avaidab avaiži
-
-
-### Default lexicon
-
-V_ default verb lexicon
-
-## The three contlex types
-
-### PNDPRS3
-
-INDPRS3 for Sg3 and Pl3
-
-
-
-### Vowel stems
-
-V-VowelStem
-
-
-
-V-VowelStem-PRS This lexicon gives all  forms for vowel stems
-
-#### Present Morphology
-
-
-#### IMPERATIVE 
-
-
-#### present reflexive
-
-
-
-#### Preterite 
-
-
-
-
-
-#### conditional present 
-
-
-
-#### Imperfect Reflexive 
-
-
-#### Conditional Present Reflexive
-
-
-
-
-### Consonant Stems
-
-V-ConsonantStem V-ConsonantStem_OTHER ;
-
-V-ConsonantStem_OTHER 
-
-#### Imperative 
-
-
-#### Conditional Imperfect 
-
-
-#### Reflexive 
-
-
-#### Imperative 
-
-
-V-ConsonantStem_t 
-
-
-
-# The Veps morphophonological/twolc rules file 
-
-
-
-
- * ʼ  = U+02BC MODIFIER LETTER APOSTROPHE
- * '  = U+0027  APOSTROPHE
-
-
-
-
-
-
-
-
- * %^RmVow:0  for removing vowels
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Right context for gradation
-
-
-# Rules
-
-
-
-## Vowel change 
-
-**StemVowLoss before _i_**  
-
-**Stem-internal vowel loss**
-
-
-
-
-
-
-## Consonant change 
-
-**devoicing of adjecent stops** vauged: vauktan
-
-
-**d:z in vodes, voziš**  
-
-
-**d:t in voden, vot**  
-
-**d:0 in voden, vot**  
-
-**z:s in meletuz:meletust**  
-
-**’:0 before vowels**  
-
-
-Borrowed from Ingrian 
 
