@@ -13,7 +13,7 @@
 
  * **LEXICON A_UZ** = uz’:ud, goes to NMN_NORUZ
 
- * LEXICON A_RUSKED = gets +A and goes to NMN\_RUSKED
+ * **LEXICON A_RUSKED** = gets +A and goes to NMN\_RUSKED
 
  **LEXICON A_MUNA**   muna:mun
 
