@@ -1,3 +1,233 @@
+Acronyms
+Veps acronyms ...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is where new words are added as lexc entries before they are 
+added to the xml source files.
+kala:kala N_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
+
+
+ADD NOUNS BELOW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Veps numerals
+
+
+Numerals have been split in three sections, the compounding parts
+of cardinals and ordinals, and the non-compounding ones:
+
+*Numeral examples:*
+* *kaksikymmentäkolmetuhatta:* `kaksi+Num+Sg+Nom#kymmenen+Num+Sg+Par#kolme+Num+Sg+Nom#tuhat+Num+Sg+Par` (Eng. ! 23,000)
+* *kakskymmentäkolmetuhatta:* `kaksi+Num+Sg+Nom#kymmenen+Num+Sg+Par#kolme+Num+Sg+Nom#tuhat+Num+Sg+Par`
+* *kahđessađasneljes:* `kahđes+A+Ord+Sg+Nom#sađas+A+Ord+Sg+Nom#neljes+A+Ord+Sg+Nom` (Eng. ! 204rd)
+* *viitisenkymmentä:* `viitisen+Num#kymmentä` (Eng. ! 50-ish)
+
+
+
+This is where new words are added as lexc entries before they are 
+added to the xml source files.
+kala:kala N_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
+
+
+ADD NOUNS BELOW
+
+
+
+
+
+
+This is where new words are added as lexc entries before they are 
+added to the xml source files.
+avaita:avai V_ "" ;
+
+
+ADD VERBS BELOW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is where new words are added as lexc entries before they are 
+added to the xml source files.
+kala:kala A_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
+
+
+ADD ADJECTIVES BELOW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# The Veps morphophonological/twolc rules file 
+
+
+
+
+ * ʼ  = U+02BC MODIFIER LETTER APOSTROPHE
+ * '  = U+0027  APOSTROPHE
+
+
+
+
+
+
+
+
+ * %^RmVow:0  for removing vowels
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Right context for gradation
+
+
+# Rules
+
+
+
+## Vowel change 
+
+**StemVowLoss before _i_**  
+
+**Stem-internal vowel loss**
+
+
+
+
+
+
+## Consonant change 
+
+**devoicing of adjecent stops** vauged: vauktan
+
+
+**d:z in vodes, voziš**  
+
+
+**d:t in voden, vot**  
+
+**d:0 in voden, vot**  
+
+**z:s in meletuz:meletust**  
+
+**’:0 before vowels**  
+
+
+Borrowed from Ingrian 
+
+
+# Symbol affixes
+
+
+
+
+
 # Veps Noun inflection
 * Metrical feet
 	* Disyllables
@@ -199,6 +429,56 @@ and its use should be associated with the user group, perhaps.
 
 Not yet written...
 
+
+# Olonets numerals 
+
+# Numeral inflection
+Numeral inflection is like nominal, except that numerals compound in all
+forms which requires great amount of care in the inflection patterns.
+
+
+
+
+
+
+ * **LEXICON ARABICCOMPOUNDS**  ! 1-osainen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * **LEXICON ARABICCASES**  adds +Arab
+
+ * **LEXICON ARABICCASE**  adds +Arab
+
+ * **LEXICON ARABICCASE0**  adds +Arab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Proper noun inflection
 
 Veps proper nouns inflect in the same cases as regular
@@ -208,97 +488,6 @@ nouns. Veps acronyms, however, take a hyphen ('-') as a separator.
 PROPER NOUNS 
 
 
-
-
-
-# Pronouns
-
-Veps pronouns ...
-
-PRONOUN-TYPES split in types: prs, interr, neg, dem.
-
-PERS  split in persons
-
-PersSg1 split in Nom, Gen, Acc
-
-PersSg2 split in Nom, Gen, Acc
-
-PersSg3 split in Nom, Gen, Acc, Par and 10 other cases
-
-PersPl1 split in Nom and obl
-
-PersPl2 split in Nom and obl
-
-PersPl3 split in Nom and obl
-
-PERS-PL_01 add case suffix
-
-INTERR add case suff
-
-DEM-PRON split in Nom Gen par
-
-NEG-PRON split in Nom Gen Par
-
-
-# Symbol affixes
-
-
-
-
-
-# Adjective inflection
-
-
-
-
-## Temporary lexicon
-
-
- * **LEXICON A_** = , when we do not know. Redirecting to N_ (?) 
-
-
-## Regolar lexica
-
- * **LEXICON A_UZ** = uz’:ud, goes to NMN_NORUZ
-
- * **LEXICON A_RUSKED** = gets +A and goes to NMN\_RUSKED
-
- **LEXICON A_MUNA**   muna:mun
-
- * **LEXICON A_NADO** =  nado:nado
-
-
- * **LEXICON A_POIG** =  poig:poig
-
- * **LEXICON A_MARJ** =  marj:marj
-
- * **LEXICON A_JAUH** =  jauh:jauh
-
- * **LEXICON A_OIGED** = oiged:oig%{eØ%}d
-
- * **LEXICON A_KEL** = kel':kel
-
- * **LEXICON A_SAR1** = sar':sar
-
- * **LEXICON A_KEZI** = kezi:ked
-
-
- * **LEXICON A_VIDENZ1** =  videnz':viden (-den, -t, -zid)
-
-
- * **LEXICON A_LANDEH** =  landeh:land
-
- * **LEXICON A_VEDEKAZ** =  vedekaz:vedeka
-
- * **LEXICON A_SEIBAZ** =  seibaz:seib
-
- * **LEXICON A_CIPUINE** = cipuine:cipu
-
- * **LEXICON A_TOSHTMINE** =  toštmine:toštmi
-
- * **LEXICON A_KENGATOI** =  kengätoi:kengäto
-
- * **LEXICON PRFPRC-DECLENSION** =  -nu
 
 
 
@@ -435,136 +624,89 @@ K 3 clitics plus #
 
 
 
+# Adjective inflection
 
-# Olonets numerals 
 
-# Numeral inflection
-Numeral inflection is like nominal, except that numerals compound in all
-forms which requires great amount of care in the inflection patterns.
 
 
+## Temporary lexicon
 
 
+ * **LEXICON A_** = , when we do not know. Redirecting to N_ (?) 
 
 
- * **LEXICON ARABICCOMPOUNDS**  ! 1-osainen
+## Regolar lexica
 
+ * **LEXICON A_UZ** = uz’:ud, goes to NMN_NORUZ
 
+ * **LEXICON A_RUSKED** = gets +A and goes to NMN\_RUSKED
 
+ **LEXICON A_MUNA**   muna:mun
 
+ * **LEXICON A_NADO** =  nado:nado
 
 
+ * **LEXICON A_POIG** =  poig:poig
 
+ * **LEXICON A_MARJ** =  marj:marj
 
+ * **LEXICON A_JAUH** =  jauh:jauh
 
+ * **LEXICON A_OIGED** = oiged:oig%{eØ%}d
 
+ * **LEXICON A_KEL** = kel':kel
 
+ * **LEXICON A_SAR1** = sar':sar
 
+ * **LEXICON A_KEZI** = kezi:ked
 
 
+ * **LEXICON A_VIDENZ1** =  videnz':viden (-den, -t, -zid)
 
- * **LEXICON ARABICCASES**  adds +Arab
 
- * **LEXICON ARABICCASE**  adds +Arab
+ * **LEXICON A_LANDEH** =  landeh:land
 
- * **LEXICON ARABICCASE0**  adds +Arab
+ * **LEXICON A_VEDEKAZ** =  vedekaz:vedeka
 
+ * **LEXICON A_SEIBAZ** =  seibaz:seib
 
+ * **LEXICON A_CIPUINE** = cipuine:cipu
 
+ * **LEXICON A_TOSHTMINE** =  toštmine:toštmi
 
+ * **LEXICON A_KENGATOI** =  kengätoi:kengäto
 
+ * **LEXICON PRFPRC-DECLENSION** =  -nu
 
 
 
+# Pronouns
 
+Veps pronouns ...
 
+PRONOUN-TYPES split in types: prs, interr, neg, dem.
 
+PERS  split in persons
 
+PersSg1 split in Nom, Gen, Acc
 
+PersSg2 split in Nom, Gen, Acc
 
+PersSg3 split in Nom, Gen, Acc, Par and 10 other cases
 
+PersPl1 split in Nom and obl
 
+PersPl2 split in Nom and obl
 
-# The Veps morphophonological/twolc rules file 
+PersPl3 split in Nom and obl
 
+PERS-PL_01 add case suffix
 
+INTERR add case suff
 
+DEM-PRON split in Nom Gen par
 
- * ʼ  = U+02BC MODIFIER LETTER APOSTROPHE
- * '  = U+0027  APOSTROPHE
-
-
-
-
-
-
-
-
- * %^RmVow:0  for removing vowels
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Right context for gradation
-
-
-# Rules
-
-
-
-## Vowel change 
-
-**StemVowLoss before _i_**  
-
-**Stem-internal vowel loss**
-
-
-
-
-
-
-## Consonant change 
-
-**devoicing of adjecent stops** vauged: vauktan
-
-
-**d:z in vodes, voziš**  
-
-
-**d:t in voden, vot**  
-
-**d:0 in voden, vot**  
-
-**z:s in meletuz:meletust**  
-
-**’:0 before vowels**  
-
-
-Borrowed from Ingrian 
+NEG-PRON split in Nom Gen Par
 
 
 Morphology 
@@ -1037,148 +1179,6 @@ TEMP_
 CASESUF 
 PRON 
 DEM 
-
-Acronyms
-Veps acronyms ...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This is where new words are added as lexc entries before they are 
-added to the xml source files.
-kala:kala N_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
-
-
-ADD NOUNS BELOW
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This is where new words are added as lexc entries before they are 
-added to the xml source files.
-kala:kala N_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
-
-
-ADD NOUNS BELOW
-
-
-
-
-
-
-This is where new words are added as lexc entries before they are 
-added to the xml source files.
-kala:kala A_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
-
-
-ADD ADJECTIVES BELOW
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This is where new words are added as lexc entries before they are 
-added to the xml source files.
-avaita:avai V_ "" ;
-
-
-ADD VERBS BELOW
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Veps numerals
-
-
-Numerals have been split in three sections, the compounding parts
-of cardinals and ordinals, and the non-compounding ones:
-
-*Numeral examples:*
-* *kaksikymmentäkolmetuhatta:* `kaksi+Num+Sg+Nom#kymmenen+Num+Sg+Par#kolme+Num+Sg+Nom#tuhat+Num+Sg+Par` (Eng. ! 23,000)
-* *kakskymmentäkolmetuhatta:* `kaksi+Num+Sg+Nom#kymmenen+Num+Sg+Par#kolme+Num+Sg+Nom#tuhat+Num+Sg+Par`
-* *kahđessađasneljes:* `kahđes+A+Ord+Sg+Nom#sađas+A+Ord+Sg+Nom#neljes+A+Ord+Sg+Nom` (Eng. ! 204rd)
-* *viitisenkymmentä:* `viitisen+Num#kymmentä` (Eng. ! 50-ish)
-
-
 
 
 
