@@ -1,25 +1,107 @@
-Acronyms
+# Acronyms
+
 Veps acronyms ...
 
+**LEXICON Acronym** 
+
+**LEXICON acr2-cyr** 
+
+**LEXICON acr3-cyr** 
+
+**LEXICON acr4-cyr** 
+
+**LEXICON acr5-cyr** 
+
+
+
+**LEXICON acr3-lat** 
+
+**LEXICON acr4-lat** 
+
+**LEXICON acr5-lat** 
+
+
+
+**LEXICON acros** 
+
+**LEXICON acrotag** 
+
+# Veps abbreviations 
+
+## Lexica for adding tags and periods
+
+Splitting in 3 groups, because of the preprocessor
+
+**LEXICON Abbreviation** 
+
+Now splitting according to POS, and according to dot or not
+
+
+**LEXICON ab** 
+
+**LEXICON ab-noun** 
+
+
+
+
+Here come POS and Case tags, and no period.
+
+**LEXICON ab-nodot-noun**  The bulk
+
+**LEXICON ab-nodot** 
+
+
+**LEXICON ab-dot** 
+
+**LEXICON ab-dot-noun** 
+
+The idea is that the nominal ones may have case, like e.g. P.E.N.
+
+
+## The abbreviation lexicon itself
+
+
+**LEXICON noperiod** 
+
+###           Intransitive abbreviations           
+
+
+
+**LEXICON ITRAB** 
+
+
+
+###    Transitive number-related abbreviations      !
+
+
+**LEXICON TRNUMAB** 
+
+
+###              Transitive abbreviations           !
+
+**LEXICON TRAB** 
+
+**LEXICON TRAB** 
 
 
 
 
 
+# Nouns
+**LEXION @ELXNAME@ for the nouns (only 10 here)
 
+# Quantifiers
 
-
-
-
-
-
+**LEXICON quantifiers** = contains numbers 1-10, 100, 1000
+# Newwords (nouns)
 
 This is where new words are added as lexc entries before they are 
 added to the xml source files.
 kala:kala N_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
 
 
-ADD NOUNS BELOW
+**LEXICON N_NEWWORDS
+
 
 
 
@@ -86,6 +168,7 @@ added to the xml source files.
 kala:kala N_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
 
 
+**LEXICON PROP_NEWWORDS** = 
 ADD NOUNS BELOW
 
 
@@ -93,12 +176,29 @@ ADD NOUNS BELOW
 
 
 
+# Adverbs
+
+**LEXICON adverbs** containing 3
+
+# Interjections
+
+**LEXICON interjections contains *aj*, pointing to INTERJ_
+# Conjunctions
+
+**LEXICON conjuncts** pointinh to CC_
+
+# Verbs
+
+**LEXICON verbs** = 
+
+# Veps verbs (newwords)
+
 This is where new words are added as lexc entries before they are 
 added to the xml source files.
 avaita:avai V_ "" ;
 
 
-ADD VERBS BELOW
+**RULE: V_NEWWORDS** = 
 
 
 
@@ -115,13 +215,22 @@ ADD VERBS BELOW
 
 
 
+
+# Adjectives
+
+**LEXICON adjectives** contains 3 adjs.
+# Pronouns
+
+**LEXICON pronouns** = contains the 6 personal
+
+# New adjectives for Veps
 
 This is where new words are added as lexc entries before they are 
 added to the xml source files.
 kala:kala A_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
 
 
-ADD ADJECTIVES BELOW
+**LEXICON A_NEWWORDS** 
 
 
 
@@ -143,66 +252,164 @@ ADD ADJECTIVES BELOW
 # The Veps morphophonological/twolc rules file 
 
 
+## Alphabet, sets, definitions
 
-
+### Alphabet
+#### The letters
+ * a b d e f g h i j k l m n o p r s š t u v z ž ü ä ö  
+ * A B D E F G H I J K L M N O P R S Š T U V Z Ž Ü Ä Ö  
+ * š ž y  
+ * Š Ž Y  
  * ʼ  = U+02BC MODIFIER LETTER APOSTROPHE
  * '  = U+0027  APOSTROPHE
 
+#### Archiphonemes
+ * %{eØ%}:e   vowel loss in oiged:oiktan
+ * %{uØ%}:u   vowel loss in sapug:sapkan
+ * %{iØ%}:i   vowel loss in paltin:paltnan
+ * %{aØ%}:a   vowel loss in samal:samlan
+ * %{oØ%}:o   vowel loss in zerkol:zerklon
+ * AÄ1:a   Vowel harmony with "(t)a/ä"
+ * AÄ1:ä   Vowel harmony with "(t)a/ä"
+ * AÄ1:0   Vowel harmony with 0
 
+ * OÖ1:o   
+ * OÖ1:ö   
 
+ * UY1:u   
+ * UY1:ü   
 
+ * V1:a     
+ * V1:e     
+ * V1:i     
+ * V1:o     
+ * V1:u     
+ * V1:ü     
+ * V1:ä     
+ * V1:ö     
 
+ * V2:a    
+ * V2:e    
+ * V2:i    
+ * V2:o    
+ * V2:u    
+ * V2:ü    
+ * V2:ä    
+ * V2:ö    
 
-
+ * V3:a    
+ * V3:e    
+ * V3:i    
+ * V3:o    
+ * V3:u    
+ * V3:ü    
+ * V3:ä    
+ * V3:ö    
+ * V3:0    
 
  * %^RmVow:0  for removing vowels
+ *  AO1:0   
+ *   D1:0   
+ *   E1:0   
+ *  EH1:0   
+ *  EI1:0   
+ *   I1:0   
+ * INE1:0   
+ * QAO1:0    
+ * QAO1:a   
+ * QAQ1:0   
+ * QEQ1:0   
+ * QÄQ1:0   
+ *   U1:0   
+ *  ZD1:0   
+ *  ZD1:0   
+ *  ZS1:0   
+ *  ZS1:0   
+
+ *  %^DEVOICE:0     vezi:vet; pen’:pen’t
+
+
+ * K1:k    
+ * %^NoGrad:0    This will be placed after a stem to break Gradation
+
+ * %^WGStem:0    
+
+ * %^TS:0    
+
+ * %^RVow:0   
+
+ * %-     Hyphen in  constructions 
+ * %>   
+ * #       Word boundary for both lexicalised and dynamic compounds
+
+ * Cx   these are probably not needed
+ * Cy   
+ * X   
+ * Y   
+
+#### Triggers
+ * %^LVow:0		    
+ * %^LCns:0		    
+ * %^WCns:0		    
+ * %^AtoO:0		    
+ * %^ÄtoÖ:0		    
+ * %^OddSyll:0		    
+ * %^StretchSyll2:0    
+ * %^SyllBr:0		    
+ * %^E1:0			    
 
 
 
 
 
+### sets
+
+ * VowBack = a o u ;  
+ * VowFront = ä ö y ü ;  
+ * VowNeutral = e i ;  
+ * VowNonHigh = a o ä ö e ;  
+ * Vow = a o u ä ö y ü e i ;  
+ * Cns = b d f g h j k l m n p r s š t v z ž ;  
+ * CnsVoiceless = f h k p s š t ;  
+ * Letters = Vow Cns ;  
 
 
 
+### Definitions
+
+Front Trigger
 
 
+Back Trigger 
 
 
+Short vowel
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Inessive lengthening of vowel
 
 Right context for gradation
 
 
-# Rules
+
+## Rules
 
 
+### Vowel change 
 
-## Vowel change 
-
+**RULE: StemVowLoss before _i_** = 
 **StemVowLoss before _i_**  
 
+**RULE: Stem-internal vowel loss** = 
 **Stem-internal vowel loss**
 
 
+**RULE: QAO1 Sg Rule** = 
+
+**RULE: QAO1 Pl Rule** = 
 
 
 
-
-## Consonant change 
+### Consonant change 
 
 **devoicing of adjecent stops** vauged: vauktan
 
@@ -217,9 +424,6 @@ Right context for gradation
 **z:s in meletuz:meletust**  
 
 **’:0 before vowels**  
-
-
-Borrowed from Ingrian 
 
 
 # Symbol affixes
@@ -428,6 +632,17 @@ and its use should be associated with the user group, perhaps.
 # Possessor Indices
 
 Not yet written...
+
+# quantifier affixes
+
+**LEXICON NUM_KAKS1** 
+
+**LEXICON NUM_YKS1** 
+
+
+**LEXICON NUM_NORUZ** 
+
+**LEXICON NUM_** 
 
 
 # Olonets numerals 
@@ -709,7 +924,6 @@ DEM-PRON split in Nom Gen par
 NEG-PRON split in Nom Gen Par
 
 
-Morphology 
 
 # Multichar_Symbols and *Root* lexicon for Veps 
 

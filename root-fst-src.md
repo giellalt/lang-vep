@@ -1,5 +1,4 @@
 
-Morphology 
 
 # Multichar_Symbols and *Root* lexicon for Veps 
 
