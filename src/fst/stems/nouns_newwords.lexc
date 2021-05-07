@@ -1,11 +1,15 @@
+!! # Newwords (nouns)
+
 !! This is where new words are added as lexc entries before they are 
 !! added to the xml source files.
 !! kala:kala N_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
 
 
 LEXICON N_NEWWORDS
+!! **LEXICON @LEXNAME@
+
 test:test N_ "" ;
-!! ADD NOUNS BELOW
+! ADD NOUNS BELOW
 aluz+N:aluz N_ALUZ ;
 katuz+N:katuz N_ALUZ ;
 keskuz+N:keskuz N_ALUZ ;

@@ -1,5 +1,7 @@
+!! # Pronouns
 
 LEXICON pronouns
+!! **LEXICON @LEXNAME@** = contains the 6 personal
 
 minä+Pron:min PersSg1  "minä" ;
 sinä+Pron:sin PersSg2  "sinä" ;
