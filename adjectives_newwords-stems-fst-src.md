@@ -1,4 +1,5 @@
 # New adjectives for Veps
+[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adjectives_newwords.lexc)
 
 This is where new words are added as lexc entries before they are 
 added to the xml source files.

@@ -1,4 +1,5 @@
 # Veps abbreviations 
+[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/abbreviations.lexc)
 
 ## Lexica for adding tags and periods
 

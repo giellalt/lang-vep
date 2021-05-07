@@ -1,4 +1,5 @@
 # Acronyms
+[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/acronyms.lexc)
 
 Veps acronyms ...
 
@@ -27,6 +28,7 @@ Veps acronyms ...
 **LEXICON acrotag** 
 
 # Veps abbreviations 
+[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/abbreviations.lexc)
 
 ## Lexica for adding tags and periods
 
@@ -188,10 +190,12 @@ ADD NOUNS BELOW
 **LEXICON conjuncts** pointinh to CC_
 
 # Verbs
+[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/verbs.lexc)
 
 **LEXICON verbs** = 
 
 # Veps verbs (newwords)
+[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/verbs_newwords.lexc)
 
 This is where new words are added as lexc entries before they are 
 added to the xml source files.
@@ -217,6 +221,7 @@ avaita:avai V_ "" ;
 
 
 # Adjectives
+[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adjectives.lexc)
 
 **LEXICON adjectives** contains 3 adjs.
 # Pronouns
@@ -224,6 +229,7 @@ avaita:avai V_ "" ;
 **LEXICON pronouns** = contains the 6 personal
 
 # New adjectives for Veps
+[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adjectives_newwords.lexc)
 
 This is where new words are added as lexc entries before they are 
 added to the xml source files.
