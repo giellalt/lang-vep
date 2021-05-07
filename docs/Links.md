@@ -1,8 +1,0 @@
-* [root-morphology.md](root-morphology.md)
-* [adjectives-affixes.md](adjectives-affixes.md)
-* [clitics-affixes.md](clitics-affixes.md)
-* [nouns-affixes.md](nouns-affixes.md)
-* [pronouns-affixes.md](pronouns-affixes.md)
-* [propernouns-affixes.md](propernouns-affixes.md)
-* [verbs-affixes.md](verbs-affixes.md)
-* [phonology-morphology.md](phonology-morphology.md)
