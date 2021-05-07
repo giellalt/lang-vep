@@ -1,6 +1,7 @@
+!! # Adjectives
 
 LEXICON adjectives
-
+!! **LEXICON @LEXNAME@** contains 3 adjs.
 čoma+A:čoma A_  "kaunis" ;
 rusked+A:ruskedA1 A_RUSKED  "punainen" ;
 uzʼ+A:ud A_UZ  "uusi" ;

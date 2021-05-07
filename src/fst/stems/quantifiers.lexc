@@ -1,6 +1,7 @@
+!! # Quantifiers
 
 LEXICON quantifiers
-
+!! **LEXICON @LEXNAME@** = contains numbers 1-10, 100, 1000
 üks'+Num:ü NUM_YKS1  "yksi" ;
 kaks'+Num:ka NUM_KAKS1  "kaksi" ;
 koume+Num:koume NUM_  "kolme" ;

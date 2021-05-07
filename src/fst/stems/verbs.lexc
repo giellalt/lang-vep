@@ -1,5 +1,7 @@
+!! # Verbs
 
 LEXICON verbs
+!! **LEXICON @LEXNAME@** = 
 
 mända+V:män V_PESTA  "mennä" ;
 ei+V+Aux:e V_EI  "ei" ;

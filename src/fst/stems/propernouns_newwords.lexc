@@ -4,6 +4,7 @@
 
 
 LEXICON PROP_NEWWORDS
+!! **LEXICON @LEXNAME@** = 
 test:test N_ "" ;
 !! ADD NOUNS BELOW
 Azii+N+Prop:Azi N_TEGII ;
