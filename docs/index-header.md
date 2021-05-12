@@ -5,7 +5,7 @@
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-vep)](https://github.com/giellalt/lang-vep/issues)
 [![Build status](https://github.com/giellalt/lang-vep/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-vep/actions)
 
-This page documents the work on the **Veps language model**. 
+This page documents the work on the [Veps language model](http://github.com/giellalt/lang-vep). 
 
 # Project documentation
 
