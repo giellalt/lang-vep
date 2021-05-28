@@ -1,5 +1,7 @@
 # The Veps morphophonological/twolc rules file 
 
+This file documents the [phonology.twolc file](http://github.com/giellalt/lang-vep/blob/main/src/fst/phonology.twolc) 
+
 
 ## Alphabet, sets, definitions
 
