@@ -199,3 +199,5 @@ and its use should be associated with the user group, perhaps.
 
 Not yet written...
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/nouns.lexc)</small>

@@ -60,3 +60,5 @@ The idea is that the nominal ones may have case, like e.g. P.E.N.
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/abbreviations.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/abbreviations.lexc)</small>

@@ -11,3 +11,5 @@ ADD NOUNS BELOW
 
 
 
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/propernouns_newwords.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/propernouns_newwords.lexc)</small>
