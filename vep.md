@@ -1,613 +1,5 @@
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* Sets for POS sub-categories
-
-
-
-
-
-* Sets for Semantic tags
-
-
-
-
-
-* Sets for Morphosyntactic properties
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* Sets for verbs
-
-
-- V is all readings with a V tag in them, REAL-V should
-be the ones without an N tag following the V.  
-The REAL-V set thus awaits a fix to the preprocess V ... N bug.
-
-
-
-* The set COPULAS is for predicative constructions
-
-
-
-
-
-
-
-* NP sets defined according to their morphosyntactic features
-
-
-
-
-
-
-
-* The PRE-NP-HEAD family of sets
-
-These sets model noun phrases (NPs). The idea is to first define whatever can
-occur in front of the head of the NP, and thereafter negate that with the
-expression **WORD - premodifiers**.
-
-
-
-
-
-
-
-
-
-
-
-
-The set **NOT-NPMOD** is used to find barriers between NPs.
-Typical usage: ... (*1 N BARRIER NPT-NPMOD) ...
-meaning: Scan to the first noun, ignoring anything that can be
-part of the noun phrase of that noun (i.e., "scan to the next NP head")
-
-
-
-
-
-
-* Miscellaneous sets
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* Border sets and their complements
-
-
-
-
-
-
-
-
-
-
-
-
-
-* Syntactic sets
-
-
-
-
-These were the set types.
-
-
-
-## HABITIVE MAPPING
-
-
-* **hab1** 
-
-
-* **hab2** 
-
-* **hab3** (<hab> @ADVL>) for hab-actor and hab-case; if leat to the right, and Nom to the right of leat. Lots of restrictions.
-
-
-
-* **habNomLeft** 
-
-
-* **hab4** 	
-
-
-
-* **hab6** 
-
-* **hab7** 
-
-* **hab8** This is not HAB
-* **hab5**  This is not HAB
-
-
-
-* **habDain** (<hab> @ADVL>) for (Pron Dem Pl Loc) if leat followed by Nom to the right
-
-
-
-
-* **habGen** (<hab> @<ADVL) hab for Gen; if Gen is located in the end of the sentence and Nom is sentence initial
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* **spred<obj** (@SPRED<OBJ) for Acc; the object of an SPRPED. Not to be mistaken with OPRED. If SPRED is to the left, and copulas is to the left of it. Nom or Hab are found sentence initially.
-
-
-* **Hab<spred** (@<SPRED) for Nom; if copulas, goallut or jápmit is FMAINV and habitive or human Loc is found to the left. OR: if Ill or @Pron< followed by HAB are found to the left.
-
-* **Hab>Advlcase<spred** (<ext> @<SUBJ) for Nom; it allows adverbials with Ill/Loc/Com/Ess to be found inbetween HAB and <ext>.
-
-* **Nom>Advlcase<spred** (<ext> @<SUBJ) for Nom; it allows adverbials with Ill/Loc/Com/Ess to be found inbetween Nom and <ext> @<SUBJ.
-
-* **<spred** (<ext> @<SUBJ) for Nom; if copulas to the left, and some kind of adverb, N Loc, time related word or Po to the left of it. OR: if Ill or @Pron< to the left, followed by copulas and the before mentioned to the left of copulas. 
-
-* **<spred** (<ext> @<SUBJ) for Nom, but not for Pers. To the left boahtit or heaŋgát as MAINV, and futher to the left is some kind of place related word, or time related word
-
-
-* **<spredQst1** (<ext> @<SUBJ) for Nom in a typically question sentence; if A) Hab, some kind of place word, Po or Nom to the left, and Qst followed by copulas to the left. B) same as a, only the Qst-pcle is attached to copulas. C) Qst to the left, with copulas to its left, but not if two Nom:s are found somewhere to the right. D) copulas to the left, and BOS to the left. E) Loc or Ill to the left, and Loc or Hab to the left of this, Qst and copulas to the left. F) Num @>N to the left, Hab, some kind of place word, Po or Nom to the left, and Qst followed by copulas to the left. NOTE) for all these rules; human, Loc or Sem/Plc not allowed to the right.
-
-* **<spredQst2** (@<SPRED) for Nom; in a typically question sentence; differs from <spredQst1 by not beeing as restricted to the right. Though you are not allowed to be Pers or human.
-
-* **Nom<spredQst** (@<SPRED) for Nom; in a typically question sentence. Differs from <spredQst2 by letting Nom be found between SPRED and copulas
-
-
-
-* **<spred** (@<SPRED) for A Nom or N Nom if; the subject Nom is on the same side of copulas as you: on the right side of copulas
-
-* **<spredVeara** (@<SPRED) for veara + Nom; if genitive immediately to the right, and intransitive mainverb to the right of genitive
-
-* **leftCop<spred** (@<SPRED) for Nom; if copulas is the main verb to the left, and there is no Ess found to the left of cop (note that Loc is allowed between target and cop). OR: if you are Coll or Sem/Group with copulas to your left. 
-
-* **<spredLocEXPERIMENT** (@<SPRED) for material Loc; if you are to the right of copulas, and the Nom to the left of copulas is not a hab-actor
-
-
-* **NumTime** (@<SPRED) for A Nom
-
-* **<spredSg** (@<SPRED) for Sg Nom	
-
-* **<spredPg** (@<SPRED) for Pl Nom	
-
-* **<spred** (@<SPRED) for Nom; if copulas to the left, and Nom or sentence boundary to the left of copulas. First one to the right is EOS.
-
-* **<spred** (@<SPRED) for N Ess
-
-* **spredEss>** (@SPRED>) for N Ess; if copulas to the right of you, and if an NP with nom-case first one to your left.
-
-* **HABSpredSg>** (@SPRED>) for Nom; if habitive first one to the left, followed by copulas.
-
-* **GalleSpred>** (@SPRED>) for Num Nom; if sentence initial
-
-* **spredSgMII>** (@SPRED>)
-
-* **r492>** (@SPRED>) for Interr Gen; consisting only of negations. You are not allowed to be MII. You are not allowed to have an adjective or noun to yor right. You are not allowed to have a verb to your right; the exception beeing an aux.
-
-
-
-* **AdjSpredSg>** (@SPRED>) for A Sg Nom; if copulas to the right, but not if A or @<SPRED are found to the right of copulas
-
-* **SpredSg>Hab** (@SPRED>) for Nom; if you are sentence initial, copulas is located to the right, and there is a habitive to the right of copulas
-
-
-
-* **Spred>SubjInf** (@SPRED>) for Nom; if copulas to the right, and the subject of copulas is an Inf to the right
-
-* **spredCoord** (@<SPRED) coordination for Nom; only if there already is a SPRED to the left of CNP. Not if there is some kind of comparison involved.
-
-
-
-
-
-
-* **subj>Sgnr1** (@SUBJ>) for Nom Sg, including Indef Nom if; VFIN + Sg3 or Pl3 to the right (VFIN not allowed to the left) 
-
-* **subj>Du** (@SUBJ>) for dual nominatives, including Coll Nom. VFIN + Du3 to the right. 
-* **subj>Pl** (@SUBJ>) for plural nominatives, including Coll and Sem/Group. VFIN + Pl3 to the right.
-
-* **subj>Pl** (@SUBJ>) for plural nominatives
-
-
-* **subj>Sgnr2** (@SUBJ>) for Nom Sg; if VFIN + Sg3 to the right.
-
-* **<subjSg** (@<SUBJ) for Nom Sg; if VFIN Sg3 or Du2 to the left (no HAB allowed to the left).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* **f<advl** (@-F<ADVL) for infinite adverbials
-
-* **f<advl** (@-F<ADVL) for infinite adverbials
-
-
-
-* **s-boundary=advl>** (@ADVL>) for ADVL that resemble s-booundaries. Mainverb to the right.
-
-
-
-
-* **-fobj>** (@-FOBJ>) for Acc 
-
-* **-fobj>** (@-FOBJ>) for Acc
-
-
-
-
-* **advl>mainV** (@ADVL>) if; finite mainverb not found to the left, but the finite mainverb is found to the right.
-
-
-* **<advl** (@<ADVL) if; finite mainverb found to the left. Not if a comma is found immediately to the left and a finite mainverb is located somewhere to the right of this comma.
-
-
-
-
-* **<advlPoPr** (@<ADVL) if mainverb to the left.
-* **advlPoPr>** (@<ADVL) if mainverb to the right.
-
-
-
-* **advlEss>** (@<ADVL) for weather and time Ess, if FMAINV to the left.
-
-
-
-
-
-
-* **advl>inbetween** (@ADVL>) for Adv; if inbetween two sentenceboundaries where no mainverb is present.
-
-* **comma<advlEOS** (@<ADVL) if; comma found to the left and the finite mainverb to the left of comma. To the right is the end of the sentence.
-
-
-
-* **advlBOS>** (@ADVL>) if; you are N Ill and found sentnece initially. First one to your right is a clause.
-
-
-* **<advlPoEOS** (@<ADVL) for Po; if you are found at the very end of a sentence. A mainverb is needed to the right though.
-
-
-
-* **cleanupILL<advl** (@<ADVL) for N Ill if; there are no boundarysymbols to your left, if you arent already @N< OR @APP-N<, and no mainverb is to yor left.
-
-
-
-
-
-
-
-
-
-
-
-* **<opredAAcc** (@<OPRED) for A Acc; if an other accusative to the left, and a transtive verb to the left of it. OR: if a transitive verb to the left, and an accusative to the left of it.
-
-
-### sma object
-
-
-
-
-
-
-
-
-
-* **<advlEss** (@<ADVL) for ESS-ADVL if; FMAINV to the left
-* **<spredEss** (@<SPRED) for N Ess if; FMAINV to the left is intransitive or bargat
-
-
-
-
-
-## SUBJ MAPPING - leftovers
-
-## OBJ MAPPING - leftovers
-
-
-## HNOUN MAPPING
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-vep/blob/main/../src/cg3/functions.cg3)</small>
-
 Disambiguator for Olonets
 
 
@@ -1868,279 +1260,615 @@ Correction rules
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/cg3/dependency.cg3](http://github.com/giellalt/lang-vep/blob/main/../src/cg3/dependency.cg3)</small># Nouns
-**LEXION @ELXNAME@ for the nouns (only 10 here)
+<small>This (part of) documentation was generated from [../src/cg3/dependency.cg3](http://github.com/giellalt/lang-vep/blob/main/../src/cg3/dependency.cg3)</small>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Sets for POS sub-categories
+
+
+
+
+
+* Sets for Semantic tags
+
+
+
+
+
+* Sets for Morphosyntactic properties
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Sets for verbs
+
+
+- V is all readings with a V tag in them, REAL-V should
+be the ones without an N tag following the V.  
+The REAL-V set thus awaits a fix to the preprocess V ... N bug.
+
+
+
+* The set COPULAS is for predicative constructions
+
+
+
+
+
+
+
+* NP sets defined according to their morphosyntactic features
+
+
+
+
+
+
+
+* The PRE-NP-HEAD family of sets
+
+These sets model noun phrases (NPs). The idea is to first define whatever can
+occur in front of the head of the NP, and thereafter negate that with the
+expression **WORD - premodifiers**.
+
+
+
+
+
+
+
+
+
+
+
+
+The set **NOT-NPMOD** is used to find barriers between NPs.
+Typical usage: ... (*1 N BARRIER NPT-NPMOD) ...
+meaning: Scan to the first noun, ignoring anything that can be
+part of the noun phrase of that noun (i.e., "scan to the next NP head")
+
+
+
+
+
+
+* Miscellaneous sets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Border sets and their complements
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Syntactic sets
+
+
+
+
+These were the set types.
+
+
+
+## HABITIVE MAPPING
+
+
+* **hab1** 
+
+
+* **hab2** 
+
+* **hab3** (<hab> @ADVL>) for hab-actor and hab-case; if leat to the right, and Nom to the right of leat. Lots of restrictions.
+
+
+
+* **habNomLeft** 
+
+
+* **hab4** 	
+
+
+
+* **hab6** 
+
+* **hab7** 
+
+* **hab8** This is not HAB
+* **hab5**  This is not HAB
+
+
+
+* **habDain** (<hab> @ADVL>) for (Pron Dem Pl Loc) if leat followed by Nom to the right
+
+
+
+
+* **habGen** (<hab> @<ADVL) hab for Gen; if Gen is located in the end of the sentence and Nom is sentence initial
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* **spred<obj** (@SPRED<OBJ) for Acc; the object of an SPRPED. Not to be mistaken with OPRED. If SPRED is to the left, and copulas is to the left of it. Nom or Hab are found sentence initially.
+
+
+* **Hab<spred** (@<SPRED) for Nom; if copulas, goallut or jápmit is FMAINV and habitive or human Loc is found to the left. OR: if Ill or @Pron< followed by HAB are found to the left.
+
+* **Hab>Advlcase<spred** (<ext> @<SUBJ) for Nom; it allows adverbials with Ill/Loc/Com/Ess to be found inbetween HAB and <ext>.
+
+* **Nom>Advlcase<spred** (<ext> @<SUBJ) for Nom; it allows adverbials with Ill/Loc/Com/Ess to be found inbetween Nom and <ext> @<SUBJ.
+
+* **<spred** (<ext> @<SUBJ) for Nom; if copulas to the left, and some kind of adverb, N Loc, time related word or Po to the left of it. OR: if Ill or @Pron< to the left, followed by copulas and the before mentioned to the left of copulas. 
+
+* **<spred** (<ext> @<SUBJ) for Nom, but not for Pers. To the left boahtit or heaŋgát as MAINV, and futher to the left is some kind of place related word, or time related word
+
+
+* **<spredQst1** (<ext> @<SUBJ) for Nom in a typically question sentence; if A) Hab, some kind of place word, Po or Nom to the left, and Qst followed by copulas to the left. B) same as a, only the Qst-pcle is attached to copulas. C) Qst to the left, with copulas to its left, but not if two Nom:s are found somewhere to the right. D) copulas to the left, and BOS to the left. E) Loc or Ill to the left, and Loc or Hab to the left of this, Qst and copulas to the left. F) Num @>N to the left, Hab, some kind of place word, Po or Nom to the left, and Qst followed by copulas to the left. NOTE) for all these rules; human, Loc or Sem/Plc not allowed to the right.
+
+* **<spredQst2** (@<SPRED) for Nom; in a typically question sentence; differs from <spredQst1 by not beeing as restricted to the right. Though you are not allowed to be Pers or human.
+
+* **Nom<spredQst** (@<SPRED) for Nom; in a typically question sentence. Differs from <spredQst2 by letting Nom be found between SPRED and copulas
+
+
+
+* **<spred** (@<SPRED) for A Nom or N Nom if; the subject Nom is on the same side of copulas as you: on the right side of copulas
+
+* **<spredVeara** (@<SPRED) for veara + Nom; if genitive immediately to the right, and intransitive mainverb to the right of genitive
+
+* **leftCop<spred** (@<SPRED) for Nom; if copulas is the main verb to the left, and there is no Ess found to the left of cop (note that Loc is allowed between target and cop). OR: if you are Coll or Sem/Group with copulas to your left. 
+
+* **<spredLocEXPERIMENT** (@<SPRED) for material Loc; if you are to the right of copulas, and the Nom to the left of copulas is not a hab-actor
+
+
+* **NumTime** (@<SPRED) for A Nom
+
+* **<spredSg** (@<SPRED) for Sg Nom	
+
+* **<spredPg** (@<SPRED) for Pl Nom	
+
+* **<spred** (@<SPRED) for Nom; if copulas to the left, and Nom or sentence boundary to the left of copulas. First one to the right is EOS.
+
+* **<spred** (@<SPRED) for N Ess
+
+* **spredEss>** (@SPRED>) for N Ess; if copulas to the right of you, and if an NP with nom-case first one to your left.
+
+* **HABSpredSg>** (@SPRED>) for Nom; if habitive first one to the left, followed by copulas.
+
+* **GalleSpred>** (@SPRED>) for Num Nom; if sentence initial
+
+* **spredSgMII>** (@SPRED>)
+
+* **r492>** (@SPRED>) for Interr Gen; consisting only of negations. You are not allowed to be MII. You are not allowed to have an adjective or noun to yor right. You are not allowed to have a verb to your right; the exception beeing an aux.
+
+
+
+* **AdjSpredSg>** (@SPRED>) for A Sg Nom; if copulas to the right, but not if A or @<SPRED are found to the right of copulas
+
+* **SpredSg>Hab** (@SPRED>) for Nom; if you are sentence initial, copulas is located to the right, and there is a habitive to the right of copulas
+
+
+
+* **Spred>SubjInf** (@SPRED>) for Nom; if copulas to the right, and the subject of copulas is an Inf to the right
+
+* **spredCoord** (@<SPRED) coordination for Nom; only if there already is a SPRED to the left of CNP. Not if there is some kind of comparison involved.
+
+
+
+
+
+
+* **subj>Sgnr1** (@SUBJ>) for Nom Sg, including Indef Nom if; VFIN + Sg3 or Pl3 to the right (VFIN not allowed to the left) 
+
+* **subj>Du** (@SUBJ>) for dual nominatives, including Coll Nom. VFIN + Du3 to the right. 
+* **subj>Pl** (@SUBJ>) for plural nominatives, including Coll and Sem/Group. VFIN + Pl3 to the right.
+
+* **subj>Pl** (@SUBJ>) for plural nominatives
+
+
+* **subj>Sgnr2** (@SUBJ>) for Nom Sg; if VFIN + Sg3 to the right.
+
+* **<subjSg** (@<SUBJ) for Nom Sg; if VFIN Sg3 or Du2 to the left (no HAB allowed to the left).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* **f<advl** (@-F<ADVL) for infinite adverbials
+
+* **f<advl** (@-F<ADVL) for infinite adverbials
+
+
+
+* **s-boundary=advl>** (@ADVL>) for ADVL that resemble s-booundaries. Mainverb to the right.
+
+
+
+
+* **-fobj>** (@-FOBJ>) for Acc 
+
+* **-fobj>** (@-FOBJ>) for Acc
+
+
+
+
+* **advl>mainV** (@ADVL>) if; finite mainverb not found to the left, but the finite mainverb is found to the right.
+
+
+* **<advl** (@<ADVL) if; finite mainverb found to the left. Not if a comma is found immediately to the left and a finite mainverb is located somewhere to the right of this comma.
+
+
+
+
+* **<advlPoPr** (@<ADVL) if mainverb to the left.
+* **advlPoPr>** (@<ADVL) if mainverb to the right.
+
+
+
+* **advlEss>** (@<ADVL) for weather and time Ess, if FMAINV to the left.
+
+
+
+
+
+
+* **advl>inbetween** (@ADVL>) for Adv; if inbetween two sentenceboundaries where no mainverb is present.
+
+* **comma<advlEOS** (@<ADVL) if; comma found to the left and the finite mainverb to the left of comma. To the right is the end of the sentence.
+
+
+
+* **advlBOS>** (@ADVL>) if; you are N Ill and found sentnece initially. First one to your right is a clause.
+
+
+* **<advlPoEOS** (@<ADVL) for Po; if you are found at the very end of a sentence. A mainverb is needed to the right though.
+
+
+
+* **cleanupILL<advl** (@<ADVL) for N Ill if; there are no boundarysymbols to your left, if you arent already @N< OR @APP-N<, and no mainverb is to yor left.
+
+
+
+
+
+
+
+
+
+
+
+* **<opredAAcc** (@<OPRED) for A Acc; if an other accusative to the left, and a transtive verb to the left of it. OR: if a transitive verb to the left, and an accusative to the left of it.
+
+
+### sma object
+
+
+
+
+
+
+
+
+
+* **<advlEss** (@<ADVL) for ESS-ADVL if; FMAINV to the left
+* **<spredEss** (@<SPRED) for N Ess if; FMAINV to the left is intransitive or bargat
+
+
+
+
+
+## SUBJ MAPPING - leftovers
+
+## OBJ MAPPING - leftovers
+
+
+## HNOUN MAPPING
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/nouns.lexc)</small># Veps abbreviations 
-[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/abbreviations.lexc)
-
-## Lexica for adding tags and periods
-
-Splitting in 3 groups, because of the preprocessor
-
-**LEXICON Abbreviation** 
-
-Now splitting according to POS, and according to dot or not
-
-
-**LEXICON ab** 
-
-**LEXICON ab-noun** 
-
-
-
-
-Here come POS and Case tags, and no period.
-
-**LEXICON ab-nodot-noun**  The bulk
-
-**LEXICON ab-nodot** 
-
-
-**LEXICON ab-dot** 
-
-**LEXICON ab-dot-noun** 
-
-The idea is that the nominal ones may have case, like e.g. P.E.N.
-
-
-## The abbreviation lexicon itself
-
-
-**LEXICON noperiod** 
-
-###           Intransitive abbreviations           
-
-
-
-**LEXICON ITRAB** 
-
-
-
-###    Transitive number-related abbreviations      !
-
-
-**LEXICON TRNUMAB** 
-
-
-###              Transitive abbreviations           !
-
-**LEXICON TRAB** 
-
-**LEXICON TRAB** 
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/abbreviations.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/abbreviations.lexc)</small># Interjections
-
-**LEXICON interjections contains *aj*, pointing to INTERJ_
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/interjections.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/interjections.lexc)</small># Quantifiers
-
-**LEXICON quantifiers** = contains numbers 1-10, 100, 1000
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/quantifiers.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/quantifiers.lexc)</small># Acronyms
-[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/acronyms.lexc)
-
-Veps acronyms ...
-
-**LEXICON Acronym** 
-
-**LEXICON acr2-cyr** 
-
-**LEXICON acr3-cyr** 
-
-**LEXICON acr4-cyr** 
-
-**LEXICON acr5-cyr** 
-
-
-
-**LEXICON acr3-lat** 
-
-**LEXICON acr4-lat** 
-
-**LEXICON acr5-lat** 
-
-
-
-**LEXICON acros** 
-
-**LEXICON acrotag** 
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/acronyms.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/acronyms.lexc)</small># Conjunctions
-
-**LEXICON conjuncts** pointinh to CC_
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/conjuncts.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/conjuncts.lexc)</small># New adjectives for Veps
-[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adjectives_newwords.lexc)
-
-This is where new words are added as lexc entries before they are 
-added to the xml source files.
-kala:kala A_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
-
-
-**LEXICON A_NEWWORDS** 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives_newwords.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/adjectives_newwords.lexc)</small># Adverbs
-
-**LEXICON adverbs** containing 3
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adverbs.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/adverbs.lexc)</small>This is where new words are added as lexc entries before they are 
-added to the xml source files.
-kala:kala N_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
-
-
-**LEXICON PROP_NEWWORDS** = 
-ADD NOUNS BELOW
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/propernouns_newwords.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/propernouns_newwords.lexc)</small># Adjectives
-[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adjectives.lexc)
-
-**LEXICON adjectives** contains 3 adjs.
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/adjectives.lexc)</small># Verbs
-[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/verbs.lexc)
-
-**LEXICON verbs** = 
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/verbs.lexc)</small># Veps numerals
-
-
-Numerals have been split in three sections, the compounding parts
-of cardinals and ordinals, and the non-compounding ones:
-
-*Numeral examples:*
-* *kaksikymmentäkolmetuhatta:* `kaksi+Num+Sg+Nom#kymmenen+Num+Sg+Par#kolme+Num+Sg+Nom#tuhat+Num+Sg+Par` (Eng. ! 23,000)
-* *kakskymmentäkolmetuhatta:* `kaksi+Num+Sg+Nom#kymmenen+Num+Sg+Par#kolme+Num+Sg+Nom#tuhat+Num+Sg+Par`
-* *kahđessađasneljes:* `kahđes+A+Ord+Sg+Nom#sađas+A+Ord+Sg+Nom#neljes+A+Ord+Sg+Nom` (Eng. ! 204rd)
-* *viitisenkymmentä:* `viitisen+Num#kymmentä` (Eng. ! 50-ish)
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/numerals.lexc)</small># Newwords (nouns)
-
-This is where new words are added as lexc entries before they are 
-added to the xml source files.
-kala:kala N_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
-
-
-**LEXICON N_NEWWORDS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/nouns_newwords.lexc)</small># Pronouns
-
-**LEXICON pronouns** = contains the 6 personal
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/pronouns.lexc)</small># Veps verbs (newwords)
-[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/verbs_newwords.lexc)
-
-This is where new words are added as lexc entries before they are 
-added to the xml source files.
-avaita:avai V_ "" ;
-
-
-**RULE: V_NEWWORDS** = 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs_newwords.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/verbs_newwords.lexc)</small># The Veps morphophonological/twolc rules file 
+<small>This (part of) documentation was generated from [../src/cg3/functions.cg3](http://github.com/giellalt/lang-vep/blob/main/../src/cg3/functions.cg3)</small># The Veps morphophonological/twolc rules file 
 
 This file documents the [phonology.twolc file](http://github.com/giellalt/lang-vep/blob/main/src/fst/phonology.twolc) 
 
@@ -2319,7 +2047,240 @@ Right context for gradation
 **’:0 before vowels**  
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/phonology.twolc)</small># Veps Noun inflection
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/phonology.twolc)</small># Pronouns
+
+Veps pronouns ...
+
+PRONOUN-TYPES split in types: prs, interr, neg, dem.
+
+PERS  split in persons
+
+PersSg1 split in Nom, Gen, Acc
+
+PersSg2 split in Nom, Gen, Acc
+
+PersSg3 split in Nom, Gen, Acc, Par and 10 other cases
+
+PersPl1 split in Nom and obl
+
+PersPl2 split in Nom and obl
+
+PersPl3 split in Nom and obl
+
+PERS-PL_01 add case suffix
+
+INTERR add case suff
+
+DEM-PRON split in Nom Gen par
+
+NEG-PRON split in Nom Gen Par
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/pronouns.lexc)</small>
+# Olonets numerals 
+
+# Numeral inflection
+Numeral inflection is like nominal, except that numerals compound in all
+forms which requires great amount of care in the inflection patterns.
+
+
+
+
+
+
+ * **LEXICON ARABICCOMPOUNDS**  ! 1-osainen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ * **LEXICON ARABICCASES**  adds +Arab
+
+ * **LEXICON ARABICCASE**  adds +Arab
+
+ * **LEXICON ARABICCASE0**  adds +Arab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/numerals.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/numerals.lexc)</small>
+# Verb inflection in Vepsian
+
+## Lexica from the *stems* file
+
+### Irregular verbs
+V_EI all forms of the *ei* verb
+
+### Regular verbs
+
+V_SUGIDA This and all V_... lexica redirect to *V-VowelStem, V-ConsonantStem, INDPRS3* (see below)
+
+V_OLDA (adding :le to vowstem)
+
+
+V_PESTA (adding -e) ti vowstem and indprs3)
+
+V_TEHTA = tehta:te (adding :ge to vowst and indprs3)
+
+V_SIRTA =  sirta:sir
+
+V_JOKSTA = joksta:joks
+
+V_LETA = leta:le
+
+V_JODA = joda:jo
+
+V_VEDADA =  vedada:ved
+
+V_MAKSTA = maksta:maks
+
+V_ASTTA = astta:ast
+
+V_HUBETA = hubeta:hube
+
+V_TULDA = tulda:tul
+
+V_OTTA = otta:ot
+
+V_HOMAITA =  homaita:homai
+
+V_OIGETA
+
+V_VIRIGATA =  virigata:viriga
+
+V_KERATA = kerata:kera
+
+V_JAGADA =  jagada:jag (adding a to prt and a elsewhere)
+
+
+V_TUGETA = tugeta:tuge
+
+V_VALITA  =  valita:vali
+
+V_AVAITA = avaita:avai, avaidab avaiži
+
+
+### Default lexicon
+
+V_ default verb lexicon
+
+## The three contlex types
+
+### PNDPRS3
+
+INDPRS3 for Sg3 and Pl3
+
+
+
+### Vowel stems
+
+V-VowelStem
+
+
+
+V-VowelStem-PRS This lexicon gives all  forms for vowel stems
+
+#### Present Morphology
+
+
+#### IMPERATIVE 
+
+
+#### present reflexive
+
+
+
+#### Preterite 
+
+
+
+
+
+#### conditional present 
+
+
+
+#### Imperfect Reflexive 
+
+
+#### Conditional Present Reflexive
+
+
+
+
+### Consonant Stems
+
+V-ConsonantStem V-ConsonantStem_OTHER ;
+
+V-ConsonantStem_OTHER 
+
+#### Imperative 
+
+
+#### Conditional Imperfect 
+
+
+#### Reflexive 
+
+
+#### Imperative 
+
+
+V-ConsonantStem_t 
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/verbs.lexc)</small># Proper noun inflection
+
+Veps proper nouns inflect in the same cases as regular
+nouns. Veps acronyms, however, take a hyphen ('-') as a separator.
+
+
+PROPER NOUNS 
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/propernouns.lexc)</small># quantifier affixes
+
+**LEXICON NUM_KAKS1** 
+
+**LEXICON NUM_YKS1** 
+
+
+**LEXICON NUM_NORUZ** 
+
+**LEXICON NUM_** 
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/quantifiers.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/quantifiers.lexc)</small># Veps Noun inflection
 * Metrical feet
 	* Disyllables
 		* pyrrhic, dibrach : kala
@@ -2521,19 +2482,14 @@ and its use should be associated with the user group, perhaps.
 Not yet written...
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/nouns.lexc)</small># quantifier affixes
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/nouns.lexc)</small># Veps clitics
 
-**LEXICON NUM_KAKS1** 
-
-**LEXICON NUM_YKS1** 
+K 3 clitics plus #
 
 
-**LEXICON NUM_NORUZ** 
-
-**LEXICON NUM_** 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/quantifiers.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/quantifiers.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/affixes/clitics.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/clitics.lexc)</small>
 # Symbol affixes
 
 
@@ -2541,14 +2497,7 @@ Not yet written...
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/symbols.lexc)</small># Veps clitics
-
-K 3 clitics plus #
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/clitics.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/clitics.lexc)</small># Adjective inflection
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/symbols.lexc)</small># Adjective inflection
 
 
 
@@ -2605,167 +2554,29 @@ K 3 clitics plus #
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/adjectives.lexc)</small>
-# Verb inflection in Vepsian
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/adjectives.lexc)</small>This is where new words are added as lexc entries before they are 
+added to the xml source files.
+kala:kala N_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
 
-## Lexica from the *stems* file
 
-### Irregular verbs
-V_EI all forms of the *ei* verb
+**LEXICON PROP_NEWWORDS** = 
+ADD NOUNS BELOW
 
-### Regular verbs
 
-V_SUGIDA This and all V_... lexica redirect to *V-VowelStem, V-ConsonantStem, INDPRS3* (see below)
 
-V_OLDA (adding :le to vowstem)
-
-
-V_PESTA (adding -e) ti vowstem and indprs3)
-
-V_TEHTA = tehta:te (adding :ge to vowst and indprs3)
-
-V_SIRTA =  sirta:sir
-
-V_JOKSTA = joksta:joks
-
-V_LETA = leta:le
-
-V_JODA = joda:jo
-
-V_VEDADA =  vedada:ved
-
-V_MAKSTA = maksta:maks
-
-V_ASTTA = astta:ast
-
-V_HUBETA = hubeta:hube
-
-V_TULDA = tulda:tul
-
-V_OTTA = otta:ot
-
-V_HOMAITA =  homaita:homai
-
-V_OIGETA
-
-V_VIRIGATA =  virigata:viriga
-
-V_KERATA = kerata:kera
-
-V_JAGADA =  jagada:jag (adding a to prt and a elsewhere)
-
-
-V_TUGETA = tugeta:tuge
-
-V_VALITA  =  valita:vali
-
-V_AVAITA = avaita:avai, avaidab avaiži
-
-
-### Default lexicon
-
-V_ default verb lexicon
-
-## The three contlex types
-
-### PNDPRS3
-
-INDPRS3 for Sg3 and Pl3
-
-
-
-### Vowel stems
-
-V-VowelStem
-
-
-
-V-VowelStem-PRS This lexicon gives all  forms for vowel stems
-
-#### Present Morphology
-
-
-#### IMPERATIVE 
-
-
-#### present reflexive
-
-
-
-#### Preterite 
-
-
-
-
-
-#### conditional present 
-
-
-
-#### Imperfect Reflexive 
-
-
-#### Conditional Present Reflexive
-
-
-
-
-### Consonant Stems
-
-V-ConsonantStem V-ConsonantStem_OTHER ;
-
-V-ConsonantStem_OTHER 
-
-#### Imperative 
-
-
-#### Conditional Imperfect 
-
-
-#### Reflexive 
-
-
-#### Imperative 
-
-
-V-ConsonantStem_t 
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/verbs.lexc)</small>
-# Olonets numerals 
+<small>This (part of) documentation was generated from [../src/fst/stems/propernouns_newwords.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/propernouns_newwords.lexc)</small># Veps verbs (newwords)
+[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/verbs_newwords.lexc)
 
-# Numeral inflection
-Numeral inflection is like nominal, except that numerals compound in all
-forms which requires great amount of care in the inflection patterns.
-
-
+This is where new words are added as lexc entries before they are 
+added to the xml source files.
+avaita:avai V_ "" ;
 
 
-
-
- * **LEXICON ARABICCOMPOUNDS**  ! 1-osainen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- * **LEXICON ARABICCASES**  adds +Arab
-
- * **LEXICON ARABICCASE**  adds +Arab
-
- * **LEXICON ARABICCASE0**  adds +Arab
+**RULE: V_NEWWORDS** = 
 
 
 
@@ -2784,49 +2595,238 @@ forms which requires great amount of care in the inflection patterns.
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/numerals.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/numerals.lexc)</small># Proper noun inflection
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs_newwords.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/verbs_newwords.lexc)</small># Adverbs
 
-Veps proper nouns inflect in the same cases as regular
-nouns. Veps acronyms, however, take a hyphen ('-') as a separator.
+**LEXICON adverbs** containing 3
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adverbs.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/adverbs.lexc)</small># Pronouns
+
+**LEXICON pronouns** = contains the 6 personal
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/pronouns.lexc)</small># Veps numerals
 
 
-PROPER NOUNS 
+Numerals have been split in three sections, the compounding parts
+of cardinals and ordinals, and the non-compounding ones:
+
+*Numeral examples:*
+* *kaksikymmentäkolmetuhatta:* `kaksi+Num+Sg+Nom#kymmenen+Num+Sg+Par#kolme+Num+Sg+Nom#tuhat+Num+Sg+Par` (Eng. ! 23,000)
+* *kakskymmentäkolmetuhatta:* `kaksi+Num+Sg+Nom#kymmenen+Num+Sg+Par#kolme+Num+Sg+Nom#tuhat+Num+Sg+Par`
+* *kahđessađasneljes:* `kahđes+A+Ord+Sg+Nom#sađas+A+Ord+Sg+Nom#neljes+A+Ord+Sg+Nom` (Eng. ! 204rd)
+* *viitisenkymmentä:* `viitisen+Num#kymmentä` (Eng. ! 50-ish)
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/numerals.lexc)</small># Verbs
+[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/verbs.lexc)
+
+**LEXICON verbs** = 
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/verbs.lexc)</small># Interjections
+
+**LEXICON interjections contains *aj*, pointing to INTERJ_
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/interjections.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/interjections.lexc)</small># Quantifiers
+
+**LEXICON quantifiers** = contains numbers 1-10, 100, 1000
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/quantifiers.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/quantifiers.lexc)</small># Nouns
+**LEXION @ELXNAME@ for the nouns (only 10 here)
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/nouns.lexc)</small># Conjunctions
+
+**LEXICON conjuncts** pointinh to CC_
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/conjuncts.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/conjuncts.lexc)</small># Acronyms
+[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/acronyms.lexc)
+
+Veps acronyms ...
+
+**LEXICON Acronym** 
+
+**LEXICON acr2-cyr** 
+
+**LEXICON acr3-cyr** 
+
+**LEXICON acr4-cyr** 
+
+**LEXICON acr5-cyr** 
+
+
+
+**LEXICON acr3-lat** 
+
+**LEXICON acr4-lat** 
+
+**LEXICON acr5-lat** 
+
+
+
+**LEXICON acros** 
+
+**LEXICON acrotag** 
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/acronyms.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/acronyms.lexc)</small># Veps abbreviations 
+[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/abbreviations.lexc)
+
+## Lexica for adding tags and periods
+
+Splitting in 3 groups, because of the preprocessor
+
+**LEXICON Abbreviation** 
+
+Now splitting according to POS, and according to dot or not
+
+
+**LEXICON ab** 
+
+**LEXICON ab-noun** 
+
+
+
+
+Here come POS and Case tags, and no period.
+
+**LEXICON ab-nodot-noun**  The bulk
+
+**LEXICON ab-nodot** 
+
+
+**LEXICON ab-dot** 
+
+**LEXICON ab-dot-noun** 
+
+The idea is that the nominal ones may have case, like e.g. P.E.N.
+
+
+## The abbreviation lexicon itself
+
+
+**LEXICON noperiod** 
+
+###           Intransitive abbreviations           
+
+
+
+**LEXICON ITRAB** 
+
+
+
+###    Transitive number-related abbreviations      !
+
+
+**LEXICON TRNUMAB** 
+
+
+###              Transitive abbreviations           !
+
+**LEXICON TRAB** 
+
+**LEXICON TRAB** 
 
 
 
 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/propernouns.lexc)</small># Pronouns
+<small>This (part of) documentation was generated from [../src/fst/stems/abbreviations.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/abbreviations.lexc)</small># Newwords (nouns)
 
-Veps pronouns ...
+This is where new words are added as lexc entries before they are 
+added to the xml source files.
+kala:kala N_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
 
-PRONOUN-TYPES split in types: prs, interr, neg, dem.
 
-PERS  split in persons
+**LEXICON N_NEWWORDS
 
-PersSg1 split in Nom, Gen, Acc
 
-PersSg2 split in Nom, Gen, Acc
 
-PersSg3 split in Nom, Gen, Acc, Par and 10 other cases
 
-PersPl1 split in Nom and obl
 
-PersPl2 split in Nom and obl
 
-PersPl3 split in Nom and obl
 
-PERS-PL_01 add case suffix
 
-INTERR add case suff
 
-DEM-PRON split in Nom Gen par
 
-NEG-PRON split in Nom Gen Par
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/pronouns.lexc)</small>
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/nouns_newwords.lexc)</small># New adjectives for Veps
+[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adjectives_newwords.lexc)
+
+This is where new words are added as lexc entries before they are 
+added to the xml source files.
+kala:kala A_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
+
+
+**LEXICON A_NEWWORDS** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives_newwords.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/adjectives_newwords.lexc)</small># Adjectives
+[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adjectives.lexc)
+
+**LEXICON adjectives** contains 3 adjs.
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/adjectives.lexc)</small>
 
 # Multichar_Symbols and *Root* lexicon for Veps 
 
