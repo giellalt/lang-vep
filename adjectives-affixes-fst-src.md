@@ -6,51 +6,51 @@
 ## Temporary lexicon
 
 
- * **LEXICON A_** = , when we do not know. Redirecting to N_ (?) 
+* **LEXICON A_** = , when we do not know. Redirecting to N_ (?) 
 
 
 ## Regolar lexica
 
- * **LEXICON A_UZ** = uz’:ud, goes to NMN_NORUZ
+* **LEXICON A_UZNMN_NORUZ** = uz’:ud, goes to NMN_NORUZ
 
- * **LEXICON A_RUSKED** = gets +A and goes to NMN\_RUSKED
+* **LEXICON A_RUSKEDNMN_RUSKED** = gets +A and goes to NMN\_RUSKED
 
- **LEXICON A_MUNA**   muna:mun
+**LEXICON A_MUNAmuna:mun**   muna:mun
 
- * **LEXICON A_NADO** =  nado:nado
-
-
- * **LEXICON A_POIG** =  poig:poig
-
- * **LEXICON A_MARJ** =  marj:marj
-
- * **LEXICON A_JAUH** =  jauh:jauh
-
- * **LEXICON A_OIGED** = oiged:oig%{eØ%}d
-
- * **LEXICON A_KEL** = kel':kel
-
- * **LEXICON A_SAR1** = sar':sar
-
- * **LEXICON A_KEZI** = kezi:ked
+* **LEXICON A_NADOnado:nado** =  nado:nado
 
 
- * **LEXICON A_VIDENZ1** =  videnz':viden (-den, -t, -zid)
+* **LEXICON A_POIGpoig:poig** =  poig:poig
+
+* **LEXICON A_MARJmarj:marj** =  marj:marj
+
+* **LEXICON A_JAUHjauh:jauh** =  jauh:jauh
+
+* **LEXICON A_OIGEDoiged:oig%{eØ%}d** = oiged:oig%{eØ%}d
+
+* **LEXICON A_KELkel':kel** = kel':kel
+
+* **LEXICON A_SAR1sar':sar** = sar':sar
+
+* **LEXICON A_KEZIkezi:ked** = kezi:ked
 
 
- * **LEXICON A_LANDEH** =  landeh:land
+* **LEXICON A_VIDENZ1-zid)** =  videnz':viden (-den, -t, -zid)
 
- * **LEXICON A_VEDEKAZ** =  vedekaz:vedeka
 
- * **LEXICON A_SEIBAZ** =  seibaz:seib
+* **LEXICON A_LANDEHlandeh:land** =  landeh:land
 
- * **LEXICON A_CIPUINE** = cipuine:cipu
+* **LEXICON A_VEDEKAZvedekaz:vedeka** =  vedekaz:vedeka
 
- * **LEXICON A_TOSHTMINE** =  toštmine:toštmi
+* **LEXICON A_SEIBAZseibaz:seib** =  seibaz:seib
 
- * **LEXICON A_KENGATOI** =  kengätoi:kengäto
+* **LEXICON A_CIPUINEcipuine:cipu** = cipuine:cipu
 
- * **LEXICON PRFPRC-DECLENSION** =  -nu
+* **LEXICON A_TOSHTMINEtoštmine:toštmi** =  toštmine:toštmi
+
+* **LEXICON A_KENGATOIkengätoi:kengäto** =  kengätoi:kengäto
+
+* **LEXICON PRFPRC-DECLENSION-nu** =  -nu
 
 
 

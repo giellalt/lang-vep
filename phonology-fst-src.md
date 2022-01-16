@@ -115,14 +115,14 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-v
 
 ### sets
 
- * VowBack = a o u ;  
- * VowFront = ä ö y ü ;  
- * VowNeutral = e i ;  
- * VowNonHigh = a o ä ö e ;  
- * Vow = a o u ä ö y ü e i ;  
- * Cns = b d f g h j k l m n p r s š t v z ž ;  
- * CnsVoiceless = f h k p s š t ;  
- * Letters = Vow Cns ;  
+* VowBack = a o u ;  
+* VowFront = ä ö y ü ;  
+* VowNeutral = e i ;  
+* VowNonHigh = a o ä ö e ;  
+* Vow = a o u ä ö y ü e i ;  
+* Cns = b d f g h j k l m n p r s š t v z ž ;  
+* CnsVoiceless = f h k p s š t ;  
+* Letters = Vow Cns ;  
 
 
 
