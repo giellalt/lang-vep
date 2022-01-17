@@ -6,6 +6,11 @@
 [![Build status](https://github.com/giellalt/lang-vep/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-vep/actions)
 
 This page documents the work on the [Veps language model](http://github.com/giellalt/lang-vep). 
+It is a test version of a grammatical analyser for Veps.
+It is still in an initial state, and contains a couple of
+hundred words.
+
+* Generation of [paradigms](http://giellatekno.uit.no/cgi/p-vep.fin.html) (only a few hundred words)
 
 # Project documentation
 
