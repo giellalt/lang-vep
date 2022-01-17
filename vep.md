@@ -1959,11 +1959,11 @@ in this system in terms of the following symbols.
 #### Verb tags 
 ##### Voice and transitivity
 
-* **+Auxverb**  = auxiliary verb
+* **+Aux**  = auxiliary verb
 * **+Act**  = active voice 
 * **+Pss**  = passive voice 
-* **+TVand** = transitive and
-* **+IVverbs**  = intransitive verbs
+* **+TV** = transitive and
+* **+IV**  = intransitive verbs
 
 ##### Verb moods are: 
 
@@ -2235,8 +2235,8 @@ symbols in the lexicon files:
 
 #### And following triggers to control variation 
 
-* **{front}stems** front vowel stems
-* **{back}stems** back vowel stems
+* **{front}** front vowel stems
+* **{back}** back vowel stems
 * **%^RmVow**  for removing vowels 
 * **%^WGStem** 
 * **%^TS** 
@@ -2490,13 +2490,13 @@ and its use should be associated with the user group, perhaps.
 
 
 
- LEXICON N_NADO  nado:nado
+LEXICON N_NADO  nado:nado
 
 ## Nominals
 
 
 
- * SG-NOM-SUF ; 
+* SG-NOM-SUF ; 
 
 
 
@@ -2582,46 +2582,46 @@ Not yet written...
 
 ## Regolar lexica
 
-* **LEXICON A_UZNMN_NORUZ** = uz’:ud, goes to NMN_NORUZ
+* **LEXICON A_UZ** = uz’:ud, goes to NMN_NORUZ
 
-* **LEXICON A_RUSKEDNMN_RUSKED** = gets +A and goes to NMN\_RUSKED
+* **LEXICON A_RUSKED** = gets +A and goes to NMN\_RUSKED
 
-**LEXICON A_MUNAmuna:mun**   muna:mun
+**LEXICON A_MUNA**   muna:mun
 
-* **LEXICON A_NADOnado:nado** =  nado:nado
-
-
-* **LEXICON A_POIGpoig:poig** =  poig:poig
-
-* **LEXICON A_MARJmarj:marj** =  marj:marj
-
-* **LEXICON A_JAUHjauh:jauh** =  jauh:jauh
-
-* **LEXICON A_OIGEDoiged:oig%{eØ%}d** = oiged:oig%{eØ%}d
-
-* **LEXICON A_KELkel':kel** = kel':kel
-
-* **LEXICON A_SAR1sar':sar** = sar':sar
-
-* **LEXICON A_KEZIkezi:ked** = kezi:ked
+* **LEXICON A_NADO** =  nado:nado
 
 
-* **LEXICON A_VIDENZ1-zid)** =  videnz':viden (-den, -t, -zid)
+* **LEXICON A_POIG** =  poig:poig
+
+* **LEXICON A_MARJ** =  marj:marj
+
+* **LEXICON A_JAUH** =  jauh:jauh
+
+* **LEXICON A_OIGED** = oiged:oig%{eØ%}d
+
+* **LEXICON A_KEL** = kel':kel
+
+* **LEXICON A_SAR1** = sar':sar
+
+* **LEXICON A_KEZI** = kezi:ked
 
 
-* **LEXICON A_LANDEHlandeh:land** =  landeh:land
+* **LEXICON A_VIDENZ1** =  videnz':viden (-den, -t, -zid)
 
-* **LEXICON A_VEDEKAZvedekaz:vedeka** =  vedekaz:vedeka
 
-* **LEXICON A_SEIBAZseibaz:seib** =  seibaz:seib
+* **LEXICON A_LANDEH** =  landeh:land
 
-* **LEXICON A_CIPUINEcipuine:cipu** = cipuine:cipu
+* **LEXICON A_VEDEKAZ** =  vedekaz:vedeka
 
-* **LEXICON A_TOSHTMINEtoštmine:toštmi** =  toštmine:toštmi
+* **LEXICON A_SEIBAZ** =  seibaz:seib
 
-* **LEXICON A_KENGATOIkengätoi:kengäto** =  kengätoi:kengäto
+* **LEXICON A_CIPUINE** = cipuine:cipu
 
-* **LEXICON PRFPRC-DECLENSION-nu** =  -nu
+* **LEXICON A_TOSHTMINE** =  toštmine:toštmi
+
+* **LEXICON A_KENGATOI** =  kengätoi:kengäto
+
+* **LEXICON PRFPRC-DECLENSION** =  -nu
 
 
 
@@ -2795,7 +2795,7 @@ forms which requires great amount of care in the inflection patterns.
 
 
 
-* **LEXICON ARABICCOMPOUNDS1-osainen**  ! 1-osainen
+* **LEXICON ARABICCOMPOUNDS**  ! 1-osainen
 
 
 
@@ -2811,11 +2811,11 @@ forms which requires great amount of care in the inflection patterns.
 
 
 
-* **LEXICON ARABICCASES+Arab**  adds +Arab
+* **LEXICON ARABICCASES**  adds +Arab
 
-* **LEXICON ARABICCASE+Arab**  adds +Arab
+* **LEXICON ARABICCASE**  adds +Arab
 
-* **LEXICON ARABICCASE0+Arab**  adds +Arab
+* **LEXICON ARABICCASE0**  adds +Arab
 
 
 
@@ -2856,107 +2856,107 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-v
 
 ### Alphabet
 #### The letters
- * a b d e f g h i j k l m n o p r s š t u v z ž ü ä ö  
- * A B D E F G H I J K L M N O P R S Š T U V Z Ž Ü Ä Ö  
- * š ž y  
- * Š Ž Y  
- * ʼ  = U+02BC MODIFIER LETTER APOSTROPHE
- * '  = U+0027  APOSTROPHE
+* a b d e f g h i j k l m n o p r s š t u v z ž ü ä ö  
+* A B D E F G H I J K L M N O P R S Š T U V Z Ž Ü Ä Ö  
+* š ž y  
+* Š Ž Y  
+* ʼ  = U+02BC MODIFIER LETTER APOSTROPHE
+* '  = U+0027  APOSTROPHE
 
 #### Archiphonemes
- * %{eØ%}:e   vowel loss in oiged:oiktan
- * %{uØ%}:u   vowel loss in sapug:sapkan
- * %{iØ%}:i   vowel loss in paltin:paltnan
- * %{aØ%}:a   vowel loss in samal:samlan
- * %{oØ%}:o   vowel loss in zerkol:zerklon
- * AÄ1:a   Vowel harmony with "(t)a/ä"
- * AÄ1:ä   Vowel harmony with "(t)a/ä"
- * AÄ1:0   Vowel harmony with 0
+* %{eØ%}:e   vowel loss in oiged:oiktan
+* %{uØ%}:u   vowel loss in sapug:sapkan
+* %{iØ%}:i   vowel loss in paltin:paltnan
+* %{aØ%}:a   vowel loss in samal:samlan
+* %{oØ%}:o   vowel loss in zerkol:zerklon
+* AÄ1:a   Vowel harmony with "(t)a/ä"
+* AÄ1:ä   Vowel harmony with "(t)a/ä"
+* AÄ1:0   Vowel harmony with 0
 
- * OÖ1:o   
- * OÖ1:ö   
+* OÖ1:o   
+* OÖ1:ö   
 
- * UY1:u   
- * UY1:ü   
+* UY1:u   
+* UY1:ü   
 
- * V1:a     
- * V1:e     
- * V1:i     
- * V1:o     
- * V1:u     
- * V1:ü     
- * V1:ä     
- * V1:ö     
+* V1:a     
+* V1:e     
+* V1:i     
+* V1:o     
+* V1:u     
+* V1:ü     
+* V1:ä     
+* V1:ö     
 
- * V2:a    
- * V2:e    
- * V2:i    
- * V2:o    
- * V2:u    
- * V2:ü    
- * V2:ä    
- * V2:ö    
+* V2:a    
+* V2:e    
+* V2:i    
+* V2:o    
+* V2:u    
+* V2:ü    
+* V2:ä    
+* V2:ö    
 
- * V3:a    
- * V3:e    
- * V3:i    
- * V3:o    
- * V3:u    
- * V3:ü    
- * V3:ä    
- * V3:ö    
- * V3:0    
+* V3:a    
+* V3:e    
+* V3:i    
+* V3:o    
+* V3:u    
+* V3:ü    
+* V3:ä    
+* V3:ö    
+* V3:0    
 
- * %^RmVow:0  for removing vowels
- *  AO1:0   
- *   D1:0   
- *   E1:0   
- *  EH1:0   
- *  EI1:0   
- *   I1:0   
- * INE1:0   
- * QAO1:0    
- * QAO1:a   
- * QAQ1:0   
- * QEQ1:0   
- * QÄQ1:0   
- *   U1:0   
- *  ZD1:0   
- *  ZD1:0   
- *  ZS1:0   
- *  ZS1:0   
+* %^RmVow:0  for removing vowels
+*  AO1:0   
+*   D1:0   
+*   E1:0   
+*  EH1:0   
+*  EI1:0   
+*   I1:0   
+* INE1:0   
+* QAO1:0    
+* QAO1:a   
+* QAQ1:0   
+* QEQ1:0   
+* QÄQ1:0   
+*   U1:0   
+*  ZD1:0   
+*  ZD1:0   
+*  ZS1:0   
+*  ZS1:0   
 
- *  %^DEVOICE:0     vezi:vet; pen’:pen’t
+*  %^DEVOICE:0     vezi:vet; pen’:pen’t
 
 
- * K1:k    
- * %^NoGrad:0    This will be placed after a stem to break Gradation
+* K1:k    
+* %^NoGrad:0    This will be placed after a stem to break Gradation
 
- * %^WGStem:0    
+* %^WGStem:0    
 
- * %^TS:0    
+* %^TS:0    
 
- * %^RVow:0   
+* %^RVow:0   
 
- * %-     Hyphen in  constructions 
- * %>   
- * #       Word boundary for both lexicalised and dynamic compounds
+* %-     Hyphen in  constructions 
+* %>   
+* #       Word boundary for both lexicalised and dynamic compounds
 
- * Cx   these are probably not needed
- * Cy   
- * X   
- * Y   
+* Cx   these are probably not needed
+* Cy   
+* X   
+* Y   
 
 #### Triggers
- * %^LVow:0		    
- * %^LCns:0		    
- * %^WCns:0		    
- * %^AtoO:0		    
- * %^ÄtoÖ:0		    
- * %^OddSyll:0		    
- * %^StretchSyll2:0    
- * %^SyllBr:0		    
- * %^E1:0			    
+* %^LVow:0		    
+* %^LCns:0		    
+* %^WCns:0		    
+* %^AtoO:0		    
+* %^ÄtoÖ:0		    
+* %^OddSyll:0		    
+* %^StretchSyll2:0    
+* %^SyllBr:0		    
+* %^E1:0			    
 
 
 
@@ -3306,12 +3306,12 @@ for text-to-speech systems.
 
 For example:
 
- * s.:syntynyt # ;  
- * os.:omaa% sukua # ;  
- * v.:vuosi # ;  
- * v.:vuonna # ;  
- * esim.:esimerkki # ; 
- * esim.:esimerkiksi # ; 
+* s.:syntynyt # ;  
+* os.:omaa% sukua # ;  
+* v.:vuosi # ;  
+* v.:vuonna # ;  
+* esim.:esimerkki # ; 
+* esim.:esimerkiksi # ; 
 
 
 * * *

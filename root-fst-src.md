@@ -89,11 +89,11 @@ in this system in terms of the following symbols.
 #### Verb tags 
 ##### Voice and transitivity
 
-* **+Auxverb**  = auxiliary verb
+* **+Aux**  = auxiliary verb
 * **+Act**  = active voice 
 * **+Pss**  = passive voice 
-* **+TVand** = transitive and
-* **+IVverbs**  = intransitive verbs
+* **+TV** = transitive and
+* **+IV**  = intransitive verbs
 
 ##### Verb moods are: 
 
@@ -365,8 +365,8 @@ symbols in the lexicon files:
 
 #### And following triggers to control variation 
 
-* **{front}stems** front vowel stems
-* **{back}stems** back vowel stems
+* **{front}** front vowel stems
+* **{back}** back vowel stems
 * **%^RmVow**  for removing vowels 
 * **%^WGStem** 
 * **%^TS** 

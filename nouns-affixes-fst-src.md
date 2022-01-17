@@ -121,13 +121,13 @@ and its use should be associated with the user group, perhaps.
 
 
 
- LEXICON N_NADO  nado:nado
+LEXICON N_NADO  nado:nado
 
 ## Nominals
 
 
 
- * SG-NOM-SUF ; 
+* SG-NOM-SUF ; 
 
 
 
