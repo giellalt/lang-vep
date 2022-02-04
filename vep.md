@@ -2047,7 +2047,786 @@ Right context for gradation
 **’:0 before vowels**  
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/phonology.twolc)</small>
+<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/phonology.twolc)</small># Nouns
+**LEXION @ELXNAME@ for the nouns (only 10 here)
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/nouns.lexc)</small># Adverbs
+
+**LEXICON adverbs** containing 3
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adverbs.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/adverbs.lexc)</small># Quantifiers
+
+**LEXICON quantifiers** = contains numbers 1-10, 100, 1000
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/quantifiers.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/quantifiers.lexc)</small># New adjectives for Veps
+[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adjectives_newwords.lexc)
+
+This is where new words are added as lexc entries before they are 
+added to the xml source files.
+kala:kala A_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
+
+
+**LEXICON A_NEWWORDS** 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives_newwords.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/adjectives_newwords.lexc)</small># Interjections
+
+**LEXICON interjections contains *aj*, pointing to INTERJ_
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/interjections.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/interjections.lexc)</small># Acronyms
+[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/acronyms.lexc)
+
+Veps acronyms ...
+
+**LEXICON Acronym** 
+
+**LEXICON acr2-cyr** 
+
+**LEXICON acr3-cyr** 
+
+**LEXICON acr4-cyr** 
+
+**LEXICON acr5-cyr** 
+
+
+
+**LEXICON acr3-lat** 
+
+**LEXICON acr4-lat** 
+
+**LEXICON acr5-lat** 
+
+
+
+**LEXICON acros** 
+
+**LEXICON acrotag** 
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/acronyms.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/acronyms.lexc)</small># Pronouns
+
+**LEXICON pronouns** = contains the 6 personal
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/pronouns.lexc)</small># Veps numerals
+
+
+Numerals have been split in three sections, the compounding parts
+of cardinals and ordinals, and the non-compounding ones:
+
+*Numeral examples:*
+* *kaksikymmentäkolmetuhatta:* `kaksi+Num+Sg+Nom#kymmenen+Num+Sg+Par#kolme+Num+Sg+Nom#tuhat+Num+Sg+Par` (Eng. ! 23,000)
+* *kakskymmentäkolmetuhatta:* `kaksi+Num+Sg+Nom#kymmenen+Num+Sg+Par#kolme+Num+Sg+Nom#tuhat+Num+Sg+Par`
+* *kahđessađasneljes:* `kahđes+A+Ord+Sg+Nom#sađas+A+Ord+Sg+Nom#neljes+A+Ord+Sg+Nom` (Eng. ! 204rd)
+* *viitisenkymmentä:* `viitisen+Num#kymmentä` (Eng. ! 50-ish)
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/numerals.lexc)</small># Adjectives
+[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adjectives.lexc)
+
+**LEXICON adjectives** contains 3 adjs.
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/adjectives.lexc)</small># Verbs
+[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/verbs.lexc)
+
+**LEXICON verbs** = 
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/verbs.lexc)</small>This is where new words are added as lexc entries before they are 
+added to the xml source files.
+kala:kala N_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
+
+
+**LEXICON PROP_NEWWORDS** = 
+ADD NOUNS BELOW
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/propernouns_newwords.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/propernouns_newwords.lexc)</small># Conjunctions
+
+**LEXICON conjuncts** pointinh to CC_
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/conjuncts.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/conjuncts.lexc)</small># Veps verbs (newwords)
+[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/verbs_newwords.lexc)
+
+This is where new words are added as lexc entries before they are 
+added to the xml source files.
+avaita:avai V_ "" ;
+
+
+**RULE: V_NEWWORDS** = 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/verbs_newwords.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/verbs_newwords.lexc)</small># Newwords (nouns)
+
+This is where new words are added as lexc entries before they are 
+added to the xml source files.
+kala:kala N_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
+
+
+**LEXICON N_NEWWORDS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/nouns_newwords.lexc)</small># Veps abbreviations 
+[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/abbreviations.lexc)
+
+## Lexica for adding tags and periods
+
+Splitting in 3 groups, because of the preprocessor
+
+**LEXICON Abbreviation** 
+
+Now splitting according to POS, and according to dot or not
+
+
+**LEXICON ab** 
+
+**LEXICON ab-noun** 
+
+
+
+
+Here come POS and Case tags, and no period.
+
+**LEXICON ab-nodot-noun**  The bulk
+
+**LEXICON ab-nodot** 
+
+
+**LEXICON ab-dot** 
+
+**LEXICON ab-dot-noun** 
+
+The idea is that the nominal ones may have case, like e.g. P.E.N.
+
+
+## The abbreviation lexicon itself
+
+
+**LEXICON noperiod** 
+
+###           Intransitive abbreviations           
+
+
+
+**LEXICON ITRAB** 
+
+
+
+###    Transitive number-related abbreviations      !
+
+
+**LEXICON TRNUMAB** 
+
+
+###              Transitive abbreviations           !
+
+**LEXICON TRAB** 
+
+**LEXICON TRAB** 
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/stems/abbreviations.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/abbreviations.lexc)</small># Veps Noun inflection
+* Metrical feet
+	* Disyllables
+		* pyrrhic, dibrach : kala
+		* iamb	  	  : veneh
+		* trochee, choree  : sanha sana+N+Sg+Ill
+		* spondee	: landeh
+	* Trisyllables
+		* tribrach
+		* dactyl
+		* amphibrach
+		* anapaest, antidactylus : venehed 
+		* bacchius
+		* antibacchius
+		* cretic, amphimacer
+		* molossus
+
+
+
+
+
+
+The accusative singular has two forms, one is the same as the 
+nominative singular in form and the other is identical to the 
+genitive singular. This definition is dependent on the school
+and its use should be associated with the user group, perhaps.
+
+
+*Noun 'berry / marja' - full paradigm: Noun - marj examples:*
+* *marj:* `marj+N+Sg+Nom`
+* *marjan:* `marj+N+Sg+Gen`
+* *[marj,* `marjan]:` (Eng. marj+N+Sg+Acc)
+* *marjad:* `marj+N+Sg+Par`
+* *marjaks:* `marj+N+Sg+Tra`
+* *marjata:* `marj+N+Sg+Abe`
+* *marjanke:* `marj+N+Sg+Com`
+* *marjas:* `marj+N+Sg+Ine`
+* *marjaspäi:* `marj+N+Sg+Ela`
+* *marjaha:* `marj+N+Sg+Ill`
+* *marjal:* `marj+N+Sg+Ade`
+* *marjalpäi:* `marj+N+Sg+Abl`
+* *marjale:* `marj+N+Sg+All`
+* *marjan:* `marj+N+Sg+EssInst`
+* *marjadme:* `marj+N+Sg+Prl`
+* *marjanno:* `marj+N+Sg+Apr1`
+* *marjannoks:* `marj+N+Sg+Apr2`
+* *marjannopäi:* `marj+N+Sg+Egr`
+* *marjahosai:* `marj+N+Sg+Ter1`
+* *marjalesai:* `marj+N+Sg+Ter2`
+* *marjassai:* `marj+N+Sg+Ter3`
+* *marjahopäi:* `marj+N+Sg+Add1`
+* *marjalepäi:* `marj+N+Sg+Add2`
+
+* *marjad:* `marj+N+Pl+Nom`
+* *[marjoid'en,* `marjoiden]` (Eng. # checking needed: marj+N+Pl+Gen)
+* *marjad:* `marj+N+Pl+Acc`
+* *marjoid:* `marj+N+Pl+Par`
+* *marjoikš:* `marj+N+Pl+Tra`
+* *marjoita:* `marj+N+Pl+Abe`
+* *marjoidenke:* `marj+N+Pl+Com`
+* *marjoiš:* `marj+N+Pl+Ine`
+* *marjoišpäi:* `marj+N+Pl+Ela`
+* *marjoihe:* `marj+N+Pl+Ill`
+* *marjoil:* `marj+N+Pl+Ade`
+* *marjoilpäi:* `marj+N+Pl+Abl`
+* *marjoile:* `marj+N+Pl+All`
+* *marjoin:* `marj+N+Pl+EssInst`
+* *marjoidme:* `marj+N+Pl+Prl`
+* *marjoidenno:* `marj+N+Pl+Apr1`
+* *marjoidennoks:* `marj+N+Pl+Apr2`
+* *marjoidennopäi:* `marj+N+Pl+Egr`
+* *marjoihesai:* `marj+N+Pl+Ter1`
+* *marjoilesai:* `marj+N+Pl+Ter2`
+* *marjoihepäi:* `marj+N+Pl+Add1`
+* *marjoilepäi:* `marj+N+Pl+Add2`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LEXICON N_NADO  nado:nado
+
+## Nominals
+
+
+
+* SG-NOM-SUF ; 
+
+
+
+
+
+
+
+
+
+
+
+# ACTUAL CASES 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Start Plural
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Possessor Indices
+
+Not yet written...
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/nouns.lexc)</small># quantifier affixes
+
+**LEXICON NUM_KAKS1** 
+
+**LEXICON NUM_YKS1** 
+
+
+**LEXICON NUM_NORUZ** 
+
+**LEXICON NUM_** 
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/quantifiers.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/quantifiers.lexc)</small># Pronouns
+
+Veps pronouns ...
+
+PRONOUN-TYPES split in types: prs, interr, neg, dem.
+
+PERS  split in persons
+
+PersSg1 split in Nom, Gen, Acc
+
+PersSg2 split in Nom, Gen, Acc
+
+PersSg3 split in Nom, Gen, Acc, Par and 10 other cases
+
+PersPl1 split in Nom and obl
+
+PersPl2 split in Nom and obl
+
+PersPl3 split in Nom and obl
+
+PERS-PL_01 add case suffix
+
+INTERR add case suff
+
+DEM-PRON split in Nom Gen par
+
+NEG-PRON split in Nom Gen Par
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/pronouns.lexc)</small>
+# Olonets numerals 
+
+# Numeral inflection
+Numeral inflection is like nominal, except that numerals compound in all
+forms which requires great amount of care in the inflection patterns.
+
+
+
+
+
+
+* **LEXICON ARABICCOMPOUNDS**  ! 1-osainen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* **LEXICON ARABICCASES**  adds +Arab
+
+* **LEXICON ARABICCASE**  adds +Arab
+
+* **LEXICON ARABICCASE0**  adds +Arab
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/numerals.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/numerals.lexc)</small># Veps clitics
+
+K 3 clitics plus #
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/clitics.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/clitics.lexc)</small># Proper noun inflection
+
+Veps proper nouns inflect in the same cases as regular
+nouns. Veps acronyms, however, take a hyphen ('-') as a separator.
+
+
+PROPER NOUNS 
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/propernouns.lexc)</small># Adjective inflection
+
+
+
+
+## Temporary lexicon
+
+
+* **LEXICON A_** = , when we do not know. Redirecting to N_ (?) 
+
+
+## Regolar lexica
+
+* **LEXICON A_UZ** = uz’:ud, goes to NMN_NORUZ
+
+* **LEXICON A_RUSKED** = gets +A and goes to NMN\_RUSKED
+
+**LEXICON A_MUNA**   muna:mun
+
+* **LEXICON A_NADO** =  nado:nado
+
+
+* **LEXICON A_POIG** =  poig:poig
+
+* **LEXICON A_MARJ** =  marj:marj
+
+* **LEXICON A_JAUH** =  jauh:jauh
+
+* **LEXICON A_OIGED** = oiged:oig%{eØ%}d
+
+* **LEXICON A_KEL** = kel':kel
+
+* **LEXICON A_SAR1** = sar':sar
+
+* **LEXICON A_KEZI** = kezi:ked
+
+
+* **LEXICON A_VIDENZ1** =  videnz':viden (-den, -t, -zid)
+
+
+* **LEXICON A_LANDEH** =  landeh:land
+
+* **LEXICON A_VEDEKAZ** =  vedekaz:vedeka
+
+* **LEXICON A_SEIBAZ** =  seibaz:seib
+
+* **LEXICON A_CIPUINE** = cipuine:cipu
+
+* **LEXICON A_TOSHTMINE** =  toštmine:toštmi
+
+* **LEXICON A_KENGATOI** =  kengätoi:kengäto
+
+* **LEXICON PRFPRC-DECLENSION** =  -nu
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/adjectives.lexc)</small>
+# Verb inflection in Vepsian
+
+## Lexica from the *stems* file
+
+### Irregular verbs
+V_EI all forms of the *ei* verb
+
+### Regular verbs
+
+V_SUGIDA This and all V_... lexica redirect to *V-VowelStem, V-ConsonantStem, INDPRS3* (see below)
+
+V_OLDA (adding :le to vowstem)
+
+
+V_PESTA (adding -e) ti vowstem and indprs3)
+
+V_TEHTA = tehta:te (adding :ge to vowst and indprs3)
+
+V_SIRTA =  sirta:sir
+
+V_JOKSTA = joksta:joks
+
+V_LETA = leta:le
+
+V_JODA = joda:jo
+
+V_VEDADA =  vedada:ved
+
+V_MAKSTA = maksta:maks
+
+V_ASTTA = astta:ast
+
+V_HUBETA = hubeta:hube
+
+V_TULDA = tulda:tul
+
+V_OTTA = otta:ot
+
+V_HOMAITA =  homaita:homai
+
+V_OIGETA
+
+V_VIRIGATA =  virigata:viriga
+
+V_KERATA = kerata:kera
+
+V_JAGADA =  jagada:jag (adding a to prt and a elsewhere)
+
+
+V_TUGETA = tugeta:tuge
+
+V_VALITA  =  valita:vali
+
+V_AVAITA = avaita:avai, avaidab avaiži
+
+
+### Default lexicon
+
+V_ default verb lexicon
+
+## The three contlex types
+
+### PNDPRS3
+
+INDPRS3 for Sg3 and Pl3
+
+
+
+### Vowel stems
+
+V-VowelStem
+
+
+
+V-VowelStem-PRS This lexicon gives all  forms for vowel stems
+
+#### Present Morphology
+
+
+#### IMPERATIVE 
+
+
+#### present reflexive
+
+
+
+#### Preterite 
+
+
+
+
+
+#### conditional present 
+
+
+
+#### Imperfect Reflexive 
+
+
+#### Conditional Present Reflexive
+
+
+
+
+### Consonant Stems
+
+V-ConsonantStem V-ConsonantStem_OTHER ;
+
+V-ConsonantStem_OTHER 
+
+#### Imperative 
+
+
+#### Conditional Imperfect 
+
+
+#### Reflexive 
+
+
+#### Imperative 
+
+
+V-ConsonantStem_t 
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/verbs.lexc)</small>
+# Symbol affixes
+
+
+
+
+
+* * *
+<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/symbols.lexc)</small>
 
 # Multichar_Symbols and *Root* lexicon for Veps 
 
@@ -2520,785 +3299,232 @@ DEM
 
 * * *
 <small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/root.lexc)</small>
-# Symbol affixes
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+retroflex plosive, voiceless			t`  ʈ	    0288, 648 (` = ASCII 096)
+retroflex plosive, voiced			d`	ɖ		0256, 598
+labiodental nasal					F 	ɱ		0271, 625
+retroflex nasal						n` 	ɳ		0273, 627
+palatal nasal						J 	ɲ		0272, 626
+velar nasal							N 	ŋ		014B, 331
+uvular nasal							N\	ɴ		0274, 628
+	
+bilabial trill						B\ 	ʙ		0299, 665
+uvular trill							R\ 	ʀ		0280, 640
+alveolar tap							4	ɾ		027E, 638
+retroflex flap						r` 	ɽ		027D, 637
+bilabial fricative, voiceless		p\ 	ɸ		0278, 632
+bilabial fricative, voiced			B 	β		03B2, 946
+dental fricative, voiceless			T 	θ		03B8, 952
+dental fricative, voiced				D 	ð		00F0, 240
+postalveolar fricative, voiceless	S	ʃ		0283, 643
+postalveolar fricative, voiced		Z 	ʒ		0292, 658
+retroflex fricative, voiceless		s` 	ʂ		0282, 642
+retroflex fricative, voiced			z` 	ʐ		0290, 656
+palatal fricative, voiceless			C 	ç		00E7, 231
+palatal fricative, voiced			j\ 	ʝ		029D, 669
+velar fricative, voiced	        	G 	ɣ		0263, 611
+uvular fricative, voiceless			X	χ		03C7, 967
+uvular fricative, voiced				R 	ʁ		0281, 641
+pharyngeal fricative, voiceless		X\ 	ħ		0127, 295
+pharyngeal fricative, voiced			?\ 	ʕ		0295, 661
+glottal fricative, voiced			h\	ɦ		0266, 614
+
+alveolar lateral fricative, vl.		K 
+alveolar lateral fricative, vd.		K\
+
+labiodental approximant				P (or v\) 
+alveolar approximant					r\ 
+retroflex approximant				r\` 
+velar approximant					M\
+
+retroflex lateral approximant		l` 
+palatal lateral approximant			L 
+velar lateral approximant			L\
+Clicks
+
+bilabial								O\	(O = capital letter) 
+dental								|\
+(post)alveolar						!\ 
+palatoalveolar						=\ 
+alveolar lateral						|\|\
+Ejectives, implosives
+
+ejective								_>	e.g. ejective p		p_>
+implosive							_<	e.g. implosive b	b_<
+Vowels
+
+close back unrounded					M
+close central unrounded 				1 
+close central rounded				} 
+lax i								I 
+lax y								Y 
+lax u								U
+
+close-mid front rounded				2 
+close-mid central unrounded			@\ 
+close-mid central rounded			8 
+close-mid back unrounded				7
+
+schwa	ə							@
+
+open-mid front unrounded				E 
+open-mid front rounded				9
+open-mid central unrounded			3 
+open-mid central rounded				3\ 
+open-mid back unrounded				V 
+open-mid back rounded				O
+
+ash (ae digraph)						{ 
+open schwa (turned a)				6
+
+open front rounded					& 
+open back unrounded	        		A 
+open back rounded					Q
+Other symbols
+
+voiceless labial-velar fricative		W 
+voiced labial-palatal approx.		H 
+voiceless epiglottal fricative		H\ 
+voiced epiglottal fricative			<\ 
+epiglottal plosive					>\
+
+alveolo-palatal fricative, vl. 		s\ 
+alveolo-palatal fricative, voiced	z\ 
+alveolar lateral flap				l\ 
+simultaneous S and x					x\ 
+tie bar								_
+Suprasegmentals
+
+primary stress						" 
+secondary stress						% 
+long									: 
+half-long							:\ 
+extra-short							_X 
+linking mark							-\
+Tones and word accents
+
+level extra high						_T 
+level high							_H
+level mid							_M 
+level low							_L 
+level extra low						_B
+downstep								! 
+upstep								^	(caret, circumflex)
+
+contour, rising						 
+contour, falling						_F 
+contour, high rising					_H_T 
+contour, low rising					_B_L 
+
+contour, rising-falling				_R_F 
+(NB Instead of being written as diacritics with _, all prosodic 
+marks can alternatively be placed in a separate tier, set off 
+by < >, as recommended for the next two symbols.)
+global rise						<R> 
+global fall						<F>
+Diacritics						
+									
+voiceless						_0	(0 = figure), e.g. n_0
+voiced							_v 
+aspirated						_h 
+more rounded						_O	(O = letter) 
+less rounded						_c 
+advanced							_+
+retracted						_-
+centralized						_" 
+syllabic							=	(or _=) e.g. n= (or n_=) 
+non-syllabic						_^ 
+rhoticity						`
+									
+breathy voiced					_t 
+creaky voiced					_k
+linguolabial						_N 
+labialized						_w 
+palatalized						'	(or _j) e.g. t' (or t_j) 
+velarized						_G 
+pharyngealized					_?\
+									
+dental							_d 
+apical							_a 
+laminal							_m
+nasalized						~	(or _~) e.g. A~ (or A_~) 
+nasal release					_n
+lateral release					_l 
+no audible release				_}
+
+velarized or pharyngealized		_e 
+velarized l, alternatively		5 
+raised							_r 
+lowered							_o 
+advanced tongue root				_A 
+retracted tongue root			_q
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/symbols.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/symbols.lexc)</small># Proper noun inflection
-
-Veps proper nouns inflect in the same cases as regular
-nouns. Veps acronyms, however, take a hyphen ('-') as a separator.
-
-
-PROPER NOUNS 
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/propernouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/propernouns.lexc)</small>
-# Verb inflection in Vepsian
-
-## Lexica from the *stems* file
-
-### Irregular verbs
-V_EI all forms of the *ei* verb
-
-### Regular verbs
-
-V_SUGIDA This and all V_... lexica redirect to *V-VowelStem, V-ConsonantStem, INDPRS3* (see below)
-
-V_OLDA (adding :le to vowstem)
-
-
-V_PESTA (adding -e) ti vowstem and indprs3)
-
-V_TEHTA = tehta:te (adding :ge to vowst and indprs3)
-
-V_SIRTA =  sirta:sir
-
-V_JOKSTA = joksta:joks
-
-V_LETA = leta:le
-
-V_JODA = joda:jo
-
-V_VEDADA =  vedada:ved
-
-V_MAKSTA = maksta:maks
-
-V_ASTTA = astta:ast
-
-V_HUBETA = hubeta:hube
-
-V_TULDA = tulda:tul
-
-V_OTTA = otta:ot
-
-V_HOMAITA =  homaita:homai
-
-V_OIGETA
-
-V_VIRIGATA =  virigata:viriga
-
-V_KERATA = kerata:kera
-
-V_JAGADA =  jagada:jag (adding a to prt and a elsewhere)
-
-
-V_TUGETA = tugeta:tuge
-
-V_VALITA  =  valita:vali
-
-V_AVAITA = avaita:avai, avaidab avaiži
-
-
-### Default lexicon
-
-V_ default verb lexicon
-
-## The three contlex types
-
-### PNDPRS3
-
-INDPRS3 for Sg3 and Pl3
-
-
-
-### Vowel stems
-
-V-VowelStem
-
-
-
-V-VowelStem-PRS This lexicon gives all  forms for vowel stems
-
-#### Present Morphology
-
-
-#### IMPERATIVE 
-
-
-#### present reflexive
-
-
-
-#### Preterite 
-
-
-
-
-
-#### conditional present 
-
-
-
-#### Imperfect Reflexive 
-
-
-#### Conditional Present Reflexive
-
-
-
-
-### Consonant Stems
-
-V-ConsonantStem V-ConsonantStem_OTHER ;
-
-V-ConsonantStem_OTHER 
-
-#### Imperative 
-
-
-#### Conditional Imperfect 
-
-
-#### Reflexive 
-
-
-#### Imperative 
-
-
-V-ConsonantStem_t 
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/verbs.lexc)</small># Veps clitics
-
-K 3 clitics plus #
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/clitics.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/clitics.lexc)</small># Adjective inflection
-
-
-
-
-## Temporary lexicon
-
-
-* **LEXICON A_** = , when we do not know. Redirecting to N_ (?) 
-
-
-## Regolar lexica
-
-* **LEXICON A_UZ** = uz’:ud, goes to NMN_NORUZ
-
-* **LEXICON A_RUSKED** = gets +A and goes to NMN\_RUSKED
-
-**LEXICON A_MUNA**   muna:mun
-
-* **LEXICON A_NADO** =  nado:nado
-
-
-* **LEXICON A_POIG** =  poig:poig
-
-* **LEXICON A_MARJ** =  marj:marj
-
-* **LEXICON A_JAUH** =  jauh:jauh
-
-* **LEXICON A_OIGED** = oiged:oig%{eØ%}d
-
-* **LEXICON A_KEL** = kel':kel
-
-* **LEXICON A_SAR1** = sar':sar
-
-* **LEXICON A_KEZI** = kezi:ked
-
-
-* **LEXICON A_VIDENZ1** =  videnz':viden (-den, -t, -zid)
-
-
-* **LEXICON A_LANDEH** =  landeh:land
-
-* **LEXICON A_VEDEKAZ** =  vedekaz:vedeka
-
-* **LEXICON A_SEIBAZ** =  seibaz:seib
-
-* **LEXICON A_CIPUINE** = cipuine:cipu
-
-* **LEXICON A_TOSHTMINE** =  toštmine:toštmi
-
-* **LEXICON A_KENGATOI** =  kengätoi:kengäto
-
-* **LEXICON PRFPRC-DECLENSION** =  -nu
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/adjectives.lexc)</small>
-# Olonets numerals 
-
-# Numeral inflection
-Numeral inflection is like nominal, except that numerals compound in all
-forms which requires great amount of care in the inflection patterns.
-
-
-
-
-
-
-* **LEXICON ARABICCOMPOUNDS**  ! 1-osainen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* **LEXICON ARABICCASES**  adds +Arab
-
-* **LEXICON ARABICCASE**  adds +Arab
-
-* **LEXICON ARABICCASE0**  adds +Arab
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/numerals.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/numerals.lexc)</small># Veps Noun inflection
-* Metrical feet
-	* Disyllables
-		* pyrrhic, dibrach : kala
-		* iamb	  	  : veneh
-		* trochee, choree  : sanha sana+N+Sg+Ill
-		* spondee	: landeh
-	* Trisyllables
-		* tribrach
-		* dactyl
-		* amphibrach
-		* anapaest, antidactylus : venehed 
-		* bacchius
-		* antibacchius
-		* cretic, amphimacer
-		* molossus
-
-
-
-
-
-
-The accusative singular has two forms, one is the same as the 
-nominative singular in form and the other is identical to the 
-genitive singular. This definition is dependent on the school
-and its use should be associated with the user group, perhaps.
-
-
-*Noun 'berry / marja' - full paradigm: Noun - marj examples:*
-* *marj:* `marj+N+Sg+Nom`
-* *marjan:* `marj+N+Sg+Gen`
-* *[marj,* `marjan]:` (Eng. marj+N+Sg+Acc)
-* *marjad:* `marj+N+Sg+Par`
-* *marjaks:* `marj+N+Sg+Tra`
-* *marjata:* `marj+N+Sg+Abe`
-* *marjanke:* `marj+N+Sg+Com`
-* *marjas:* `marj+N+Sg+Ine`
-* *marjaspäi:* `marj+N+Sg+Ela`
-* *marjaha:* `marj+N+Sg+Ill`
-* *marjal:* `marj+N+Sg+Ade`
-* *marjalpäi:* `marj+N+Sg+Abl`
-* *marjale:* `marj+N+Sg+All`
-* *marjan:* `marj+N+Sg+EssInst`
-* *marjadme:* `marj+N+Sg+Prl`
-* *marjanno:* `marj+N+Sg+Apr1`
-* *marjannoks:* `marj+N+Sg+Apr2`
-* *marjannopäi:* `marj+N+Sg+Egr`
-* *marjahosai:* `marj+N+Sg+Ter1`
-* *marjalesai:* `marj+N+Sg+Ter2`
-* *marjassai:* `marj+N+Sg+Ter3`
-* *marjahopäi:* `marj+N+Sg+Add1`
-* *marjalepäi:* `marj+N+Sg+Add2`
-
-* *marjad:* `marj+N+Pl+Nom`
-* *[marjoid'en,* `marjoiden]` (Eng. # checking needed: marj+N+Pl+Gen)
-* *marjad:* `marj+N+Pl+Acc`
-* *marjoid:* `marj+N+Pl+Par`
-* *marjoikš:* `marj+N+Pl+Tra`
-* *marjoita:* `marj+N+Pl+Abe`
-* *marjoidenke:* `marj+N+Pl+Com`
-* *marjoiš:* `marj+N+Pl+Ine`
-* *marjoišpäi:* `marj+N+Pl+Ela`
-* *marjoihe:* `marj+N+Pl+Ill`
-* *marjoil:* `marj+N+Pl+Ade`
-* *marjoilpäi:* `marj+N+Pl+Abl`
-* *marjoile:* `marj+N+Pl+All`
-* *marjoin:* `marj+N+Pl+EssInst`
-* *marjoidme:* `marj+N+Pl+Prl`
-* *marjoidenno:* `marj+N+Pl+Apr1`
-* *marjoidennoks:* `marj+N+Pl+Apr2`
-* *marjoidennopäi:* `marj+N+Pl+Egr`
-* *marjoihesai:* `marj+N+Pl+Ter1`
-* *marjoilesai:* `marj+N+Pl+Ter2`
-* *marjoihepäi:* `marj+N+Pl+Add1`
-* *marjoilepäi:* `marj+N+Pl+Add2`
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-LEXICON N_NADO  nado:nado
-
-## Nominals
-
-
-
-* SG-NOM-SUF ; 
-
-
-
-
-
-
-
-
-
-
-
-# ACTUAL CASES 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Start Plural
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Possessor Indices
-
-Not yet written...
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/nouns.lexc)</small># Pronouns
-
-Veps pronouns ...
-
-PRONOUN-TYPES split in types: prs, interr, neg, dem.
-
-PERS  split in persons
-
-PersSg1 split in Nom, Gen, Acc
-
-PersSg2 split in Nom, Gen, Acc
-
-PersSg3 split in Nom, Gen, Acc, Par and 10 other cases
-
-PersPl1 split in Nom and obl
-
-PersPl2 split in Nom and obl
-
-PersPl3 split in Nom and obl
-
-PERS-PL_01 add case suffix
-
-INTERR add case suff
-
-DEM-PRON split in Nom Gen par
-
-NEG-PRON split in Nom Gen Par
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/pronouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/pronouns.lexc)</small># quantifier affixes
-
-**LEXICON NUM_KAKS1** 
-
-**LEXICON NUM_YKS1** 
-
-
-**LEXICON NUM_NORUZ** 
-
-**LEXICON NUM_** 
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/quantifiers.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/quantifiers.lexc)</small>This is where new words are added as lexc entries before they are 
-added to the xml source files.
-kala:kala N_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
-
-
-**LEXICON PROP_NEWWORDS** = 
-ADD NOUNS BELOW
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/propernouns_newwords.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/propernouns_newwords.lexc)</small># New adjectives for Veps
-[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adjectives_newwords.lexc)
-
-This is where new words are added as lexc entries before they are 
-added to the xml source files.
-kala:kala A_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
-
-
-**LEXICON A_NEWWORDS** 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives_newwords.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/adjectives_newwords.lexc)</small># Interjections
-
-**LEXICON interjections contains *aj*, pointing to INTERJ_
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/interjections.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/interjections.lexc)</small># Newwords (nouns)
-
-This is where new words are added as lexc entries before they are 
-added to the xml source files.
-kala:kala N_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
-
-
-**LEXICON N_NEWWORDS
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns_newwords.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/nouns_newwords.lexc)</small># Verbs
-[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/verbs.lexc)
-
-**LEXICON verbs** = 
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/verbs.lexc)</small># Adjectives
-[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adjectives.lexc)
-
-**LEXICON adjectives** contains 3 adjs.
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adjectives.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/adjectives.lexc)</small># Veps numerals
-
-
-Numerals have been split in three sections, the compounding parts
-of cardinals and ordinals, and the non-compounding ones:
-
-*Numeral examples:*
-* *kaksikymmentäkolmetuhatta:* `kaksi+Num+Sg+Nom#kymmenen+Num+Sg+Par#kolme+Num+Sg+Nom#tuhat+Num+Sg+Par` (Eng. ! 23,000)
-* *kakskymmentäkolmetuhatta:* `kaksi+Num+Sg+Nom#kymmenen+Num+Sg+Par#kolme+Num+Sg+Nom#tuhat+Num+Sg+Par`
-* *kahđessađasneljes:* `kahđes+A+Ord+Sg+Nom#sađas+A+Ord+Sg+Nom#neljes+A+Ord+Sg+Nom` (Eng. ! 204rd)
-* *viitisenkymmentä:* `viitisen+Num#kymmentä` (Eng. ! 50-ish)
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/numerals.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/numerals.lexc)</small># Nouns
-**LEXION @ELXNAME@ for the nouns (only 10 here)
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/nouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/nouns.lexc)</small># Veps abbreviations 
-[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/abbreviations.lexc)
-
-## Lexica for adding tags and periods
-
-Splitting in 3 groups, because of the preprocessor
-
-**LEXICON Abbreviation** 
-
-Now splitting according to POS, and according to dot or not
-
-
-**LEXICON ab** 
-
-**LEXICON ab-noun** 
-
-
-
-
-Here come POS and Case tags, and no period.
-
-**LEXICON ab-nodot-noun**  The bulk
-
-**LEXICON ab-nodot** 
-
-
-**LEXICON ab-dot** 
-
-**LEXICON ab-dot-noun** 
-
-The idea is that the nominal ones may have case, like e.g. P.E.N.
-
-
-## The abbreviation lexicon itself
-
-
-**LEXICON noperiod** 
-
-###           Intransitive abbreviations           
-
-
-
-**LEXICON ITRAB** 
-
-
-
-###    Transitive number-related abbreviations      !
-
-
-**LEXICON TRNUMAB** 
-
-
-###              Transitive abbreviations           !
-
-**LEXICON TRAB** 
-
-**LEXICON TRAB** 
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/abbreviations.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/abbreviations.lexc)</small># Pronouns
-
-**LEXICON pronouns** = contains the 6 personal
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/pronouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/pronouns.lexc)</small># Acronyms
-[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/acronyms.lexc)
-
-Veps acronyms ...
-
-**LEXICON Acronym** 
-
-**LEXICON acr2-cyr** 
-
-**LEXICON acr3-cyr** 
-
-**LEXICON acr4-cyr** 
-
-**LEXICON acr5-cyr** 
-
-
-
-**LEXICON acr3-lat** 
-
-**LEXICON acr4-lat** 
-
-**LEXICON acr5-lat** 
-
-
-
-**LEXICON acros** 
-
-**LEXICON acrotag** 
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/acronyms.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/acronyms.lexc)</small># Adverbs
-
-**LEXICON adverbs** containing 3
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/adverbs.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/adverbs.lexc)</small># Veps verbs (newwords)
-[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/verbs_newwords.lexc)
-
-This is where new words are added as lexc entries before they are 
-added to the xml source files.
-avaita:avai V_ "" ;
-
-
-**RULE: V_NEWWORDS** = 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/verbs_newwords.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/verbs_newwords.lexc)</small># Quantifiers
-
-**LEXICON quantifiers** = contains numbers 1-10, 100, 1000
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/quantifiers.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/quantifiers.lexc)</small># Conjunctions
-
-**LEXICON conjuncts** pointinh to CC_
-
-* * *
-<small>This (part of) documentation was generated from [../src/fst/stems/conjuncts.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/conjuncts.lexc)</small>
+<small>This (part of) documentation was generated from [../src/phonetics/txt2ipa.xfscript](http://github.com/giellalt/lang-vep/blob/main/../src/phonetics/txt2ipa.xfscript)</small>
 
 
 We describe here how abbreviations are in Veps are read out, e.g.
@@ -3727,4 +3953,158 @@ expression **WORD - premodifiers**.
 
 
 * * *
-<small>This (part of) documentation was generated from [../tools/grammarcheckers/grammarchecker.cg3](http://github.com/giellalt/lang-vep/blob/main/../tools/grammarcheckers/grammarchecker.cg3)</small>
+<small>This (part of) documentation was generated from [../tools/grammarcheckers/grammarchecker.cg3](http://github.com/giellalt/lang-vep/blob/main/../tools/grammarcheckers/grammarchecker.cg3)</small>Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
+Then just:
+$ make
+$ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+
+Issues:
+- [X] Ambiguous input
+- Seems to work fine
+- [X] Ambiguous multiword expessions with ambiguous tokenisation
+- Seems to work – represented within lexc now; hfst-tokenise also
+supports forms on the analyses now
+- [X] Ambiguous multiword expessions need reorganising after CG
+- The module cg-mwesplit takes wordforms from readings and turns them into
+new cohorts
+- [X] Unknown words
+- The set-difference method only works for words without
+flag diacritics (even though we should be working only on the form-side?)
+and leads to binary blow-up: With only lower unknowns, we get 45M;
+lower+upper gives 67M, while no unknowns gives 27M
+- Fixed instead by treating empty analyses as unknown-tokens in
+hfst-tokenise, and outputting unmatched strings with a prefix
+- [ ] Treat input that's within superblanks as unmatched
+- probably requires a change in hfst-tokenise itself
+- [X] Try >1 space for ambiguous MWE's? – represented within lexc now
+- [ ] Try set-difference-unknowns method with regular hfst commands?
+
+More usage examples:
+$ echo "Juos gorreválggain lea (dárbbašlaš) deavdit gáibádusa boasttu olmmoš, man mielde lahtuid." | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+$ echo "(gáfe) 'ja' ja 3. ja? ц jaja ukjend \"ukjend\"" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+$ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+
+Pmatch documentation:
+https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch
+
+
+
+
+
+
+Characters which have analyses in the lexicon, but can appear without spaces
+before/after, that is, with no context conditions, and adjacent to words:
+* Punct contains ASCII punctuation marks
+* The symbol after m-dash is soft-hyphen `U+00AD`
+* The symbol following {•} is byte-order-mark / zero-width no-break space
+`U+FEFF`.
+
+Whitespace contains ASCII white space and
+the List contains some unicode white space characters
+* En Quad U+2000 to Zero-Width Joiner U+200d'
+* Narrow No-Break Space U+202F
+* Medium Mathematical Space U+205F
+* Word joiner U+2060
+
+
+
+
+Apart from what's in our morphology, there are
+1) unknown word-like forms, and
+2) unmatched strings
+We want to give 1) a match, but let 2) be treated specially by hfst-tokenise -a
+* select extended latin symbols
+* select symbols
+* various symbols from Private area (probably Microsoft),
+so far:
+* U+F0B7 for "x in box"
+
+TODO: Could use something like this, but built-in's don't include šžđčŋ:
+
+
+Simply give an empty reading when something is unknown:
+hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
+remove empty analyses from other readings. Empty readings are also
+legal in CG, they get a default baseform equal to the wordform, but
+no tag to check, so it's safer to let hfst-tokenise handle them.
+
+
+
+Finally we mark as a token any sequence making up a:
+* known word in context
+* unknown (OOV) token in context
+* sequence of word and punctuation
+* URL in context
+
+* * *
+<small>This (part of) documentation was generated from [../tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript](http://github.com/giellalt/lang-vep/blob/main/../tools/tokenisers/tokeniser-gramcheck-gt-desc.pmscript)</small># Tokeniser for vep
+
+Usage:
+```
+$ make
+$ echo "ja, ja" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+$ echo "Juos gorreválggain lea (dárbbašlaš) deavdit gáibádusa boasttu olmmoš, man mielde lahtuid." | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+$ echo "(gáfe) 'ja' ja 3. ja? ц jaja ukjend \"ukjend\"" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+$ echo "márffibiillagáffe" | hfst-tokenise --giella-cg tokeniser-disamb-gt-desc.pmhfst
+```
+
+Pmatch documentation:
+https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstPmatch
+
+
+
+
+
+
+Characters which have analyses in the lexicon, but can appear without spaces
+before/after, that is, with no context conditions, and adjacent to words:
+* Punct contains ASCII punctuation marks
+* The symbol after m-dash is soft-hyphen `U+00AD`
+* The symbol following {•} is byte-order-mark / zero-width no-break space
+`U+FEFF`.
+
+Whitespace contains ASCII white space and
+the List contains some unicode white space characters
+* En Quad U+2000 to Zero-Width Joiner U+200d'
+* Narrow No-Break Space U+202F
+* Medium Mathematical Space U+205F
+* Word joiner U+2060
+
+
+
+
+Apart from what's in our morphology, there are
+1. unknown word-like forms, and
+2. unmatched strings
+We want to give 1) a match, but let 2) be treated specially by
+`hfst-tokenise -a`
+Unknowns are made of:
+* lower-case ASCII
+* upper-case ASCII
+* select extended latin symbols
+ASCII digits
+* select symbols
+* Combining diacritics as individual symbols,
+* various symbols from Private area (probably Microsoft),
+so far:
+* U+F0B7 for "x in box"
+
+
+
+## Unknown handling
+Unknowns are tagged ?? and treated specially with `hfst-tokenise`
+hfst-tokenise --giella-cg will treat such empty analyses as unknowns, and
+remove empty analyses from other readings. Empty readings are also
+legal in CG, they get a default baseform equal to the wordform, but
+no tag to check, so it's safer to let hfst-tokenise handle them.
+
+
+
+Finally we mark as a token any sequence making up a:
+* known word in context
+* unknown (OOV) token in context
+* sequence of word and punctuation
+* URL in context
+
+* * *
+<small>This (part of) documentation was generated from [../tools/tokenisers/tokeniser-disamb-gt-desc.pmscript](http://github.com/giellalt/lang-vep/blob/main/../tools/tokenisers/tokeniser-disamb-gt-desc.pmscript)</small>
