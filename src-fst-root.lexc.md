@@ -2,7 +2,6 @@
 
 # Multichar_Symbols and *Root* lexicon for Veps 
 
-
 ## Miscellaneuos tags
 
 Thes are  to be evaluated (are they in use?)
@@ -45,10 +44,7 @@ TODO: Have a look at these:
 * **@D.ErrOrth.ON@** 
 * **@P.ErrOrth.ON@** 
 
-
-
 ## Grammatical tags 
-
 
 The morphological analyses of wordforms of Veps are presented 
 in this system in terms of the following symbols. 
@@ -139,7 +135,6 @@ in this system in terms of the following symbols.
 * **+VGen** 
 * **+VAbess**  = 
 
-
 #### Nominal tags
 
 * **+Sg**  = singular 
@@ -178,7 +173,6 @@ in this system in terms of the following symbols.
 * **+Apr2**  = 
 * **+EssInst**  = 
 
-
 ##### Possessive suffixes: 
 
 * **+PxSg1**  = 
@@ -198,7 +192,6 @@ in this system in terms of the following symbols.
 * **+Attr**  = 
 * **+Card**  = 
 * **+Ord**  = 
-
 
 #### ADVERBS 
 * **+Manner**  = 
@@ -225,7 +218,6 @@ in this system in terms of the following symbols.
 
 * **+Guess**  = 
 
-
 #### Question and Focus particles: 
 
 * **+Qst** 
@@ -245,8 +237,6 @@ in this system in terms of the following symbols.
 
 * **+Err/Orth**  = 
 * **+Use/-Spell**  = 
-
-
 
 #### Semtags 
 * **+Sem/Mal** 
@@ -301,7 +291,6 @@ in this system in terms of the following symbols.
 * **+Sem/Tool-it** 
 * **+Sem/Year** 
 
-
 #### Derivations  
 
 Derivations are classified under the morphophonetic form of the suffix, the 
@@ -320,7 +309,6 @@ source and target part-of-speech.
 * **+Der/Toi**  = nime»toi N»A 
 * **+Der/Matoi**  = V»A 
 * **+Der/Mine**  = V»N 
-
 
 ### Morphophonology 
 To represent phonologic variations in word forms we use the following 
@@ -386,8 +374,6 @@ symbols in the lexicon files:
 * **%>**  = 
 * **%-**  = 
 
-
-
 ## Flag diacritics 
 
 We have manually optimised the structure of our lexicon using following 
@@ -426,8 +412,6 @@ given the proper use of these flags.
 |  **@U.Cap.Obl@**  | Allowing downcasing of derived names: deatnulasj. 
 |  **@U.Cap.Opt@**  | Allowing downcasing of derived names: deatnulasj. 
 
-
-
 ## Lexc lexica
 
 ### Root lexicon
@@ -441,15 +425,11 @@ CC_
 
 CS_ 
 
-
 INTERJ_ 
-
 
 NUMBERSUF 
 
 ORDINAL 
-
-
 
 POSTPOSITION 
 
@@ -470,4 +450,8 @@ PRON
 DEM 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/root.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/root.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/root.lexc)</small>
+
+---
+

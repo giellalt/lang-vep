@@ -12,7 +12,6 @@ V_SUGIDA This and all V_... lexica redirect to *V-VowelStem, V-ConsonantStem, IN
 
 V_OLDA (adding :le to vowstem)
 
-
 V_PESTA (adding -e) ti vowstem and indprs3)
 
 V_TEHTA = tehta:te (adding :ge to vowst and indprs3)
@@ -47,13 +46,11 @@ V_KERATA = kerata:kera
 
 V_JAGADA =  jagada:jag (adding a to prt and a elsewhere)
 
-
 V_TUGETA = tugeta:tuge
 
 V_VALITA  =  valita:vali
 
 V_AVAITA = avaita:avai, avaidab avaiži
-
 
 ### Default lexicon
 
@@ -65,43 +62,25 @@ V_ default verb lexicon
 
 INDPRS3 for Sg3 and Pl3
 
-
-
 ### Vowel stems
 
 V-VowelStem
-
-
 
 V-VowelStem-PRS This lexicon gives all  forms for vowel stems
 
 #### Present Morphology
 
-
 #### IMPERATIVE 
-
 
 #### present reflexive
 
-
-
 #### Preterite 
-
-
-
-
 
 #### conditional present 
 
-
-
 #### Imperfect Reflexive 
 
-
 #### Conditional Present Reflexive
-
-
-
 
 ### Consonant Stems
 
@@ -111,19 +90,17 @@ V-ConsonantStem_OTHER
 
 #### Imperative 
 
-
 #### Conditional Imperfect 
-
 
 #### Reflexive 
 
-
 #### Imperative 
-
 
 V-ConsonantStem_t 
 
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/verbs.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/verbs.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/verbs.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/affixes/verbs.lexc)</small>
+
+---
+

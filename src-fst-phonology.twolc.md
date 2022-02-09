@@ -2,7 +2,6 @@
 
 This file documents the [phonology.twolc file](http://github.com/giellalt/lang-vep/blob/main/src/fst/phonology.twolc) 
 
-
 ## Alphabet, sets, definitions
 
 ### Alphabet
@@ -79,7 +78,6 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-v
 
 *  %^DEVOICE:0     vezi:vet; pen’:pen’t
 
-
 * K1:k    
 * %^NoGrad:0    This will be placed after a stem to break Gradation
 
@@ -109,10 +107,6 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-v
 * %^SyllBr:0		    
 * %^E1:0			    
 
-
-
-
-
 ### sets
 
 * VowBack = a o u ;  
@@ -124,15 +118,11 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-v
 * CnsVoiceless = f h k p s š t ;  
 * Letters = Vow Cns ;  
 
-
-
 ### Definitions
 
 Front Trigger
 
-
 Back Trigger 
-
 
 Short vowel
 
@@ -140,10 +130,7 @@ Inessive lengthening of vowel
 
 Right context for gradation
 
-
-
 ## Rules
-
 
 ### Vowel change 
 
@@ -153,20 +140,15 @@ Right context for gradation
 **RULE: Stem-internal vowel loss** = 
 **Stem-internal vowel loss**
 
-
 **RULE: QAO1 Sg Rule** = 
 
 **RULE: QAO1 Pl Rule** = 
-
-
 
 ### Consonant change 
 
 **devoicing of adjecent stops** vauged: vauktan
 
-
 **d:z in vodes, voziš**  
-
 
 **d:t in voden, vot**  
 
@@ -177,4 +159,8 @@ Right context for gradation
 **’:0 before vowels**  
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/phonology.twolc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/phonology.twolc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-vep/blob/main/src/fst/phonology.twolc)</small>
+
+---
+

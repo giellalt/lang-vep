@@ -13,19 +13,19 @@ Veps acronyms ...
 
 **LEXICON acr5-cyr** 
 
-
-
 **LEXICON acr3-lat** 
 
 **LEXICON acr4-lat** 
 
 **LEXICON acr5-lat** 
 
-
-
 **LEXICON acros** 
 
 **LEXICON acrotag** 
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/stems/acronyms.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/stems/acronyms.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/stems/acronyms.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/acronyms.lexc)</small>
+
+---
+

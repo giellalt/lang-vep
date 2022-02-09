@@ -1,13 +1,8 @@
 # Adjective inflection
 
-
-
-
 ## Temporary lexicon
 
-
 * **LEXICON A_** = , when we do not know. Redirecting to N_ (?) 
-
 
 ## Regolar lexica
 
@@ -18,7 +13,6 @@
 **LEXICON A_MUNA**   muna:mun
 
 * **LEXICON A_NADO** =  nado:nado
-
 
 * **LEXICON A_POIG** =  poig:poig
 
@@ -34,9 +28,7 @@
 
 * **LEXICON A_KEZI** = kezi:ked
 
-
 * **LEXICON A_VIDENZ1** =  videnz':viden (-den, -t, -zid)
-
 
 * **LEXICON A_LANDEH** =  landeh:land
 
@@ -52,7 +44,9 @@
 
 * **LEXICON PRFPRC-DECLENSION** =  -nu
 
-
-
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/adjectives.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/adjectives.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/adjectives.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/affixes/adjectives.lexc)</small>
+
+---
+

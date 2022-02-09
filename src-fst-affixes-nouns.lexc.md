@@ -15,16 +15,10 @@
 		* cretic, amphimacer
 		* molossus
 
-
-
-
-
-
 The accusative singular has two forms, one is the same as the 
 nominative singular in form and the other is identical to the 
 genitive singular. This definition is dependent on the school
 and its use should be associated with the user group, perhaps.
-
 
 *Noun 'berry / marja' - full paradigm: Noun - marj examples:*
 * *marj:* `marj+N+Sg+Nom`
@@ -74,130 +68,23 @@ and its use should be associated with the user group, perhaps.
 * *marjoihepäi:* `marj+N+Pl+Add1`
 * *marjoilepäi:* `marj+N+Pl+Add2`
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 LEXICON N_NADO  nado:nado
 
 ## Nominals
 
-
-
 * SG-NOM-SUF ; 
-
-
-
-
-
-
-
-
-
-
 
 # ACTUAL CASES 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Start Plural
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Possessor Indices
 
 Not yet written...
 
 * * *
-<small>This (part of) documentation was generated from [../src/fst/affixes/nouns.lexc](http://github.com/giellalt/lang-vep/blob/main/../src/fst/affixes/nouns.lexc)</small>
+
+<small>This (part of) documentation was generated from [src/fst/affixes/nouns.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/affixes/nouns.lexc)</small>
+
+---
+
