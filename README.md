@@ -2,7 +2,7 @@ The Veps morphology and tools
 ==========================================
 
 [![GitHub issues](https://img.shields.io/github/issues-raw/giellalt/lang-vep)](https://github.com/giellalt/lang-vep/issues)
-[![Build Status](https://github.com/giellalt/lang-vep/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-vep/actions)
+[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-vep/main/badge.svg)](https://github.com/giellalt/lang-vep/actions)
 [![License](https://img.shields.io/github/license/giellalt/lang-vep)](https://github.com/giellalt/lang-vep/blob/main/LICENSE)
 
 This repository contains finite state source files for the Veps language,
