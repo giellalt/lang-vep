@@ -3,7 +3,7 @@
 [![Maturity: Experiment](https://img.shields.io/badge/Maturity-Experiment-black.svg)](https://giellalt.github.io/MaturityClassification.html)
 [![License](https://img.shields.io/github/license/giellalt/lang-vep)](https://github.com/giellalt/lang-vep/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-vep)](https://github.com/giellalt/lang-vep/issues)
-[![Build status](https://github.com/giellalt/lang-vep/workflows/Speller%20CI+CD/badge.svg)](https://github.com/giellalt/lang-vep/actions)
+[![Build Status](https://divvun-tc.thetc.se/api/github/v1/repository/giellalt/lang-vep/main/badge.svg)](https://github.com/giellalt/lang-vep/actions)
 
 This page documents the work on the [Veps language model](http://github.com/giellalt/lang-vep). 
 It is a test version of a grammatical analyser for Veps.
