@@ -20,7 +20,7 @@ nominative singular in form and the other is identical to the
 genitive singular. This definition is dependent on the school
 and its use should be associated with the user group, perhaps.
 
-*Noun 'berry / marja' - full paradigm: Noun - marj examples:*
+* Noun 'berry / marja' - full paradigm: Noun - marj examples:*
 * *marj:* `marj+N+Sg+Nom`
 * *marjan:* `marj+N+Sg+Gen`
 * *[marj,* `marjan]:` (Eng. marj+N+Sg+Acc)
