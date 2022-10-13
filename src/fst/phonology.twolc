@@ -204,6 +204,15 @@ QAO1:a <=> _ ( %^DEVOICE: ) %> Cns ;
 !! **RULE: @RULENAME@** = 
 QAO1:o <=> _ ( %^DEVOICE: ) %> :i ( %^DEVOICE: ) Cns ;
 
+"V1 Illative rule"
+V1:Vx <=> Vx Cns:* %> h _ ;
+      where Vx in ( a e i o u ü ä ö ) ; 
+
+!!€ nado>hV1
+!!€ nado>ho
+
+!!€ marj>hV1
+!!€ marj>ha
 
 
 !! ### Consonant change 
