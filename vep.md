@@ -1064,6 +1064,12 @@ Right context for gradation
 
 **RULE: QAO1 Pl Rule** = 
 
+* *nado>hV1*
+* *nado>ho*
+
+* *marj>hV1*
+* *marj>ha*
+
 ### Consonant change 
 
 **devoicing of adjecent stops** vauged: vauktan
