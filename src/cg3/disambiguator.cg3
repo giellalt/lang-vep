@@ -3,10 +3,10 @@
 
 
 #   ================================= #
-#!! Disambiguator for Olonets
+#!! Disambiguator for Veps
 #   ================================= #
 
-# Copied from fit 22.3.21.
+# Copied from fit 22.3.21, and again from olo.
 
 #!! ## Sets
 
@@ -1722,13 +1722,17 @@ MAP (@HAB) TARGET Ade IF (0 Pron + Pers) (1 REALCOPULAS) ;
 
 # So far I'm only tagging the heads of NPs, apparently. E.g., lähellä tätä vanhaa metsää(@P).
 
-
+SELECT:gpo Gen IF (1C Po);
 
 LIST PoCase =   Ela Abl Par Gen ;
 
 SET PRON_PO_CASE = NPron + PoCase ; 
 SET PRON_PR_CASE = NPron + PrCase ;
 
+
+# Conjunctions
+
+REMOVE:i Num IF (-1 N)(0 ("i") +  CC)(*1 N);
 
    # Postposition Complements
    # ------------------------
