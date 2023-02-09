@@ -43,7 +43,7 @@ LEXICON N_SANA
 
 LEXICON N_MARJ 
 
-!! The accusative singular has two forms, one is the same as the 
+! The accusative singular has two forms, one is the same as the 
 !! nominative singular in form and the other is identical to the 
 !! genitive singular. This definition is dependent on the school
 !! and its use should be associated with the user group, perhaps.
@@ -526,6 +526,7 @@ LEXICON SG-OBLIQUE
 +Der+Der/Toi+A:%>to A_KENGATOI ;
  SG-GEN-SUF ;
  SG-ACC-SUF ;
+ SG-PAR-SUF ;
  SG-TRA-SUF ;
  SG-ABE-SUF ;
  SG-COM-SUF ;
