@@ -646,7 +646,6 @@ K 3 clitics plus #
 		* cretic, amphimacer
 		* molossus
 
-The accusative singular has two forms, one is the same as the 
 nominative singular in form and the other is identical to the 
 genitive singular. This definition is dependent on the school
 and its use should be associated with the user group, perhaps.
