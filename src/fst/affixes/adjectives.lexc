@@ -25,44 +25,44 @@ LEXICON A_RUSKED !!≈ * **@CODE@** = gets +A and goes to NMN\_RUSKED
 
 LEXICON A_MUNA  !!≈ **@CODE@**   muna:mun
  N_MUNA ;
-+Cmp:e%>mb N_POIG ;
++Comp:e%>mb N_POIG ;
 
 LEXICON A_NADO  !!≈ * **@CODE@** =  nado:nado
  N_NADO ;
-+Cmp:%>mb N_POIG ;
++Comp:%>mb N_POIG ;
 
 
 LEXICON A_POIG  !!≈ * **@CODE@** =  poig:poig
  N_POIG ;
-+Cmp:e%>mb N_POIG ;
++Comp:e%>mb N_POIG ;
 
 LEXICON A_MARJ  !!≈ * **@CODE@** =  marj:marj
  N_MARJ ;
-+Cmp:e%>mb N_POIG ;
++Comp:e%>mb N_POIG ;
 
 LEXICON A_JAUH  !!≈ * **@CODE@** =  jauh:jauh
 !(-on\,\ -oid\)
  N_JAUH ;
-+Cmp:%>mb N_POIG ;
++Comp:%>mb N_POIG ;
 
 LEXICON A_OIGED  !!≈ * **@CODE@** = oiged:oig%{eØ%}d
 !oi|ged (-ktan, -ktoid)
  N_OIGED ;
-+Cmp:%^RmVow%^DEVOICE%>e%>mb N_POIG ;
++Comp:%^RmVow%^DEVOICE%>e%>mb N_POIG ;
 
 LEXICON A_KEL  !!≈ * **@CODE@** = kel':kel
  N_KEL ;
-+Cmp:%>e%>mb N_POIG ;
++Comp:%>e%>mb N_POIG ;
 +Der+Der/Uz1+N:ud N_NORUZ ;
 
 LEXICON A_SAR1  !!≈ * **@CODE@** = sar':sar
  N_SAR1 ;
-+Cmp:%>e%>mb N_POIG ;
++Comp:%>e%>mb N_POIG ;
 +Der+Der/Uz1+N:ud N_NORUZ ;
 
 LEXICON A_KEZI  !!≈ * **@CODE@** = kezi:ked
  N_KEZI ;
-+Cmp:%>e%>mb N_POIG ;
++Comp:%>e%>mb N_POIG ;
 +Der+Der/Uz1+N:ud N_NORUZ ;
 
 
@@ -72,27 +72,27 @@ N_VIDENZ1 ;
 
 LEXICON A_LANDEH  !!≈ * **@CODE@** =  landeh:land
  N_LANDEH ;
-+Cmp:%>he%>mb N_POIG ;
++Comp:%>he%>mb N_POIG ;
 
 LEXICON A_VEDEKAZ  !!≈ * **@CODE@** =  vedekaz:vedeka
  N_VEDEKAZ ;
-+Cmp:ha%>mb N_POIG ;
++Comp:ha%>mb N_POIG ;
 
 LEXICON A_SEIBAZ  !!≈ * **@CODE@** =  seibaz:seib
  N_SEIBAZ ;
-+Cmp:ha%>mb N_POIG ;
++Comp:ha%>mb N_POIG ;
 
 LEXICON A_CIPUINE  !!≈ * **@CODE@** = cipuine:cipu
  N_CIPUINE ;
-+Cmp:iže%>mb N_POIG ;
++Comp:iže%>mb N_POIG ;
 +Der+Der/Uz1+N:ižud N_NORUZ ;
 
 LEXICON A_TOSHTMINE  !!≈ * **@CODE@** =  toštmine:toštmi
  N_TOSHTMINE ;
-+Cmp:že%>mb N_POIG ;
++Comp:že%>mb N_POIG ;
 
 LEXICON A_KENGATOI  !!≈ * **@CODE@** =  kengätoi:kengäto
-+Cmp:ma%>mb N_POIG ;
++Comp:ma%>mb N_POIG ;
 +Der+Der/Uz1+N:mud N_NORUZ ;
 :i SG-NOM-SUF ;
 :n SG-PAR-SUF_t ;
@@ -103,7 +103,7 @@ LEXICON A_KENGATOI  !!≈ * **@CODE@** =  kengätoi:kengäto
 :m PL-OBLIQUE ;
 
 LEXICON PRFPRC-DECLENSION  !!≈ * **@CODE@** =  -nu
-+Cmp:%>mb N_POIG ;
++Comp:%>mb N_POIG ;
  SG-NOM-SUF ;
 : SG-PAR-SUF_t ;
 :de SG-OBLIQUE ;
