@@ -1,4 +1,8 @@
 !! # Nouns
+LEXICON NounRoot
+nouns ; ! here for now
+N_NEWWORDS ; ! in other file for now
+
 LEXICON nouns
 !! **LEXION @ELXNAME@ for the nouns (only 10 here)
 

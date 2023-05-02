@@ -454,7 +454,7 @@ LEXICON Root
   adverbs       ; 
   conjuncts     ; 
   interjections ; 
-  nouns         ; 
+  NounRoot      ; 
   quantifiers   ; 
   verbs         ; 
   Abbreviation  ; ! stems/abbr.lexc 
@@ -463,7 +463,7 @@ LEXICON Root
   Symbols       ; 
   Numerals     ; 
   A_NEWWORDS    ; 
-  N_NEWWORDS    ; 
+!  N_NEWWORDS    ;  Under NounRoot. Todo: Unify files.
   PROP_NEWWORDS ; 
   V_NEWWORDS    ; 
   POSTPOSITION  ; 
