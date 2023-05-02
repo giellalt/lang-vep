@@ -1685,6 +1685,7 @@ kala:kala A_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
 ---
 
 # Nouns
+
 **LEXION @ELXNAME@ for the nouns (only 10 here)
 
 * * *
