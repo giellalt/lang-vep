@@ -40,7 +40,8 @@ LEXICON N_SANA
 :%>a PL-NOM-SUF ;
 :%>a PL-ACC-SUF ;
 :o PL-OBLIQUE ;
-
+ R ;
+ 
 LEXICON N_MARJ 
 
 ! The accusative singular has two forms, one is the same as the 
@@ -99,6 +100,7 @@ LEXICON N_MARJ
 : SG-NOM-SUF ;
 +Sg+Ill:%>ha K ;
 :%>a SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :%>a PL-NOM-SUF ;
 :%>a PL-ACC-SUF ;
@@ -108,6 +110,8 @@ LEXICON N_IGA ! igä:ig
 :ä SG-NOM-SUF ;
 +Sg+Ill:%>hä K ;
 :%>ä SG-OBLIQUE ;
+:%>ä R ; ! xxx check
+
 ! Plural
 :%>ä PL-NOM-SUF ;
 :%>ä PL-ACC-SUF ;
@@ -117,6 +121,7 @@ LEXICON N_LEIB ! leib:leib
 : SG-NOM-SUF ;
 +Sg+Ill:%>hä K ;
 :%>ä SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :%>ä PL-NOM-SUF ;
 :%>ä PL-ACC-SUF ;
@@ -127,6 +132,7 @@ LEXICON N_LIND ! lind:lind
 : SG-NOM-SUF ;
 +Sg+Ill:%>hu K ;
 :%>u SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :%>u PL-NOM-SUF ;
 :%>u PL-ACC-SUF ;
@@ -136,6 +142,7 @@ LEXICON N_JAUH ! jauh:jauh
 : SG-NOM-SUF ;
 +Sg+Ill:%>ho K ;
 :%>o SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :%>o PL-NOM-SUF ;
 :%>o PL-ACC-SUF ;
@@ -148,6 +155,7 @@ LEXICON N_UNI ! uni:un
 :i SG-NOM-SUF ;
 : SG-PAR-SUF_t ;
 :e SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :e PL-NOM-SUF ;
 :e PL-ACC-SUF ;
@@ -156,6 +164,7 @@ LEXICON N_UNI ! uni:un
 LEXICON N_POIG ! poig:poig
 : SG-NOM-SUF ;
 :a SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :a PL-NOM-SUF ;
 :a PL-ACC-SUF ;
@@ -165,6 +174,7 @@ LEXICON N_VENEH ! veneh:veneh
 : SG-NOM-SUF ;
 : SG-PAR-SUF_t ;
 :e SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :e PL-NOM-SUF ;
 :e PL-ACC-SUF ;
@@ -174,6 +184,7 @@ LEXICON N_HANG ! hang:hang
 : SG-NOM-SUF ;
 : SG-PAR-SUF ;
 :e SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :e PL-NOM-SUF ;
 :e PL-ACC-SUF ;
@@ -184,6 +195,7 @@ LEXICON N_LANDEH ! landeh:land
 :eh SG-NOM-SUF ;
 :eh SG-PAR-SUF_t ;
 :he SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :he PL-NOM-SUF ;
 :he PL-ACC-SUF ;
@@ -193,6 +205,7 @@ LEXICON N_SEIBAZ ! seibaz:seib
 :az SG-NOM-SUF ;
 :as SG-PAR-SUF_t ;
 :ha SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :ha PL-NOM-SUF ;
 :ha PL-ACC-SUF ;
@@ -202,6 +215,7 @@ LEXICON N_KIRVEZ ! kirvez:kirv
 :ez SG-NOM-SUF ;
 :es SG-PAR-SUF_t ;
 :he SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :he PL-NOM-SUF ;
 :he PL-ACC-SUF ;
@@ -211,6 +225,7 @@ LEXICON N_VANHAKOZ ! vanhakoz:vanhak
 :oz SG-NOM-SUF ;
 :os SG-PAR-SUF_t ;
 :ho SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :ho PL-NOM-SUF ;
 :ho PL-ACC-SUF ;
@@ -220,6 +235,7 @@ LEXICON N_NAGRIZH ! nagriž:nagr
 :iž SG-NOM-SUF ;
 :iš SG-PAR-SUF_t ;
 :he SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :he PL-NOM-SUF ;
 :he PL-ACC-SUF ;
@@ -229,6 +245,7 @@ LEXICON N_RUGIZH ! rügiž:rügi
 :ž SG-NOM-SUF ;
 :š SG-PAR-SUF_t ;
 :he SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :he PL-NOM-SUF ;
 :he PL-ACC-SUF ;
@@ -238,6 +255,7 @@ LEXICON N_VEDEKAZ ! vedekaz:vedeka
 :z SG-NOM-SUF ;
 :s SG-PAR-SUF_t ;
 :ha SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :ha PL-NOM-SUF ;
 :ha PL-ACC-SUF ;
@@ -247,6 +265,7 @@ LEXICON N_MEZ1 ! mez':me
 :z' SG-NOM-SUF ;
 :s SG-PAR-SUF_t ;
 :he SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :he PL-NOM-SUF ;
 :he PL-ACC-SUF ;
@@ -256,6 +275,7 @@ LEXICON N_KENGATOI ! kengätoi:kengäto
 :i SG-NOM-SUF ;
 :n SG-PAR-SUF_t ;
 :me SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :me PL-NOM-SUF ;
 :me PL-ACC-SUF ;
@@ -265,6 +285,7 @@ LEXICON N_AVADIM ! avadim:avadi
 :m SG-NOM-SUF ;
 :n SG-PAR-SUF_t ;
 :me SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :me PL-NOM-SUF ;
 :me PL-ACC-SUF ;
@@ -274,6 +295,7 @@ LEXICON N_LUMI ! lumi:lu
 :mi SG-NOM-SUF ;
 :n SG-PAR-SUF_t ;
 :me SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :me PL-NOM-SUF ;
 :me PL-ACC-SUF ;
@@ -282,6 +304,7 @@ LEXICON N_LUMI ! lumi:lu
 LEXICON N_KONDI ! kondi:kond
 :i SG-NOM-SUF ;
 :ja SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :ja PL-NOM-SUF ;
 :ja PL-ACC-SUF ;
@@ -290,6 +313,7 @@ LEXICON N_KONDI ! kondi:kond
 LEXICON N_TEGII ! tegii:tegi
 :i SG-NOM-SUF ;
 :ja SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :ja PL-NOM-SUF ;
 :ja PL-ACC-SUF ;
@@ -299,6 +323,7 @@ LEXICON N_KEL !kel':kel
 :' SG-NOM-SUF ;
 :' SG-PAR-SUF_t ;
 :%>e SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :%>e PL-NOM-SUF ;
 :%>e PL-ACC-SUF ;
@@ -308,6 +333,7 @@ LEXICON N_SAR1 !sar':sar
 :' SG-NOM-SUF ;
 : SG-PAR-SUF_t ;
 :%>e SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :%>e PL-NOM-SUF ;
 :%>e PL-ACC-SUF ;
@@ -317,6 +343,7 @@ LEXICON N_JOUCEN !joucen:jouc%{eØ%}
 : SG-NOM-SUF ;
 : SG-PAR-SUF_t ;
 :%^RmVow%>e SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :%^RmVow%>e PL-NOM-SUF ;
 :%^RmVow%>e PL-ACC-SUF ;
@@ -327,6 +354,7 @@ LEXICON N_OIGED !oiged:oig%{eØ%}d
 !oi|ged (-ktan, -ktoid)
 : SG-NOM-SUF ;
 :%^RmVow%^DEVOICE%>a SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :%^RmVow%^DEVOICE%>a PL-NOM-SUF ;
 :%^RmVow%^DEVOICE%>a PL-ACC-SUF ;
@@ -335,6 +363,7 @@ LEXICON N_OIGED !oiged:oig%{eØ%}d
 LEXICON N_SAMAL !samal:sam%{aØ%}l
 : SG-NOM-SUF ;
 :%^RmVow%^DEVOICE%>o SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :%^RmVow%^DEVOICE%>o PL-NOM-SUF ;
 :%^RmVow%^DEVOICE%>o PL-ACC-SUF ;
@@ -347,6 +376,7 @@ LEXICON N_PU-SG
 : SG-NOM-SUF ;
 : SG-OBLIQUE ;
 LEXICON N_PU-PL
+R ; ! xxx check
 ! Plural
 : PL-NOM-SUF ;
 : PL-ACC-SUF ;
@@ -356,6 +386,7 @@ LEXICON	N_VIDENZ1 ! videnz':viden (-den, -t, -zid)
 :z' SG-NOM-SUF ;
 : SG-PAR-SUF_t ;
 :de SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :de PL-NOM-SUF ;
 :de PL-ACC-SUF ;
@@ -364,6 +395,7 @@ LEXICON	N_VIDENZ1 ! videnz':viden (-den, -t, -zid)
 LEXICON N_KODI !kodi:kodi
 :i SG-NOM-SUF ;
 :%>i SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :%>i PL-NOM-SUF ;
 :%>i PL-ACC-SUF ;
@@ -373,6 +405,7 @@ LEXICON N_KODI !kodi:kodi
 LEXICON N_NIMI !nimi:nim
 :i SG-NOM-SUF ;
 :%>e SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :%>e PL-NOM-SUF ;
 :%>e PL-ACC-SUF ;
@@ -381,6 +414,7 @@ LEXICON N_NIMI !nimi:nim
 LEXICON N_SARV !sarv:sarv
 : SG-NOM-SUF ;
 :%>e SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :%>e PL-NOM-SUF ;
 :%>e PL-ACC-SUF ;
@@ -392,6 +426,7 @@ LEXICON N_CIPUINE ! cipuine:cipu
 :ine SG-NOM-SUF ;
 :š SG-PAR-SUF_t ;
 :iže SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :iže PL-NOM-SUF ;
 :iže PL-ACC-SUF ;
@@ -401,6 +436,7 @@ LEXICON N_TOSHTMINE ! toštmine:toštmi
 :ne SG-NOM-SUF ;
 :š SG-PAR-SUF_t ;
 :že SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :že PL-NOM-SUF ;
 :že PL-ACC-SUF ;
@@ -420,6 +456,7 @@ LEXICON N_ALUZ ! z s _QEQ
  SG-NOM-SUF ;
 :%^DEVOICE SG-PAR-SUF ;
 :%^DEVOICEe SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :%^DEVOICEe PL-NOM-SUF ;
 :%^DEVOICEe PL-ACC-SUF ;
@@ -429,6 +466,7 @@ LEXICON N_KESKUS ! keskus:keskus
  SG-NOM-SUF ;
 : SG-PAR-SUF ;
 :e SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :e PL-NOM-SUF ;
 :e PL-ACC-SUF ;
@@ -451,6 +489,7 @@ LEXICON NMN_NORUZ
 :%^TS’ SG-NOM-SUF ;
 :%^DEVOICE SG-PAR-SUF ;
 :e SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :e PL-NOM-SUF ;
 :e PL-ACC-SUF ;
@@ -515,6 +554,7 @@ LEXICON NMN_KEZI
 :%^TSi SG-NOM-SUF ;
 :%^DEVOICE SG-PAR-SUF ;
 :e SG-OBLIQUE ;
+R ; ! xxx check
 ! Plural
 :e PL-NOM-SUF ;
 :e PL-ACC-SUF ;
