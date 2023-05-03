@@ -1684,16 +1684,6 @@ kala:kala A_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
 
 ---
 
-# Nouns
-
-**LEXION @ELXNAME@ for the nouns (only 10 here)
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/nouns.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/nouns.lexc)</small>
-
----
-
 # Newwords (nouns)
 
 This is where new words are added as lexc entries before they are 
@@ -1745,16 +1735,6 @@ ADD NOUNS BELOW
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/stems/propernouns_newwords.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/propernouns_newwords.lexc)</small>
-
----
-
-# Quantifiers
-
-**LEXICON quantifiers** = contains numbers 1-10, 100, 1000
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/quantifiers.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/quantifiers.lexc)</small>
 
 ---
 

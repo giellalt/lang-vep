@@ -24,12 +24,10 @@
             * [adverbs.lexc](src-fst-stems-adverbs.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adverbs.lexc))
             * [conjuncts.lexc](src-fst-stems-conjuncts.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/conjuncts.lexc))
             * [interjections.lexc](src-fst-stems-interjections.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/interjections.lexc))
-            * [nouns.lexc](src-fst-stems-nouns.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/nouns.lexc))
             * [nouns_newwords.lexc](src-fst-stems-nouns_newwords.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/nouns_newwords.lexc))
             * [numerals.lexc](src-fst-stems-numerals.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/numerals.lexc))
             * [pronouns.lexc](src-fst-stems-pronouns.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/pronouns.lexc))
             * [propernouns_newwords.lexc](src-fst-stems-propernouns_newwords.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/propernouns_newwords.lexc))
-            * [quantifiers.lexc](src-fst-stems-quantifiers.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/quantifiers.lexc))
             * [verbs.lexc](src-fst-stems-verbs.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/verbs.lexc))
             * [verbs_newwords.lexc](src-fst-stems-verbs_newwords.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/verbs_newwords.lexc))
     * `phonetics/`
