@@ -1,19 +1,18 @@
-!! # Quantifiers
 
 LEXICON quantifiers
-!! **LEXICON @LEXNAME@** = contains numbers 1-10, 100, 1000
-üks'+Num:ü NUM_YKS1  "yksi" ;
-kaks'+Num:ka NUM_KAKS1  "kaksi" ;
+
+üksʼ+Num:ü NUM_YKS1  "yksi" ;
+kaksʼ+Num:ka NUM_KAKS1  "kaksi" ;
 koume+Num:koume NUM_  "kolme" ;
-nell'+Num:nell' NUM_  "neljä" ;
+nellʼ+Num:nellʼ NUM_  "neljä" ;
 viž+Num:viž NUM_  "viisi" ;
-kuz'+Num:kuz' NUM_  "kuusi" ;
+kuzʼ+Num:kuzʼ NUM_  "kuusi" ;
 seičeme+Num:seičeme NUM_  "seitsemän" ;
 kahesa+Num:kahesa NUM_  "kahdeksan" ;
 ühesa+Num:ühesa NUM_  "yhdeksän" ;
 kümne+Num:kümne NUM_  "kymmenen" ;
-üks'toštkümne+Num:üks'toštkümne NUM_  "yksitoista" ;
-kaks'toštkümne+Num:kaks'toštkümne NUM_  "kaksitoista" ;
-kaks'kümne+Num:kaks'kümne NUM_  "kaksikymmentä" ;
+üksʼtoštkümne+Num:üksʼtoštkümne NUM_  "yksitoista" ;
+kaksʼtoštkümne+Num:kaksʼtoštkümne NUM_  "kaksitoista" ;
+kaksʼkümne+Num:kaksʼkümne NUM_  "kaksikymmentä" ;
 sada+Num:sada NUM_  "sata" ;
 tuha+Num:tuhanD1E1 NUM_  "tuhat" ;

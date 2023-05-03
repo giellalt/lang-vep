@@ -4,7 +4,7 @@
    xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xml:lang="vep">
    <e>
       <lg>
-         <l pos="Num">üks'</l>
+         <l pos="Num">üksʼ</l>
          <stg>
             <st Contlex="NUM_YKS1">ü</st>
          </stg>
@@ -20,7 +20,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Num">kaks'</l>
+         <l pos="Num">kaksʼ</l>
          <stg>
             <st Contlex="NUM_KAKS1">ka</st>
          </stg>
@@ -52,9 +52,9 @@
    </e>
    <e>
       <lg>
-         <l pos="Num">nell'</l>
+         <l pos="Num">nellʼ</l>
          <stg>
-            <st Contlex="NUM_">nell'</st>
+            <st Contlex="NUM_">nellʼ</st>
          </stg>
       </lg>
       <mg>
@@ -84,9 +84,9 @@
    </e>
    <e>
       <lg>
-         <l pos="Num">kuz'</l>
+         <l pos="Num">kuzʼ</l>
          <stg>
-            <st Contlex="NUM_">kuz'</st>
+            <st Contlex="NUM_">kuzʼ</st>
          </stg>
       </lg>
       <mg>
@@ -164,9 +164,9 @@
    </e>
    <e>
       <lg>
-         <l pos="Num">üks'toštkümne</l>
+         <l pos="Num">üksʼtoštkümne</l>
          <stg>
-            <st Contlex="NUM_">üks'toštkümne</st>
+            <st Contlex="NUM_">üksʼtoštkümne</st>
          </stg>
       </lg>
       <mg>
@@ -180,9 +180,9 @@
    </e>
    <e>
       <lg>
-         <l pos="Num">kaks'toštkümne</l>
+         <l pos="Num">kaksʼtoštkümne</l>
          <stg>
-            <st Contlex="NUM_">kaks'toštkümne</st>
+            <st Contlex="NUM_">kaksʼtoštkümne</st>
          </stg>
       </lg>
       <mg>
@@ -196,9 +196,9 @@
    </e>
    <e>
       <lg>
-         <l pos="Num">kaks'kümne</l>
+         <l pos="Num">kaksʼkümne</l>
          <stg>
-            <st Contlex="NUM_">kaks'kümne</st>
+            <st Contlex="NUM_">kaksʼkümne</st>
          </stg>
       </lg>
       <mg>

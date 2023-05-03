@@ -1,13 +1,8 @@
-!! # Nouns
-LEXICON NounRoot
-nouns ; ! here for now
-N_NEWWORDS ; ! in other file for now
 
 LEXICON nouns
-!! **LEXION @ELXNAME@ for the nouns (only 10 here)
 
 cipuine+N:cipu N_CIPUINE  "tipu" ;
-kel'+N:kel N_KEL  "kieli" ;
+kelʼ+N:kel N_KEL  "kieli" ;
 kojaduz+N:kojaduz N_ALUZ  "kaiku" ;
 landeh+N:land N_LANDEH  "lanne" ;
 marj+N:marj N_MARJ  "marja" ;
