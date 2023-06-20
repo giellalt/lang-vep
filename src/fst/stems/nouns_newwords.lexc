@@ -415,6 +415,7 @@ tramvaite+N:tramvai#te N_PU ;
 kiruhraudte+N:kiruh#raud#te N_PU ;
 jüguraudte+N:jügu#raud#te N_PU ;
 jogite+N:jogi#te N_PU ;
+tego+N:tego N_PU ;
 
 
 valdkundkelʼ+N:vald#kund#kel N_KEL ;
@@ -521,6 +522,9 @@ variš+N:variš N_POIG ;
 vär+N:vär N_POIG ;
 žom+N:žom N_POIG ;
 üläh+N:üläh N_POIG ;
+apostol+N:apostol N_POIG ;
+türm+N:türm N_POIG ;
+
 
 čainik+N:čainik N_MARJ ;
 čak+N:čak N_MARJ ;
@@ -609,6 +613,7 @@ kopeik+N:kopeik N_MARJ ;
 kožund+N:kožund N_MARJ ;
 kulund+N:kulund N_MARJ ;
 kund+N:kund N_MARJ ;
+uskondkund+N:uskond#kund N_MARJ ;
 küzund+N:küzund N_MARJ ;
 ladv+N:ladv N_MARJ ;
 lahed+N:lahed N_MARJ ;
@@ -1465,6 +1470,17 @@ hangoine+N:hango N_CIPUINE ;
 haragaine+N:haraga N_CIPUINE ;
 hebočaine+N:heboča N_CIPUINE ;
 heimolaine+N:heimola N_CIPUINE ;
+
+aleksandrialaine+N:aleksandriala N_CIPUINE ;
+dervialaine+N:derviala N_CIPUINE ;
+efiopialaine+N:efiopiala N_CIPUINE ;
+galilejalaine+N:galilejala N_CIPUINE ;
+kirinejalaine+N:kirinejala N_CIPUINE ;
+levialaine+N:leviala N_CIPUINE ;
+makedonialaine+N:makedoniala N_CIPUINE ;
+nazaretalaine+N:nazaretala N_CIPUINE ;
+verialaine+N:veriala N_CIPUINE ;
+
 jonikaine+N:jonika N_CIPUINE ;
 jälʼgmäine+N:jälʼgmä N_CIPUINE ;
 keričaine+N:keriča N_CIPUINE ;

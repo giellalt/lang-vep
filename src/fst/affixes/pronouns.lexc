@@ -24,13 +24,29 @@ LEXICON PersSg1
 !! @LEXNAME@ split in Nom, Gen, Acc
 +Pers+Sg1:ä NOM-SUF ;
 +Pers+Sg1:u GEN-SUF ;
-+Pers+Sg1:u ACC-SUF ;
++Pers+Sg1:u ACC-SUF ;!is this distinguishable at morphosyntactic level better than later? 20230620
++Pers+Sg1:u ELA-SUF ;
++Pers+Sg1:u ILL-SUF ;
++Pers+Sg1:u INE-SUF ;
++Pers+Sg1:u ALL-SUF ;
++Pers+Sg1:u ADE-SUF ;
++Pers+Sg1:u ABL-SUF ;
++Pers+Sg1:u COM-SUF ; !minunke
++Pers+Sg1:u APR2-SUF ; ! minunnoks
 
 LEXICON PersSg2
 !! @LEXNAME@ split in Nom, Gen, Acc
 +Pers+Sg2+Nom:ä NOM-SUF ;
 +Pers+Sg2+Gen:u GEN-SUF ;
 +Pers+Sg2+Gen:u ACC-SUF ;
++Pers+Sg2:u ELA-SUF ;
++Pers+Sg2:u ILL-SUF ;
++Pers+Sg2:u INE-SUF ;
++Pers+Sg2:u ALL-SUF ;
++Pers+Sg2:u ADE-SUF ;
++Pers+Sg2:u ABL-SUF ;
++Pers+Sg2:u COM-SUF ; !minunke
++Pers+Sg2:u APR2-SUF ; ! minunnoks
 
 LEXICON PersSg3
 !! @LEXNAME@ split in Nom, Gen, Acc, Par and 10 other cases
@@ -70,12 +86,16 @@ LEXICON PERS-PL_01
 +Add1:%>ihepäi K ;
 +Ade:%>il K ;
 +All:%>ile K ;
-+Com:%>idenke K ;
 +Ela:%>išpäi K ;
 +Gen:%>iden K ;
 +Ill:%>ihe K ;
 +Ine:%>iš K ;
 +Par:%>id K ;
++Par:%>itä K ;!CHECKME 20230620 Bible
+:%>ide COM-SUF ;
+:%>ide APR1-SUF ;
+:%>ide APR2-SUF ;
+:%>ide EGR-SUF ;!heidennopäi
 
 LEXICON INTERR
 !! @LEXNAME@ add case suff

@@ -33,7 +33,7 @@ LEXICON N_SANA
 ! sana = pyrrhic <
 ! sanad = iamb   <
 ! sanha = trochee < *sanahan anapaest
-: SG-NOM-SUF ;
+:a SG-NOM-SUF ;
 +Sg+Ill:%>ha K ;
 :%>a SG-OBLIQUE ;
 ! Plural

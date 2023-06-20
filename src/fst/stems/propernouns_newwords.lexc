@@ -155,3 +155,14 @@ Pohjoižmeri+N+Prop:Pohjoiž#mer N_NIMI ;
 Suvimeri+N+Prop:Suvi#mer N_NIMI ;
 Tünmeri+N+Prop:Tün#mer N_NIMI ;
 
+Iisus+N+Prop:Iisus N_MARJ ;
+Jumal+N+Prop:Jumal N_POIG ;
+Ižand+N+Prop:Ižand N_POIG ;
+Hristos+N+Prop:Hristos N_MARJ ;
+David+N+Prop:David N_MARJ ;
+Jerusalim+N+Prop:Jerusalim N_POIG ;
+Petr+N+Prop:Petr N_MARJ ;
+Joann+N+Prop:Joann N_MARJ ;
+Saul+N+Prop:Saul N_MARJ ;
+Stefan+N+Prop:Stefan N_MARJ ;
+Avraam+N+Prop:Avraam N_MARJ ;

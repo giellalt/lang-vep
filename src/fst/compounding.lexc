@@ -2,8 +2,8 @@
 
 
 LEXICON R
- +Cmp#:# nouns ; ! NounRoot ;
- +Cmp#:# N_NEWWORDS ; ! NounRoot ;
+ +Cmp#:# nouns ; ! NounRoot 
+ +Cmp#:# N_NEWWORDS ; ! NounRoot 
  +Cmp/Hyph#:#- PROP_NEWWORDS ;
 
 
