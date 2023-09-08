@@ -33,11 +33,15 @@ TODO: Have a look at these:
 * **+Prf** 
 * **+PrfPrs** 
 * **+Rom** 
+
 * **+Use/-PMatch** 
 * **+Use/Circ** 
 * **+Use/NG** 
 * **+Use/PMatch** 
-* **+Use/SpellNoSugg** 
+* **+Use/SpellNoSugg**
+* **+Use/TTS** – **only** retained in the HFST Text-To-Speech disambiguation tokeniser
+* **+Use/-TTS** – **never** retained in the HFST Text-To-Speech disambiguation tokeniser
+
 * **+v1** 
 * **+v2** 
 * **@C.ErrOrth@** 
