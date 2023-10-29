@@ -1,8 +1,5 @@
-!! # Verbs
-!! [Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/verbs.lexc)
 
 LEXICON verbs
-!! **LEXICON @LEXNAME@** = 
 
 mända+V:män V_PESTA  "mennä" ;
 ei+V+Aux:e V_EI  "ei" ;

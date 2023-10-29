@@ -1,7 +1,5 @@
-!! # Conjunctions
 
 LEXICON conjuncts
-!! **LEXICON @LEXNAME@** pointinh to CC_
 
 a+CC:a CC_  "mutta" ;
 da+CC:da CC_  "ja" ;
