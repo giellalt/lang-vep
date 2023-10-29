@@ -1632,17 +1632,6 @@ Veps acronyms ...
 
 ---
 
-# Adjectives
-[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adjectives.lexc)
-
-**LEXICON adjectives** contains 3 adjs.
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/adjectives.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adjectives.lexc)</small>
-
----
-
 # New adjectives for Veps
 [Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adjectives_newwords.lexc)
 
@@ -1655,36 +1644,6 @@ kala:kala A_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/stems/adjectives_newwords.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adjectives_newwords.lexc)</small>
-
----
-
-# Adverbs
-
-**LEXICON adverbs** containing 3
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/adverbs.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adverbs.lexc)</small>
-
----
-
-# Conjunctions
-
-**LEXICON conjuncts** pointinh to CC_
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/conjuncts.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/conjuncts.lexc)</small>
-
----
-
-# Interjections
-
-**LEXICON interjections contains *aj*, pointing to INTERJ_
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/interjections.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/interjections.lexc)</small>
 
 ---
 
@@ -1739,17 +1698,6 @@ ADD NOUNS BELOW
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/stems/propernouns_newwords.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/propernouns_newwords.lexc)</small>
-
----
-
-# Verbs
-[Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/verbs.lexc)
-
-**LEXICON verbs** = 
-
-* * *
-
-<small>This (part of) documentation was generated from [src/fst/stems/verbs.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/verbs.lexc)</small>
 
 ---
 

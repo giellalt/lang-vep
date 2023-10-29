@@ -19,16 +19,11 @@
         * `stems/`
             * [abbreviations.lexc](src-fst-stems-abbreviations.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/abbreviations.lexc))
             * [acronyms.lexc](src-fst-stems-acronyms.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/acronyms.lexc))
-            * [adjectives.lexc](src-fst-stems-adjectives.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adjectives.lexc))
             * [adjectives_newwords.lexc](src-fst-stems-adjectives_newwords.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adjectives_newwords.lexc))
-            * [adverbs.lexc](src-fst-stems-adverbs.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adverbs.lexc))
-            * [conjuncts.lexc](src-fst-stems-conjuncts.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/conjuncts.lexc))
-            * [interjections.lexc](src-fst-stems-interjections.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/interjections.lexc))
             * [nouns_newwords.lexc](src-fst-stems-nouns_newwords.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/nouns_newwords.lexc))
             * [numerals.lexc](src-fst-stems-numerals.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/numerals.lexc))
             * [pronouns.lexc](src-fst-stems-pronouns.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/pronouns.lexc))
             * [propernouns_newwords.lexc](src-fst-stems-propernouns_newwords.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/propernouns_newwords.lexc))
-            * [verbs.lexc](src-fst-stems-verbs.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/verbs.lexc))
             * [verbs_newwords.lexc](src-fst-stems-verbs_newwords.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/verbs_newwords.lexc))
     * `phonetics/`
         * [txt2ipa.xfscript](src-phonetics-txt2ipa.xfscript.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/phonetics/txt2ipa.xfscript))
