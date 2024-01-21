@@ -615,7 +615,7 @@ These were the set types.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/adjectives.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/affixes/adjectives.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/adjectives.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/affixes/adjectives.lexc)</small>
 
 ---
 
@@ -625,7 +625,7 @@ K 3 clitics plus #
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/clitics.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/affixes/clitics.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/clitics.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/affixes/clitics.lexc)</small>
 
 ---
 
@@ -714,7 +714,7 @@ Not yet written...
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/nouns.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/affixes/nouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/nouns.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/affixes/nouns.lexc)</small>
 
 ---
 
@@ -735,7 +735,7 @@ forms which requires great amount of care in the inflection patterns.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/numerals.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/affixes/numerals.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/numerals.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/affixes/numerals.lexc)</small>
 
 ---
 
@@ -769,7 +769,7 @@ NEG-PRON split in Nom Gen Par
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/pronouns.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/affixes/pronouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/pronouns.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/affixes/pronouns.lexc)</small>
 
 ---
 
@@ -782,7 +782,7 @@ PROPER NOUNS
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/propernouns.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/affixes/propernouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/propernouns.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/affixes/propernouns.lexc)</small>
 
 ---
 
@@ -798,7 +798,7 @@ PROPER NOUNS
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/quantifiers.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/affixes/quantifiers.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/quantifiers.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/affixes/quantifiers.lexc)</small>
 
 ---
 
@@ -807,7 +807,7 @@ PROPER NOUNS
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/symbols.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/affixes/symbols.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/symbols.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/affixes/symbols.lexc)</small>
 
 ---
 
@@ -913,7 +913,7 @@ V-ConsonantStem_t
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/affixes/verbs.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/affixes/verbs.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/affixes/verbs.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/affixes/verbs.lexc)</small>
 
 ---
 
@@ -1085,7 +1085,7 @@ Right context for gradation
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/phonology.twolc](https://github.com/giellalt/lang-vep/blob/main/src/fst/phonology.twolc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/phonology.twolc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/phonology.twolc)</small>
 
 ---
 
@@ -1546,7 +1546,7 @@ DEM
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/root.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/root.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/root.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/root.lexc)</small>
 
 ---
 
@@ -1597,7 +1597,7 @@ The idea is that the nominal ones may have case, like e.g. P.E.N.
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/abbreviations.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/abbreviations.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/abbreviations.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/abbreviations.lexc)</small>
 
 ---
 
@@ -1628,7 +1628,7 @@ Veps acronyms ...
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/acronyms.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/acronyms.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/acronyms.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/acronyms.lexc)</small>
 
 ---
 
@@ -1643,7 +1643,7 @@ kala:kala A_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/adjectives_newwords.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adjectives_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/adjectives_newwords.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/adjectives_newwords.lexc)</small>
 
 ---
 
@@ -1657,7 +1657,7 @@ kala:kala N_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/nouns_newwords.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/nouns_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/nouns_newwords.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/nouns_newwords.lexc)</small>
 
 ---
 
@@ -1674,7 +1674,7 @@ of cardinals and ordinals, and the non-compounding ones:
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/numerals.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/numerals.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/numerals.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/numerals.lexc)</small>
 
 ---
 
@@ -1684,7 +1684,7 @@ of cardinals and ordinals, and the non-compounding ones:
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/pronouns.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/pronouns.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/pronouns.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/pronouns.lexc)</small>
 
 ---
 
@@ -1697,7 +1697,7 @@ ADD NOUNS BELOW
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/propernouns_newwords.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/propernouns_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/propernouns_newwords.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/propernouns_newwords.lexc)</small>
 
 ---
 
@@ -1712,7 +1712,7 @@ avaita:avai V_ "" ;
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/verbs_newwords.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/verbs_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/verbs_newwords.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/verbs_newwords.lexc)</small>
 
 ---
 
@@ -1879,7 +1879,7 @@ retracted tongue root			_q
 
 * * *
 
-<small>This (part of) documentation was generated from [src/phonetics/txt2ipa.xfscript](https://github.com/giellalt/lang-vep/blob/main/src/phonetics/txt2ipa.xfscript)</small>
+<small>This (part of) documentation was generated from [src/fst/phonetics/txt2ipa.xfscript](https://github.com/giellalt/lang-vep/blob/main/src/fst/phonetics/txt2ipa.xfscript)</small>
 
 ---
 
@@ -1899,7 +1899,7 @@ For example:
 
 * * *
 
-<small>This (part of) documentation was generated from [src/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/giellalt/lang-vep/blob/main/src/transcriptions/transcriptor-abbrevs2text.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/transcriptions/transcriptor-abbrevs2text.lexc)</small>
 
 ---
 

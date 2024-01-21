@@ -9,7 +9,7 @@ kala:kala A_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
 
 * * *
 
-<small>This (part of) documentation was generated from [src/fst/stems/adjectives_newwords.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adjectives_newwords.lexc)</small>
+<small>This (part of) documentation was generated from [src/fst/morphology/stems/adjectives_newwords.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/adjectives_newwords.lexc)</small>
 
 ---
 
