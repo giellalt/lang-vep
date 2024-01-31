@@ -1,6 +1,18 @@
 name = "Veps"
 version = "0.1.1"
 
+# Name of the speller package in various languages.
+# The default is English + autonym:
+[speller.name]
+en = "Veps spellchecker"
+vep = "Autonym spellchecker"
+
+# Description of the speller package in various languages.
+# The default is English + autonym:
+[speller.description]
+en = "A spellchecker for Veps, made by members of the language community, and by the Divvun and Giellatekno groups at UiT The Arctic University of Norway"
+vep = "TRANSLATE: A spellchecker for Veps, made by members of the language community, and by the Divvun and Giellatekno groups at UiT The Arctic University of Norway"
+
 [macos]
 system_pkg_id = "no.divvun.MacDivvun.vep"
 
