@@ -36,8 +36,10 @@ GT_LEXC_SRCS_L1_L2=\
 			stems/adjectives_newwords.lexc   \
 			stems/adpositions.lexc       \
 			stems/adverbs.lexc       \
+			stems/nouns.lexc         \
 			stems/nouns_newwords.lexc      \
 			stems/numerals.lexc      \
+			stems/propernouns.lexc   \
 			stems/propernouns_newwords.lexc   \
 			stems/verbs.lexc         \
 			stems/verbs_newwords.lexc      \
@@ -71,7 +73,6 @@ GENERATED_LEXC_SRCS=\
 			$(srcdir)/stems/adjectives.lexc    \
 			$(srcdir)/stems/conjuncts.lexc     \
 			$(srcdir)/stems/interjections.lexc \
-			$(srcdir)/stems/nouns.lexc         \
 			$(srcdir)/stems/quantifiers.lexc   \
 			generated_files/smi-$(GLANG)-digits.lexc    \
 			generated_files/smi-$(GLANG)-arabic_roman_digits.lexc \
@@ -105,7 +106,6 @@ GT_XML_SRCS=\
 			stems/adjectives.xml    \
 			stems/conjuncts.xml     \
 			stems/interjections.xml \
-			stems/nouns.xml         \
 			stems/quantifiers.xml  
 
 
