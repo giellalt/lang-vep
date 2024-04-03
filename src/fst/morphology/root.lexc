@@ -534,10 +534,13 @@ LEXICON ADV_MANNER
 !! @LEXNAME@ 
 +Manner: K ; 
  
-LEXICON SPAT_ 
+LEXICON ADV_LAT !sinna
+!! @LEXNAME@ 
+ K ; 
+LEXICON ADV_SPAT
 !! @LEXNAME@ 
 +Spat: K ; 
- 
+
 LEXICON ADV_TEMP 
 !! @LEXNAME@ 
 +Temp: K ; 
