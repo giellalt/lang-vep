@@ -6,7 +6,7 @@
       <lg>
          <l pos="Adv">lujas</l>
          <stg>
-            <st Contlex="MANNER_">lujas</st>
+            <st Contlex="ADV_MANNER">lujas</st>
          </stg>
       </lg>
       <mg>
@@ -19,7 +19,7 @@
       <lg>
          <l pos="Adv">pigašti</l>
          <stg>
-            <st Contlex="MANNER_">pigašti</st>
+            <st Contlex="ADV_MANNER">pigašti</st>
          </stg>
       </lg>
       <mg>
@@ -35,7 +35,7 @@
       <lg>
          <l pos="Adv">sikš</l>
          <stg>
-            <st Contlex="MANNER_">sikš</st>
+            <st Contlex="ADV_MANNER">sikš</st>
          </stg>
       </lg>
       <mg>
@@ -51,7 +51,7 @@
       <lg>
          <l pos="Adv">kut</l>
          <stg>
-            <st Contlex="MANNER_">kut</st>
+            <st Contlex="ADV_MANNER">kut</st>
          </stg>
       </lg>
       <mg>
@@ -67,7 +67,7 @@
       <lg>
          <l pos="Adv">völ</l>
          <stg>
-            <st Contlex="TEMP_">völ</st>
+            <st Contlex="ADV_TEMP">völ</st>
          </stg>
       </lg>
       <mg>

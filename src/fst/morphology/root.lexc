@@ -530,7 +530,7 @@ LEXICON ADV_
 !! @LEXNAME@ 
 : # ; 
  
-LEXICON MANNER_ 
+LEXICON ADV_MANNER 
 !! @LEXNAME@ 
 +Manner: K ; 
  
@@ -538,7 +538,7 @@ LEXICON SPAT_
 !! @LEXNAME@ 
 +Spat: K ; 
  
-LEXICON TEMP_ 
+LEXICON ADV_TEMP 
 !! @LEXNAME@ 
 +Temp: K ; 
  
