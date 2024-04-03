@@ -227,6 +227,7 @@ in this system in terms of the following symbols.
 * **+Qst** 
 * **+Foc**  = 
 * **+Clt**  = 
+* **+Foc/i**  = perhaps +Addative
 * **+Foc/ki**  = 
 * **+Foc/žo**  = 
 * **+Appr**  = 
