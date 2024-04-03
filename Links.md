@@ -24,6 +24,7 @@
                 * [nouns_newwords.lexc](src-fst-morphology-stems-nouns_newwords.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/nouns_newwords.lexc))
                 * [numerals.lexc](src-fst-morphology-stems-numerals.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/numerals.lexc))
                 * [pronouns.lexc](src-fst-morphology-stems-pronouns.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/pronouns.lexc))
+                * [propernouns.lexc](src-fst-morphology-stems-propernouns.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/propernouns.lexc))
                 * [propernouns_newwords.lexc](src-fst-morphology-stems-propernouns_newwords.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/propernouns_newwords.lexc))
                 * [verbs_newwords.lexc](src-fst-morphology-stems-verbs_newwords.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/verbs_newwords.lexc))
         * `phonetics/`
