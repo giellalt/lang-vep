@@ -3,4 +3,7 @@ LEXICON adverbs
 
 lujas+Adv:lujas MANNER_  "lujasti" ;
 pigašti+Adv:pigašti MANNER_  "nopeasti" ;
+sikš+Adv:sikš MANNER_  "siksi" ;
+kut+Adv:kut MANNER_  "kuten" ;
 völ+Adv:völ TEMP_  "vielä" ;
+ka+Adv:ka ADV_  "myös" ;

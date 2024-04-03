@@ -33,6 +33,38 @@
    </e>
    <e>
       <lg>
+         <l pos="Adv">sikš</l>
+         <stg>
+            <st Contlex="MANNER_">sikš</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="Adv">because</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv">siksi</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">kut</l>
+         <stg>
+            <st Contlex="MANNER_">kut</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="Adv">like</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv">kuten</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="Adv">völ</l>
          <stg>
             <st Contlex="TEMP_">völ</st>
@@ -44,6 +76,22 @@
          </tg>
          <tg xml:lang="fin">
             <t pos="Adv">vielä</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Adv">ka</l>
+         <stg>
+            <st Contlex="ADV_">ka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="Adv">also</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="Adv">myös</t>
          </tg>
       </mg>
    </e>
