@@ -461,6 +461,8 @@ LEXICON Root
   conjuncts     ; 
   interjections ; 
 !  NounRoot      ; <no lexicon by this name seems to exist 20230620>
+  nouns  ;
+  propernouns  ;
   quantifiers   ; 
   verbs         ; 
   Abbreviation  ; ! stems/abbr.lexc 
@@ -469,8 +471,8 @@ LEXICON Root
   Symbols       ; 
   Numerals     ; 
   A_NEWWORDS    ; 
-  N_NEWWORDS    ;  !Under NounRoot. Todo: Unify files. <What is this unification to do?20230620>
-  PROP_NEWWORDS ; 
+  N_NEWWORDS    ;  !This is where to put incoming new nouns 20240403
+  PROP_NEWWORDS ;  !This is where to put incoming new proper nouns 20240403 
   V_NEWWORDS    ; 
 ! SUBJUNCTION   ; 
   PRONOUN-TYPES ; 
