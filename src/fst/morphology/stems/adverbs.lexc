@@ -1,9 +1,16 @@
 
 LEXICON adverbs
 
-lujas+Adv:lujas MANNER_  "lujasti" ;
-pigašti+Adv:pigašti MANNER_  "nopeasti" ;
-sikš+Adv:sikš MANNER_  "siksi" ;
-kut+Adv:kut MANNER_  "kuten" ;
-völ+Adv:völ TEMP_  "vielä" ;
-ka+Adv:ka ADV_  "myös" ;
+edes+Adv:edes ADV_ ;
+ka+Adv:ka ADV_ ;
+kut+Adv:kut ADV_MANNER ;
+lujas+Adv:lujas ADV_MANNER ;
+muga+Adv:muga ADV_ ;
+pigašti+Adv:pigašti ADV_MANNER ;
+sigä+Adv:sigä ADV_SPAT ;
+sikš+Adv:sikš ADV_ ;
+siloi+Adv:siloi ADV_TEMP ;
+sinna+Adv:sinna ADV_LAT ;
+vaiše+Adv:vaiše ADV_ ;
+völ+Adv:völ ADV_TEMP ;
+

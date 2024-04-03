@@ -33,7 +33,8 @@ GT_LEXC_SRCS_L1_L2=\
 			compounding.lexc         \
 			stems/abbreviations.lexc \
 			stems/acronyms.lexc      \
-			stems/adjectives_newwords.lexc      \
+			stems/adjectives_newwords.lexc   \
+			stems/adverbs.lexc       \
 			stems/nouns_newwords.lexc      \
 			stems/numerals.lexc      \
 			stems/propernouns_newwords.lexc   \
@@ -67,7 +68,6 @@ GT_LEXC_L2_SRCS=\
 # Set this to the names of all generated lexc files, if any
 GENERATED_LEXC_SRCS=\
 			$(srcdir)/stems/adjectives.lexc    \
-			$(srcdir)/stems/adverbs.lexc       \
 			$(srcdir)/stems/conjuncts.lexc     \
 			$(srcdir)/stems/interjections.lexc \
 			$(srcdir)/stems/nouns.lexc         \
@@ -102,7 +102,6 @@ endif
 # Set this to the names of all source xml files, if any
 GT_XML_SRCS=\
 			stems/adjectives.xml    \
-			stems/adverbs.xml       \
 			stems/conjuncts.xml     \
 			stems/interjections.xml \
 			stems/nouns.xml         \
