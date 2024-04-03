@@ -14,6 +14,7 @@ ičeze+Pron+Sg3+Gen:ičeze K ;
 ičeze+Pron+Pl3+Gen:ičeze K ;
 ičeze+Pron+Sg3+Apr2:ičezennoks K ;
 ičeze+Pron+Pl3+Apr2:ičezennoks K ;!Do we want + OR +SP3
+nece+Det:ne DET_NECE ;
 
 LEXICON PERS
 !! @LEXNAME@  split in persons
@@ -27,6 +28,7 @@ hän+Pron:h PersPl3 ;
 LEXICON PersSg1
 !! @LEXNAME@ split in Nom, Gen, Acc
 +Pers+Sg1:ä NOM-SUF ;
++Pers+Sg1+Par:dai K ;
 +Pers+Sg1:u GEN-SUF ;
 +Pers+Sg1:u ACC-SUF ;!is this distinguishable at morphosyntactic level better than later? 20230620
 +Pers+Sg1:u ELA-SUF ;
@@ -128,5 +130,32 @@ LEXICON NEG-PRON
 niken+Pron+Neg+Sg+Nom:niken K ;
 niken+Pron+Neg+Sg+Gen:nikenen K ;
 niken+Pron+Neg+Sg+Par:nikeda K ;
+
+LEXICON DET_NECE !nece+Pron:ne
++Dem:ce SG-ABE-SUF ;
++Dem:ci SG-ADE-SUF ;
++Dem:ce SG-COM-SUF ;
++Dem:ce SG-GEN-SUF ;
++Dem:ci SG-INE-SUF_iš ;
++Dem:ci SG-ELA-SUF_išpäi ;
++Dem:c SG-ILL-SUF ;
++Dem+Sg+Nom:ce K ;
++Dem+Sg+Par:cidä K ;
++Dem:c SG-TER1-SUF ;
++Dem:n PL-ABE-SUF ;
++Dem:n PL-ABL-SUF ;
++Dem: PL-ACC-SUF ;
++Dem:ne PL-ACC-SUF ;
++Dem:n PL-ADE-SUF ;
++Dem:n PL-ALL-SUF ;
++Dem:n PL-COM-SUF ;
++Dem:n PL-ELA-SUF ;
++Dem:n PL-GEN-SUF ;
++Dem:n PL-ILL-SUF ;
++Dem:n PL-INE-SUF ;
++Dem:ne PL-NOM-SUF ;
++Dem:n PL-PAR-SUF ;
++Dem:n PL-TRA-SUF ;
+
 
 ! vim: set ft=xfst-lexc:
