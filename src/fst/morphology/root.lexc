@@ -456,6 +456,7 @@ LEXICON Root
 !! The word forms in Veps start from the lexeme roots of basic 
 !! word classes. 
   adjectives    ; 
+  adpositions    ; 
   adverbs       ; 
   conjuncts     ; 
   interjections ; 
@@ -471,7 +472,6 @@ LEXICON Root
   N_NEWWORDS    ;  !Under NounRoot. Todo: Unify files. <What is this unification to do?20230620>
   PROP_NEWWORDS ; 
   V_NEWWORDS    ; 
-  POSTPOSITION  ; 
 ! SUBJUNCTION   ; 
   PRONOUN-TYPES ; 
 
@@ -511,11 +511,6 @@ LEXICON ORDINAL
 ! LEXICON PUNCTUATION 
 !  # ; 
  
-LEXICON POSTPOSITION 
-!! @LEXNAME@ 
-al+Po+Ade:al # ; 
-keskes+Po+Ine:keskes # ; 
- 
 LEXICON CADJ 
 !! @LEXNAME@ 
 +A: #; 
@@ -544,7 +539,16 @@ LEXICON ADV_SPAT
 LEXICON ADV_TEMP 
 !! @LEXNAME@ 
 +Temp: K ; 
- 
+
+LEXICON PO_
+ K ;
+LEXICON PO_ADE
++Ade: K ;
+LEXICON PO_ILL
++Ill: K ;
+LEXICON PO_INE
++Ine: K ;
+
 LEXICON CASESUF #; 
 !! @LEXNAME@ 
 LEXICON PRON #; 
