@@ -23,6 +23,7 @@ LEXICON V_SUGIDA
 : V-ConsonantStem ;
 : INDPRS3 ;
 INF_da ;
+ PRFPRC_nu ;
 
 LEXICON V_OLDA
 !! @LEXNAME@ (adding :le to vowstem)
@@ -31,6 +32,7 @@ LEXICON V_OLDA
 +Ind+Prs+Sg3:%>m K ;
 +Ind+Prs+Pl3:%>ba K ;
 :l INF_da ;
+:l PRFPRC_nu ;
 
 LEXICON V_PESTA
 !! @LEXNAME@ (adding -e) ti vowstem and indprs3)
@@ -38,6 +40,7 @@ LEXICON V_PESTA
 : V-ConsonantStem ;
 :e INDPRS3 ;
 INF_ta ;
+! PRFPRC_nu ;
 
 LEXICON V_TEHTA ! 
 !! @LEXNAME@ = tehta:te (adding :ge to vowst and indprs3)
@@ -47,6 +50,7 @@ LEXICON V_TEHTA !
  V-ConsonantStem_t ;
 :ge INDPRS3 ;
 :h INF_ta ;
+:h PRFPRC_nu ;
 
 LEXICON V_SIRTA !
 !! @LEXNAME@ =  sirta:sir
@@ -55,6 +59,7 @@ LEXICON V_SIRTA !
 :d V-ConsonantStem_OTHER ;
  V-ConsonantStem_t ;
 :da INDPRS3 ;
+! PRFPRC_nu ;
 
 LEXICON V_JOKSTA ! 
 !! @LEXNAME@ = joksta:joks
@@ -63,6 +68,7 @@ LEXICON V_JOKSTA !
  V-ConsonantStem ;
 :e INDPRS3 ;
 INF_ta ;
+! PRFPRC_nu ;
 
 LEXICON V_LETA ! 
 !! @LEXNAME@ = leta:le
@@ -72,6 +78,7 @@ LEXICON V_LETA !
  V-ConsonantStem_t ;
 :nda INDPRS3 ;
 INF_ta ;
+! PRFPRC_nu ;
 
 LEXICON V_JODA ! 
 !! @LEXNAME@ = joda:jo
@@ -79,7 +86,8 @@ LEXICON V_JODA !
 : V-VowelStem-PRT ;
  V-ConsonantStem ;
 : INDPRS3 ;
-INF_da ;
+ INF_da ;
+ PRFPRC_nu ;
 
 
 LEXICON V_VEDADA !
@@ -89,6 +97,7 @@ LEXICON V_VEDADA !
 :a V-ConsonantStem ; !CHECKME2019-07-25
 :a INDPRS3 ;
 :a INF_da ;
+:a  PRFPRC_nu ;
 
 LEXICON V_MAKSTA ! 
 !! @LEXNAME@ = maksta:maks
@@ -97,6 +106,7 @@ LEXICON V_MAKSTA !
  V-ConsonantStem ;
 :a INDPRS3 ;
 INF_ta ;
+! PRFPRC_nu ;
 
 LEXICON V_ASTTA ! 
 !! @LEXNAME@ = astta:ast
@@ -105,6 +115,7 @@ LEXICON V_ASTTA !
  V-ConsonantStem ;
 :u INDPRS3 ;
 INF_ta ;
+! PRFPRC_nu ;
 
 
 LEXICON V_HUBETA ! 
@@ -114,6 +125,7 @@ LEXICON V_HUBETA !
  V-ConsonantStem ;
 :ne INDPRS3 ;
 INF_ta ;
+! PRFPRC_nu ;
 
 LEXICON V_TULDA ! 
 !! @LEXNAME@ = tulda:tul
@@ -122,6 +134,7 @@ LEXICON V_TULDA !
  V-ConsonantStem ;
 :e INDPRS3 ;
 INF_da ;
+ PRFPRC_nu ;
 
 LEXICON V_OTTA ! 
 !! @LEXNAME@ = otta:ot
@@ -130,6 +143,7 @@ LEXICON V_OTTA !
  V-ConsonantStem ;
 :a INDPRS3 ;
 INF_ta ;
+ PRFPRC_nu ;
 
 LEXICON V_HOMAITA !
 !! @LEXNAME@ =  homaita:homai
@@ -138,6 +152,7 @@ LEXICON V_HOMAITA !
  V-ConsonantStem ;
 :če INDPRS3 ;
 INF_ta ;
+:če PRFPRC_nu ;
 
 LEXICON V_OIGETA !oigeta:oige
 !! @LEXNAME@
@@ -146,6 +161,7 @@ LEXICON V_OIGETA !oigeta:oige
  V-ConsonantStem ;
 :nda INDPRS3 ;
 INF_ta ;
+:nda PRFPRC_nu ;
 
 LEXICON V_VIRIGATA 
 !! @LEXNAME@ =  virigata:viriga
@@ -154,6 +170,7 @@ LEXICON V_VIRIGATA
  V-ConsonantStem ;
 :nde INDPRS3 ;
 INF_ta ;
+! PRFPRC_nu ;
 
 LEXICON V_KERATA ! 
 !! @LEXNAME@ = kerata:kera
@@ -162,6 +179,7 @@ LEXICON V_KERATA !
  V-ConsonantStem ;
 :da INDPRS3 ;
 INF_ta ;
+! PRFPRC_nu ;
 
 LEXICON V_JAGADA 
 !! @LEXNAME@ =  jagada:jag (adding a to prt and a elsewhere)
@@ -170,6 +188,7 @@ LEXICON V_JAGADA
 :a V-ConsonantStem ;
 :a INDPRS3 ;
 :a INF_da ;
+:a PRFPRC_nu ;
 
 LEXICON V_TUGETA
 !! @LEXNAME@ = tugeta:tuge
@@ -177,6 +196,7 @@ LEXICON V_TUGETA
 :%^DEVOICE V-ConsonantStem ;
 :nda INDPRS3 ;
 INF_ta ;
+! PRFPRC_nu ;
 
 !
 LEXICON V_VALITA
@@ -185,6 +205,7 @@ LEXICON V_VALITA
 :%^DEVOICE V-ConsonantStem ;
 :če INDPRS3 ;
 INF_ta ;
+! PRFPRC_nu ;
 
 LEXICON V_AVAITA ! 
 !! @LEXNAME@ = avaita:avai, avaidab avaiži
@@ -193,6 +214,7 @@ LEXICON V_AVAITA !
  V-ConsonantStem ;
 :da INDPRS3 ;
 INF_ta ;
+! PRFPRC_nu ;
 
 !! ### Default lexicon
 
@@ -315,10 +337,8 @@ LEXICON V-ConsonantStem_OTHER
 +Ind+ConNeg+Prs+Pl:%>koi K ;
 +Ind+ConNeg+Prt+Pl:%>nugoi K ;
 +PrfPrc:%>nu PRFPRC-DECLENSION ;
-+PrfPrc+Sg:%>nu K ;
-+PrfPrc+Pl:%>nuded K ;
-+Cond+ConNeg+Prt:%>nuiži K ;
-
+ PRFPRC_nu ;
+ 
 !!!!!!!!!!!!!!
 !! #### Imperative 
 !!!!!!!!!!!!!!
@@ -338,6 +358,7 @@ LEXICON V-ConsonantStem_OTHER
 +Cond+Prt+Pl1:%>nuižim K ;
 +Cond+Prt+Pl2:%>nuižit K ;
 +Cond+Prt+Pl3:%>nuižiba K ;
+
 
 !!!!!!!!!!!!!
 !! #### Reflexive 
@@ -380,6 +401,12 @@ INF_ta ;
 +Inf+Der/ma+Ade:%>mal K ;
 +Der+Der/Mine+N:%>mi N_TOSHTMINE ;
 +Der+Der/Matoi+A:%>mato A_KENGATOI ;
+
+LEXICON PRFPRC_nu
++PrfPrc+Sg:%>nu K ;
++PrfPrc+Pl:%>nuded K ;
++Cond+ConNeg+Prt:%>nuiži K ;
+
 
 LEXICON INF_da
 +Inf:%>da K ;
