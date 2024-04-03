@@ -34,7 +34,8 @@ LEXICON PersSg1
 +Pers+Sg1:u ELA-SUF ;
 +Pers+Sg1:u ILL-SUF ;
 +Pers+Sg1:u INE-SUF ;
-+Pers+Sg1:u ALL-SUF ;
+!+Pers+Sg1:u ALL-SUF ;! ?minule does this exist
++Pers+Sg1+All:ei K ;! minei ?Dat
 +Pers+Sg1:u ADE-SUF ;
 +Pers+Sg1:u ABL-SUF ;
 +Pers+Sg1:u COM-SUF ; !minunke
