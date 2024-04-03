@@ -823,6 +823,8 @@ V_EI all forms of the *ei* verb
 
 V_SUGIDA This and all V_... lexica redirect to *V-VowelStem, V-ConsonantStem, INDPRS3* (see below)
 
+V_ANTTA antta:an
+
 V_OLDA (adding :le to vowstem)
 
 V_PESTA (adding -e) ti vowstem and indprs3)
@@ -849,8 +851,6 @@ V_TULDA = tulda:tul
 
 V_OTTA = otta:ot
 
-V_HOMAITA =  homaita:homai
-
 V_OIGETA
 
 V_VIRIGATA =  virigata:viriga
@@ -860,6 +860,8 @@ V_KERATA = kerata:kera
 V_JAGADA =  jagada:jag (adding a to prt and a elsewhere)
 
 V_TUGETA = tugeta:tuge
+
+V_HOMAITA =  homaita:homai
 
 V_VALITA  =  valita:vali
 
@@ -1535,11 +1537,11 @@ VADJ
 
 ADV_ 
 
-MANNER_ 
+ADV_MANNER 
 
 SPAT_ 
 
-TEMP_ 
+ADV_TEMP 
 
 CASESUF 
 PRON 
