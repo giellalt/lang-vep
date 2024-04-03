@@ -3,5 +3,8 @@ LEXICON conjuncts
 
 a+CC:a CC_  "mutta" ;
 da+CC:da CC_  "ja" ;
+no+CC:no CC_  "mutta" ;
 i+CC:i CC_  "ja" ;
 den+CS:den CS_  "" ;
+konz+CS:konz CS_  "kun" ;
+miše+CS:miše CS_  "että" ;

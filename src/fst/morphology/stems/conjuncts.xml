@@ -36,6 +36,22 @@
    </e>
    <e>
       <lg>
+         <l pos="CC">no</l>
+         <stg>
+            <st Contlex="CC_">no</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="CC">but</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="CC">mutta</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="CC">i</l>
          <stg>
             <st Contlex="CC_">i</st>
@@ -63,6 +79,38 @@
          </tg>
          <tg xml:lang="fin">
             <t pos="CS"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">konz</l>
+         <stg>
+            <st Contlex="CS_">konz</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="CS">when</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="CS">kun</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="CS">miše</l>
+         <stg>
+            <st Contlex="CS_">miše</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="CS">that</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="CS">että</t>
          </tg>
       </mg>
    </e>
