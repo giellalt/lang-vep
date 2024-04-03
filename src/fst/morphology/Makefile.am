@@ -36,7 +36,8 @@ GT_LEXC_SRCS_L1_L2=\
 			stems/adjectives_newwords.lexc      \
 			stems/nouns_newwords.lexc      \
 			stems/numerals.lexc      \
-			stems/propernouns_newwords.lexc      \
+			stems/propernouns_newwords.lexc   \
+			stems/verbs.lexc         \
 			stems/verbs_newwords.lexc      \
 			affixes/adjectives.lexc  \
 			affixes/clitics.lexc     \
@@ -71,7 +72,6 @@ GENERATED_LEXC_SRCS=\
 			$(srcdir)/stems/interjections.lexc \
 			$(srcdir)/stems/nouns.lexc         \
 			$(srcdir)/stems/quantifiers.lexc   \
-			$(srcdir)/stems/verbs.lexc         \
 			generated_files/smi-$(GLANG)-digits.lexc    \
 			generated_files/smi-$(GLANG)-arabic_roman_digits.lexc \
 			generated_files/mul-$(GLANG)-punctuation.lexc   \
@@ -106,8 +106,7 @@ GT_XML_SRCS=\
 			stems/conjuncts.xml     \
 			stems/interjections.xml \
 			stems/nouns.xml         \
-			stems/quantifiers.xml   \
-			stems/verbs.xml
+			stems/quantifiers.xml  
 
 
 # Define any additional lexc sources here (compiled on their own):
