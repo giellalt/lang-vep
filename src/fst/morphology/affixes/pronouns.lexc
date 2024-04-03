@@ -10,6 +10,10 @@ LEXICON PRONOUN-TYPES
  NEG-PRON ;
 ! COLL-PRON ;
   DEM-PRON ;
+ičeze+Pron+Sg3+Gen:ičeze K ;
+ičeze+Pron+Pl3+Gen:ičeze K ;
+ičeze+Pron+Sg3+Apr2:ičezennoks K ;
+ičeze+Pron+Pl3+Apr2:ičezennoks K ;!Do we want + OR +SP3
 
 LEXICON PERS
 !! @LEXNAME@  split in persons
@@ -54,6 +58,7 @@ LEXICON PersSg3
 +Pers+Sg3:ne GEN-SUF ;
 +Pers+Sg3:ne ACC-SUF ;
 +Pers+Sg3:n PAR-SUF ;
++Pers+Sg3+Par:ndast K ;!2024-04-02
 +Pers+Sg3:ne ABE-SUF ;
 +Pers+Sg3:ne ILL-SUF ;
 +Pers+Sg3:ne INE-SUF ;
