@@ -700,11 +700,15 @@ LEXICON SG-COM-SUF
 LEXICON COM-SUF
 +Com:%>nke K ;
 
+LEXICON SG-INE-SUF_iš
++Sg+Ine:%>š K ;
 LEXICON SG-INE-SUF
 +Sg: INE-SUF ;
 LEXICON INE-SUF
 +Ine:%>s K ; ! s/š kül’betiš 
 
+LEXICON SG-ELA-SUF_špäi
++Sg+Ela:špäi K ;
 LEXICON SG-ELA-SUF
 +Sg: ELA-SUF ;
 LEXICON ELA-SUF
