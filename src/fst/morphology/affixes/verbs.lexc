@@ -8,12 +8,12 @@
 ! ei:e
 LEXICON V_EI
 !! @LEXNAME@ all forms of the *ei* verb
-+Neg+Sg1:%>n K ;
-+Neg+Sg2:%>d K ;
-+Neg+Sg3:%>i K ;
-+Neg+Pl1:%>m K ;
-+Neg+Pl2:%>t K ;
-+Neg+Pl3:%>i K ; !Is there any other variant
++Aux+Neg+Sg1:%>n K ;
++Aux+Neg+Sg2:%>d K ;
++Aux+Neg+Sg3:%>i K ;
++Aux+Neg+Pl1:%>m K ;
++Aux+Neg+Pl2:%>t K ;
++Aux+Neg+Pl3:%>i K ; !Is there any other variant
 
 !! ### Regular verbs
 
@@ -24,6 +24,14 @@ LEXICON V_SUGIDA
 : INDPRS3 ;
 INF_da ;
  PRFPRC_nu ;
+
+LEXICON V_ANTTA
+!! @LEXNAME@ antta:an
+:da V-VowelStem ;
+:d V-ConsonantStem ;
+:da INDPRS3 ;
+:t INF_ta ;
+:d PRFPRC_nu ;
 
 LEXICON V_OLDA
 !! @LEXNAME@ (adding :le to vowstem)
@@ -145,14 +153,6 @@ LEXICON V_OTTA !
 INF_ta ;
  PRFPRC_nu ;
 
-LEXICON V_HOMAITA !
-!! @LEXNAME@ =  homaita:homai
-:če V-VowelStem-PRS ;
-:č V-VowelStem-PRT ;
- V-ConsonantStem ;
-:če INDPRS3 ;
-INF_ta ;
-:če PRFPRC_nu ;
 
 LEXICON V_OIGETA !oigeta:oige
 !! @LEXNAME@
@@ -197,6 +197,15 @@ LEXICON V_TUGETA
 :nda INDPRS3 ;
 INF_ta ;
 ! PRFPRC_nu ;
+
+LEXICON V_HOMAITA !
+!! @LEXNAME@ =  homaita:homai
+:če V-VowelStem-PRS ;
+:č V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:če INDPRS3 ;
+INF_ta ;
+:če PRFPRC_nu ;
 
 !
 LEXICON V_VALITA
