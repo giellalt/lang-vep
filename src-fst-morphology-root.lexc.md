@@ -304,7 +304,8 @@ source and target part-of-speech.
 * **+V→N** 
 * **+V→V** 
 * **+V→A**  = 
-* **+Der**  = 
+* **+Der**  =
+* **+Der/NomAg**  = tehta : tegii
 * **+Der/Uz1**  = sur»uz' A»N 
 * **+Der/Ta**  = 
 * **+Der/Te**  = 
