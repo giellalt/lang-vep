@@ -24,6 +24,7 @@ LEXICON V_SUGIDA
 : INDPRS3 ;
 INF_da ;
  PRFPRC_nu ;
++Der+Der/NomAg+N: N_TEGII ;! this might be the same as V-VowelStem-PRT with an i in next lexicon
 
 LEXICON V_ANTTA
 !! @LEXNAME@ antta:an
@@ -41,6 +42,7 @@ LEXICON V_OLDA
 +Ind+Prs+Pl3:%>ba K ;
 :l INF_da ;
 :l PRFPRC_nu ;
++Der+Der/NomAg+N:li N_TEGII ;! this might be the same as V-VowelStem-PRT with an i in next lexicon
 
 LEXICON V_PESTA
 !! @LEXNAME@ (adding -e) ti vowstem and indprs3)
@@ -49,6 +51,7 @@ LEXICON V_PESTA
 :e INDPRS3 ;
 INF_ta ;
 ! PRFPRC_nu ;
++Der+Der/NomAg+N:i N_TEGII ;! this might be the same as V-VowelStem-PRT with an i in next lexicon
 
 LEXICON V_TEHTA ! 
 !! @LEXNAME@ = tehta:te (adding :ge to vowst and indprs3)
@@ -59,6 +62,7 @@ LEXICON V_TEHTA !
 :ge INDPRS3 ;
 :h INF_ta ;
 :h PRFPRC_nu ;
++Der+Der/NomAg+N:gi N_TEGII ;! this might be the same as V-VowelStem-PRT with an i in next lexicon
 
 LEXICON V_SIRTA !
 !! @LEXNAME@ =  sirta:sir
@@ -77,6 +81,7 @@ LEXICON V_JOKSTA !
 :e INDPRS3 ;
 INF_ta ;
 ! PRFPRC_nu ;
++Der+Der/NomAg+N:i N_TEGII ;! this might be the same as V-VowelStem-PRT with an i in next lexicon
 
 LEXICON V_LETA ! 
 !! @LEXNAME@ = leta:le
@@ -134,6 +139,7 @@ LEXICON V_HUBETA !
 :ne INDPRS3 ;
 INF_ta ;
 ! PRFPRC_nu ;
++Der+Der/NomAg+N:ni N_TEGII ;! this might be the same as V-VowelStem-PRT with an i in next lexicon
 
 LEXICON V_TULDA ! 
 !! @LEXNAME@ = tulda:tul
@@ -143,6 +149,7 @@ LEXICON V_TULDA !
 :e INDPRS3 ;
 INF_da ;
  PRFPRC_nu ;
++Der+Der/NomAg+N:i N_TEGII ;! this might be the same as V-VowelStem-PRT with an i in next lexicon
 
 LEXICON V_OTTA ! 
 !! @LEXNAME@ = otta:ot
@@ -206,6 +213,7 @@ LEXICON V_HOMAITA !
 :če INDPRS3 ;
 INF_ta ;
 :če PRFPRC_nu ;
++Der+Der/NomAg+N:či N_TEGII ;! this might be the same as V-VowelStem-PRT with an i in next lexicon
 
 !
 LEXICON V_VALITA
