@@ -27,12 +27,12 @@ INF_da ;
 +Der+Der/NomAg+N: N_TEGII ;! this might be the same as V-VowelStem-PRT with an i in next lexicon
 
 LEXICON V_ANTTA
-!! @LEXNAME@ antta:an
-:da V-VowelStem ;
-:d V-ConsonantStem ;
-:da INDPRS3 ;
-:t INF_ta ;
-:d PRFPRC_nu ;
+!! @LEXNAME@ antta:and, haikta:haig
+:a V-VowelStem ;
+: V-ConsonantStem ;
+:a INDPRS3 ;
+:%^DEVOICE INF_ta ;
+: PRFPRC_nu ;
 
 LEXICON V_OLDA
 !! @LEXNAME@ (adding :le to vowstem)
