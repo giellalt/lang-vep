@@ -46,6 +46,3 @@ The idea is that the nominal ones may have case, like e.g. P.E.N.
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/abbreviations.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/abbreviations.lexc)</small>
-
----
-

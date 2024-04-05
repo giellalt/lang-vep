@@ -1,6 +1,10 @@
-# Veps description 
+# Veps language model documentation
 
-All documents in one file
+All doc-comment documentation in one large file.
+
+---
+
+# src-cg3-dependency.cg3.md 
 
 
 # C O M M O N  S Á M I  D E P E N D E N C Y   G R A M M A R
@@ -153,7 +157,14 @@ Correction rules
 **lgRemove** removes the language tags <sma>, <sme>,  etc, before proceeding to the dep file.
 
 * * *
+
 <small>This (part of) documentation was generated from [src/cg3/dependency.cg3](https://github.com/giellalt/lang-vep/blob/main/src/cg3/dependency.cg3)</small>
+
+---
+
+# src-cg3-disambiguator.cg3.md 
+
+
 
 Disambiguator for Veps
 
@@ -399,7 +410,14 @@ Relative pronouns
 * **errorth** removes Err/Orth if there is an analysis without Err/Orth with the same lemma
 
 * * *
+
 <small>This (part of) documentation was generated from [src/cg3/disambiguator.cg3](https://github.com/giellalt/lang-vep/blob/main/src/cg3/disambiguator.cg3)</small>
+
+---
+
+# src-cg3-functions.cg3.md 
+
+
 
 * Sets for POS sub-categories
 
@@ -567,7 +585,14 @@ These were the set types.
 ## HNOUN MAPPING
 
 * * *
-<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-vep/blob/main/src/cg3/functions.cg3)</small># Adjective inflection
+
+<small>This (part of) documentation was generated from [src/cg3/functions.cg3](https://github.com/giellalt/lang-vep/blob/main/src/cg3/functions.cg3)</small>
+
+---
+
+# src-fst-morphology-affixes-adjectives.lexc.md 
+
+# Adjective inflection
 
 ## Temporary lexicon
 
@@ -590,7 +615,6 @@ These were the set types.
 * **LEXICON A_JAUH** =  jauh:jauh
 
 * **LEXICON A_OIGED** = oiged:oig%{eØ%}d
-
 * **LEXICON A_KEL** = kel':kel
 
 * **LEXICON A_SAR1** = sar':sar
@@ -619,6 +643,8 @@ These were the set types.
 
 ---
 
+# src-fst-morphology-affixes-clitics.lexc.md 
+
 # Veps clitics
 
 K 3 clitics plus #
@@ -628,6 +654,8 @@ K 3 clitics plus #
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/clitics.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/affixes/clitics.lexc)</small>
 
 ---
+
+# src-fst-morphology-affixes-nouns.lexc.md 
 
 # Veps Noun inflection
 * Metrical feet
@@ -718,6 +746,8 @@ Not yet written...
 
 ---
 
+# src-fst-morphology-affixes-numerals.lexc.md 
+
 
 # Olonets numerals 
 
@@ -738,6 +768,8 @@ forms which requires great amount of care in the inflection patterns.
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/numerals.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/affixes/numerals.lexc)</small>
 
 ---
+
+# src-fst-morphology-affixes-pronouns.lexc.md 
 
 # Pronouns
 
@@ -773,6 +805,8 @@ NEG-PRON split in Nom Gen Par
 
 ---
 
+# src-fst-morphology-affixes-propernouns.lexc.md 
+
 # Proper noun inflection
 
 Veps proper nouns inflect in the same cases as regular
@@ -785,6 +819,8 @@ PROPER NOUNS
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/propernouns.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/affixes/propernouns.lexc)</small>
 
 ---
+
+# src-fst-morphology-affixes-quantifiers.lexc.md 
 
 # quantifier affixes
 
@@ -802,6 +838,8 @@ PROPER NOUNS
 
 ---
 
+# src-fst-morphology-affixes-symbols.lexc.md 
+
 
 # Symbol affixes
 
@@ -810,6 +848,8 @@ PROPER NOUNS
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/symbols.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/affixes/symbols.lexc)</small>
 
 ---
+
+# src-fst-morphology-affixes-verbs.lexc.md 
 
 
 # Verb inflection in Vepsian
@@ -823,7 +863,7 @@ V_EI all forms of the *ei* verb
 
 V_SUGIDA This and all V_... lexica redirect to *V-VowelStem, V-ConsonantStem, INDPRS3* (see below)
 
-V_ANTTA antta:an
+V_ANTTA antta:and, haikta:haig
 
 V_OLDA (adding :le to vowstem)
 
@@ -919,6 +959,8 @@ V-ConsonantStem_t
 
 ---
 
+# src-fst-morphology-phonology.twolc.md 
+
 # The Veps morphophonological/twolc rules file 
 
 This file documents the [phonology.twolc file](http://github.com/giellalt/lang-vep/blob/main/src/fst/phonology.twolc) 
@@ -998,6 +1040,7 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-v
 *  ZS1:0   
 
 *  %^DEVOICE:0     vezi:vet; pen’:pen’t
+*  %^PEN:0         Control final vs penultimate
 
 * K1:k    
 * %^NoGrad:0    This will be placed after a stem to break Gradation
@@ -1057,6 +1100,8 @@ Right context for gradation
 
 **RULE: StemVowLoss before _i_** = 
 **StemVowLoss before _i_**  
+* *oiged^PEN^DEVOICE^RmVow^DEVOICEa>n*
+* *oik0t0000a>n*
 
 **RULE: Stem-internal vowel loss** = 
 **Stem-internal vowel loss**
@@ -1071,9 +1116,14 @@ Right context for gradation
 * *marj>hV1*
 * *marj>ha*
 
+**vowel loss** vauged: vauktan
+
 ### Consonant change 
 
 **devoicing of adjecent stops** vauged: vauktan
+oiged+A+Sg+Gen: __right/oikea__
+* *oiged^PEN^DEVOICE^RmVow^DEVOICEa>n*
+* *oik0t0000a>n*
 
 **d:z in vodes, voziš**  
 
@@ -1090,6 +1140,8 @@ Right context for gradation
 <small>This (part of) documentation was generated from [src/fst/morphology/phonology.twolc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/phonology.twolc)</small>
 
 ---
+
+# src-fst-morphology-root.lexc.md 
 
 
 
@@ -1425,7 +1477,8 @@ symbols in the lexicon files:
 
 #### More archiphonemes (Protoletters for xfst)
 
-* **%^DEVOICE**  = 
+* **%^DEVOICE**  = haikta: haig
+* %^PEN         Control final vs penultimate
 * **QAQ1** 
 * **QAO1** 
 * **QÄQ1** 
@@ -1553,6 +1606,8 @@ DEM
 
 ---
 
+# src-fst-morphology-stems-abbreviations.lexc.md 
+
 # Veps abbreviations 
 [Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/abbreviations.lexc)
 
@@ -1604,6 +1659,8 @@ The idea is that the nominal ones may have case, like e.g. P.E.N.
 
 ---
 
+# src-fst-morphology-stems-acronyms.lexc.md 
+
 # Acronyms
 [Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/acronyms.lexc)
 
@@ -1635,6 +1692,8 @@ Veps acronyms ...
 
 ---
 
+# src-fst-morphology-stems-adjectives_newwords.lexc.md 
+
 # New adjectives for Veps
 [Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/adjectives_newwords.lexc)
 
@@ -1650,6 +1709,8 @@ kala:kala A_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
 
 ---
 
+# src-fst-morphology-stems-nouns_newwords.lexc.md 
+
 # Newwords (nouns)
 
 This is where new words are added as lexc entries before they are 
@@ -1663,6 +1724,8 @@ kala:kala N_ "(eng) fish/(fin) kala|fisu/(rus) рыба" ;
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/nouns_newwords.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/nouns_newwords.lexc)</small>
 
 ---
+
+# src-fst-morphology-stems-numerals.lexc.md 
 
 # Veps numerals
 
@@ -1681,6 +1744,8 @@ of cardinals and ordinals, and the non-compounding ones:
 
 ---
 
+# src-fst-morphology-stems-pronouns.lexc.md 
+
 # Pronouns
 
 **LEXICON pronouns** = contains the 6 personal
@@ -1691,6 +1756,8 @@ of cardinals and ordinals, and the non-compounding ones:
 
 ---
 
+# src-fst-morphology-stems-propernouns.lexc.md 
+
 
 
 **LEXICON propernouns** =
@@ -1700,6 +1767,8 @@ of cardinals and ordinals, and the non-compounding ones:
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/propernouns.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/propernouns.lexc)</small>
 
 ---
+
+# src-fst-morphology-stems-propernouns_newwords.lexc.md 
 
 This is where new words are added as lexc entries before they are 
 added to the Verdd source files.
@@ -1713,6 +1782,8 @@ ADD NOUNS BELOW
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/propernouns_newwords.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/propernouns_newwords.lexc)</small>
 
 ---
+
+# src-fst-morphology-stems-verbs_newwords.lexc.md 
 
 # Veps verbs (newwords)
 [Original file](https://github.com/giellalt/lang-vep/blob/main/src/fst/stems/verbs_newwords.lexc)
@@ -1728,6 +1799,8 @@ avaita:avai V_ "" ;
 <small>This (part of) documentation was generated from [src/fst/morphology/stems/verbs_newwords.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/verbs_newwords.lexc)</small>
 
 ---
+
+# src-fst-phonetics-txt2ipa.xfscript.md 
 
 
 
@@ -1896,6 +1969,8 @@ retracted tongue root			_q
 
 ---
 
+# src-fst-transcriptions-transcriptor-abbrevs2text.lexc.md 
+
 
 
 We describe here how abbreviations are in Veps are read out, e.g.
@@ -1915,6 +1990,8 @@ For example:
 <small>This (part of) documentation was generated from [src/fst/transcriptions/transcriptor-abbrevs2text.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/transcriptions/transcriptor-abbrevs2text.lexc)</small>
 
 ---
+
+# tools-grammarcheckers-grammarchecker.cg3.md 
 
 
 [ L A N G U A G E ]  G R A M M A R   C H E C K E R
@@ -2213,7 +2290,14 @@ expression **WORD - premodifiers**.
 ### Grammarchecker sets
 
 * * *
-<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-vep/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small># Tokeniser for vep
+
+<small>This (part of) documentation was generated from [tools/grammarcheckers/grammarchecker.cg3](https://github.com/giellalt/lang-vep/blob/main/tools/grammarcheckers/grammarchecker.cg3)</small>
+
+---
+
+# tools-tokenisers-tokeniser-disamb-gt-desc.pmscript.md 
+
+# Tokeniser for vep
 
 Usage:
 ```
@@ -2275,6 +2359,8 @@ Finally we mark as a token any sequence making up a:
 <small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-disamb-gt-desc.pmscript](https://github.com/giellalt/lang-vep/blob/main/tools/tokenisers/tokeniser-disamb-gt-desc.pmscript)</small>
 
 ---
+
+# tools-tokenisers-tokeniser-gramcheck-gt-desc.pmscript.md 
 
 # Grammar checker tokenisation for vep
 
@@ -2339,6 +2425,8 @@ Finally we mark as a token any sequence making up a:
 
 ---
 
+# tools-tokenisers-tokeniser-tts-cggt-desc.pmscript.md 
+
 # TTS tokenisation for smj
 
 Requires a recent version of HFST (3.10.0 / git revision>=3aecdbc)
@@ -2400,6 +2488,3 @@ Needs hfst-tokenise to output things differently depending on the tag they get
 * * *
 
 <small>This (part of) documentation was generated from [tools/tokenisers/tokeniser-tts-cggt-desc.pmscript](https://github.com/giellalt/lang-vep/blob/main/tools/tokenisers/tokeniser-tts-cggt-desc.pmscript)</small>
-
----
-

@@ -77,6 +77,7 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-v
 *  ZS1:0   
 
 *  %^DEVOICE:0     vezi:vet; pen’:pen’t
+*  %^PEN:0         Control final vs penultimate
 
 * K1:k    
 * %^NoGrad:0    This will be placed after a stem to break Gradation
@@ -136,6 +137,8 @@ Right context for gradation
 
 **RULE: StemVowLoss before _i_** = 
 **StemVowLoss before _i_**  
+* *oiged^PEN^DEVOICE^RmVow^DEVOICEa>n*
+* *oik0t0000a>n*
 
 **RULE: Stem-internal vowel loss** = 
 **Stem-internal vowel loss**
@@ -150,9 +153,14 @@ Right context for gradation
 * *marj>hV1*
 * *marj>ha*
 
+**vowel loss** vauged: vauktan
+
 ### Consonant change 
 
 **devoicing of adjecent stops** vauged: vauktan
+oiged+A+Sg+Gen: __right/oikea__
+* *oiged^PEN^DEVOICE^RmVow^DEVOICEa>n*
+* *oik0t0000a>n*
 
 **d:z in vodes, voziš**  
 
@@ -167,6 +175,3 @@ Right context for gradation
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/phonology.twolc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/phonology.twolc)</small>
-
----
-

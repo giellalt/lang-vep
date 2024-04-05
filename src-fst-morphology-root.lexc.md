@@ -332,7 +332,8 @@ symbols in the lexicon files:
 
 #### More archiphonemes (Protoletters for xfst)
 
-* **%^DEVOICE**  = 
+* **%^DEVOICE**  = haikta: haig
+* %^PEN         Control final vs penultimate
 * **QAQ1** 
 * **QAO1** 
 * **QÄQ1** 
@@ -457,6 +458,3 @@ DEM
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/root.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/root.lexc)</small>
-
----
-

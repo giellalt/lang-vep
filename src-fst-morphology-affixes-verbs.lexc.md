@@ -10,7 +10,7 @@ V_EI all forms of the *ei* verb
 
 V_SUGIDA This and all V_... lexica redirect to *V-VowelStem, V-ConsonantStem, INDPRS3* (see below)
 
-V_ANTTA antta:an
+V_ANTTA antta:and, haikta:haig
 
 V_OLDA (adding :le to vowstem)
 
@@ -103,6 +103,3 @@ V-ConsonantStem_t
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/verbs.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/affixes/verbs.lexc)</small>
-
----
-

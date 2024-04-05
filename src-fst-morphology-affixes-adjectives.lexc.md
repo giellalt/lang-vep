@@ -21,7 +21,6 @@
 * **LEXICON A_JAUH** =  jauh:jauh
 
 * **LEXICON A_OIGED** = oiged:oig%{eØ%}d
-
 * **LEXICON A_KEL** = kel':kel
 
 * **LEXICON A_SAR1** = sar':sar
@@ -47,6 +46,3 @@
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/adjectives.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/affixes/adjectives.lexc)</small>
-
----
-
