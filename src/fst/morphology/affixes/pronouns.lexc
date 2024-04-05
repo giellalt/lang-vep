@@ -44,12 +44,14 @@ LEXICON PersSg1
 LEXICON PersSg2
 !! @LEXNAME@ split in Nom, Gen, Acc
 +Pers+Sg2+Nom:ä NOM-SUF ;
++Pers+Sg2+Par:dai K ;
 +Pers+Sg2+Gen:u GEN-SUF ;
 +Pers+Sg2+Gen:u ACC-SUF ;
 +Pers+Sg2:u ELA-SUF ;
 +Pers+Sg2:u ILL-SUF ;
 +Pers+Sg2:u INE-SUF ;
 +Pers+Sg2:u ALL-SUF ;
++Pers+Sg2+All:ei K ;
 +Pers+Sg2:u ADE-SUF ;
 +Pers+Sg2:u ABL-SUF ;
 +Pers+Sg2:u COM-SUF ; !minunke
