@@ -48,8 +48,8 @@ LEXICON A_JAUH  !!≈ * **@CODE@** =  jauh:jauh
 LEXICON A_OIGED  !!≈ * **@CODE@** = oiged:oig%{eØ%}d
 !oi|ged (-ktan, -ktoid)
  N_OIGED ;
-+Comp:%^RmVow%^DEVOICE%>e%>mb N_POIG ;
-
++Comp:%^PEN%^DEVOICE%^RmVow%^DEVOICE%>e%>mb N_POIG ;
+!^PEN^DEVOICE^RmVow^DEVOICE
 LEXICON A_KEL  !!≈ * **@CODE@** = kel':kel
  N_KEL ;
 +Comp:%>e%>mb N_POIG ;

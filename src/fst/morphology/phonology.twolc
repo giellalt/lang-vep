@@ -91,7 +91,7 @@ QÄQ1:0  !!= * @CODE@
 
 ! Veps 
  %^DEVOICE:0   !!= * @CODE@  vezi:vet; pen’:pen’t
-
+ %^PEN:0       !!= * @CODE@  Control final vs penultimate
 
 ! this k is not effected by gradation
 K1:k   !!= * @CODE@ 
@@ -188,6 +188,9 @@ Rules
 !! **RULE: @RULENAME@** = 
 !! **@RULENAME@**  
  e:0 <=> # Cns* Vow+ Cns+ _  %> i  ;
+         Cns: _ Cns: (%^PEN: %^DEVOICE:) %^RmVow: ;
+!!€ oiged^PEN^DEVOICE^RmVow^DEVOICEa>n
+!!€ oik0t0000a>n
 
 "Stem-internal vowel loss"
 !! **RULE: @RULENAME@** = 
@@ -214,6 +217,11 @@ V1:Vx <=> Vx Cns:* %> h _ ;
 !!€ marj>hV1
 !!€ marj>ha
 
+"vowel loss"
+!! **@RULENAME@** vauged: vauktan
+ Vx:Vy <=> Cns: _ (%^PEN: %^DEVOICE:) %^RmVow: ;
+              where Vx in (u a)
+	            Vy in (0 0) matched ;
 
 !! ### Consonant change 
 
@@ -221,9 +229,13 @@ V1:Vx <=> Vx Cns:* %> h _ ;
 !! **@RULENAME@** vauged: vauktan
  Cx:Cy <=>  _ [%{eØ%}: |%{uØ%}: ] Cns:CnsVoiceless %^RmVow: %^DEVOICE: %> ;
             Cns:CnsVoiceless [ %{eØ%}: | %{uØ%}: ] _ %^RmVow: %^DEVOICE: %> ;
+	    [i | n | Vow:] _ (%^PEN: %^DEVOICE:) (%^RmVow:) %^DEVOICE: ;
+	    [i | n | Vow:] _ Vow: Cns: %^PEN: %^DEVOICE: ;
               where Cx in (g d)
                     Cy in (k t) matched ;
-
+!! oiged+A+Sg+Gen: __right/oikea__
+!!€ oiged^PEN^DEVOICE^RmVow^DEVOICEa>n
+!!€ oik0t0000a>n
 
 "d:z in vodes, voziš"
 !! **@RULENAME@**  

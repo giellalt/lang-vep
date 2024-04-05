@@ -353,12 +353,13 @@ R ; ! xxx check
 LEXICON N_OIGED !oiged:oig%{eØ%}d
 !oi|ged (-ktan, -ktoid)
 : SG-NOM-SUF ;
-:%^RmVow%^DEVOICE%>a SG-OBLIQUE ;
+!^PEN^DEVOICE^RmVow^DEVOICE
+:%^PEN%^DEVOICE%^RmVow%^DEVOICEa SG-OBLIQUE ;
 R ; ! xxx check
 ! Plural
-:%^RmVow%^DEVOICE%>a PL-NOM-SUF ;
-:%^RmVow%^DEVOICE%>a PL-ACC-SUF ;
-:%^RmVow%^DEVOICE%>o PL-OBLIQUE ;
+:%^PEN%^DEVOICE%^RmVow%^DEVOICE%>a PL-NOM-SUF ;
+:%^PEN%^DEVOICE%^RmVow%^DEVOICE%>a PL-ACC-SUF ;
+:%^PEN%^DEVOICE%^RmVow%^DEVOICE%>o PL-OBLIQUE ;
 
 LEXICON N_SAMAL !samal:sam%{aØ%}l
 : SG-NOM-SUF ;

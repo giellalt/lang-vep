@@ -624,18 +624,18 @@ vähähk+A:vähähk A_JAUH ;
 hen+A:hen A_JAUH ;
 avar+A:avar A_JAUH ;
 
-rohked:rohk%{eØ%}d A_OIGED ;
-oiged+A:oig%{eØ%}d A_OIGED ;
-muiged+A:muig%{eØ%}d A_OIGED ;
-sanged+A:sang%{eØ%}d A_OIGED ;
-karged+A:karg%{eØ%}d A_OIGED ;
-korged+A:korg%{eØ%}d A_OIGED ;
-kauged+A:kaug%{eØ%}d A_OIGED ;
-vauged+A:vaug%{eØ%}d A_OIGED ;
-sel’ged+A:sel’g%{eØ%}d A_OIGED ;
-notked+A:notk%{eØ%}d A_OIGED ;
-pehmed+A:pehm%{eØ%}d A_OIGED ;
-varmed+A:varm%{eØ%}d A_OIGED ;
+rohked:rohked A_OIGED ;
+oiged+A:oiged A_OIGED ;
+muiged+A:muiged A_OIGED ;
+sanged+A:sanged A_OIGED ;
+karged+A:karged A_OIGED ;
+korged+A:korged A_OIGED ;
+kauged+A:kauged A_OIGED ;
+vauged+A:vauged A_OIGED ;
+sel’ged+A:sel’ged A_OIGED ;
+notked+A:notked A_OIGED ;!CHECKME
+pehmed+A:pehmed A_OIGED ;!CHECKME
+varmed+A:varmed A_OIGED ;!CHECKME
 
 vihmakaz+A:vihmaka A_VEDEKAZ ;
 solakaz+A:solaka A_VEDEKAZ ;

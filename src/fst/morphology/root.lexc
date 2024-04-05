@@ -359,7 +359,8 @@ Multichar_Symbols
  
 !! #### More archiphonemes (Protoletters for xfst)
 
-%^DEVOICE     !!≈ * **@CODE@**  = 
+%^DEVOICE     !!≈ * **@CODE@**  = haikta: haig
+%^PEN       !!= * @CODE@  Control final vs penultimate
 QAQ1   !!≈ * **@CODE@** 
 QAO1   !!≈ * **@CODE@** 
 QÄQ1   !!≈ * **@CODE@** 
