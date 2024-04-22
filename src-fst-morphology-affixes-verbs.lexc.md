@@ -38,6 +38,8 @@ V_TULDA = tulda:tul
 
 V_OTTA = otta:ot
 
+V_ABIDOITTA = abidoitta:abidoi
+
 V_OIGETA
 
 V_VIRIGATA =  virigata:viriga

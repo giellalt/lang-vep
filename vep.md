@@ -674,6 +674,16 @@ K 3 clitics plus #
 		* cretic, amphimacer
 		* molossus
 
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
 nominative singular in form and the other is identical to the 
 genitive singular. This definition is dependent on the school
 and its use should be associated with the user group, perhaps.
@@ -726,7 +736,222 @@ and its use should be associated with the user group, perhaps.
 * *marjoihepäi:* `marj+N+Pl+Add1`
 * *marjoilepäi:* `marj+N+Pl+Add2`
 
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *poig:* `poig+N+Sg+Nom`
+* *poigan:* `poig+N+Sg+Gen`
+* *poigid:* `poig+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
 LEXICON N_NADO  nado:nado
+
+* Noun ' wife's sister-in-law/ ' examples:*
+* *nado:* `nado+N+Sg+Nom`
+* *nadon:* `nado+N+Sg+Gen`
+* *nadoid:* `nado+N+Pl+Par`
 
 ## Nominals
 
@@ -890,6 +1115,8 @@ V_HUBETA = hubeta:hube
 V_TULDA = tulda:tul
 
 V_OTTA = otta:ot
+
+V_ABIDOITTA = abidoitta:abidoi
 
 V_OIGETA
 
