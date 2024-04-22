@@ -28,6 +28,8 @@ INF_da ;
 
 LEXICON V_ANTTA
 !! @LEXNAME@ antta:and, haikta:haig
+!andab
+!andoi
 :a V-VowelStem ;
 : V-ConsonantStem ;
 :a INDPRS3 ;
@@ -160,6 +162,17 @@ LEXICON V_OTTA !
 INF_ta ;
  PRFPRC_nu ;
 
+LEXICON V_ABIDOITTA ! 
+!! @LEXNAME@ = abidoitta:abidoi
+!čeb
+!či
+:če V-VowelStem-PRS ;
+: V-VowelStem-PRT ;
+ V-ConsonantStem ;
+:čeb INDPRS3 ;
+INF_tta ;
+ PRFPRC_nu ;
+
 
 LEXICON V_OIGETA !oigeta:oige
 !! @LEXNAME@
@@ -181,6 +194,8 @@ INF_ta ;
 
 LEXICON V_KERATA ! 
 !! @LEXNAME@ = kerata:kera
+!dab
+!zi
 :da V-VowelStem-PRS ;
 :z V-VowelStem-PRT ;
  V-ConsonantStem ;
@@ -430,6 +445,9 @@ LEXICON INF_da
 
 LEXICON INF_ta
 +Inf:%>ta K ;
+
+LEXICON INF_tta
++Inf:%>tta K ;
 
 
 ! vim: set ft=xfst-lexc:
