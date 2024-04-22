@@ -19,7 +19,13 @@ LEXICON N_
 +TYÄ: # ;
 
 LEXICON N_MUNA ! Stem vowel alternation ZERO-A-ZERO muna:mun
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 !:QAQ1 NMN_ ;
+!an
+!id
 :a SG-NOM-SUF ;
 +Sg+Ill:%>ha K ;
 :%>a SG-OBLIQUE ;
@@ -33,6 +39,10 @@ LEXICON N_SANA
 ! sana = pyrrhic <
 ! sanad = iamb   <
 ! sanha = trochee < *sanahan anapaest
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :a SG-NOM-SUF ;
 +Sg+Ill:%>ha K ;
 :%>a SG-OBLIQUE ;
@@ -107,6 +117,10 @@ R ; ! xxx check
 :o PL-OBLIQUE ;
 
 LEXICON N_IGA ! igä:ig
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :ä SG-NOM-SUF ;
 +Sg+Ill:%>hä K ;
 :%>ä SG-OBLIQUE ;
@@ -118,7 +132,28 @@ LEXICON N_IGA ! igä:ig
 : PL-OBLIQUE ;
 
 LEXICON N_LEIB ! leib:leib
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 : SG-NOM-SUF ;
++Sg+Ill:%>hä K ;
+:%>ä SG-OBLIQUE ;
+R ; ! xxx check
+! Plural
+:%>ä PL-NOM-SUF ;
+:%>ä PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+LEXICON N_PERT1 ! pertʼ:pert
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
+!pertʼ
+!pertin
+!pertid
+:ʼ SG-NOM-SUF ;
 +Sg+Ill:%>hä K ;
 :%>ä SG-OBLIQUE ;
 R ; ! xxx check
@@ -129,6 +164,10 @@ R ; ! xxx check
 
 
 LEXICON N_LIND ! lind:lind
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 : SG-NOM-SUF ;
 +Sg+Ill:%>hu K ;
 :%>u SG-OBLIQUE ;
@@ -139,6 +178,10 @@ R ; ! xxx check
 :u PL-OBLIQUE ;
 
 LEXICON N_JAUH ! jauh:jauh
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 : SG-NOM-SUF ;
 +Sg+Ill:%>ho K ;
 :%>o SG-OBLIQUE ;
@@ -149,9 +192,17 @@ R ; ! xxx check
 :o PL-OBLIQUE ;
 
 LEXICON N_SHAPUK ! šapuk
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :U1 NMN_ ;
 
 LEXICON N_UNI ! uni:un
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :i SG-NOM-SUF ;
 : SG-PAR-SUF_t ;
 :e SG-OBLIQUE ;
@@ -161,7 +212,28 @@ R ; ! xxx check
 :e PL-ACC-SUF ;
 : PL-OBLIQUE ;
 
+LEXICON N_VOI ! voi:voi
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
+!voi
+!voin
+!void
+: SG-NOM-SUF ;
+: SG-PAR-SUF_t ;
+: SG-OBLIQUE ;
+R ; ! xxx check
+! Plural
+: PL-NOM-SUF ;
+: PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
 LEXICON N_POIG ! poig:poig
+!!€gt-norm:   Noun ' / '
+!!€  poig: poig+N+Sg+Nom
+!!€  poigan: poig+N+Sg+Gen
+!!€  poigid: poig+N+Pl+Par
 : SG-NOM-SUF ;
 :a SG-OBLIQUE ;
 R ; ! xxx check
@@ -171,6 +243,10 @@ R ; ! xxx check
 : PL-OBLIQUE ;
 
 LEXICON N_VENEH ! veneh:veneh
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 : SG-NOM-SUF ;
 : SG-PAR-SUF_t ;
 :e SG-OBLIQUE ;
@@ -181,6 +257,10 @@ R ; ! xxx check
 : PL-OBLIQUE ;
 
 LEXICON N_HANG ! hang:hang
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 : SG-NOM-SUF ;
 : SG-PAR-SUF ;
 :e SG-OBLIQUE ;
@@ -191,6 +271,10 @@ R ; ! xxx check
 : PL-OBLIQUE ;
 
 LEXICON N_LANDEH ! landeh:land
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 !:EH1 NMN_ ;
 :eh SG-NOM-SUF ;
 :eh SG-PAR-SUF_t ;
@@ -202,6 +286,10 @@ R ; ! xxx check
 :h PL-OBLIQUE ;
 
 LEXICON N_SEIBAZ ! seibaz:seib
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :az SG-NOM-SUF ;
 :as SG-PAR-SUF_t ;
 :ha SG-OBLIQUE ;
@@ -212,6 +300,10 @@ R ; ! xxx check
 :h PL-OBLIQUE ;
 
 LEXICON N_KIRVEZ ! kirvez:kirv
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :ez SG-NOM-SUF ;
 :es SG-PAR-SUF_t ;
 :he SG-OBLIQUE ;
@@ -222,6 +314,10 @@ R ; ! xxx check
 :h PL-OBLIQUE ;
 
 LEXICON N_VANHAKOZ ! vanhakoz:vanhak
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :oz SG-NOM-SUF ;
 :os SG-PAR-SUF_t ;
 :ho SG-OBLIQUE ;
@@ -232,6 +328,10 @@ R ; ! xxx check
 :h PL-OBLIQUE ;
 
 LEXICON N_NAGRIZH ! nagriž:nagr
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :iž SG-NOM-SUF ;
 :iš SG-PAR-SUF_t ;
 :he SG-OBLIQUE ;
@@ -242,6 +342,10 @@ R ; ! xxx check
 :h PL-OBLIQUE ;
 
 LEXICON N_RUGIZH ! rügiž:rügi
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :ž SG-NOM-SUF ;
 :š SG-PAR-SUF_t ;
 :he SG-OBLIQUE ;
@@ -252,6 +356,10 @@ R ; ! xxx check
 :h PL-OBLIQUE ;
 
 LEXICON N_VEDEKAZ ! vedekaz:vedeka
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :z SG-NOM-SUF ;
 :s SG-PAR-SUF_t ;
 :ha SG-OBLIQUE ;
@@ -262,6 +370,10 @@ R ; ! xxx check
 :h PL-OBLIQUE ;
 
 LEXICON N_MEZ1 ! mez':me
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :z' SG-NOM-SUF ;
 :s SG-PAR-SUF_t ;
 :he SG-OBLIQUE ;
@@ -272,6 +384,10 @@ R ; ! xxx check
 :h PL-OBLIQUE ;
 
 LEXICON N_KENGATOI ! kengätoi:kengäto
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :i SG-NOM-SUF ;
 :n SG-PAR-SUF_t ;
 :me SG-OBLIQUE ;
@@ -282,6 +398,10 @@ R ; ! xxx check
 :m PL-OBLIQUE ;
 
 LEXICON N_AVADIM ! avadim:avadi
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :m SG-NOM-SUF ;
 :n SG-PAR-SUF_t ;
 :me SG-OBLIQUE ;
@@ -292,6 +412,10 @@ R ; ! xxx check
 :m PL-OBLIQUE ;
 
 LEXICON N_LUMI ! lumi:lu
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :mi SG-NOM-SUF ;
 :n SG-PAR-SUF_t ;
 :me SG-OBLIQUE ;
@@ -302,6 +426,10 @@ R ; ! xxx check
 :m PL-OBLIQUE ;
 
 LEXICON N_KONDI ! kondi:kond
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :i SG-NOM-SUF ;
 :ja SG-OBLIQUE ;
 R ; ! xxx check
@@ -311,6 +439,10 @@ R ; ! xxx check
 :j PL-OBLIQUE ;
 
 LEXICON N_TEGII ! tegii:tegi
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :i SG-NOM-SUF ;
 :ja SG-OBLIQUE ;
 R ; ! xxx check
@@ -320,6 +452,10 @@ R ; ! xxx check
 :jo PL-OBLIQUE ;
 
 LEXICON N_KEL !kel':kel
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :' SG-NOM-SUF ;
 :' SG-PAR-SUF_t ;
 :%>e SG-OBLIQUE ;
@@ -330,6 +466,10 @@ R ; ! xxx check
 : PL-OBLIQUE ;
 
 LEXICON N_SAR1 !sar':sar
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :' SG-NOM-SUF ;
 : SG-PAR-SUF_t ;
 :%>e SG-OBLIQUE ;
@@ -340,6 +480,10 @@ R ; ! xxx check
 : PL-OBLIQUE ;
 
 LEXICON N_JOUCEN !joucen:jouc%{eØ%}
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 : SG-NOM-SUF ;
 : SG-PAR-SUF_t ;
 :%^RmVow%>e SG-OBLIQUE ;
@@ -351,6 +495,10 @@ R ; ! xxx check
 
 
 LEXICON N_OIGED !oiged:oig%{eØ%}d
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 !oi|ged (-ktan, -ktoid)
 : SG-NOM-SUF ;
 !^PEN^DEVOICE^RmVow^DEVOICE
@@ -362,6 +510,10 @@ R ; ! xxx check
 :%^PEN%^DEVOICE%^RmVow%^DEVOICE%>o PL-OBLIQUE ;
 
 LEXICON N_SAMAL !samal:sam%{aØ%}l
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 : SG-NOM-SUF ;
 :%^RmVow%^DEVOICE%>o SG-OBLIQUE ;
 R ; ! xxx check
@@ -371,6 +523,10 @@ R ; ! xxx check
 :%^RmVow%^DEVOICE%>o PL-OBLIQUE ;
 
 LEXICON N_PU ! pu:pu
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
  N_PU-SG ;
  N_PU-PL ;
 LEXICON N_PU-SG
@@ -384,6 +540,10 @@ R ; ! xxx check
 : PL-OBLIQUE ;
 
 LEXICON	N_VIDENZ1 ! videnz':viden (-den, -t, -zid)
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :z' SG-NOM-SUF ;
 : SG-PAR-SUF_t ;
 :de SG-OBLIQUE ;
@@ -394,6 +554,10 @@ R ; ! xxx check
 :nz PL-OBLIQUE ;
 
 LEXICON N_KODI !kodi:kodi
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :i SG-NOM-SUF ;
 :%>i SG-OBLIQUE ;
 R ; ! xxx check
@@ -404,6 +568,13 @@ R ; ! xxx check
 
 
 LEXICON N_NIMI !nimi:nim
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
+!nimi
+!nimen
+!nimid
 :i SG-NOM-SUF ;
 :%>e SG-OBLIQUE ;
 R ; ! xxx check
@@ -413,6 +584,10 @@ R ; ! xxx check
 : PL-OBLIQUE ;
 
 LEXICON N_SARV !sarv:sarv
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 : SG-NOM-SUF ;
 :%>e SG-OBLIQUE ;
 R ; ! xxx check
@@ -423,6 +598,10 @@ R ; ! xxx check
 
 
 LEXICON N_CIPUINE ! cipuine:cipu
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 !:INE1 NMN_ ;
 :ine SG-NOM-SUF ;
 :š SG-PAR-SUF_t ;
@@ -434,6 +613,10 @@ R ; ! xxx check
 :iž  PL-OBLIQUE ;
 
 LEXICON N_TOSHTMINE ! toštmine:toštmi
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :ne SG-NOM-SUF ;
 :š SG-PAR-SUF_t ;
 :že SG-OBLIQUE ;
@@ -444,16 +627,28 @@ R ; ! xxx check
 :ž  PL-OBLIQUE ;
 
 ! noruz’:norud
-LEXICON N_NORUZ ! OUN-ZD_QEQ
-: NMN_NORUZ ;
+LEXICON N_NORUZ1 ! OUN-ZD_QEQ
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
+: NMN_NORUZ1 ;
 
 
 
 LEXICON N_KEZI ! kezi:ked
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 : NMN_KEZI ;
 
 ! aluz:aluz
 LEXICON N_ALUZ ! z s _QEQ
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
  SG-NOM-SUF ;
 :%^DEVOICE SG-PAR-SUF ;
 :%^DEVOICEe SG-OBLIQUE ;
@@ -464,6 +659,10 @@ R ; ! xxx check
 :%^DEVOICE  PL-OBLIQUE ;
 
 LEXICON N_KESKUS ! keskus:keskus
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
  SG-NOM-SUF ;
 : SG-PAR-SUF ;
 :e SG-OBLIQUE ;
@@ -475,12 +674,24 @@ R ; ! xxx check
 
 
 LEXICON N_VEDÄI ! i j _QAQ1 Does this work like _muna_?
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :QAQ1 NMN_ ;
 
 LEXICON N_VEPS 
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
 :QÄQ1 NMN_ ;
 
 LEXICON N_NADO !!= @CODE@ nado:nado
+!!€gt-norm:   Noun ' wife's sister-in-law/ '
+!!€  nado: nado+N+Sg+Nom
+!!€  nadon: nado+N+Sg+Gen
+!!€  nadoid: nado+N+Pl+Par
 !!* Yaml: __nado__
 : NMN_ ;
 
