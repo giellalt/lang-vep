@@ -36,6 +36,56 @@ LEXICON V_ANTTA
 :%^DEVOICE INF_ta ;
 : PRFPRC_nu ;
 
+LEXICON V_KRONKTA
+!! @LEXNAME@ kronkta:krong, 
+!krongab
+!krongi
+:a V-VowelStem ;
+: V-ConsonantStem ;
+:a INDPRS3 ;
+:%^DEVOICE INF_ta ;
+: PRFPRC_nu ;
+
+LEXICON V_POLKTA
+!! @LEXNAME@ polkta:polg, 
+!polgeb
+!polgi
+:a V-VowelStem ;
+: V-ConsonantStem ;
+:a INDPRS3 ;
+:%^DEVOICE INF_ta ;
+: PRFPRC_nu ;
+
+LEXICON V_AMPTA
+!! @LEXNAME@ ampta:amb,
+!ambub
+!ambui
+:a V-VowelStem ;
+: V-ConsonantStem ;
+:a INDPRS3 ;
+:%^DEVOICE INF_ta ;
+: PRFPRC_nu ;
+
+LEXICON V_ASTTA
+!! @LEXNAME@ astta:ast,
+!astub
+!astui
+:a V-VowelStem ;
+: V-ConsonantStem ;
+:a INDPRS3 ;
+:%^DEVOICE INF_ta ;
+: PRFPRC_nu ;
+
+LEXICON V_HENKTA
+!! @LEXNAME@ henkta:heng,
+!hengib
+!hengi
+:i V-VowelStem ;
+: V-ConsonantStem ;
+:i INDPRS3 ;
+:%^DEVOICE INF_ta ;
+: PRFPRC_nu ;
+
 LEXICON V_OLDA
 !! @LEXNAME@ (adding :le to vowstem)
 :le V-VowelStem ;
