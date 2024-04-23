@@ -6,7 +6,7 @@
 
 ## Regolar lexica
 
-* **LEXICON A_UZ** = uz’:ud, goes to NMN_NORUZ
+* **LEXICON A_UZ1** = uz’:ud, goes to NMN_NORUZ
 
 * **LEXICON A_RUSKED** = gets +A and goes to NMN\_RUSKED
 
@@ -21,11 +21,9 @@
 * **LEXICON A_JAUH** =  jauh:jauh
 
 * **LEXICON A_OIGED** = oiged:oig%{eØ%}d
-* **LEXICON A_KEL** = kel':kel
+* **LEXICON A_KEL1** = kel':kel
 
 * **LEXICON A_SAR1** = sar':sar
-
-* **LEXICON A_KEZI** = kezi:ked
 
 * **LEXICON A_VIDENZ1** =  videnz':viden (-den, -t, -zid)
 

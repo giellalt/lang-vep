@@ -83,14 +83,9 @@ and its use should be associated with the user group, perhaps.
 * *d:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
-
-* Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
+* *leib:* `leib+N+Sg+Nom`
+* *leibän:* `leib+N+Sg+Gen`
+* *leibid:* `leib+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
@@ -168,14 +163,15 @@ and its use should be associated with the user group, perhaps.
 * *d:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
+* *mezʼ:* `mezʼ+N+Sg+Nom`
+* *mehen:* `mezʼ+N+Sg+Gen`
+* *mehid:* `mezʼ+N+Pl+Par`
 
 * Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
+* *čai:* `čai+N+Sg+Nom`
+* *čajun:* `čai+N+Sg+Gen`
+
+Plural
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`

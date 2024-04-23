@@ -12,6 +12,14 @@ V_SUGIDA This and all V_... lexica redirect to *V-VowelStem, V-ConsonantStem, IN
 
 V_ANTTA antta:and, haikta:haig
 
+V_KRONKTA kronkta:krong, 
+
+V_POLKTA polkta:polg, 
+
+V_AMPTA ampta:amb,
+
+V_HENKTA henkta:heng,
+
 V_OLDA (adding :le to vowstem)
 
 V_PESTA (adding -e) ti vowstem and indprs3)

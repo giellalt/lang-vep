@@ -600,7 +600,7 @@ These were the set types.
 
 ## Regolar lexica
 
-* **LEXICON A_UZ** = uz’:ud, goes to NMN_NORUZ
+* **LEXICON A_UZ1** = uz’:ud, goes to NMN_NORUZ
 
 * **LEXICON A_RUSKED** = gets +A and goes to NMN\_RUSKED
 
@@ -615,11 +615,9 @@ These were the set types.
 * **LEXICON A_JAUH** =  jauh:jauh
 
 * **LEXICON A_OIGED** = oiged:oig%{eØ%}d
-* **LEXICON A_KEL** = kel':kel
+* **LEXICON A_KEL1** = kel':kel
 
 * **LEXICON A_SAR1** = sar':sar
-
-* **LEXICON A_KEZI** = kezi:ked
 
 * **LEXICON A_VIDENZ1** =  videnz':viden (-den, -t, -zid)
 
@@ -742,14 +740,9 @@ and its use should be associated with the user group, perhaps.
 * *d:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
-
-* Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
+* *leib:* `leib+N+Sg+Nom`
+* *leibän:* `leib+N+Sg+Gen`
+* *leibid:* `leib+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
@@ -827,14 +820,15 @@ and its use should be associated with the user group, perhaps.
 * *d:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
+* *mezʼ:* `mezʼ+N+Sg+Nom`
+* *mehen:* `mezʼ+N+Sg+Gen`
+* *mehid:* `mezʼ+N+Pl+Par`
 
 * Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
+* *čai:* `čai+N+Sg+Nom`
+* *čajun:* `čai+N+Sg+Gen`
+
+Plural
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
@@ -1089,6 +1083,14 @@ V_EI all forms of the *ei* verb
 V_SUGIDA This and all V_... lexica redirect to *V-VowelStem, V-ConsonantStem, INDPRS3* (see below)
 
 V_ANTTA antta:and, haikta:haig
+
+V_KRONKTA kronkta:krong, 
+
+V_POLKTA polkta:polg, 
+
+V_AMPTA ampta:amb,
+
+V_HENKTA henkta:heng,
 
 V_OLDA (adding :le to vowstem)
 
