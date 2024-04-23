@@ -1,6 +1,8 @@
 
 LEXICON verbs
 
+ampta+V:amb V_AMPTA ;
+
 abidoitta+V:abidoi V_ABIDOITTA ;
 abittuda+V:abittu V_JODA ;
 abutada+V:abut V_VEDADA ;
@@ -160,7 +162,7 @@ helʼgaita+V:helʼgai V_AVAITA ;
 hengestuda+V:hengestu V_JODA ;
 hengištoitta+V:hengištoi V_ABIDOITTA ;
 hengištuda+V:hengištu V_JODA ;
-henkta+V:henk V_ASTTA ;
+henkta+V:heng V_HENKTA ;
 heragata+V:heraga V_VIRIGATA ;
 heraštoitta+V:heraštoi V_ABIDOITTA ;
 heraštuda+V:heraštu V_JODA ;
@@ -460,7 +462,7 @@ kočkaita+V:kočkai V_AVAITA ;
 kožuda+V:kožu V_JODA ;
 krasuizoitta+V:krasuizoi V_ABIDOITTA ;
 kroksaita+V:kroksai V_AVAITA ;
-kronkta+V:kronk V_ASTTA ;
+kronkta+V:krong V_KRONKTA ;
 kručkutada+V:kručkut V_VEDADA ;
 kubahtoita+V:kubahtoi V_HOMAITA ;
 kubaidoitta+V:kubaidoi V_ABIDOITTA ;
@@ -921,7 +923,7 @@ pohjištuda+V:pohjištu V_JODA ;
 pohtelta+V:pohtel V_JOKSTA ;
 poimeta+V:poime V_OIGETA ;
 poleta+V:pole V_OIGETA ;
-polkta+V:polk V_ASTTA ;
+polkta+V:polg V_POLKTA ;
 poltta+V:polt V_OTTA ;
 polʼvištuda+V:polʼvištu V_JODA ;
 pookta+V:pook V_ASTTA ;

@@ -50,9 +50,9 @@ LEXICON V_POLKTA
 !! @LEXNAME@ polkta:polg, 
 !polgeb
 !polgi
-:a V-VowelStem ;
+:e V-VowelStem ;
 : V-ConsonantStem ;
-:a INDPRS3 ;
+:e INDPRS3 ;
 :%^DEVOICE INF_ta ;
 : PRFPRC_nu ;
 
@@ -60,16 +60,6 @@ LEXICON V_AMPTA
 !! @LEXNAME@ ampta:amb,
 !ambub
 !ambui
-:a V-VowelStem ;
-: V-ConsonantStem ;
-:a INDPRS3 ;
-:%^DEVOICE INF_ta ;
-: PRFPRC_nu ;
-
-LEXICON V_ASTTA
-!! @LEXNAME@ astta:ast,
-!astub
-!astui
 :a V-VowelStem ;
 : V-ConsonantStem ;
 :a INDPRS3 ;
@@ -175,6 +165,8 @@ INF_ta ;
 
 LEXICON V_ASTTA ! 
 !! @LEXNAME@ = astta:ast
+!astub
+!astui
 :u V-VowelStem-PRS ;
 :u V-VowelStem-PRT ;
  V-ConsonantStem ;
