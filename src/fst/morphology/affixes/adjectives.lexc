@@ -17,8 +17,8 @@ LEXICON A_  !!≈ * **@CODE@** = , when we do not know. Redirecting to N_ (?)
 
 !! ## Regolar lexica
 
-LEXICON A_UZ !!≈ * **@CODE@** = uz’:ud, goes to NMN_NORUZ
-: NMN_NORUZ ;
+LEXICON A_UZ1 !!≈ * **@CODE@** = uz’:ud, goes to NMN_NORUZ
+: NMN_NORUZ1 ;
 
 LEXICON A_RUSKED !!≈ * **@CODE@** = gets +A and goes to NMN\_RUSKED
 +A: NMN_RUSKED ;
@@ -50,8 +50,8 @@ LEXICON A_OIGED  !!≈ * **@CODE@** = oiged:oig%{eØ%}d
  N_OIGED ;
 +Comp:%^PEN%^DEVOICE%^RmVow%^DEVOICE%>e%>mb N_POIG ;
 !^PEN^DEVOICE^RmVow^DEVOICE
-LEXICON A_KEL  !!≈ * **@CODE@** = kel':kel
- N_KEL ;
+LEXICON A_KEL1  !!≈ * **@CODE@** = kel':kel
+ N_KEL1 ;
 +Comp:%>e%>mb N_POIG ;
 +Der+Der/Uz1+N:ud N_NORUZ ;
 
@@ -60,10 +60,10 @@ LEXICON A_SAR1  !!≈ * **@CODE@** = sar':sar
 +Comp:%>e%>mb N_POIG ;
 +Der+Der/Uz1+N:ud N_NORUZ ;
 
-LEXICON A_KEZI  !!≈ * **@CODE@** = kezi:ked
- N_KEZI ;
-+Comp:%>e%>mb N_POIG ;
-+Der+Der/Uz1+N:ud N_NORUZ ;
+!LEXICON A_KEZI  !!≈ * **@CODE@** = kezi:ked
+! N_KEZI ;
+!+Comp:%>e%>mb N_POIG ;
+!+Der+Der/Uz1+N:ud N_NORUZ ;
 
 
 LEXICON A_VIDENZ1  !!≈ * **@CODE@** =  videnz':viden (-den, -t, -zid)
