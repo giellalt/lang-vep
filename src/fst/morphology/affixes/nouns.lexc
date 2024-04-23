@@ -133,9 +133,9 @@ LEXICON N_IGA ! igä:ig
 
 LEXICON N_LEIB ! leib:leib
 !!€gt-norm:   Noun ' / '
-!!€  : +N+Sg+Nom
-!!€  n: +N+Sg+Gen
-!!€  d: +N+Pl+Par
+!!€  leib: leib+N+Sg+Nom
+!!€  leibän: leib+N+Sg+Gen
+!!€  leibid: leib+N+Pl+Par
 : SG-NOM-SUF ;
 +Sg+Ill:%>hä K ;
 :%>ä SG-OBLIQUE ;
@@ -210,23 +210,6 @@ R ; ! xxx check
 ! Plural
 :e PL-NOM-SUF ;
 :e PL-ACC-SUF ;
-: PL-OBLIQUE ;
-
-LEXICON N_VOI ! voi:voi
-!!€gt-norm:   Noun ' / '
-!!€  : +N+Sg+Nom
-!!€  n: +N+Sg+Gen
-!!€  d: +N+Pl+Par
-!voi
-!voin
-!void
-: SG-NOM-SUF ;
-: SG-PAR-SUF_t ;
-: SG-OBLIQUE ;
-R ; ! xxx check
-! Plural
-: PL-NOM-SUF ;
-: PL-ACC-SUF ;
 : PL-OBLIQUE ;
 
 LEXICON N_POIG ! poig:poig
@@ -389,26 +372,26 @@ LEXICON N_CHAI ! čai:ča
 !!€ čajun: čai+N+Sg+Gen
 :i SG-NOM-SUF ;
 : SG-PAR-SUF_t ;
-:he SG-OBLIQUE ;
+:ihe SG-OBLIQUE ;
 !R ; ! xxx check
 ! Plural
 !:he PL-NOM-SUF ;
 !:he PL-ACC-SUF ;
 !:h PL-OBLIQUE ;
 
-LEXICON N_KENGATOI ! kengätoi:kengäto
-!!€gt-norm:   Noun ' / '
-!!€  : +N+Sg+Nom
-!!€  n: +N+Sg+Gen
-!!€  d: +N+Pl+Par
-:i SG-NOM-SUF ;
-:n SG-PAR-SUF_t ;
-:me SG-OBLIQUE ;
-R ; ! xxx check
-! Plural
-:me PL-NOM-SUF ;
-:me PL-ACC-SUF ;
-:m PL-OBLIQUE ;
+!LEXICON N_KENGATOI ! kengätoi:kengäto
+!!!€gt-norm:   Noun ' / '
+!!!€  : +N+Sg+Nom
+!!!€  n: +N+Sg+Gen
+!!!€  d: +N+Pl+Par
+!:i SG-NOM-SUF ;
+!:n SG-PAR-SUF_t ;
+!:me SG-OBLIQUE ;
+!R ; ! xxx check
+!! Plural
+!:me PL-NOM-SUF ;
+!:me PL-ACC-SUF ;
+!:m PL-OBLIQUE ;
 
 LEXICON N_AVADIM ! avadim:avadi
 !!€gt-norm:   Noun ' / '
@@ -464,7 +447,7 @@ R ; ! xxx check
 :ja PL-ACC-SUF ;
 :jo PL-OBLIQUE ;
 
-LEXICON N_KEL !kel':kel
+LEXICON N_KEL1 !kel':kel
 !!€gt-norm:   Noun ' / '
 !!€  : +N+Sg+Nom
 !!€  n: +N+Sg+Gen
@@ -710,7 +693,7 @@ LEXICON N_NADO !!= @CODE@ nado:nado
 
 !! ## Nominals
 
-LEXICON NMN_NORUZ
+LEXICON NMN_NORUZ1
 :%^TS’ SG-NOM-SUF ;
 :%^DEVOICE SG-PAR-SUF ;
 :e SG-OBLIQUE ;
