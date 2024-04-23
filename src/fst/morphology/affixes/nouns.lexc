@@ -369,12 +369,12 @@ R ; ! xxx check
 :ha PL-ACC-SUF ;
 :h PL-OBLIQUE ;
 
-LEXICON N_MEZ1 ! mez':me
+LEXICON N_MEZ1 ! mezʼ:me
 !!€gt-norm:   Noun ' / '
-!!€  : +N+Sg+Nom
-!!€  n: +N+Sg+Gen
-!!€  d: +N+Pl+Par
-:z' SG-NOM-SUF ;
+!!€ mezʼ: mezʼ+N+Sg+Nom
+!!€ mehen: mezʼ+N+Sg+Gen
+!!€ mehid: mezʼ+N+Pl+Par
+:zʼ SG-NOM-SUF ;
 :s SG-PAR-SUF_t ;
 :he SG-OBLIQUE ;
 R ; ! xxx check
@@ -382,6 +382,19 @@ R ; ! xxx check
 :he PL-NOM-SUF ;
 :he PL-ACC-SUF ;
 :h PL-OBLIQUE ;
+
+LEXICON N_CHAI ! čai:ča
+!!€gt-norm:   Noun ' / '
+!!€ čai: čai+N+Sg+Nom
+!!€ čajun: čai+N+Sg+Gen
+:i SG-NOM-SUF ;
+: SG-PAR-SUF_t ;
+:he SG-OBLIQUE ;
+!R ; ! xxx check
+! Plural
+!:he PL-NOM-SUF ;
+!:he PL-ACC-SUF ;
+!:h PL-OBLIQUE ;
 
 LEXICON N_KENGATOI ! kengätoi:kengäto
 !!€gt-norm:   Noun ' / '
