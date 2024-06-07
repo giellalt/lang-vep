@@ -10,7 +10,7 @@ LEXICON A_NEWWORDS
 !! **LEXICON @LEXNAME@** 
 test:test N_ "" ;
 ! ADD ADJECTIVES BELOW
-uz’+Z:ud A_UZ1 ;
+!uz’+Z:ud A_UZ1 ; ! this one in xml
 toiženlaine+A:toiženla A_CIPUINE ;
 venälaine+A:venäla A_CIPUINE ;
 
