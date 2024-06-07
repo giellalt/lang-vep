@@ -123,7 +123,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A"></t>
+            <t pos="A">abhasialainen</t>
          </tg>
       </mg>
    </e>
@@ -4400,7 +4400,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A"></t>
+            <t pos="A">kunnallinen</t>
          </tg>
       </mg>
    </e>
@@ -4413,7 +4413,7 @@
       </lg>
       <mg>
          <tg xml:lang="fin">
-            <t pos="A"></t>
+            <t pos="A">musta</t>
          </tg>
       </mg>
    </e>
