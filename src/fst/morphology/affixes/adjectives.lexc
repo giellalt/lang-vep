@@ -18,10 +18,10 @@ LEXICON A_  !!≈ * **@CODE@** = , when we do not know. Redirecting to N_ (?)
 !! ## Regolar lexica
 
 LEXICON A_UZ1 !!≈ * **@CODE@** = uz’:ud, goes to NMN_NORUZ
-: NMN_NORUZ1 ;
+ NMN_NORUZ1 ;
 
-LEXICON A_RUSKED !!≈ * **@CODE@** = gets +A and goes to NMN\_RUSKED
-+A: NMN_RUSKED ;
+LEXICON A_RUSKED !!≈ * **@CODE@** = goes to NMN\_RUSKED
+ NMN_RUSKED ;
 
 LEXICON A_MUNA  !!≈ **@CODE@**   muna:mun
  N_MUNA ;
