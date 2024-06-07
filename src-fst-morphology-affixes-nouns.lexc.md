@@ -292,7 +292,7 @@ LEXICON N_NADO  nado:nado
 
 ## Nominals
 
-* SG-NOM-SUF ; 
+* SG-NOM-SUF ;  rusked:
 
 # ACTUAL CASES 
 
