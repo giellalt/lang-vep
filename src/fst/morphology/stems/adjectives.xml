@@ -59,4 +59,8327 @@
          </tg>
       </mg>
    </e>
+
+   <!-- From here on the newwords -->
+   
+   <e>
+      <lg>
+         <l pos="A">12-ballaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">12-balla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">2-ballaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">2-balla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">5-ballaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">5-balla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">abazilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">abazila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">abhazijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">abhazijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">adigejalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">adigejala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">adiglaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">adigla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">administrativine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">administrativi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">administrativiž-territorialine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">administrativiž-territoriali</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">afrikalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">afrikala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">agulalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">agulala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ahtaz</l>
+         <stg>
+            <st Contlex="A_SEIBAZ">aht</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ainalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ainala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">aktivine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">aktivi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">akvinalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">akvinala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">alahaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">alaha</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">alaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">alamalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">alamala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">alamalaiž-saksalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">alamalaiž-saksala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">alastoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">alasto</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">albanijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">albanijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">aleksandrijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">aleksandrijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">alemannalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">alemannala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">altajalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">altajala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">amerikalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">amerikala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">amuine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">amu</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">amuižegiptalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">amuižegiptala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">amuižgrekalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">amuiž#grekala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">amuižvenälaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">amuižvenäla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">andorralaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">andorrala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">anglialaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">angliala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">anglijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">anglijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">anglijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">anglijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">anglikanilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">anglikanila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">antigualaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">antiguala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">arabalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">arabala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">arabialaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">arabiala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">arabilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">arabila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">arg</l>
+         <stg>
+            <st Contlex="A_MARJ">arg</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">armaz</l>
+         <stg>
+            <st Contlex="A_SEIBAZ">arm</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">armenijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">armenijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">assirijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">assirijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">atomvedenalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">atomvedenala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">avar</l>
+         <stg>
+            <st Contlex="A_JAUH">avar</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">avol’jaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">avol’ja</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">avstralijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">avstralijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">avstralijalaiž-amerikalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">avstralijalaiž-amerikala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">avstrijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">avstrijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">avstrijalaiž-amerikalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">avstrijalaiž-amerikala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">avstrijalaiž-saksalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">avstrijalaiž-saksala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">avtonomine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">avtonomi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">azerbaidzanlaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">azerbaidzanla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">azerbaidžanalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">azerbaidžanala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">azerbaidžanlaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">azerbaidžanla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">azijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">azijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">aškalilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">aškalila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ažlak</l>
+         <stg>
+            <st Contlex="A_JAUH">ažlak</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">bahreinalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">bahreinala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">balkarijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">balkarijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">bangladešalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">bangladešala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">barbudalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">barbudala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">baskalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">baskala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">baškiralaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">baškirala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">belʼgijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">belʼgijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">bengalijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">bengalijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">boikalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">boikala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">bolgarijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">bolgarijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">bosnijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">bosnijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">bošnäklaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">bošnäkla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">braunšvaigalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">braunšvaigala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">brazilijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">brazilijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">britanijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">britanijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">britanijalaiž-kanadalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">britanijalaiž-kanadala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">brunejalain</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ebrunejala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">bumagasine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">bumagasi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">burätalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">burätala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">cahuralaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">cahurala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">danijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">danijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">darginalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">darginala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">demonstrativine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">demonstrativi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">deržavnaj-jumalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">deržavnaj-jumala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">dolganalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">dolganala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">dunganalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">dunganala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">džungarijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">džungarijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">edahaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">edaha</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">egiptalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">egiptala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ehtmatoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">ehtmato</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">elokaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">eloka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">el’getoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">el’geto</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">emiratalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">emiratala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">encalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">encala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">erazmujuine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">eraz#muju</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">erzälaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">erzäla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">eskimosalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">eskimosala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">estilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">estila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">estilaiž-venälaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">estilaiž-#venäla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">estinmalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">estinmala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">evenalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">evenala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">evenkalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">evenkala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">evrazijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">evrazijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">evrejalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">evrejala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">evropalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">evropala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ezilidnalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ezilidnala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ezine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">ezi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ezmäine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ezmä</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">federaline</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">federali</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">fidžilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">fidžila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">flamandijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">flamandijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">francijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">francijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">frangalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">frangala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">gagauzalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">gagauzala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">gagurakaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">gaguraka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">gambijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">gambijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ganalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ganala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">gangralaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">gangrala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">gelalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">gelala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">germanijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">germanijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">gondurasalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">gondurasala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">gor’ahine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">gor’ahi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">grekalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">grekala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">grenlandijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">grenlandijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">gruzijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">gruzijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">guculalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">guculala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">gudžaratalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">gudžaratala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">gvatemalalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">gvatemalala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">gvinejalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">gvinejala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hahk</l>
+         <stg>
+            <st Contlex="A_MARJ">hahk</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hajutoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">hajuto</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hakaslaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">hakasla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hamitalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">hamitala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hamšenalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">hamšenala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hantilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">hantila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">harv</l>
+         <stg>
+            <st Contlex="A_MARJ">harv</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hausalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">hausala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hen</l>
+         <stg>
+            <st Contlex="A_JAUH">hen</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">henoine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">heno</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hered</l>
+         <stg>
+            <st Contlex="A_MARJ">hered</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hoik</l>
+         <stg>
+            <st Contlex="A_POIG">hoik</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hoivitoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">hoivito</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">holekaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">holeka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hond</l>
+         <stg>
+            <st Contlex="A_JAUH">hond</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">horvatalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">horvatala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">horvatijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">horvatijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hotk</l>
+         <stg>
+            <st Contlex="A_POIG">hotk</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hura</l>
+         <stg>
+            <st Contlex="A_MUNA">hur</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hutulaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">hutula</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">häčak</l>
+         <stg>
+            <st Contlex="A_JAUH">häčak</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hörčak</l>
+         <stg>
+            <st Contlex="A_JAUH">hörčak</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">höšak</l>
+         <stg>
+            <st Contlex="A_JAUH">höšak</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">hüvätabaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">hüvä#taba</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">igähine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">igähi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ilokaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">iloka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">indejalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">indejala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">indijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">indijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">indijalaiž-pakistanalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">indijalaiž-pakistanala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">indižfidžilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">indižfidžila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">indoevropalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">indo#evropala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">indonezijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">indonezijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ingermanlandijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ingermanlandijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ingušalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ingušala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">inkerinsuomalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">inkerinsuomala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">innokentii-irkutalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">innokentii-irkutala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">irakalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">irakala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">irkutskalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">irkutskala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">irlandijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">irlandijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ispanijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ispanijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ispanijalalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ispanijalala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ispaniž-irlandijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ispaniž-irlandijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">itajalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">itajala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">italajalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">italajala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">italijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">italijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">itelʼmenalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">itelʼmenala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">izo</l>
+         <stg>
+            <st Contlex="A_NADO">izo</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">izrailʼalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">izrailʼala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ičhine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">ičhi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ižoralaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ižorala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jakutalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">jakutala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jalo</l>
+         <stg>
+            <st Contlex="A_NADO">jalo</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jaolaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">jaola</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">japonalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">japonala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">japonijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">japonijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jaralaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">jarala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jenisejalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">jenisejala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jogahine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">jogahi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jogapäiväline</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">joga#päiväli</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jorkalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">jorkala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">juglaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">jugla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jukagiralaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">jukagirala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jumalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">jumala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jädumatoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">jädumato</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jähine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">jähi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jälʼgelaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">jälʼgela</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">järed</l>
+         <stg>
+            <st Contlex="A_MARJ">järed</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">järgenduseline</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">järgenduseli</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jäšjarvelaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">jäšjarvela</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">jüged</l>
+         <stg>
+            <st Contlex="A_MARJ">jüged</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kabardalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kabardala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kahesaballaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kahesaballa</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kaid</l>
+         <stg>
+            <st Contlex="A_MARJ">kaid</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kaikenvenälaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kaikenvenäla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kaikenvenämalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kaikenvenämala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kajed</l>
+         <stg>
+            <st Contlex="A_MARJ">kajed</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kaksʼballaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kaksʼballa</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kaksʼpalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kaksʼ#pala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kalmikalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kalmikala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kambak</l>
+         <stg>
+            <st Contlex="A_JAUH">kambak</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kambodžalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kambodžala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kamčadalalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kamčadalala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kanadalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kanadala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">karačailaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">karačaila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">karačajalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">karačajala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">karged</l>
+         <stg>
+            <st Contlex="A_OIGED">karged</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">karibalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">karibala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">karjalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">karjala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">karjalaiž-suomalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">karjalaiž-suomala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">karjalaiž-suomalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">karjalaiž-suomala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">karvakaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">karvaka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">katalanalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">katalanala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">katromalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">katromala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kauged</l>
+         <stg>
+            <st Contlex="A_OIGED">kauged</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kavkazalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kavkazala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kazahlaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kazahla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kašmiralaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kašmirala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kebn</l>
+         <stg>
+            <st Contlex="A_MARJ">kebn</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kehker</l>
+         <stg>
+            <st Contlex="A_POIG">kehker</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kel’dmatoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">kel’dmato</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kengätoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">kengäto</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">keskevropalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">keskevropala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">keskvenälaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">keskvenäla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ketalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ketala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kečua-indejalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kečua-indejala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kipralaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kiprala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kiprilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kiprila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kirgizlaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kirgizla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kirjav</l>
+         <stg>
+            <st Contlex="A_POIG">kirjav</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kitailaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kitaila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kitajalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kitajala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kitsalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kitsala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kivine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">kivi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kogonaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kogona</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kohtaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kohta</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">koivuine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">koivu</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">komed</l>
+         <stg>
+            <st Contlex="A_MARJ">komed</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">komilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">komila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kongolaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kongola</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">koptalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">koptala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">korejalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">korejala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">korged</l>
+         <stg>
+            <st Contlex="A_OIGED">korged</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">koräkalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">koräkala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">koumanzʼ</l>
+         <stg>
+            <st Contlex="A_VIDENZ1">kouman</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">koumepalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">koumepala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kova</l>
+         <stg>
+            <st Contlex="A_MUNA">kov</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kover</l>
+         <stg>
+            <st Contlex="A_POIG">kover</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">koverikaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">koverika</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">krimalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">krimala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">krimantatarlaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">krimantatarla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kronštadtlaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kronštadtla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kudamb</l>
+         <stg>
+            <st Contlex="A_POIG">kudamb</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kuhruikaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">kuhruika</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kumandinalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kumandinala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kumikalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kumikala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kundali</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">kundali</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kurdlaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">kurdla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">käbed</l>
+         <stg>
+            <st Contlex="A_MARJ">käbed</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kädekaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">kädeka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">käred</l>
+         <stg>
+            <st Contlex="A_MARJ">käred</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">külläine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">küllä</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">külähine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">külähi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">kümnenzʼ</l>
+         <stg>
+            <st Contlex="A_VIDENZ1">kümnen</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">küps</l>
+         <stg>
+            <st Contlex="A_POIG">küps</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">laih</l>
+         <stg>
+            <st Contlex="A_MARJ">laih</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lakalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">lakala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lamutalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">lamutala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lapak</l>
+         <stg>
+            <st Contlex="A_JAUH">lapak</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">latvijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">latvijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">led</l>
+         <stg>
+            <st Contlex="A_JAUH">led</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lehed</l>
+         <stg>
+            <st Contlex="A_MARJ">lehed</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lemkilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">lemkila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">leningradalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">leningradala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">letkesine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">letkesi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">leved</l>
+         <stg>
+            <st Contlex="A_MARJ">leved</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lezgilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">lezgila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lezginalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">lezginala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">libed</l>
+         <stg>
+            <st Contlex="A_MARJ">libed</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lihtenšteinalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">lihtenšteinala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lingalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">lingala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">litvalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">litvala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">livanalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">livanala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lomvelaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">lomvela</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">londuseline</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">londuseli</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">luja</l>
+         <stg>
+            <st Contlex="A_MUNA">luj</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lužicelaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">lužicela</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">läheline</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">läheli</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lähine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">lähi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">lühüd</l>
+         <stg>
+            <st Contlex="A_MARJ">lühüd</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">madal</l>
+         <stg>
+            <st Contlex="A_POIG">madal</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">madʼjaralaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">madʼjarala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">maged</l>
+         <stg>
+            <st Contlex="A_MARJ">maged</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">magukaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">maguka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">mairhekaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">mairheka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">makedonijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">makedonijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">maks</l>
+         <stg>
+            <st Contlex="A_MARJ">maks</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">maksutoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">maksuto</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">malaizijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">malaizijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">malajalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">malajala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">malavilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">malavila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">manalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">manala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">mangandžalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">mangandžala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">mansilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">mansila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">marathilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">marathila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">marilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">marila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">meksikalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">meksikala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">melekaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">meleka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">melentartuine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">melentartu</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">melev</l>
+         <stg>
+            <st Contlex="A_POIG">melev</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">meneziš-portugalijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">meneziš-portugalijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">merelaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">merela</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">mererandatoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">mererandato</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">merimatkadai-ispanijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">merimatkadai-ispanijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">mikronezijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">mikronezijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">minoug-avstralijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">minoug-avstralijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">minoug-britanijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">minoug-britanijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">mokšalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">mokšala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">moldovalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">moldovala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">moldovalaiž-romanijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">moldovalaiž-romanijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">monakolaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">monakola</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">monakolaiž-francijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">monakolaiž-francijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">mongolijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">mongolijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">montenegrolaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">montenegrola</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">mordvinalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">mordvinala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">moskvalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">moskvala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">muiged</l>
+         <stg>
+            <st Contlex="A_OIGED">muiged</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">mujutoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">mujuto</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">municipaline</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">municipali</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">must</l>
+         <stg>
+            <st Contlex="A_MARJ">must</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">mučker</l>
+         <stg>
+            <st Contlex="A_MARJ">mučker</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">mägievrejalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">mägievrejala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">märg</l>
+         <stg>
+            <st Contlex="A_POIG">märg</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">naimatoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">naimato</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">namibijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">namibijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nanalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">nanala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">napolilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">napolila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">negidalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">negidala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nellänzʼ</l>
+         <stg>
+            <st Contlex="A_VIDENZ1">nellän</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nellʼpalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">nellʼ#pala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nenakaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">nenaka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nencalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">nencala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nepalalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">nepalala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">neps</l>
+         <stg>
+            <st Contlex="A_MARJ">neps</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nevalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">nevala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nevisalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">nevisala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nevondkundaliž-suomalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">nevondkundaliž-suomala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nevondkundaliž-suomalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">nevondkundaliž-suomala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nevondkundlaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">nevond#kundla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nganasanalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">nganasanala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ngonilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ngonila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nigeralaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">nigerala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nigerijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">nigerijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nimetoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">nimeto</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ninev</l>
+         <stg>
+            <st Contlex="A_MARJ">ninev</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nivha-venälaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">nivha-venäla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nivhalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">nivhala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">njadžalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">njadžala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nogailaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">nogaila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">norvegijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">norvegijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">norvegijalaiž-saamalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">norvegijalaiž-saamala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">norʼ</l>
+         <stg>
+            <st Contlex="A_SAR1">nor</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">notked</l>
+         <stg>
+            <st Contlex="A_MARJ">notked</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">notked</l>
+         <stg>
+            <st Contlex="A_OIGED">notked</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nozol</l>
+         <stg>
+            <st Contlex="A_POIG">nozol</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">näl’ghine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">näl’ghi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">näpine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">näpi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">nügüdlaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">nügüdla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">oficialine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">oficiali</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ogibal</l>
+         <stg>
+            <st Contlex="A_MARJ">ogibal</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">oiged</l>
+         <stg>
+            <st Contlex="A_OIGED">oiged</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">olimpalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">olimpala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">oma</l>
+         <stg>
+            <st Contlex="A_MUNA">om</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">omanalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">omanala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">orokalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">orokala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">oročilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">oročila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ortodoksine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">ortodoksi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">osetijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">osetijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">osetinalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">osetinala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">osmanalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">osmanala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ozatoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">ozato</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">padujalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">padujala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">pakuine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">paku</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">palaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">pala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">pačakokaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">pačakoka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">pehmed</l>
+         <stg>
+            <st Contlex="A_OIGED">pehmed</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">pendžabalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">pendžabala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">penikaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">penika</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">penzaz-jumalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">penzaz-jumala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">penʼ</l>
+         <stg>
+            <st Contlex="A_KEL1">pen</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">periodine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">periodi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">perulaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">perula</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">petroskoilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">petroskoila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">pečerilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">pečerila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">pikaraine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">pikara</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">pil’vesine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">pil’vesi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">pimed</l>
+         <stg>
+            <st Contlex="A_MARJ">pimed</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">piču</l>
+         <stg>
+            <st Contlex="A_NADO">piču</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">pičuine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">piču</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">pohjoine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">pohjo</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">pohjoine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">pohjoi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">pohjoižirladijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">pohjoižirladijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">pohjoižitalijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">pohjoižitalijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">poleščuklaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">poleščukla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">policentri</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">policentri</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">politehnine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">politehni</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">politine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">politi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">polʼšalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">polʼšala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">polʼšanmalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">polʼšanmala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">pontijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">pontijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">populärine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">populäri</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">porn</l>
+         <stg>
+            <st Contlex="A_MARJ">porn</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">portugalijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">portugalijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">portugalijalaiž-angolalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">portugalijalaiž-angolala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">professionaline</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">professionali</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">puhtaz</l>
+         <stg>
+            <st Contlex="A_SEIBAZ">puht</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">puine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">pu</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">päipaštokaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">päipaštoka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">päivlaskmkarjalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">päivlaskmkarjala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">pälidnalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">pälidnala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">pölükaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">pölüka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">radonežalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">radonežala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">rahvahaline</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">rahvahali</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">rahvahatoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">rahvahato</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">rahvalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">rahvala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">raibak</l>
+         <stg>
+            <st Contlex="A_JAUH">raibak</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">randembaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">randemba</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">raudaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">rauda</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">rauk</l>
+         <stg>
+            <st Contlex="A_MARJ">rauk</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">razvakaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">razvaka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">redukaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">reduka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">reigukaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">reiguka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">rimalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">rimala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ripmatoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">ripmato</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">rizu</l>
+         <stg>
+            <st Contlex="A_NADO">rizu</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="rohked">rohked</l>
+         <stg>
+            <st Contlex="A_OIGED">rohked</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="rohked"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">romanijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">romanijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">rotumalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">rotumala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ročilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ročila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ročilaiž-suomalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ročilaiž-suomala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ročinmalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ročinmala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ruhtinasen-tuvalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ruhtinasen-tuvala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">rundilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">rundila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">rusked</l>
+         <stg>
+            <st Contlex="A_RUSKED">rusked</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ruskedverine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">rusked#veri</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">rutulalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">rutulala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">röunatoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">röunato</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">saamalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">saamala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">saamelaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">saamela</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">saksalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">saksala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">saksalaiž-alamalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">saksalaiž-alamala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">salonikilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">salonikila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">samoalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">samoala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">sanged</l>
+         <stg>
+            <st Contlex="A_OIGED">sanged</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">sanmarinolaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">sanmarinola</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">santomelaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">santomela</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">sarilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">sarila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">sarovalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">sarovala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">satusetoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">satuseto</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">saudalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">saudala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">seičemeballaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">seičemeballa</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">seičemenzʼ</l>
+         <stg>
+            <st Contlex="A_VIDENZ1">seičemen</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">seižmatoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">seižmato</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">selʼkupalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">selʼkupala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">sel’ged</l>
+         <stg>
+            <st Contlex="A_OIGED">sel’ged</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">serbalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">serbala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">serbijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">serbijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">setulaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">setula</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">sicilijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">sicilijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">siled</l>
+         <stg>
+            <st Contlex="A_MARJ">siled</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">singapuralaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">singapurala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">sinine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">sini</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">sjerraleonelaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">sjerraleonela</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="sjerraleonela"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">skandinavijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">skandinavijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">slavilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">slavila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">slovakalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">slovakala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">slovenijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">slovenijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">sojotalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">sojotala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">solakaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">solaka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">sorav</l>
+         <stg>
+            <st Contlex="A_POIG">sorav</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">specialine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">speciali</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">sula</l>
+         <stg>
+            <st Contlex="A_MUNA">sul</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">suomalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">suomala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">suomalaiž-karjalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">suomalaiž-karjala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">suomalaiž-ugrilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">suomalaiž-#ugrila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">suomalaiž-volgalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">suomalaiž-volgala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">surinamalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">surinamala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">surʼ</l>
+         <stg>
+            <st Contlex="A_SAR1">sur</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">sur’kulu</l>
+         <stg>
+            <st Contlex="A_NADO">sur’kulu</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">suviafrikalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">suvi#afrikala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">suvialamalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">suvialamala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">suviazijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">suviazijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">suvikorejalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">suvi#korejala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">suvisudanalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">suvisudanala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">süvärilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">süvärila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tabasaranalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">tabasaranala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tabj</l>
+         <stg>
+            <st Contlex="A_MARJ">tabj</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tadžikalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">tadžikala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tamilalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">tamilala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tanhalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">tanhala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tarbhaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">tarbha</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tark</l>
+         <stg>
+            <st Contlex="A_MARJ">tark</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tatalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">tatala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tatarlaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">tatarla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tazo</l>
+         <stg>
+            <st Contlex="A_NADO">tazo</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tedoline</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">tedoli</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">teleutalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">teleutala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">terav</l>
+         <stg>
+            <st Contlex="A_POIG">terav</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">terveh</l>
+         <stg>
+            <st Contlex="A_LANDEH">terv</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">timoralaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">timorala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tobolʼskalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">tobolʼskala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">todesine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">todesi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">toiženlaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">toiženla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tomukaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">tomuka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">toreh</l>
+         <stg>
+            <st Contlex="A_LANDEH">tor</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">toropecalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">toropecala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">totaralaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">totarala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">totarlaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">totarla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">totʼmalain</l>
+         <stg>
+            <st Contlex="A_CIPUINE">totʼmala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tribagolaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">tribagola</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tumbukalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">tumbukala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tundmatoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">tundmato</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">turkad-meshetijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">turkad-meshetijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">turkalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">turkala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">turkanlaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">turkanla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">turkmenalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">turkmenala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tutsilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">tutsila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tuvalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">tuvala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tvalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">tvala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tägälaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">tägäla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">tünʼ</l>
+         <stg>
+            <st Contlex="A_KEL1">tün</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">udatikaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">udatika</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">udegelaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">udegela</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">udengvinejalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">udengvinejala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">udmurtalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">udmurtala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">uelʼsalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">uelʼsala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">uetaralaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">uetarala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ukrainalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ukrainala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ukrainalaiž-venälaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ukrainalaiž-venäla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ukrainalaiž-venämalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ukrainalaiž-venämala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ulʼtalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ulʼtala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ulʼčilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ulʼčila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">upak</l>
+         <stg>
+            <st Contlex="A_JAUH">upak</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ustavakaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">ustavaka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ustügalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ustügala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">uzbekalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">uzbekala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">uzʼlidnalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">uzʼlidnala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="Z">uz’</l>
+         <stg>
+            <st Contlex="A_UZ1">ud</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="Z"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vahv</l>
+         <stg>
+            <st Contlex="A_MARJ">vahv</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vajehtamatoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">vajehtamato</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">valdkundaline</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">vald#kundali</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">valdmererandatoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">valdmererandato</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vanh</l>
+         <stg>
+            <st Contlex="A_MARJ">vanh</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vanhuskolaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">vanhuskola</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">varmed</l>
+         <stg>
+            <st Contlex="A_OIGED">varmed</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">varuline</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">varuli</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">varšavalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">varšavala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vaskmäine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">vaskmä</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vauged</l>
+         <stg>
+            <st Contlex="A_OIGED">vauged</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vaugedjärvelaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">vaugedjärvela</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vaugedvenälaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">vauged#venäla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vaugedvenälaiž-venälaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">vaugedvenälaiž-venäla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vauh</l>
+         <stg>
+            <st Contlex="A_MARJ">vauh</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vavilonalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">vavilonala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vedenalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">veden#ala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">venecijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">venecijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">venesuelalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">venesuelala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">venä-nivhalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">venä-nivhala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">venähine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">venähi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">venälaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">venäla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">venälaiž-bolgarijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">venälaiž-bolgarijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">venälaiž-ukrainalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">venälaiž-ukrainala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">venämalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">venämala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">venämalaiž-bolgarijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">venämalaiž-bolgarijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vepsläiž-venälaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">vepsläiž-venäla</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">verazmalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">verazmala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">verazplanetalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">verazplanetala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">verhine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">verhi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">verhoturjelaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">verhoturjela</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vezo</l>
+         <stg>
+            <st Contlex="A_NADO">vezo</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">videnzʼ</l>
+         <stg>
+            <st Contlex="A_VIDENZ1">viden</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vihalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">vihala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vihand</l>
+         <stg>
+            <st Contlex="A_MARJ">vihand</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">viher</l>
+         <stg>
+            <st Contlex="A_POIG">viher</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vihmakaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">vihmaka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vihmasine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">vihmasi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vilu</l>
+         <stg>
+            <st Contlex="A_NADO">vilu</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vilukaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">viluka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vinsentalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">vinsentala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">virulaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">virula</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vižballaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">vižballa</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vižpalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">vižpala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vjetnamalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">vjetnamala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vodilaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">vodila</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vokaline</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">vokali</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vouvaz</l>
+         <stg>
+            <st Contlex="A_SEIBAZ">vouv</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vägehine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">vägehi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vägekaz</l>
+         <stg>
+            <st Contlex="A_VEDEKAZ">vägeka</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vägelaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">vägela</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vägev</l>
+         <stg>
+            <st Contlex="A_POIG">vägev</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vägitoi</l>
+         <stg>
+            <st Contlex="A_KENGATOI">vägito</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vägеhine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">vägеhi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vähähk</l>
+         <stg>
+            <st Contlex="A_JAUH">vähähk</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">vär</l>
+         <stg>
+            <st Contlex="A_POIG">vär</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">zelandijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">zelandijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">än’kulund</l>
+         <stg>
+            <st Contlex="A_MARJ">än’#kulund</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">äred</l>
+         <stg>
+            <st Contlex="A_MARJ">äred</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ühesaballaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ühesaballa</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ühesanzʼ</l>
+         <stg>
+            <st Contlex="A_VIDENZ1">ühesan</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ühtennimine</l>
+         <stg>
+            <st Contlex="A_TOSHTMINE">ühtennimi</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">üks’jäine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">üks’jä</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">üks’kerdaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">üks’#kerda</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ülenpäine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ülen#pä</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">ünäine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">ünä</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">čehalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">čehala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">čehijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">čehijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">čehoslovakijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">čehoslovakijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">čerkesalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">čerkesala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">čerkesogajalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">čerkesogajala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">čevalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">čevala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">čečenalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">čečenala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">čiganalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">čiganala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">čoma</l>
+         <stg>
+            <st Contlex="A_MUNA">čom</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">čopak</l>
+         <stg>
+            <st Contlex="A_JAUH">čopak</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">čukčulaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">čukčula</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">čulimalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">čulimala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">čuvanalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">čuvanala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">čuvašalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">čuvašala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">šapsugalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">šapsugala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">šoralaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">šorala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">šorijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">šorijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">šorijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">šorijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">šotlandijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">šotlandijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">šrilankaiž-indijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">šrilankaiž-#indijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
+         <l pos="A">šveicarijalaine</l>
+         <stg>
+            <st Contlex="A_CIPUINE">šveicarijala</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="fin">
+            <t pos="A"></t>
+         </tg>
+      </mg>
+   </e>
 </r>
