@@ -710,9 +710,9 @@ NMN_RUSKED-PL ;
 LEXICON NMN_RUSKED-SG
 SG-NOM-SUF ; !!= * @CODE@ rusked:
 :%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ABE-SUF ;
-:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ADE-SUF ;
 :%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ABL-SUF ;
 :%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ACC-SUF ;
+:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ADE-SUF ;
 :%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ADD1-SUF ;
 :%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ADD2-SUF ;
 :%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ALL-SUF ;
