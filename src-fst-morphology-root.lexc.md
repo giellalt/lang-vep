@@ -344,6 +344,7 @@ symbols in the lexicon files:
 * **ZS1** 
 * **V1** 
 * **AO1** 
+* **A1** 
 * **EI1** 
 * **ZS1** 
 * **ZD1**  These are for developing underlying morphology rules 

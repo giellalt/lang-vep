@@ -602,7 +602,7 @@ These were the set types.
 
 * **LEXICON A_UZ1** = uz’:ud, goes to NMN_NORUZ
 
-* **LEXICON A_RUSKED** = gets +A and goes to NMN\_RUSKED
+* **LEXICON A_RUSKED** = goes to NMN\_RUSKED
 
 **LEXICON A_MUNA**   muna:mun
 
@@ -1251,7 +1251,8 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-v
 
 * %^RmVow:0  for removing vowels
 *  AO1:0   
-*   D1:0   
+*   A1:0   
+*   D1:0    
 *   E1:0   
 *  EH1:0   
 *  EI1:0   
@@ -1718,6 +1719,7 @@ symbols in the lexicon files:
 * **ZS1** 
 * **V1** 
 * **AO1** 
+* **A1** 
 * **EI1** 
 * **ZS1** 
 * **ZD1**  These are for developing underlying morphology rules 

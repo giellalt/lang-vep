@@ -59,7 +59,8 @@ This file documents the [phonology.twolc file](http://github.com/giellalt/lang-v
 
 * %^RmVow:0  for removing vowels
 *  AO1:0   
-*   D1:0   
+*   A1:0   
+*   D1:0    
 *   E1:0   
 *  EH1:0   
 *  EI1:0   

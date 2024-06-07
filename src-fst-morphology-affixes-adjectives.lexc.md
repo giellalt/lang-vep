@@ -8,7 +8,7 @@
 
 * **LEXICON A_UZ1** = uz’:ud, goes to NMN_NORUZ
 
-* **LEXICON A_RUSKED** = gets +A and goes to NMN\_RUSKED
+* **LEXICON A_RUSKED** = goes to NMN\_RUSKED
 
 **LEXICON A_MUNA**   muna:mun
 
