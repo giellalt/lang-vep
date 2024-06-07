@@ -490,7 +490,7 @@ R ; ! xxx check
 :%^RmVow PL-OBLIQUE ;
 
 
-LEXICON N_OIGED !oiged:oig%{eØ%}d
+LEXICON N_OIGED !oiged:oiged
 !!€gt-norm:   Noun ' / '
 !!€  : +N+Sg+Nom
 !!€  n: +N+Sg+Gen
@@ -505,7 +505,7 @@ R ; ! xxx check
 :%^PEN%^DEVOICE%^RmVow%^DEVOICE%>a PL-ACC-SUF ;
 :%^PEN%^DEVOICE%^RmVow%^DEVOICE%>o PL-OBLIQUE ;
 
-LEXICON N_SAMAL !samal:sam%{aØ%}l
+LEXICON N_SAMAL !samal:samal syncope
 !!€gt-norm:   Noun ' / '
 !!€  : +N+Sg+Nom
 !!€  n: +N+Sg+Gen
@@ -708,54 +708,54 @@ NMN_RUSKED-SG ;
 NMN_RUSKED-PL ;
 
 LEXICON NMN_RUSKED-SG
-SG-NOM-SUF ; !!= * @CODE@
-SG-GEN-SUF ;
-SG-ACC-SUF ;
+SG-NOM-SUF ; !!= * @CODE@ rusked:
+:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ABE-SUF ;
+:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ADE-SUF ;
+:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ABL-SUF ;
+:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ACC-SUF ;
+:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ADD1-SUF ;
+:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ADD2-SUF ;
+:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ALL-SUF ;
+:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-APR1-SUF ;
+:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-APR2-SUF ;
+:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-COM-SUF ;
+:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-EGR-SUF ;
+:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ESS-SUF ;
+:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-GEN-SUF ;
+:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ILL-SUF ;
+:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-INE-SUF ;
 SG-PAR-SUF ;
-SG-TRA-SUF ;
-SG-ABE-SUF ;
-SG-COM-SUF ;
-SG-INE-SUF ;
-SG-ILL-SUF ;
-SG-ADE-SUF ;
-SG-ABL-SUF ;
-SG-ALL-SUF ;
-SG-ESS-SUF ;
-SG-PRL-SUF ;
-SG-APR1-SUF ;
-SG-APR2-SUF ;
-SG-EGR-SUF ;
-SG-TER1-SUF ;
-SG-TER2-SUF ;
-SG-ADD1-SUF ;
-SG-ADD2-SUF ;
+:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-PRL-SUF ;
+:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-TER1-SUF ;
+:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-TER2-SUF ;
+:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-TRA-SUF ;
 
 LEXICON NMN_RUSKED-PL
- NMN_RUSKED-PL-NOM ;
- NMN_RUSKED-PL-OBL ;
+:%^PEN%^RmCns%^RmVow%^DEVOICEta NMN_RUSKED-PL-NOM ;
+:%^PEN%^RmCns%^RmVow%^DEVOICEtoi NMN_RUSKED-PL-OBL ;
 LEXICON NMN_RUSKED-PL-NOM
 PL-NOM-SUF ;
 PL-ACC-SUF ;
 LEXICON NMN_RUSKED-PL-OBL
-PL-GEN-SUF ;
-PL-PAR-SUF ;
-PL-TRA-SUF ;
 PL-ABE-SUF ;
-PL-COM-SUF ;
-PL-INE-SUF ;
-PL-ILL-SUF ;
-PL-ADE-SUF ;
 PL-ABL-SUF ;
-PL-ALL-SUF ;
-PL-ESS-SUF ;
-PL-PRL-SUF ;
-PL-APR1-SUF ;
-PL-APR2-SUF ;
-PL-EGR-SUF ;
-PL-TER1-SUF ;
-PL-TER2-SUF ;
 PL-ADD1-SUF ;
 PL-ADD2-SUF ;
+PL-ADE-SUF ;
+PL-ALL-SUF ;
+PL-APR1-SUF ;
+PL-APR2-SUF ;
+PL-COM-SUF ;
+PL-EGR-SUF ;
+PL-ESS-SUF ;
+PL-GEN-SUF ;
+PL-ILL-SUF ;
+PL-INE-SUF ;
+PL-PAR-SUF ;
+PL-PRL-SUF ;
+PL-TER1-SUF ;
+PL-TER2-SUF ;
+PL-TRA-SUF ;
 
 
 LEXICON NMN_KEZI
@@ -772,114 +772,104 @@ R ; ! xxx check
 
 LEXICON SG-OBLIQUE
 +Der+Der/Toi+A:%>to A_KENGATOI ;
- SG-GEN-SUF ;
- SG-ACC-SUF ;
- SG-PAR-SUF ;
- SG-TRA-SUF ;
  SG-ABE-SUF ;
- SG-COM-SUF ;
- SG-INE-SUF ;
- SG-ILL-SUF ;
- SG-ELA-SUF ;
- SG-ADE-SUF ;
  SG-ABL-SUF ;
+ SG-ACC-SUF ;
+ SG-ADD1-SUF ;
+ SG-ADD2-SUF ;
+ SG-ADE-SUF ;
  SG-ALL-SUF ;
- SG-ESS-SUF ;
- SG-PRL-SUF ;
  SG-APR1-SUF ;
  SG-APR2-SUF ;
+ SG-COM-SUF ;
  SG-EGR-SUF ;
+ SG-ELA-SUF ;
+ SG-ESS-SUF ;
+ SG-GEN-SUF ;
+ SG-ILL-SUF ;
+ SG-INE-SUF ;
+ SG-PAR-SUF ;
+ SG-PRL-SUF ;
  SG-TER1-SUF ;
  SG-TER2-SUF ;
  SG-TER3-SUF ;
- SG-ADD1-SUF ;
- SG-ADD2-SUF ;
+ SG-TRA-SUF ;
 
 LEXICON PL-OBLIQUE
- PL-GEN-SUF ;
- PL-PAR-SUF ;
- PL-TRA-SUF ;
  PL-ABE-SUF ;
- PL-COM-SUF ;
- PL-INE-SUF ;
- PL-ELA-SUF ;
- PL-ILL-SUF ;
- PL-ADE-SUF ;
  PL-ABL-SUF ;
- PL-ALL-SUF ;
- PL-ESS-SUF ;
- PL-PRL-SUF ;
- PL-APR1-SUF ;
- PL-APR2-SUF ;
- PL-EGR-SUF ;
- PL-TER1-SUF ;
- PL-TER2-SUF ;
-! +N: PL-TER3-SUF ; ! Does this exist
  PL-ADD1-SUF ;
  PL-ADD2-SUF ;
+ PL-ADE-SUF ;
+ PL-ALL-SUF ;
+ PL-APR1-SUF ;
+ PL-APR2-SUF ;
+ PL-COM-SUF ;
+ PL-EGR-SUF ;
+ PL-ELA-SUF ;
+ PL-ESS-SUF ;
+ PL-GEN-SUF ;
+ PL-ILL-SUF ;
+ PL-INE-SUF ;
+ PL-PAR-SUF ;
+ PL-PRL-SUF ;
+ PL-TER1-SUF ;
+ PL-TER2-SUF ;
+ PL-TRA-SUF ;
+! +N: PL-TER3-SUF ; ! Does this exist
 
 
 LEXICON NMN_
- SG-NOM-SUF ;
- SG-GEN-SUF ;
- SG-ACC-SUF ;
- SG-PAR-SUF ;
- SG-TRA-SUF ;
  SG-ABE-SUF ;
- SG-COM-SUF ;
- SG-INE-SUF ;
- SG-ILL-SUF ;
- SG-ELA-SUF ;
- SG-ADE-SUF ;
  SG-ABL-SUF ;
+ SG-ACC-SUF ;
+ SG-ADD1-SUF ;
+ SG-ADD2-SUF ;
+ SG-ADE-SUF ;
  SG-ALL-SUF ;
- SG-ESS-SUF ;
- SG-PRL-SUF ;
  SG-APR1-SUF ;
  SG-APR2-SUF ;
+ SG-COM-SUF ;
  SG-EGR-SUF ;
+ SG-ELA-SUF ;
+ SG-ESS-SUF ;
+ SG-GEN-SUF ;
+ SG-ILL-SUF ;
+ SG-INE-SUF ;
+ SG-NOM-SUF ;
+ SG-PAR-SUF ;
+ SG-PRL-SUF ;
  SG-TER1-SUF ;
  SG-TER2-SUF ;
  SG-TER3-SUF ;
- SG-ADD1-SUF ;
- SG-ADD2-SUF ;
+ SG-TRA-SUF ;
 
- PL-NOM-SUF ;
- PL-GEN-SUF ;
- PL-ACC-SUF ;
- PL-PAR-SUF ;
- PL-TRA-SUF ;
  PL-ABE-SUF ;
- PL-COM-SUF ;
- PL-INE-SUF ;
- PL-ELA-SUF ;
- PL-ILL-SUF ;
- PL-ADE-SUF ;
  PL-ABL-SUF ;
+ PL-ACC-SUF ;
+ PL-ADD1-SUF ;
+ PL-ADD2-SUF ;
+ PL-ADE-SUF ;
  PL-ALL-SUF ;
- PL-ESS-SUF ;
- PL-PRL-SUF ;
  PL-APR1-SUF ;
  PL-APR2-SUF ;
+ PL-COM-SUF ;
  PL-EGR-SUF ;
+ PL-ELA-SUF ;
+ PL-ESS-SUF ;
+ PL-GEN-SUF ;
+ PL-ILL-SUF ;
+ PL-INE-SUF ;
+ PL-NOM-SUF ;
+ PL-PAR-SUF ;
+ PL-PRL-SUF ;
  PL-TER1-SUF ;
  PL-TER2-SUF ;
 ! +N: PL-TER3-SUF ; ! Does this exist
- PL-ADD1-SUF ;
- PL-ADD2-SUF ;
+ PL-TRA-SUF ;
 
 !! # ACTUAL CASES 
 
-
-LEXICON SG-NOM-SUF
-+Sg: NOM-SUF ;
-LEXICON NOM-SUF
-+Nom: K ;
-
-LEXICON SG-GEN-SUF
-+Sg: GEN-SUF ;
-LEXICON GEN-SUF
-+Gen:%>n K ;
 
 LEXICON SG-ACC-SUF
 +Sg+Acc: K ;
@@ -887,70 +877,31 @@ LEXICON SG-ACC-SUF
 LEXICON ACC-SUF
 +Acc:%>n K ;
 
-LEXICON SG-PAR-SUF
-+Sg: PAR-SUF ;
-LEXICON PAR-SUF
-+Par:%>d K ; ! d/t
-
-LEXICON SG-PAR-SUF_t
-+Sg+Par:%>t K ;
-
-LEXICON SG-TRA-SUF
-+Sg+Tra:%>ks K ;
-
 LEXICON SG-ABE-SUF
 +Sg: ABE-SUF ;
 LEXICON ABE-SUF
 +Abe:%^DEVOICE%>ta K ;
-
-LEXICON SG-COM-SUF
-+Sg: COM-SUF ;
-LEXICON COM-SUF
-+Com:%>nke K ;
-
-LEXICON SG-INE-SUF_iš
-+Sg+Ine:%>š K ;
-LEXICON SG-INE-SUF
-+Sg: INE-SUF ;
-LEXICON INE-SUF
-+Ine:%>s K ; ! s/š kül’betiš 
-
-LEXICON SG-ELA-SUF_špäi
-+Sg+Ela:špäi K ;
-LEXICON SG-ELA-SUF
-+Sg: ELA-SUF ;
-LEXICON ELA-SUF
-+Ela:%>späi K ; ! späi/špäi 
-
-LEXICON SG-ILL-SUF
-+Sg: ILL-SUF ;
-LEXICON ILL-SUF
-+Ill:%>hV1 K ; ! o-ho
-
-LEXICON SG-ADE-SUF
-+Sg: ADE-SUF ;
-LEXICON ADE-SUF
-+Ade:%>l K ;
 
 LEXICON SG-ABL-SUF
 +Sg: ABL-SUF ;
 LEXICON ABL-SUF
 +Abl:%>lpäi K ;
 
+LEXICON SG-ADE-SUF
++Sg: ADE-SUF ;
+LEXICON ADE-SUF
++Ade:%>l K ;
+
+LEXICON SG-ADD1-SUF
++Sg+Add1:%>hV1päi K ;
+
+LEXICON SG-ADD2-SUF
++Sg+Add2:%>lepäi K ;
+
 LEXICON SG-ALL-SUF
 +Sg: ALL-SUF ;
 LEXICON ALL-SUF
 +All:%>le K ;
-
-LEXICON SG-ESS-SUF ! Essive-instructive
-+Sg: ESS-SUF  ;
-LEXICON ESS-SUF 
-+EssInst:%>n K ;
-
-LEXICON SG-PRL-SUF
-+Sg: PRL-SUF ;
-LEXICON PRL-SUF
-+Prl:%>dme K ;
 
 LEXICON SG-APR1-SUF
 +Sg: APR1-SUF ;
@@ -962,10 +913,62 @@ LEXICON SG-APR2-SUF
 LEXICON APR2-SUF
 +Apr2:%>nnoks K ;
 
+LEXICON SG-COM-SUF
++Sg: COM-SUF ;
+LEXICON COM-SUF
++Com:%>nke K ;
+
 LEXICON SG-EGR-SUF
 +Sg: EGR-SUF ;
 LEXICON EGR-SUF
 +Egr:%>nnopäi K ;
+
+LEXICON SG-ELA-SUF_špäi
++Sg+Ela:špäi K ;
+LEXICON SG-ELA-SUF
++Sg: ELA-SUF ;
+LEXICON ELA-SUF
++Ela:%>späi K ; ! späi/špäi 
+
+LEXICON SG-ESS-SUF ! Essive-instructive
++Sg: ESS-SUF  ;
+LEXICON ESS-SUF 
++EssInst:%>n K ;
+
+LEXICON SG-GEN-SUF
++Sg: GEN-SUF ;
+LEXICON GEN-SUF
++Gen:%>n K ;
+
+LEXICON SG-ILL-SUF
++Sg: ILL-SUF ;
+LEXICON ILL-SUF
++Ill:%>hV1 K ; ! o-ho
+
+LEXICON SG-INE-SUF_iš
++Sg+Ine:%>š K ;
+LEXICON SG-INE-SUF
++Sg: INE-SUF ;
+LEXICON INE-SUF
++Ine:%>s K ; ! s/š kül’betiš 
+
+LEXICON SG-NOM-SUF
++Sg: NOM-SUF ;
+LEXICON NOM-SUF
++Nom: K ;
+
+LEXICON SG-PRL-SUF
++Sg: PRL-SUF ;
+LEXICON PRL-SUF
++Prl:%>dme K ;
+
+LEXICON SG-PAR-SUF
++Sg: PAR-SUF ;
+LEXICON PAR-SUF
++Par:%>d K ; ! d/t
+
+LEXICON SG-PAR-SUF_t
++Sg+Par:%>t K ;
 
 LEXICON SG-TER1-SUF
 +Sg: TER1-SUF ;
@@ -978,11 +981,8 @@ LEXICON SG-TER2-SUF
 LEXICON SG-TER3-SUF
 +Sg+Ter3:%>ssai K ;
 
-LEXICON SG-ADD1-SUF
-+Sg+Add1:%>hV1päi K ;
-
-LEXICON SG-ADD2-SUF
-+Sg+Add2:%>lepäi K ;
+LEXICON SG-TRA-SUF
++Sg+Tra:%>ks K ;
 
 
 
@@ -990,51 +990,26 @@ LEXICON SG-ADD2-SUF
 
 
 !! # Start Plural
-LEXICON PL-NOM-SUF
-+Pl+Nom:%>d K ;
-
-LEXICON PL-GEN-SUF
-+Pl+Gen:%>iden K ;
-+Pl+Gen:%>idʼen K ;
-
 LEXICON PL-ACC-SUF
 +Pl+Acc:%>d K ;
-
-LEXICON PL-PAR-SUF
-+Pl+Par:%>id K ; ! d/t
-
-LEXICON PL-TRA-SUF
-+Pl+Tra:%>ikš K ;
 
 LEXICON PL-ABE-SUF
 +Pl+Abe:%>i%^DEVOICEta K ;
 
-LEXICON PL-COM-SUF
-+Pl+Com:%>idenke K ;
+LEXICON PL-ABL-SUF
++Pl+Abl:%>ilpäi K ;
 
-LEXICON PL-INE-SUF
-+Pl+Ine:%>iš K ; ! s/š kül’betiš 
+LEXICON PL-ADD1-SUF
++Pl+Add1:%>ihepäi K ;
 
-LEXICON PL-ELA-SUF
-+Pl+Ela:%>išpäi K ; ! späi/špäi 
-
-LEXICON PL-ILL-SUF
-+Pl+Ill:%>ihe K ; ! o-ho
+LEXICON PL-ADD2-SUF
++Pl+Add2:%>ilepäi K ;
 
 LEXICON PL-ADE-SUF
 +Pl+Ade:%>il K ;
 
-LEXICON PL-ABL-SUF
-+Pl+Abl:%>ilpäi K ;
-
 LEXICON PL-ALL-SUF
 +Pl+All:%>ile K ;
-
-LEXICON PL-ESS-SUF ! Essive-instructive
-+Pl+EssInst:%>in K ;
-
-LEXICON PL-PRL-SUF
-+Pl+Prl:%>idme K ;
 
 LEXICON PL-APR1-SUF
 +Pl+Apr1:%>idenno K ;
@@ -1042,8 +1017,36 @@ LEXICON PL-APR1-SUF
 LEXICON PL-APR2-SUF
 +Pl+Apr2:%>idennoks K ;
 
+LEXICON PL-COM-SUF
++Pl+Com:%>idenke K ;
+
 LEXICON PL-EGR-SUF
 +Pl+Egr:%>idennopäi K ;
+
+LEXICON PL-ELA-SUF
++Pl+Ela:%>išpäi K ; ! späi/špäi 
+
+LEXICON PL-ESS-SUF ! Essive-instructive
++Pl+EssInst:%>in K ;
+
+LEXICON PL-GEN-SUF
++Pl+Gen:%>iden K ;
++Pl+Gen:%>idʼen K ;
+
+LEXICON PL-ILL-SUF
++Pl+Ill:%>ihe K ; ! o-ho
+
+LEXICON PL-INE-SUF
++Pl+Ine:%>iš K ; ! s/š kül’betiš 
+
+LEXICON PL-NOM-SUF
++Pl+Nom:%>d K ;
+
+LEXICON PL-PAR-SUF
++Pl+Par:%>id K ; ! d/t
+
+LEXICON PL-PRL-SUF
++Pl+Prl:%>idme K ;
 
 LEXICON PL-TER1-SUF
 +Pl+Ter1:%>ihesai K ;
@@ -1051,11 +1054,10 @@ LEXICON PL-TER1-SUF
 LEXICON PL-TER2-SUF
 +Pl+Ter2:%>ilesai K ;
 
-LEXICON PL-ADD1-SUF
-+Pl+Add1:%>ihepäi K ;
+LEXICON PL-TRA-SUF
++Pl+Tra:%>ikš K ;
 
-LEXICON PL-ADD2-SUF
-+Pl+Add2:%>ilepäi K ;
+
 
 
 !! # Possessor Indices
