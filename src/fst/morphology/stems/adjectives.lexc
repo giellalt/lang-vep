@@ -598,7 +598,7 @@ vär+A:vär A_POIG "" ;
 varmed+A:varmed A_MARJ "" ;
 varšavalaine+A:varšavala A_CIPUINE "" ;
 varuline+A:varuli A_TOSHTMINE "" ;
-vaskmäine+A:vaskmä A_CIPUINE "" ;
+vaskmäine+A:vaskmä A_CIPUINE "" ; 
 vauged+A:vauged A_OIGED "" ;
 vaugedjärvelaine+A:vaugedjärvela A_CIPUINE "" ;
 vaugedvenälaine+A:vauged#venäla A_CIPUINE "" ;
