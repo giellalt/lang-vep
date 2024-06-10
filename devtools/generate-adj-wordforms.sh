@@ -21,10 +21,12 @@ fi
 # Codes for the word forms to be generated - list as many or few as needed:
 morf_codes="+A+Sg+Nom \
             +A+Sg+Gen \
+            +A+Sg+Par \
             +A+Sg+Ill \
             +A+Pl+Nom \
+            +A+Pl+Par \
             +A+Pl+Com \
-            +A+Attr"
+            +A+Pl+Ine"
 
 # Lexicon source file for lexicons and lemmas:
 source_file=src/fst/morphology/stems/adjectives.lexc
@@ -36,7 +38,7 @@ exception_lexicons="(flagK)"
 generator_file=src/fst/generator-gt-norm
 
 # How many lemmas maximally for each lexicon:
-lemmacount=10
+lemmacount=2
 
 # Specify path to the dir containing the script used for generation:
 script_dir=$giella_core/scripts
