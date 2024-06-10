@@ -4,6 +4,7 @@ LEXICON conjuncts
 a+CC:a CC_  "mutta" ;
 da+CC:da CC_  "ja" ;
 no+CC:no CC_  "mutta" ;
+vai+CC:vai CC_  "vai" ;
 i+CC:i CC_  "ja" ;
 den+CS:den CS_  "" ;
 konz+CS:konz CS_  "kun" ;

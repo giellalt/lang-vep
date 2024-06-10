@@ -52,6 +52,22 @@
    </e>
    <e>
       <lg>
+         <l pos="CC">vai</l>
+         <stg>
+            <st Contlex="CC_">vai</st>
+         </stg>
+      </lg>
+      <mg>
+         <tg xml:lang="eng">
+            <t pos="CC">or</t>
+         </tg>
+         <tg xml:lang="fin">
+            <t pos="CC">vai</t>
+         </tg>
+      </mg>
+   </e>
+   <e>
+      <lg>
          <l pos="CC">i</l>
          <stg>
             <st Contlex="CC_">i</st>
