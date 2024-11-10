@@ -123,8 +123,8 @@ LEXICON V_da/b/i/gaha
 
 +Der/NomAg+PrsPrc:%>jA1 K ; ! This will have to be AdjTag or something
 
-: REFL_IND_PRT ;
-: ACT_IND_PRT_PERS ;! has i at affix
+!! preterite stem vowel
+: ACT_IND_PRT ;! has i at affix
 
 LEXICON V_ta/ab/i/kaha
 !! @LEXNAME@ = ülenzoitta:ülenzoit, čorskta:čorsk
@@ -318,6 +318,30 @@ LEXICON V_da/eb/i/gaha
 !! preterite stem vowel
 : ACT_IND_PRT ;! gets i
 
+LEXICON V_eda/eb/i/egaha
+!! @LEXNAME@ = arvostelda:arvostel
+! V_
+!! preceding vowel always required for affix
+:e V-VowelStem-PRS ;
+!! refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
++Der+Der/NomAg+N:ii N_TEGII ;! this will need its own work with ‹e› present stems20241109
+
+!! sometimes requires preceding vowel
+: ACT_COND_type ;
+:e ACT_PRFPRC_type_nu ;
+
+:e VNONFIN_m ; !does not include -matoi 20241109
+
+!!consonant stem if there is one takes both te, tes,... and kaha, koi
+:e V-ConsonantStem_d/g ;
+! refl-imprt-sg2, refl-ind-prs-sg-conneg
+
+!! problems with tta, ta, da
+:e INF_da ;
+
+!! preterite stem vowel
+: ACT_IND_PRT ;! gets i
+
 LEXICON V_ta/ndab/nzi/kaha
 !! @LEXNAME@ = henota:heno
 ! V_??
@@ -446,7 +470,7 @@ LEXICON V_da/ib/i/gaha
 
 !! sometimes requires preceding vowel
 :i ACT_COND_type ;
-:iACT_PRFPRC_type_nu ;
+:i ACT_PRFPRC_type_nu ;
 :i VNONFIN_m ; !does not include -matoi 20241109
 
 !!consonant stem if there is one takes both te, tes,... and kaha, koi
@@ -686,9 +710,9 @@ LEXICON V_tta/dab/doi/tkaha
 
 !! sometimes requires preceding vowel
 :da ACT_COND_type ;
-:da ACT_PRFPRC_type_nu ;
+:d ACT_PRFPRC_type_nu ;
 
-:da VNONFIN_m ; !does not include -matoi 20241109
+:d VNONFIN_m ; !does not include -matoi 20241109
 
 !!consonant stem if there is one takes both te, tes,... and kaha, koi
 :t V-ConsonantStem_t/k ;
@@ -829,8 +853,8 @@ LEXICON V_OLDA
 !:le V-VowelStem ;
 !:l V-ConsonantStem ;
 :le ACT_IMPRT_SG2 ;
-:le INDPRSSG_CONNEG ;
-:le INDPRTSG_CONNEG ;!CHECKME 20241110
+:le ACT_IND_PRS_SG_CONNEG ;
+:le ACT_IND_PRT_SG_CONNEG ;!CHECKME 20241110
 : V-VowelStem-PRS ;
 +Ind+Prs+Sg3:%>m K ;
 +Ind+Prs+Pl3:%>ma K ;
@@ -994,8 +1018,8 @@ LEXICON V_
 !! ### PNDPRS3
 
 LEXICON INDPRS3
- INDPRSSG3 ;
- INDPRSPL3 ;
+ ACT_IND_PRSSG3 ;
+ ACT_IND_PRSPL3 ;
 
 LEXICON ACT_IND_PRT
 :%>i ACT_IND_PRT_PERS ;
@@ -1013,7 +1037,7 @@ LEXICON ACT_IND_PRT_PERS
  INDPRTPL2 ;
  INDPRTPL3 ;
 
-LEXICON INDPRTSG_CONNEG
+LEXICON ACT_IND_PRT_SG_CONNEG
 +Ind+Prt+Sg+ConNeg:%>nd K ;
 
 LEXICON INDPRTSG1
@@ -1056,8 +1080,8 @@ LEXICON V-VowelStem-PRS
  REFL_IND_PRS ;
  ACT_IMPRT_SG2 ;
  ACT_IND_PRS ;
- INDPRSSG_CONNEG ;
- INDPRTSG_CONNEG ;
+ ACT_IND_PRS_SG_CONNEG ;
+ ACT_IND_PRT_SG_CONNEG ;
 
 +Der+Der/V:%>škande ACT_IND_PRS ;!inchoative?
 +Der+Der/V:%>škanz ACT_IND_PRT ;!inchoative?
@@ -1293,6 +1317,13 @@ LEXICON IMPRT_gaha
  IMPRTPL3_gaha ;
  IMPRTPLCONNEG_goi ;
 
+LEXICON IMPRT_kaha
+ IMPRTSG3_kaha ;
+ IMPRTPL1_kam ;
+ IMPRTPL2_kat ;
+ IMPRTPL3_kaha ;
+ IMPRTPLCONNEG_koi ;
+
 LEXICON IMPRTPLCONNEG_goi
 +Imprt+Pl+ConNeg:%>goi K ;
 
@@ -1305,6 +1336,19 @@ LEXICON IMPRTPL2_gat
 +Imprt+Pl2:%>gat K ;
 LEXICON IMPRTPL3_gaha
 +Imprt+Pl3:%>gaha K ;
+
+LEXICON IMPRTPLCONNEG_koi
++Imprt+Pl+ConNeg:%>koi K ;
+
+LEXICON IMPRTSG3_kaha
++Imprt+Sg3:%>kaha K ;
+
+LEXICON IMPRTPL1_kam
++Imprt+Pl1:%>kam K ;
+LEXICON IMPRTPL2_kat
++Imprt+Pl2:%>kat K ;
+LEXICON IMPRTPL3_kaha
++Imprt+Pl3:%>kaha K ;
 
 LEXICON REFL_IMPRT_gahas
 REFL_IMPRT_SG3_gahas ;
@@ -1323,6 +1367,24 @@ LEXICON REFL_IMPRT_PL3_gahas
 +Refl+Imprt+Pl3:%>gahas K ;
 LEXICON REFL_IMPRT_CONNEG_goish
 +Refl+Imprt+ConNeg:%>goiš K ;
+
+LEXICON REFL_IMPRT_kahas
+REFL_IMPRT_SG3_kahas ;
+REFL_IMPRT_PL1_kamoish ;
+REFL_IMPRT_PL2_katoish ;
+REFL_IMPRT_PL3_kahas ;
+REFL_IMPRT_CONNEG_koish ;
+
+LEXICON REFL_IMPRT_SG3_kahas
++Refl+Imprt+Sg3:%>kahas K ;
+LEXICON REFL_IMPRT_PL1_kamoish
++Refl+Imprt+Pl1:%>kamoiš K ;
+LEXICON REFL_IMPRT_PL2_katoish
++Refl+Imprt+Pl2:%>katoiš K ;
+LEXICON REFL_IMPRT_PL3_kahas
++Refl+Imprt+Pl3:%>kahas K ;
+LEXICON REFL_IMPRT_CONNEG_koish
++Refl+Imprt+ConNeg:%>koiš K ;
 
 
 
@@ -1386,7 +1448,7 @@ LEXICON VNONFIN_m
 LEXICON PRFPRC_nu
 PRFPRC_SG_nu ;
 PRFPRC_PL_nuded ;
-COND_PRT_CONNEG ;
+ACT_COND_PRT_CONNEG ;
 
 LEXICON ACT_COND_type
  ACT_COND_PRS ; ! both COND_PRS and COND_PRT
