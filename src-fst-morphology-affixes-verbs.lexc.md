@@ -37,6 +37,8 @@ preterite stem vowel
 V_da/b/i/gaha =  joda:jo
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 
+preterite stem vowel
+
 V_ta/ab/i/kaha = ülenzoitta:ülenzoit, čorskta:čorsk
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 
@@ -105,6 +107,16 @@ problems with tta, ta, da
 preterite stem vowel
 
 V_da/eb/i/gaha = arvostelda:arvostel
+preceding vowel always required for affix
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
+
+sometimes requires preceding vowel
+
+problems with tta, ta, da
+
+preterite stem vowel
+
+V_eda/eb/i/egaha = arvostelda:arvostel
 preceding vowel always required for affix
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
 

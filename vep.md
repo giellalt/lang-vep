@@ -1109,6 +1109,8 @@ preterite stem vowel
 V_da/b/i/gaha =  joda:jo
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 
+preterite stem vowel
+
 V_ta/ab/i/kaha = ülenzoitta:ülenzoit, čorskta:čorsk
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 
@@ -1177,6 +1179,16 @@ problems with tta, ta, da
 preterite stem vowel
 
 V_da/eb/i/gaha = arvostelda:arvostel
+preceding vowel always required for affix
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
+
+sometimes requires preceding vowel
+
+problems with tta, ta, da
+
+preterite stem vowel
+
+V_eda/eb/i/egaha = arvostelda:arvostel
 preceding vowel always required for affix
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
 
@@ -2129,6 +2141,18 @@ given the proper use of these flags.
 | @U.number.eight@ | Flag used to give arabic numerals in smj different cases ;
 | @U.number.nine@ | Flag used to give arabic numerals in smj different cases ;
 | @U.number.zero@ | Flag used to give arabic numerals in smj different cases ;
+
+| @P.number.one@ | Flag used to give arabic numerals in smj different cases ;
+| @P.number.two@ | Flag used to give arabic numerals in smj different cases ;
+| @P.number.three@ | Flag used to give arabic numerals in smj different cases ;
+| @P.number.four@ | Flag used to give arabic numerals in smj different cases ;
+| @P.number.five@ | Flag used to give arabic numerals in smj different cases ;
+| @P.number.six@ | Flag used to give arabic numerals in smj different cases ;
+| @P.number.seven@ | Flag used to give arabic numerals in smj different cases ;
+| @P.number.eight@ | Flag used to give arabic numerals in smj different cases ;
+| @P.number.nine@ | Flag used to give arabic numerals in smj different cases ;
+| @P.number.ten@ | Flag used to give arabic numerals in smj different cases ;
+| @P.number.zero@ | Flag used to give arabic numerals in smj different cases ;
 
 ## Lexc lexica
 
