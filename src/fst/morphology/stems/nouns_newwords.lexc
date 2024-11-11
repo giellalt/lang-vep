@@ -11,4 +11,26 @@ LEXICON N_NEWWORDS
 test:test N_ "" ;
 ! ADD NOUNS BELOW
 
+angel+N:angel N_0/an/ad/aha/oid ;
 
+antihrist+N:antihrist N_0/an/ad/aha/oid ;
+astii+N:asti N_i/jan/jad/jaha/joid ;
+bohat+N:bohat N_0/an/ad/aha/oid ;
+deng+N:deng N_0/an/ad/aha/oid ;
+dinarii+N:dinari N_i/jan/jad/jaha/joid ;
+ižand+N:ižand N_0/an/ad/aha/oid ;
+jumal+N:jumal N_0/an/ad/aha/oid ;
+kanznik+N:kanznik N_0/an/ad/aha/oid ;
+kirj+N:kirj N_0/an/ad/aha/oid ;
+kodinik+N:kodinik N_0/an/ad/aha/oid ;
+kollii+N:kolli N_i/jan/jad/jaha/joid ;
+käskabunik+N:käskabunik N_0/an/ad/aha/oid ;
+!leskiak+N:leskiak N_0/an/ad/aha/oid ; CHECKME akha?
+loičend+N:loičend N_0/an/ad/aha/oid ;
+vihanik+N:vihanik N_0/an/ad/aha/oid ;
+armo+N:armo N_o/on/od/oho/oid ;
+agj+N:agj N_0/an/ad/aha/oid ;
+himo+N:himo N_o/on/od/oho/oid ;
+hüväntegii+N:hüväntegi N_i/jan/jad/jaha/joid ;
+živataine+N:živata N_CIPUINE ;
+kühkjaine+N:kühkja N_CIPUINE ;

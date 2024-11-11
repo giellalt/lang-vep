@@ -51,8 +51,10 @@ LEXICON N_SANA
 :%>a PL-ACC-SUF ;
 :o PL-OBLIQUE ;
  R ;
- 
+
 LEXICON N_MARJ 
+ N_0/an/ad/aha/oid ;
+LEXICON N_0/an/ad/aha/oid
 ! _0/an/ad/aha/oid
 !Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
 
@@ -443,6 +445,10 @@ R ; ! xxx check
 :j PL-OBLIQUE ;
 
 LEXICON N_TEGII ! tegii:tegi
+ N_i/jan/jad/jaha/joid ;
+LEXICON N_i/jan/jad/jaha/joid
+! _i/jan/jad/jaha/joid
+!Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
 !!€gt-norm:   Noun ' / '
 !!€  : +N+Sg+Nom
 !!€  n: +N+Sg+Gen
@@ -692,11 +698,25 @@ LEXICON N_VEPS
 :QÄQ1 NMN_ ;
 
 LEXICON N_NADO !!= @CODE@ nado:nado
+ N_o/on/od/oho/oid ;
+LEXICON N_o/on/od/oho/oid
+! _o/on/od/oho/oid
+!Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
 !!€gt-norm:   Noun ' wife's sister-in-law/ '
 !!€  nado: nado+N+Sg+Nom
 !!€  nadon: nado+N+Sg+Gen
+!!€  nadod: nado+N+Sg+Par
+!!€  nadoho: nado+N+Sg+Ill
 !!€  nadoid: nado+N+Pl+Par
 !!* Yaml: __nado__
+: SG-NOM-SUF ;
+: SG-OBLIQUE ;
+R ; ! xxx check
+! Plural
+: PL-NOM-SUF ;
+: PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
 : NMN_ ;
 
 !! ## Nominals

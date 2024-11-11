@@ -10,4 +10,34 @@ LEXICON A_NEWWORDS
 !! **LEXICON @LEXNAME@** 
 test:test N_ "" ;
 ! ADD ADJECTIVES BELOW
-!uz’+Z:ud A_UZ1 ; ! this one in xml
+!uz’+A:ud A_UZ1 ; ! this one in xml
+ülembaine+A:ülemba A_CIPUINE ;
+harvinaine+A:harvina A_CIPUINE ;
+nügüdläine+A:nügüdlä A_CIPUINE ;
+aigembaine+A:aigemba A_CIPUINE ;
+endevanhaine+A:endevanha A_CIPUINE ;
+finikialaine+A:finikiala A_CIPUINE ;
+hananalaine+A:hananala A_CIPUINE ;
+hristosalaine+A:hristosala A_CIPUINE ;
+hüväsanaine+A:hüväsana A_CIPUINE ;
+igäine+A:igä A_CIPUINE ;
+jogapäiväine+A:jogapäivä A_CIPUINE ;
+kovatabaine+A:kovataba A_CIPUINE ;
+kritalaine+A:kritala A_CIPUINE ;
+kundlijaine+A:kundlija A_CIPUINE ;
+lähembaine+A:lähemba A_CIPUINE ;
+lühüdaigaine+A:lühüdaiga A_CIPUINE ;
+murdoine+A:murdo A_CIPUINE ;
+muupäiväine+A:muupäivä A_CIPUINE ;
+nügüdläine+A:nügüdlä A_CIPUINE ;
+pehmedtabaine+A:pehmedtaba A_CIPUINE ;
+samarialaine+A:samariala A_CIPUINE ;
+sirialaine+A:siriala A_CIPUINE ;
+tijalaine+A:tijala A_CIPUINE ;
+tippuine+A:tippu A_CIPUINE ;
+verazmaine+A:verazma A_CIPUINE ;
+vähäine+A:vähä A_CIPUINE ;
+änikoine+A:äniko A_CIPUINE ;
+üksjaine+A:üksja A_CIPUINE ;
+ülembaine+A:ülemba A_CIPUINE ;
+ülimäraine+A:ülimära A_CIPUINE ;
