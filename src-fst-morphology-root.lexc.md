@@ -315,6 +315,7 @@ source and target part-of-speech.
 * **+Der/Toi**  = nime»toi N»A 
 * **+Der/Matoi**  = V»A 
 * **+Der/Mine**  = V»N 
+* **+Der/V**  = V»V
 
 ### Morphophonology 
 To represent phonologic variations in word forms we use the following 
