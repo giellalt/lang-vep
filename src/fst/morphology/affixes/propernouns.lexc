@@ -23,6 +23,17 @@ LEXICON ACRONDELIMITER ! Here we need some kind of vowel harmony
 LEXICON PROP_
 +N+Prop: NMN_ ;
 
+LEXICON PROP_NIMI
+N_NIMI ;
+LEXICON PROP_POIG
+N_POIG ;
+LEXICON PROP_PU
+N_PU ;
+LEXICON PROP_SARV
+N_SARV ;
+LEXICON PROP_TEGII
+N_TEGII ;
+
 
 ! vim: set ft=xfst-lexc:
 

@@ -11,10 +11,10 @@ LEXICON NUM_YKS1
 +Sg+Gen:hten K ;
 
 
-LEXICON NUM_NORUZ
-!! **LEXICON @LEXNAME@** 
-+Sg+Nom:%>D1E1 K ;
-: N_NORUZ ; ! this applies correct case
+!LEXICON NUM_NORUZ
+!!! **LEXICON @LEXNAME@** 
+!+Sg+Nom:%>D1E1 K ;
+!: N_NORUZ1 ; ! this applies correct case
 
 LEXICON NUM_
 !! **LEXICON @LEXNAME@** 

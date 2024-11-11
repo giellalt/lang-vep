@@ -213,6 +213,8 @@ R ; ! xxx check
 : PL-OBLIQUE ;
 
 LEXICON N_POIG ! poig:poig
+! _a/an/Q/ha/id
+!Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
 !!€gt-norm:   Noun ' / '
 !!€  poig: poig+N+Sg+Nom
 !!€  poigan: poig+N+Sg+Gen
@@ -923,8 +925,10 @@ LEXICON SG-EGR-SUF
 LEXICON EGR-SUF
 +Egr:%>nnopäi K ;
 
-LEXICON SG-ELA-SUF_špäi
-+Sg+Ela:špäi K ;
+LEXICON SG-ELA-SUF_išpäi
++Sg+Ela:išpäi K ;
+!LEXICON SG-ELA-SUF_špäi
+!+Sg+Ela:špäi K ;
 LEXICON SG-ELA-SUF
 +Sg: ELA-SUF ;
 LEXICON ELA-SUF
