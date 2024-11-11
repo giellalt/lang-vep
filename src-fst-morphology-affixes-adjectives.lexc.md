@@ -12,7 +12,9 @@
 
 **LEXICON A_MUNA**   muna:mun
 
-* **LEXICON A_NADO** =  nado:nado
+* **LEXICON A_KONDI** =  kondi:kondi
+* **LEXICON A_KEZI** =  kezi:ked
+* **LEXICON A_PU** =  pu:pu
 
 * **LEXICON A_POIG** =  poig:poig
 
