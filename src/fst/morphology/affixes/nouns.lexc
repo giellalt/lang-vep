@@ -53,6 +53,8 @@ LEXICON N_SANA
  R ;
  
 LEXICON N_MARJ 
+! _0/an/ad/aha/oid
+!Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
 
 ! The accusative singular has two forms, one is the same as the 
 !! nominative singular in form and the other is identical to the 
@@ -178,6 +180,8 @@ R ; ! xxx check
 :u PL-OBLIQUE ;
 
 LEXICON N_JAUH ! jauh:jauh
+! _0/on/Q/ho/oid?
+!Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
 !!€gt-norm:   Noun ' / '
 !!€  : +N+Sg+Nom
 !!€  n: +N+Sg+Gen
@@ -199,6 +203,8 @@ LEXICON N_SHAPUK ! šapuk
 :U1 NMN_ ;
 
 LEXICON N_UNI ! uni:un
+! _i/en/t/Q/id  Q=unknown
+!Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
 !!€gt-norm:   Noun ' / '
 !!€  : +N+Sg+Nom
 !!€  n: +N+Sg+Gen

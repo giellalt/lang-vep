@@ -33,6 +33,10 @@ LEXICON PROP_SARV
 N_SARV ;
 LEXICON PROP_TEGII
 N_TEGII ;
+LEXICON PROP_MARJ
+! _0/an/ad/aha/oid
+!Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
+N_MARJ ;
 
 
 ! vim: set ft=xfst-lexc:
