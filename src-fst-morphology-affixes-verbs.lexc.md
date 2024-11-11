@@ -76,6 +76,16 @@ problems with tta, ta, da
 
 preterite stem vowel
 
+V_1Syl_DVta/ab/i/DVkaha = pörtta:pörd
+preceding vowel always required for affix
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
+
+sometimes requires preceding vowel
+
+problems with tta, ta, da
+
+preterite stem vowel
+
 V_ta/cheb/chi/kaha adivoita:adivoi
 preceding vowel always required for affix
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
@@ -166,6 +176,16 @@ problems with tta, ta, da
 
 preterite stem vowel
 
+V_eta/neb/ni/ekaha = küpseta:küps
+preceding vowel always required for affix
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
+
+sometimes requires preceding vowel
+
+problems with tta, ta, da
+
+preterite stem vowel
+
 V_ta/ib/i/kaha = bruncta:brunc
 preceding vowel always required for affix
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
@@ -206,7 +226,7 @@ problems with tta, ta, da
 
 preterite stem vowel
 
-V_shta/zheb/zhi/shkaha = pagišta:pagi
+V_2Syl_DVta/eb/i/DVkaha = pagišta:pagiž
 preceding vowel always required for affix
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
 
@@ -216,7 +236,7 @@ problems with tta, ta, da
 
 preterite stem vowel
 
-V_sta/zeb/zi/skaha = pesta:pez
+V_1Syl_DVta/eb/i/DVkaha = pesta:pez only for verbs with devoicing
 preceding vowel always required for affix
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
 
@@ -276,7 +296,17 @@ problems with tta, ta, da
 
 preterite stem vowel
 
-V_tta/dab/doi/tkaha = antta:an
+V_1Syl_DVta/ab/oi/DVkaha = antta:and
+preceding vowel always required for affix
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
+
+sometimes requires preceding vowel
+
+problems with tta, ta, da
+
+preterite stem vowel
+
+V_1Syl_DVta/ub/ui/DVkaha = ampta:amb
 preceding vowel always required for affix
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
 
@@ -443,6 +473,8 @@ V-ConsonantStem_d/g
 V-ConsonantStem_d/k 
 
 V-ConsonantStem_t/k 
+
+this could be a reflexive infinitive if you want one, jaska 20241111
 
 * * *
 

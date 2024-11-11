@@ -288,6 +288,8 @@ LEXICON N_NADO  nado:nado
 * Noun ' wife's sister-in-law/ ' examples:*
 * *nado:* `nado+N+Sg+Nom`
 * *nadon:* `nado+N+Sg+Gen`
+* *nadod:* `nado+N+Sg+Par`
+* *nadoho:* `nado+N+Sg+Ill`
 * *nadoid:* `nado+N+Pl+Par`
 
 ## Nominals
