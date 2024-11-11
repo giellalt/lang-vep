@@ -623,6 +623,8 @@ R ; ! xxx check
 :iž  PL-OBLIQUE ;
 
 LEXICON N_TOSHTMINE ! toštmine:toštmi
+ N_ine/izhen/isht/izhehe/izhid ;
+LEXICON N_ine/izhen/isht/izhehe/izhid
 !!€gt-norm:   Noun ' / '
 !!€  : +N+Sg+Nom
 !!€  n: +N+Sg+Gen
