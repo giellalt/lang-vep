@@ -10,10 +10,42 @@ LEXICON PRONOUN-TYPES
  NEG-PRON ;
 ! COLL-PRON ;
   DEM-PRON ;
-ičeze+Pron+Sg3+Gen:ičeze K ;
-ičeze+Pron+Pl3+Gen:ičeze K ;
-ičeze+Pron+Sg3+Apr2:ičezennoks K ;
-ičeze+Pron+Pl3+Apr2:ičezennoks K ;!Do we want + OR +SP3
+ičein+Pron+Refl+Sg1+Gen:ičein K ;
+ičein+Pron+Refl+Sg1+Ill:ičhein K ;
+ičein+Pron+Refl+Sg1+Ine:ičesain K ;
+ičein+Pron+Refl+Sg1+Ela:ičesainpäi K ;
+ičein+Pron+Refl+Sg1+Par:ičtain K ;
+ičemoi+Pron+Refl+Pl1+Gen:ičemoi K ;
+ičemoi+Pron+Refl+Pl1+Ill:ičhemoi K ;
+ičemoi+Pron+Refl+Pl1+Ine:ičesamoi K ;
+ičemoi+Pron+Refl+Pl1+Ela:ičesamoipäi K ;
+ičemoi+Pron+Refl+Pl1+Par:ičtamoi K ;
+ičemoi+Pron+Refl+Pl1+All:ičelemoi K ;
+ičeiž+Pron+Refl+Sg2+Gen:ičeiž K ;
+ičeiž+Pron+Refl+Sg2+Ine:ičesaiž K ;
+ičeiž+Pron+Refl+Sg2+Ela:ičesaižpäi K ;
+ičeiž+Pron+Refl+Sg2+Ill:ičheiž K ;
+ičeiž+Pron+Refl+Sg2+Par:ičtaiž K ;
+ičetoi+Pron+Refl+Pl2+Gen:ičetoi K ;
+ičetoi+Pron+Refl+Pl2+Ine:ičesatoi K ;
+ičetoi+Pron+Refl+Pl2+Ela:ičesatoipäi K ;
+ičetoi+Pron+Refl+Pl2+Ill:ičhetoi K ;
+ičetoi+Pron+Refl+Pl2+All:ičeletoi K ;
+ičetoi+Pron+Refl+Pl2+Par:ičtatoi K ;
+ičetoi+Pron+Refl+Pl2+Apr2:ičetoinoks K ;
+ičeze+Pron+Refl+Sg3+Gen:ičeze K ;
+ičeze+Pron+Refl+Sg3+Ill:ičheze K ;
+ičeze+Pron+Refl+Sg3+Com:ičezenke K ;
+ičeze+Pron+Refl+Sg3+Ine:ičesaze K ;
+ičeze+Pron+Refl+Sg3+Ela:ičesazepäi K ;
+ičeze+v1+Pron+Refl+Sg3+Tra:ičekseze K ;
+ičeze+v2+Pron+Refl+Sg3+Tra:ičeksaze K ;
+ičeze+Pron+Refl+Sg3+All:ičeleze K ;
+ičeze+Pron+Refl+Sg3+Par:ičtaze K ;
+ičeze+Pron+Refl+Pl3+Gen:ičeze K ;
+ičeze+Pron+Refl+Sg3+Apr2:ičezennoks K ;
+ičeze+Pron+Refl+Sg3+Egr:ičezennopäi K ;
+ičeze+Pron+Refl+Pl3+Apr2:ičezennoks K ;!Do we want + OR +SP3
 nece+Det:ne DET_NECE ;
 
 LEXICON PERS
