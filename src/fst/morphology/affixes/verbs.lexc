@@ -5,15 +5,21 @@
 !! ## Lexica from the *stems* file
 
 !! ### Irregular verbs
-! ei:e
+! ei:
 LEXICON V_EI
 !! @LEXNAME@ all forms of the *ei* verb
-+Aux+Neg+Sg1:%>n K ;
-+Aux+Neg+Sg2:%>d K ;
-+Aux+Neg+Sg3:%>i K ;
-+Aux+Neg+Pl1:%>m K ;
-+Aux+Neg+Pl2:%>t K ;
-+Aux+Neg+Pl3:%>i K ; !Is there any other variant
++Aux+Neg+Sg1:e%>n K ;
++Aux+Neg+Sg2:e%>d K ;
++Aux+Neg+Sg3:e%>i K ;
++Aux+Neg+Pl1:e%>m K ;
++Aux+Neg+Pl2:e%>t K ;
++Aux+Neg+Pl3:e%>i K ; !Is there any other variant
+
++Aux+Neg+Imprt+Sg2:ala K ;
++Aux+Neg+Imprt+Sg3:algha K ;
++Aux+Neg+Imprt+Pl1:alga%>m K ;
++Aux+Neg+Imprt+Pl2:alga%>t K ;
++Aux+Neg+Imprt+Pl3:algha K ;
 
 !! ### Regular verbs
 
@@ -918,33 +924,38 @@ LEXICON V_ta/äb/i/kaha
 
 
 !!here today
-LEXICON V_OLDA
-!! @LEXNAME@ (adding :le to vowstem)
+LEXICON V_OLDA ! olda:
+!! @LEXNAME@ (adding :ole to vowstem)
 !:le V-VowelStem ;
 !:l V-ConsonantStem ;
-:le ACT_IMPRT_SG2 ;
-:le ACT_IND_PRS_SG_CONNEG ;
-:le ACT_IND_PRT_SG_CONNEG ;!CHECKME 20241110
-: V-VowelStem-PRS ;
-+Ind+Prs+Sg3:%>m K ;
-+Ind+Prs+Pl3:%>ma K ;
+:ole ACT_IMPRT_SG2 ;
+:ole ACT_IND_PRS_SG_CONNEG ;
+:ole ACT_IND_PRT_SG_CONNEG ;!CHECKME 20241110
+:ole ACT_IND_PRSSG1 ;
+:ole ACT_IND_PRSSG2 ;
+:ole ACT_IND_PRSPL1 ;
+:ole ACT_IND_PRSPL2 ;
+
++Ind+Prs+Sg3:o%>m K ;
++Ind+Prs+Pl3:o%>ma K ;
++Pot:linne ACT_IND_PRS ;
 
 !! refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 +Der+Der/NomAg+N:li N_TEGII ;! this might be the same as V-VowelStem-PRT with an i in next lexicon
 
 !! sometimes requires preceding vowel
-:l ACT_COND_type ;
-:l ACT_PRFPRC_type_nu ;
-:le VNONFIN_m ;
+:ol ACT_COND_type ;
+:ol ACT_PRFPRC_type_nu ;
+:ole VNONFIN_m ;
 
 !!consonant stem if there is one takes both te, tes,... and kaha, koi
-:l V-ConsonantStem_d/g ;
+:ol V-ConsonantStem_d/g ;
 
 !! problems with tta, ta, da
-:l INF_da ;
+:ol INF_da ;
 
 !! preterite stem vowel
-:l ACT_IND_PRT ;! gets i
+:ol ACT_IND_PRT ;! gets i
 
 LEXICON V_TEHTA ! 
 !! @LEXNAME@ = tehta:te (adding :ge to vowst and indprs3)
