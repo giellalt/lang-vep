@@ -853,9 +853,9 @@ Plural
 * *d:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
+* *kacui:* `+N+Sg+Nom`
+* *kacujan:* `+N+Sg+Gen`
+* *kacujid:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
@@ -921,6 +921,21 @@ Plural
 * *:* `+N+Sg+Nom`
 * *n:* `+N+Sg+Gen`
 * *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *velʼlʼ:* `+N+Sg+Nom`
+* *vellen:* `+N+Sg+Gen`
+* *vellid:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
@@ -1380,7 +1395,47 @@ problems with tta, ta, da
 
 preterite stem vowel
 
+V_TUNTTA = tuntta:tund
+preceding vowel always required for affix
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
+
+sometimes requires preceding vowel
+
+problems with tta, ta, da
+
+preterite stem vowel
+
+V_LAEHTTA = lähtta:lä singlet
+preceding vowel always required for affix
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
+
+sometimes requires preceding vowel
+
+problems with tta, ta, da
+
+preterite stem vowel
+
 V_1Syl_DVta/ub/ui/DVkaha = ampta:amb
+preceding vowel always required for affix
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
+
+sometimes requires preceding vowel
+
+problems with tta, ta, da
+
+preterite stem vowel
+
+V_ta/ub/ui/kaha = kacta:kac
+preceding vowel always required for affix
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
+
+sometimes requires preceding vowel
+
+problems with tta, ta, da
+
+preterite stem vowel
+
+V_ta/ob/oi/kaha = uskta:usk
 preceding vowel always required for affix
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
 

@@ -194,9 +194,9 @@ Plural
 * *d:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
+* *kacui:* `+N+Sg+Nom`
+* *kacujan:* `+N+Sg+Gen`
+* *kacujid:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
@@ -262,6 +262,21 @@ Plural
 * *:* `+N+Sg+Nom`
 * *n:* `+N+Sg+Gen`
 * *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *velʼlʼ:* `+N+Sg+Nom`
+* *vellen:* `+N+Sg+Gen`
+* *vellid:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
