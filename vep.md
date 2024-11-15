@@ -1440,7 +1440,7 @@ problems with tta, ta, da
 
 preterite stem vowel
 
-V_OLDA (adding :le to vowstem)
+V_OLDA (adding :ole to vowstem)
 
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 
