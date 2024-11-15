@@ -163,6 +163,11 @@ oiged+A+Sg+Gen: __right/oikea__
 * *oiged^PEN^DEVOICE^RmVow^DEVOICEa>n*
 * *oik0t0000a>n*
 
+**devoice fricatives z:s**
+pesta+V+Inf: __wash/pestä__
+* *pez^DEVOICE>ta*
+* *pes0>ta*
+
 **d:z in vodes, voziš**  
 
 **d:t in voden, vot**  
