@@ -238,6 +238,16 @@ V1:Vx <=> Vx Cns:* %> h _ ;
 !!€ oiged^PEN^DEVOICE^RmVow^DEVOICEa>n
 !!€ oik0t0000a>n
 
+"devoice fricatives z:s"
+!! **@RULENAME@**
+Cx:Cy <=> Vow _ %^DEVOICE: ;
+      	  where Cx in (z ž)
+	  	Cy in (s š) matched ;
+!! pesta+V+Inf: __wash/pestä__
+!!€ pez^DEVOICE>ta
+!!€ pes0>ta
+
+
 "d:z in vodes, voziš"
 !! **@RULENAME@**  
 d:z <=> Vow+  _  %^TS:0  ; ! GRC ;
