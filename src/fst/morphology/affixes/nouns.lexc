@@ -120,6 +120,17 @@ R ; ! xxx check
 :%>a PL-ACC-SUF ;
 :o PL-OBLIQUE ;
 
+LEXICON N_PAVEL
+!: N_0/RmVow ;
+: SG-NOM-SUF ;
++Sg+Ill:%^RmVow%>aha K ;
++Sg+Par:%^RmVow%>ad K ;
+:%^RmVow%>a SG-OBLIQUE_NO_DERIV/ILL/PAR ;
+! Plural
+!:%>a PL-NOM-SUF ;
+!:%>a PL-ACC-SUF ;
+!:o PL-OBLIQUE ;
+
 LEXICON N_IGA ! igä:ig
 !!€gt-norm:   Noun ' / '
 !!€  : +N+Sg+Nom
@@ -168,6 +179,9 @@ R ; ! xxx check
 
 
 LEXICON N_LIND ! lind:lind
+ N_0/un/ud/hu/uid ;
+LEXICON N_0/un/ud/hu/uid ! lind:lind
+! N_0/un/ud/hu/uid
 !!€gt-norm:   Noun ' / '
 !!€  : +N+Sg+Nom
 !!€  n: +N+Sg+Gen
@@ -800,8 +814,14 @@ R ; ! xxx check
 
  
 
+
 LEXICON SG-OBLIQUE
+ SG-OBLIQUE_NO_DERIV/ILL/PAR ;
 +Der+Der/Toi+A:%>to A_KENGATOI ;
+ SG-ILL-SUF ;
+ SG-PAR-SUF ;
+
+LEXICON SG-OBLIQUE_NO_DERIV/ILL/PAR
  SG-ABE-SUF ;
  SG-ABL-SUF ;
  SG-ACC-SUF ;
@@ -812,13 +832,11 @@ LEXICON SG-OBLIQUE
  SG-APR1-SUF ;
  SG-APR2-SUF ;
  SG-COM-SUF ;
- SG-EGR-SUF ;
+ SG-EGR-SUF ; !nnopäi/nopäi
  SG-ELA-SUF ;
  SG-ESS-SUF ;
  SG-GEN-SUF ;
- SG-ILL-SUF ;
  SG-INE-SUF ;
- SG-PAR-SUF ;
  SG-PRL-SUF ;
  SG-TER1-SUF ;
  SG-TER2-SUF ;
