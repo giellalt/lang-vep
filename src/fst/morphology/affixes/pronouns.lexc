@@ -48,6 +48,15 @@ ičeze+Pron+Refl+Sg3+Apr2:ičezennoks K ;
 ičeze+Pron+Refl+Sg3+Egr:ičezennopäi K ;
 ičeze+Pron+Refl+Pl3+Apr2:ičezennoks K ;!Do we want + OR +SP3
 nece+Det:ne DET_NECE ;
+kaikutte+Pron:kaiku A_IN_TTE ;
+mitte+Pron:mi PRON_IN_TTE ;
+nimitte+Pron:nimi PRON_IN_TTE ;
+
+
+LEXICON PRON_IN_TTE !mitte
+ N_IN_TTE ;
+! 2024-11-15
+
 
 LEXICON PERS
 !! @LEXNAME@  split in persons
@@ -62,51 +71,27 @@ LEXICON PersSg1
 !! @LEXNAME@ split in Nom, Gen, Acc
 +Pers+Sg1:ä NOM-SUF ;
 +Pers+Sg1+Par:dai K ;
-+Pers+Sg1:u GEN-SUF ;
 +Pers+Sg1:u ACC-SUF ;!is this distinguishable at morphosyntactic level better than later? 20230620
-+Pers+Sg1:u ELA-SUF ;
-+Pers+Sg1:u ILL-SUF ;
-+Pers+Sg1:u INE-SUF ;
 !+Pers+Sg1:u ALL-SUF ;! ?minule does this exist
 +Pers+Sg1+All:ei K ;! minei ?Dat
-+Pers+Sg1:u ADE-SUF ;
-+Pers+Sg1:u ABL-SUF ;
-+Pers+Sg1:u COM-SUF ; !minunke
-+Pers+Sg1:u APR2-SUF ; ! minunnoks
++Pers+Sg1:u OBLIQUE_CASES_FOR_PRONOUNS ; ! minunnoks
 
 LEXICON PersSg2
 !! @LEXNAME@ split in Nom, Gen, Acc
 +Pers+Sg2+Nom:ä NOM-SUF ;
 +Pers+Sg2+Par:dai K ;
-+Pers+Sg2+Gen:u GEN-SUF ;
-+Pers+Sg2+Gen:u ACC-SUF ;
-+Pers+Sg2:u ELA-SUF ;
-+Pers+Sg2:u ILL-SUF ;
-+Pers+Sg2:u INE-SUF ;
-+Pers+Sg2:u ALL-SUF ;
++Pers+Sg2:u ACC-SUF ;
 +Pers+Sg2+All:ei K ;
-+Pers+Sg2:u ADE-SUF ;
-+Pers+Sg2:u ABL-SUF ;
-+Pers+Sg2:u COM-SUF ; !minunke
-+Pers+Sg2:u APR2-SUF ; ! minunnoks
++Pers+Sg2:u OBLIQUE_CASES_FOR_PRONOUNS ; ! sinunnoks..
 
 LEXICON PersSg3
 !! @LEXNAME@ split in Nom, Gen, Acc, Par and 10 other cases
 +Pers+Sg3:n NOM-SUF ;
-+Pers+Sg3:ne GEN-SUF ;
 +Pers+Sg3:ne ACC-SUF ;
 +Pers+Sg3:n PAR-SUF ;
 +Pers+Sg3+Par:ndast K ;!2024-04-02
-+Pers+Sg3:ne ABE-SUF ;
-+Pers+Sg3:ne ILL-SUF ;
-+Pers+Sg3:ne INE-SUF ;
-+Pers+Sg3:ne ELA-SUF ;
-+Pers+Sg3:ne ALL-SUF ;
-+Pers+Sg3:ne ADE-SUF ;
-+Pers+Sg3:ne ABL-SUF ;
-+Pers+Sg3:ne COM-SUF ; !hänenke
-+Pers+Sg3:ne APR1-SUF ; !hänenno
-+Pers+Sg3:ne APR2-SUF ; !hänennoks
++Pers+Sg3+Ill:nehepäi K ;!hänehepäi 2024-11-15
++Pers+Sg3:ne OBLIQUE_CASES_FOR_PRONOUNS ;
 
 LEXICON PersPl1
 !! @LEXNAME@ split in Nom and obl
@@ -152,9 +137,24 @@ mi+Pron+Interr+Sg+Ela:mišpäi K ;
 mi+Pron+Interr+Sg+Ill:mihe K ;
 mi+Pron+Interr+Sg+Tra:mikš K ;
 ken+Pron+Interr+Sg+Nom:ken K ;
-ken+Pron+Interr+Sg+Gen:kenen K ;
+ken+Pron+Interr+Sg:kene OBLIQUE_CASES_FOR_PRONOUNS ;
 ken+Pron+Interr+Sg+Par:keda K ;
 ken+Pron+Interr+Pl+Nom:ked K ;
+
+LEXICON OBLIQUE_CASES_FOR_PRONOUNS
+ ABE-SUF ;
+ ABL-SUF ;
+ ADE-SUF ;
+ ALL-SUF ;
+ APR1-SUF ;!hänenno, sinunno, minunno
+ APR2-SUF ;!hänennoks, sinunnoks, minunnoks
+ COM-SUF ; !hänenke, sinunke, minunke
+ EGR-SUF ; !hänennopäi
+ ELA-SUF ;
+ GEN-SUF ;
+ ILL-SUF ;
+ INE-SUF ;
+ TRA-SUF ;
 
 LEXICON DEM-PRON
 !! @LEXNAME@ split in Nom Gen par

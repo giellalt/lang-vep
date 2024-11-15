@@ -14,6 +14,9 @@ test:test V_ "" ;
 !#2024-11-05
 !#V_ ;_bahfalida+V:bahfalida V_ ;
 !#V_AUXNEG ;_ei+V:ei V_AUXNEG ;
+tuntta+V:tund V_TUNTTA ;!singlet
+lähtta+V:lä V_LAEHTTA ; !singlet
+
 abutada+V:abut V_ada/ab/i/agaha ;
 adivoičetada+V:adivoičet V_ada/ab/i/agaha ;
 ahavoičetada+V:ahavoičet V_ada/ab/i/agaha ;
@@ -1538,4 +1541,7 @@ ampta+V:amb V_1Syl_DVta/ub/ui/DVkaha ;
 hautta+V:haud V_1Syl_DVta/ub/ui/DVkaha ;
 eläda+V:el V_äda/äb/i/ägaha ;
 idäda+V:id V_äda/äb/i/ägaha ;
+pidäda+V:pid V_äda/äb/i/ägaha ;
+vedäda+V:ved V_äda/äb/i/ägaha ;
+
 !#V_šta/žub/žui/škaha ;_haišta+V:hai V_šta/žub/žui/škaha ;

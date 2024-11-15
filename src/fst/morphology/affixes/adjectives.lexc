@@ -98,6 +98,10 @@ LEXICON A_TOSHTMINE  !!≈ * **@CODE@** =  toštmine:toštmi
  N_TOSHTMINE ;
 +Comp:že%>mb N_POIG ;
 
+LEXICON A_IN_TTE !mitte
+ N_IN_TTE ;
+!Comp? 2024-11-15
+
 LEXICON A_KENGATOI  !!≈ * **@CODE@** =  kengätoi:kengäto
 +Comp:ma%>mb N_POIG ;
 +Der+Der/Uz1+N:mud N_NORUZ ;

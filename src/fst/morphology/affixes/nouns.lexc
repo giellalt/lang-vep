@@ -131,6 +131,17 @@ LEXICON N_PAVEL
 !:%>a PL-ACC-SUF ;
 !:o PL-OBLIQUE ;
 
+LEXICON N_FILIP
+!: N_ ;
+: SG-NOM-SUF ;
++Sg+Ill:p%>aha K ;
++Sg+Par:p%>ad K ;
+:pa SG-OBLIQUE_NO_DERIV/ILL/PAR ;
+! Plural
+!:%>a PL-NOM-SUF ;
+!:%>a PL-ACC-SUF ;
+!:o PL-OBLIQUE ;
+
 LEXICON N_IGA ! igä:ig
 !!€gt-norm:   Noun ' / '
 !!€  : +N+Sg+Nom
@@ -475,6 +486,23 @@ R ; ! xxx check
 :ja PL-ACC-SUF ;
 :jo PL-OBLIQUE ;
 
+LEXICON N_KACUI ! kacui:kacu
+ N_i/jan/jad/jaha/jid ;
+LEXICON N_i/jan/jad/jaha/jid
+! _i/jan/jad/jaha/joid
+!Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
+!!€gt-norm:   Noun ' / '
+!!€  kacui: +N+Sg+Nom
+!!€  kacujan: +N+Sg+Gen
+!!€  kacujid: +N+Pl+Par
+:i SG-NOM-SUF ;
+:ja SG-OBLIQUE ;
+R ; ! xxx check
+! Plural
+:ja PL-NOM-SUF ;
+:ja PL-ACC-SUF ;
+:j PL-OBLIQUE ;
+
 LEXICON N_KEL1 !kel':kel
 !!€gt-norm:   Noun ' / '
 !!€  : +N+Sg+Nom
@@ -489,12 +517,12 @@ R ; ! xxx check
 :%>e PL-ACC-SUF ;
 : PL-OBLIQUE ;
 
-LEXICON N_SAR1 !sar':sar
+LEXICON N_SAR1 !sarʼ:sar
 !!€gt-norm:   Noun ' / '
 !!€  : +N+Sg+Nom
 !!€  n: +N+Sg+Gen
 !!€  d: +N+Pl+Par
-:' SG-NOM-SUF ;
+:ʼ SG-NOM-SUF ;
 : SG-PAR-SUF_t ;
 :%>e SG-OBLIQUE ;
 R ; ! xxx check
@@ -676,13 +704,45 @@ LEXICON N_ALUZ ! z s _QEQ
 !!€  n: +N+Sg+Gen
 !!€  d: +N+Pl+Par
  SG-NOM-SUF ;
+:%^DEVOICE%>e SG-ILL-SUF ;
 :%^DEVOICE SG-PAR-SUF ;
-:%^DEVOICEe SG-OBLIQUE ;
+:%^DEVOICE%>e SG-OBLIQUE_NO_DERIV/ILL/PAR ;
 R ; ! xxx check
 ! Plural
 :%^DEVOICEe PL-NOM-SUF ;
 :%^DEVOICEe PL-ACC-SUF ;
 :%^DEVOICE  PL-OBLIQUE ;
+
+LEXICON N_VEL1L1 ! velʼlʼ:vel
+!!€gt-norm:   Noun ' / '
+!!€  velʼlʼ: +N+Sg+Nom
+!!€  vellen: +N+Sg+Gen
+!!€  vellid: +N+Pl+Par
+:ʼlʼ SG-NOM-SUF ;
+:le SG-ILL-SUF ;
+:le SG-PAR-SUF ;
+:le SG-OBLIQUE_NO_DERIV/ILL/PAR ;
+R ; ! xxx check
+! Plural
+:le PL-NOM-SUF ;
+:le PL-ACC-SUF ;
+:l  PL-OBLIQUE ;
+
+LEXICON N_IN_TTE !mitte
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
+:tte SG-NOM-SUF ;
+:čče SG-ILL-SUF ;
+:ttuš SG-PAR-SUF_t ;
+:čče SG-OBLIQUE_NO_DERIV/ILL/PAR ;
+R ; ! xxx check
+! Plural
+:čče PL-NOM-SUF ;
+:čče PL-ACC-SUF ;
+:čč  PL-OBLIQUE ;
+
 
 LEXICON N_KESKUS ! keskus:keskus
 !!€gt-norm:   Noun ' / '
@@ -753,30 +813,30 @@ NMN_RUSKED-PL ;
 
 LEXICON NMN_RUSKED-SG
 SG-NOM-SUF ; !!= * @CODE@ rusked:
-:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ABE-SUF ;
-:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ABL-SUF ;
-:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ACC-SUF ;
-:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ADE-SUF ;
-:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ADD1-SUF ;
-:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ADD2-SUF ;
-:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ALL-SUF ;
-:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-APR1-SUF ;
-:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-APR2-SUF ;
-:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-COM-SUF ;
-:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-EGR-SUF ;
-:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ESS-SUF ;
-:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-GEN-SUF ;
-:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-ILL-SUF ;
-:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-INE-SUF ;
-SG-PAR-SUF ;
-:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-PRL-SUF ;
-:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-TER1-SUF ;
-:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-TER2-SUF ;
-:%^PEN%^RmCns%^RmVow%^DEVOICEta SG-TRA-SUF ;
+:%^RmVow%^DEVOICE%>a SG-ABE-SUF ;
+:%^RmVow%^DEVOICE%>a SG-ABL-SUF ;
+:%^RmVow%^DEVOICE%>a SG-ACC-SUF ;
+:%^RmVow%^DEVOICE%>a SG-ADE-SUF ;
+:%^RmVow%^DEVOICE%>a SG-ADD1-SUF ;
+:%^RmVow%^DEVOICE%>a SG-ADD2-SUF ;
+:%^RmVow%^DEVOICE%>a SG-ALL-SUF ;
+:%^RmVow%^DEVOICE%>a SG-APR1-SUF ;
+:%^RmVow%^DEVOICE%>a SG-APR2-SUF ;
+:%^RmVow%^DEVOICE%>a SG-COM-SUF ;
+:%^RmVow%^DEVOICE%>a SG-EGR-SUF ;
+:%^RmVow%^DEVOICE%>a SG-ESS-SUF ;
+:%^RmVow%^DEVOICE%>a SG-GEN-SUF ;
+:%^RmVow%^DEVOICE%>a SG-ILL-SUF ;
+:%^RmVow%^DEVOICE%>a SG-INE-SUF ;
+:%^RmVow%^DEVOICE%>a SG-PAR-SUF ;
+:%^RmVow%^DEVOICE%>a SG-PRL-SUF ;
+:%^RmVow%^DEVOICE%>a SG-TER1-SUF ;
+:%^RmVow%^DEVOICE%>a SG-TER2-SUF ;
+:%^RmVow%^DEVOICE%>a SG-TRA-SUF ;
 
 LEXICON NMN_RUSKED-PL
-:%^PEN%^RmCns%^RmVow%^DEVOICEta NMN_RUSKED-PL-NOM ;
-:%^PEN%^RmCns%^RmVow%^DEVOICEtoi NMN_RUSKED-PL-OBL ;
+:%^RmVow%^DEVOICE%>a NMN_RUSKED-PL-NOM ;
+:%^RmVow%^DEVOICE%>oi NMN_RUSKED-PL-OBL ;
 LEXICON NMN_RUSKED-PL-NOM
 PL-NOM-SUF ;
 PL-ACC-SUF ;
