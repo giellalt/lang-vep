@@ -1864,7 +1864,8 @@ in this system in terms of the following symbols.
 * **+Adp**  = adposition 
 * **+Adv**  = adverb 
 * **+CS**  = subordinating conjunction 
-* **+CC**  = coordinating conjunction 
+* **+CC**  = coordinating conjunction
+* **+Det**  = determiner
 * **+Interj**  = interjection 
 * **+N**  = noun 
 * **+Num**  = numeral 
