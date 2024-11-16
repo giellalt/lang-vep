@@ -506,7 +506,7 @@ LEXICON Root
   V_NEWWORDS    ; 
 ! SUBJUNCTION   ; 
   PRONOUN-TYPES ; 
-
+  EXCEPTIONS	;
 !! ### Other lexica
 
 LEXICON CC_ 

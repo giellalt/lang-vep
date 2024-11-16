@@ -40,6 +40,7 @@ GT_LEXC_SRCS_L1_L2=\
 			stems/adjectives_newwords.lexc   \
 			stems/adpositions.lexc       \
 			stems/adverbs.lexc       \
+			stems/exceptions.lexc		\
 			stems/nouns.lexc         \
 			stems/nouns_newwords.lexc      \
 			stems/numerals.lexc      \
