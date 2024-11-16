@@ -211,6 +211,7 @@ LEXICON N_JAUH ! jauh:jauh
 LEXICON N_0/on/od/oho/oid ! jauh:jauh
 ! _0/on/Q/ho/oid?
 !Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
+! distinguish from rad = N_0/on/od/ho/oid
 !!€gt-norm:   Noun ' / '
 !!€  heim: +N+Sg+Nom
 !!€  heimon: +N+Sg+Gen
@@ -228,14 +229,16 @@ R ; ! xxx check
 
 LEXICON N_0/on/od/ho/oid ! rad:rad
 ! N_0/on/od/ho/oid
+! distinguish from jauh = N_0/on/od/oho/oid
 !Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
 !!€gt-norm:   Noun ' / '
 !!€  : +N+Sg+Nom
 !!€  n: +N+Sg+Gen
 !!€  d: +N+Pl+Par
 : SG-NOM-SUF ;
-+Sg+Ill:%>ho K ;
-:%>o SG-OBLIQUE ;
+:%>o SG-PAR-SUF ;
++Sg+Ill:ho K ;
+:%>o SG-OBLIQUE_NO_DERIV/ILL/PAR ;
 R ; ! xxx check
 ! Plural
 :%>o PL-NOM-SUF ;
