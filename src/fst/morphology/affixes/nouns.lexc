@@ -207,7 +207,27 @@ R ; ! xxx check
 :u PL-OBLIQUE ;
 
 LEXICON N_JAUH ! jauh:jauh
+ N_0/on/od/oho/oid ;
+LEXICON N_0/on/od/oho/oid ! jauh:jauh
 ! _0/on/Q/ho/oid?
+!Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
+!!€gt-norm:   Noun ' / '
+!!€  heim: +N+Sg+Nom
+!!€  heimon: +N+Sg+Gen
+!!€  heimod: +N+Sg+Par
+!!€  heimoho: +N+Sg+Ill
+!!€  heimoid: +N+Pl+Par
+: SG-NOM-SUF ;
++Sg+Ill:%>ho K ;
+:%>o SG-OBLIQUE ;
+R ; ! xxx check
+! Plural
+:%>o PL-NOM-SUF ;
+:%>o PL-ACC-SUF ;
+:o PL-OBLIQUE ;
+
+LEXICON N_0/on/od/ho/oid ! rad:rad
+! N_0/on/od/ho/oid
 !Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
 !!€gt-norm:   Noun ' / '
 !!€  : +N+Sg+Nom
@@ -252,6 +272,22 @@ LEXICON N_POIG ! poig:poig
 !!€  poig: poig+N+Sg+Nom
 !!€  poigan: poig+N+Sg+Gen
 !!€  poigid: poig+N+Pl+Par
+: SG-NOM-SUF ;
+:a SG-OBLIQUE ;
+R ; ! xxx check
+! Plural
+:a PL-NOM-SUF ;
+:a PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
+LEXICON N_0/an/ad/aha/id ! uskonda:uskond
+! _0/an/ad/aha/id
+!Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
+!!€gt-norm:   Noun ' / '
+!!€  uskond: uskond+N+Sg+Nom
+!!€  uskondan: uskond+N+Sg+Gen
+!!€  uskondaha: uskond+N+Sg+Ill
+!!€  uskondid: uskond+N+Pl+Par
 : SG-NOM-SUF ;
 :a SG-OBLIQUE ;
 R ; ! xxx check
@@ -435,6 +471,21 @@ LEXICON N_AVADIM ! avadim:avadi
 !!€  d: +N+Pl+Par
 :m SG-NOM-SUF ;
 :n SG-PAR-SUF_t ;
+:me SG-OBLIQUE ;
+R ; ! xxx check
+! Plural
+:me PL-NOM-SUF ;
+:me PL-ACC-SUF ;
+:m PL-OBLIQUE ;
+
+LEXICON N_im/men/in/mehe/mid ! ištim:išt
+!!€gt-norm:   Noun ' / '
+!!€  ištim: +N+Sg+Nom
+!!€  ištmen: +N+Sg+Gen
+!!€  ištint: +N+Sg+Par
+!!€  ištmid: +N+Pl+Par
+:im SG-NOM-SUF ;
+:in SG-PAR-SUF_t ;
 :me SG-OBLIQUE ;
 R ; ! xxx check
 ! Plural

@@ -1037,7 +1037,7 @@ LEXICON V_OLDA ! olda:
 +Pot:linne ACT_IND_PRS ;
 
 !! refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
-+Der+Der/NomAg+N:li N_TEGII ;! this might be the same as V-VowelStem-PRT with an i in next lexicon
++Der+Der/NomAg+N:oli N_TEGII ;! this might be the same as V-VowelStem-PRT with an i in next lexicon
 
 !! sometimes requires preceding vowel
 :ol ACT_COND_type ;
