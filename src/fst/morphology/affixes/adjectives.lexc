@@ -60,17 +60,17 @@ LEXICON A_OIGED  !!≈ * **@CODE@** = oiged:oig%{eØ%}d
 LEXICON A_KEL1  !!≈ * **@CODE@** = kel':kel
  N_KEL1 ;
 +Comp:%>e%>mb N_POIG ;
-+Der+Der/Uz1+N:ud N_NORUZ ;
++Der+Der/Uz1+N:ud N_NORUZ1 ;
 
 LEXICON A_SAR1  !!≈ * **@CODE@** = sar':sar
  N_SAR1 ;
 +Comp:%>e%>mb N_POIG ;
-+Der+Der/Uz1+N:ud N_NORUZ ;
++Der+Der/Uz1+N:ud N_NORUZ1 ;
 
 !LEXICON A_KEZI  !!≈ * **@CODE@** = kezi:ked
 ! N_KEZI ;
 !+Comp:%>e%>mb N_POIG ;
-!+Der+Der/Uz1+N:ud N_NORUZ ;
+!+Der+Der/Uz1+N:ud N_NORUZ1 ;
 
 
 LEXICON A_VIDENZ1  !!≈ * **@CODE@** =  videnz':viden (-den, -t, -zid)
@@ -92,10 +92,12 @@ LEXICON A_SEIBAZ  !!≈ * **@CODE@** =  seibaz:seib
 LEXICON A_CIPUINE  !!≈ * **@CODE@** = cipuine:cipu
  N_CIPUINE ;
 +Comp:iže%>mb N_POIG ;
-+Der+Der/Uz1+N:ižud N_NORUZ ;
++Der+Der/Uz1+N:ižud N_NORUZ1 ;
 
 LEXICON A_TOSHTMINE  !!≈ * **@CODE@** =  toštmine:toštmi
- N_TOSHTMINE ;
+ A_ine/izhen/isht/izhehe/izhid ;
+LEXICON A_ine/izhen/isht/izhehe/izhid
+ N_ine/izhen/isht/izhehe/izhid ;
 +Comp:že%>mb N_POIG ;
 
 LEXICON A_IN_TTE !mitte
@@ -104,7 +106,7 @@ LEXICON A_IN_TTE !mitte
 
 LEXICON A_KENGATOI  !!≈ * **@CODE@** =  kengätoi:kengäto
 +Comp:ma%>mb N_POIG ;
-+Der+Der/Uz1+N:mud N_NORUZ ;
++Der+Der/Uz1+N:mud N_NORUZ1 ;
 :i SG-NOM-SUF ;
 :n SG-PAR-SUF_t ;
 :ma SG-OBLIQUE ;
