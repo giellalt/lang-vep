@@ -241,7 +241,27 @@ problems with tta, ta, da
 
 preterite stem vowel
 
+V_1Syl_DVta/ub/i/DVkaha = seišta:seiž
+preceding vowel always required for affix
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
+
+sometimes requires preceding vowel
+
+problems with tta, ta, da
+
+preterite stem vowel
+
 V_1Syl_DVta/eb/i/DVkaha = pesta:pez only for verbs with devoicing
+preceding vowel always required for affix
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
+
+sometimes requires preceding vowel
+
+problems with tta, ta, da
+
+preterite stem vowel
+
+V_1Syl_DVta/eb/i/ggaha = pesta:pez only for verbs with devoicing
 preceding vowel always required for affix
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
 
