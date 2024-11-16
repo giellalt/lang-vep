@@ -1092,7 +1092,9 @@ LEXICON SG-TER3-SUF
 +Sg+Ter3:%>ssai K ;
 
 LEXICON SG-TRA-SUF
-+Sg+Tra:%>ks K ;
++Sg: TRA-SUF ;
+LEXICON TRA-SUF
++Tra:%>ks K ;
 
 
 
