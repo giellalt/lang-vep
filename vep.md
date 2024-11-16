@@ -757,6 +757,13 @@ and its use should be associated with the user group, perhaps.
 * *d:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
+* *heim:* `+N+Sg+Nom`
+* *heimon:* `+N+Sg+Gen`
+* *heimod:* `+N+Sg+Par`
+* *heimoho:* `+N+Sg+Ill`
+* *heimoid:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
 * *n:* `+N+Sg+Gen`
 * *d:* `+N+Pl+Par`
@@ -775,6 +782,12 @@ and its use should be associated with the user group, perhaps.
 * *poig:* `poig+N+Sg+Nom`
 * *poigan:* `poig+N+Sg+Gen`
 * *poigid:* `poig+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *uskond:* `uskond+N+Sg+Nom`
+* *uskondan:* `uskond+N+Sg+Gen`
+* *uskondaha:* `uskond+N+Sg+Ill`
+* *uskondid:* `uskond+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
@@ -836,6 +849,12 @@ Plural
 * *:* `+N+Sg+Nom`
 * *n:* `+N+Sg+Gen`
 * *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *ištim:* `+N+Sg+Nom`
+* *ištmen:* `+N+Sg+Gen`
+* *ištint:* `+N+Sg+Par`
+* *ištmid:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
