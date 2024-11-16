@@ -455,7 +455,6 @@ given the proper use of these flags.
 
 The word forms in Veps start from the lexeme roots of basic 
 word classes. 
-
 ### Other lexica
 
 CC_ 

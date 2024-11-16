@@ -21,6 +21,7 @@
                 * [abbreviations.lexc](src-fst-morphology-stems-abbreviations.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/abbreviations.lexc))
                 * [acronyms.lexc](src-fst-morphology-stems-acronyms.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/acronyms.lexc))
                 * [adjectives_newwords.lexc](src-fst-morphology-stems-adjectives_newwords.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/adjectives_newwords.lexc))
+                * [exceptions.lexc](src-fst-morphology-stems-exceptions.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/exceptions.lexc))
                 * [nouns_newwords.lexc](src-fst-morphology-stems-nouns_newwords.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/nouns_newwords.lexc))
                 * [numerals.lexc](src-fst-morphology-stems-numerals.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/numerals.lexc))
                 * [pronouns.lexc](src-fst-morphology-stems-pronouns.lexc.html) ([src](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/stems/pronouns.lexc))
