@@ -857,6 +857,12 @@ Plural
 * *ištmid:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
+* *südäin:* `südäin+N+Sg+Nom`
+* *südäimen:* `südäin+N+Sg+Gen`
+* *südänt:* `südäin+N+Sg+Par`
+* *südäid:* `südäin+N+Pl+Par`
+
+* Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
 * *n:* `+N+Sg+Gen`
 * *d:* `+N+Pl+Par`
@@ -905,6 +911,16 @@ Plural
 * *:* `+N+Sg+Nom`
 * *n:* `+N+Sg+Gen`
 * *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *papʼ:* `+N+Sg+Nom`
+* *papin:* `+N+Sg+Gen`
+* *papid:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *papʼ:* `+N+Sg+Nom`
+* *papin:* `+N+Sg+Gen`
+* *papid:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
@@ -1134,6 +1150,11 @@ preterite stem vowel
 
 V_da/vab/voi/gaha =  kaida:kai
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg,
+
+preterite stem vowel
+
+V_da/ab/oi/gaha =  nagrda:nagr
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 
 preterite stem vowel
 
@@ -1864,6 +1885,10 @@ TODO: Have a look at these:
 * **+Use/TTS** – **only** retained in the HFST Text-To-Speech disambiguation tokeniser
 * **+Use/-TTS** – **never** retained in the HFST Text-To-Speech disambiguation tokeniser
 
+* **+Hom1**
+* **+Hom2**
+* **+Hom3**
+
 * **+v1** 
 * **+v2** 
 * **+v3** 
@@ -2065,7 +2090,8 @@ in this system in terms of the following symbols.
 
 #### Usage tags: 
 
-* **+Err/Orth**  = 
+* **+Err/Orth**  =
+* **+Err/Orth-no-pal**  = palatalization mark missing
 * **+Use/-Spell**  = 
 
 #### Semtags 
@@ -2288,10 +2314,6 @@ INTERJ_
 NUMBERSUF 
 
 ORDINAL 
-
-CADJ 
-DADJ 
-VADJ 
 
 ADV_ 
 

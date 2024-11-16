@@ -42,6 +42,10 @@ TODO: Have a look at these:
 * **+Use/TTS** – **only** retained in the HFST Text-To-Speech disambiguation tokeniser
 * **+Use/-TTS** – **never** retained in the HFST Text-To-Speech disambiguation tokeniser
 
+* **+Hom1**
+* **+Hom2**
+* **+Hom3**
+
 * **+v1** 
 * **+v2** 
 * **+v3** 
@@ -243,7 +247,8 @@ in this system in terms of the following symbols.
 
 #### Usage tags: 
 
-* **+Err/Orth**  = 
+* **+Err/Orth**  =
+* **+Err/Orth-no-pal**  = palatalization mark missing
 * **+Use/-Spell**  = 
 
 #### Semtags 
@@ -466,10 +471,6 @@ INTERJ_
 NUMBERSUF 
 
 ORDINAL 
-
-CADJ 
-DADJ 
-VADJ 
 
 ADV_ 
 

@@ -29,6 +29,11 @@ refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg,
 
 preterite stem vowel
 
+V_da/ab/oi/gaha =  nagrda:nagr
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
+
+preterite stem vowel
+
 V_ada/ab/oi/agaha =  jagada:jag
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 

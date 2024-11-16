@@ -198,6 +198,12 @@ Plural
 * *ištmid:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
+* *südäin:* `südäin+N+Sg+Nom`
+* *südäimen:* `südäin+N+Sg+Gen`
+* *südänt:* `südäin+N+Sg+Par`
+* *südäid:* `südäin+N+Pl+Par`
+
+* Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
 * *n:* `+N+Sg+Gen`
 * *d:* `+N+Pl+Par`
@@ -246,6 +252,16 @@ Plural
 * *:* `+N+Sg+Nom`
 * *n:* `+N+Sg+Gen`
 * *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *papʼ:* `+N+Sg+Nom`
+* *papin:* `+N+Sg+Gen`
+* *papid:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *papʼ:* `+N+Sg+Nom`
+* *papin:* `+N+Sg+Gen`
+* *papid:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
