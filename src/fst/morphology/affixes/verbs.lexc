@@ -625,6 +625,30 @@ LEXICON V_2Syl_DVta/eb/i/DVkaha
 !! preterite stem vowel
 : ACT_IND_PRT ;! gets i
 
+LEXICON V_1Syl_DVta/ub/i/DVkaha
+!! @LEXNAME@ = seišta:seiž
+! V_??
+!! preceding vowel always required for affix
+:u V-VowelStem-PRS ;
+!! refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
++Der+Der/NomAg+N:u N_KACUI ;! this will need its own work with ‹e› present stems20241109
+
+!! sometimes requires preceding vowel
+:u ACT_COND_type ;
+: ACT_PRFPRC_type_nu ;
+
+: VNONFIN_m ; !does not include -matoi 20241109
+
+!!consonant stem if there is one takes both te, tes,... and kaha, koi
+:%^DEVOICE V-ConsonantStem_t/k ;
+! refl-imprt-sg2, refl-ind-prs-sg-conneg
+
+!! problems with tta, ta, da
+:%^DEVOICE INF_ta ; !pagišta
+
+!! preterite stem vowel
+:u ACT_IND_PRT ;! gets i
+
 LEXICON V_1Syl_DVta/eb/i/DVkaha
 !! @LEXNAME@ = pesta:pez only for verbs with devoicing
 ! V_PESTA
@@ -641,6 +665,31 @@ LEXICON V_1Syl_DVta/eb/i/DVkaha
 
 !!consonant stem if there is one takes both te, tes,... and kaha, koi
 :%^DEVOICE V-ConsonantStem_t/k ; !DV devoice
+! refl-imprt-sg2, refl-ind-prs-sg-conneg
+
+!! problems with tta, ta, da
+:%^DEVOICE INF_ta ;
+
+!! preterite stem vowel
+: ACT_IND_PRT ;! gets i
+
+LEXICON V_1Syl_DVta/eb/i/ggaha
+!! @LEXNAME@ = pesta:pez only for verbs with devoicing
+! V_PESTA
+!! preceding vowel always required for affix
+:e V-VowelStem-PRS ;
+!! refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
++Der+Der/NomAg+N:i N_TEGII ;! this will need its own work with ‹e› present stems20241109
+
+!! sometimes requires preceding vowel
+: ACT_COND_type ;
+: ACT_PRFPRC_type_nu ;
+
+:e VNONFIN_m ; !does not include -matoi 20241109
+
+!!consonant stem if there is one takes both te, tes,... and kaha, koi
+:%^DEVOICE V-ConsonantStem_te/tud/tas ; !DV devoice
+: V-ConsonantStem_gaha/goi ;
 ! refl-imprt-sg2, refl-ind-prs-sg-conneg
 
 !! problems with tta, ta, da
@@ -1281,6 +1330,7 @@ LEXICON V-VowelStem-PRS
  ACT_IND_PRT_SG_CONNEG ;
 
 +Der+Der/V:%>škande ACT_IND_PRS ;!inchoative?
++Der+Der/V:%>škande REFL_IND_PRS ;!inchoative?
 +Der+Der/V:%>škanz ACT_IND_PRT ;!inchoative?
 +Der+Der/V:%>ška V-ConsonantStem_t/k ;!inchoative? CHECKME 20241110
 

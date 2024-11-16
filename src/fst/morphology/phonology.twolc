@@ -230,8 +230,8 @@ V1:Vx <=> Vx Cns:* %> h _ ;
 !! **@RULENAME@** vauged: vauktan
  Cx:Cy <=>  _ [%{eØ%}: |%{uØ%}: ] Cns:CnsVoiceless %^RmVow: %^DEVOICE: %> ;
             Cns:CnsVoiceless [ %{eØ%}: | %{uØ%}: ] _ %^RmVow: %^DEVOICE: %> ;
-	    [i | r | n | Vow:] _ (%^PEN: %^DEVOICE:) (%^RmVow:) %^DEVOICE: ;
-	    [i | r | n | Vow:] _ Vow: Cns: %^PEN: %^DEVOICE: ;
+	    [Vow:] _ (%^PEN: %^DEVOICE:) (%^RmVow:) %^DEVOICE: ;
+	    [i | l (ʼ) | n | r | Vow:] _ Vow: Cns: %^PEN: %^DEVOICE: ;
               where Cx in (g d)
                     Cy in (k t) matched ;
 !! oiged+A+Sg+Gen: __right/oikea__

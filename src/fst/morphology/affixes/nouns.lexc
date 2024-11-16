@@ -180,12 +180,12 @@ LEXICON N_PERT1 ! pertʼ:pert
 !pertin
 !pertid
 :ʼ SG-NOM-SUF ;
-+Sg+Ill:%>hä K ;
-:%>ä SG-OBLIQUE ;
++Sg+Ill:ʼ%>he K ;
+:i SG-OBLIQUE ;
 R ; ! xxx check
 ! Plural
-:%>ä PL-NOM-SUF ;
-:%>ä PL-ACC-SUF ;
+:i PL-NOM-SUF ;
+:i PL-ACC-SUF ;
 : PL-OBLIQUE ;
 
 
@@ -350,7 +350,8 @@ LEXICON N_SEIBAZ ! seibaz:seib
 !!€  d: +N+Pl+Par
 :az SG-NOM-SUF ;
 :as SG-PAR-SUF_t ;
-:ha SG-OBLIQUE ;
++Sg+Ill:haze K ;
+:ha SG-OBLIQUE_NO_DERIV/ILL/PAR ;
 R ; ! xxx check
 ! Plural
 :ha PL-NOM-SUF ;
@@ -420,7 +421,8 @@ LEXICON N_VEDEKAZ ! vedekaz:vedeka
 !!€  d: +N+Pl+Par
 :z SG-NOM-SUF ;
 :s SG-PAR-SUF_t ;
-:ha SG-OBLIQUE ;
++Sg+Ill:haze K	;
+:ha SG-OBLIQUE_NO_DERIV/ILL/PAR ;
 R ; ! xxx check
 ! Plural
 :ha PL-NOM-SUF ;
@@ -637,6 +639,7 @@ LEXICON N_SAMAL !samal:samal syncope
 !!€  n: +N+Sg+Gen
 !!€  d: +N+Pl+Par
 : SG-NOM-SUF ;
+: SG-PAR-SUF_t ;  
 :%^RmVow%^DEVOICE%>o SG-OBLIQUE ;
 R ; ! xxx check
 ! Plural
@@ -771,6 +774,7 @@ LEXICON N_ine/izhen/isht/izhehe/izhid
 !!€  d: +N+Pl+Par
 :ne SG-NOM-SUF ;
 :š SG-PAR-SUF_t ;
++Sg+Ill:žhe K ;!CHECKME 2024-11-16
 :že SG-OBLIQUE ;
 R ; ! xxx check
 ! Plural

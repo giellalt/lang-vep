@@ -20,7 +20,10 @@ LEXICON Numerals
  +Use/Circ: ISOLATED-NUMEXP ; ! for ½ etc.                     !
 
 LEXICON NUM_CARD_ALL
-yksi+Num:yksi # ;
+kahesa+Num:kahesa NUM_UEHESA ;
+kaksʼ+Num:ka NUM_KAKS1 ;
+ühesa+Num:ühesa NUM_UEHESA ;
+üksʼ+Num:ü NUM_YKS1 ;
 seičeme+Num:seičeme NUM_SEICHEME ;
 
 LEXICON NUM_SEICHEME !seičeme:seičem
