@@ -12,7 +12,6 @@ test:test N_ "" ;
 ! ADD NOUNS BELOW
 
 angel+N:angel N_0/an/ad/aha/oid ;
-
 antihrist+N:antihrist N_0/an/ad/aha/oid ;
 astii+N:asti N_i/jan/jad/jaha/joid ;
 bohat+N:bohat N_0/an/ad/aha/oid ;
@@ -151,7 +150,7 @@ poigaine+N:poiga N_CIPUINE ;
 orahaine+N:oraha N_CIPUINE ;
 neglankorvaine+N:neglankorva N_CIPUINE ;
 libertinialaine+N:libertiniala N_CIPUINE ;
-italialaine+N:italialai N_CIPUINE ;
+italialaine+N:italiala N_CIPUINE ;
 kirjeine+N:kirje N_CIPUINE ;
 kitändkirjeine+N:kitändkirje N_CIPUINE ;
 kodihine+N:kodihi N_ine/izhen/isht/izhehe/izhid ;
@@ -177,4 +176,7 @@ galatalaine+N:galatala N_CIPUINE ;
 galilejalaine+N:galilejala N_CIPUINE ;
 hibjanpalaine+N:hibjanpala N_CIPUINE ;
 homendezhämäräine+N:homendezhämärä N_CIPUINE ;
-
+efesalaine+N:efesala N_CIPUINE ;
+damaskalaine+N:damaskala N_CIPUINE ;
+afinalaine+N:afinala N_CIPUINE ;
+ehtkoine+N:ehtko N_CIPUINE ;

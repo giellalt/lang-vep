@@ -809,7 +809,7 @@ LEXICON V_LAEHTTA
 +Der+Der/NomAg+N:hti N_TEGII ;! this will need its own work with ‹e› present stems20241109
 
 !! sometimes requires preceding vowel
-:ht ACT_COND_type ;
+:ks ACT_COND_type ;
 :ht ACT_PRFPRC_type_nu ;
 
 :ht VNONFIN_m ; !does not include -matoi 20241109

@@ -1175,5 +1175,20 @@ LEXICON PL-TRA-SUF
 !! # Possessor Indices
 
 !! Not yet written...
+LEXICON POSS_SUF !based on kin terminology, reflexive pronoun, personal pronouns
++Sg+Acc+PxSg1:%>in K ;!tatain
++Sg+Gen+PxSg1:%>in K ;!tatain
++Sg+All+PxSg2:%>leiž K ;!Tataleiž
++Sg+All+Px3:%>leze K ;!mamaleze
++Sg+Ela+PxSg1:%>sainpäi K ;
++Sg+Ela+PxSg2:%>saižpäi K ;
++Sg+Ela+PxSg3:%>sazepäi K ;
++Sg+Ine+PxSg1:%>sain K ;
++Sg+Ine+PxSg2:%>saiž K ;
++Sg+Ine+PxSg3:%>saze K ;
++Sg+Nom+PxSg2:%>iž K ;!mamaiž
++Sg+Nom+Px3:%>ze K ;!mamaze
++Sg+Nom+PxPl1:%>m K ;!Tatam
+
 
 ! vim: set ft=xfst-lexc:
