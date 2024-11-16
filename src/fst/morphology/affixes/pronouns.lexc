@@ -73,6 +73,7 @@ LEXICON PersSg1
 +Pers+Sg1+Par:dai K ;
 +Pers+Sg1:u ACC-SUF ;!is this distinguishable at morphosyntactic level better than later? 20230620
 !+Pers+Sg1:u ALL-SUF ;! ?minule does this exist
++Pers+Sg1+Ade:ai K ;! minai
 +Pers+Sg1+All:ei K ;! minei ?Dat
 +Pers+Sg1:u OBLIQUE_CASES_FOR_PRONOUNS ; ! minunnoks
 
@@ -81,6 +82,7 @@ LEXICON PersSg2
 +Pers+Sg2+Nom:ä NOM-SUF ;
 +Pers+Sg2+Par:dai K ;
 +Pers+Sg2:u ACC-SUF ;
++Pers+Sg2+Ade:ai K ;! sinai
 +Pers+Sg2+All:ei K ;
 +Pers+Sg2:u OBLIQUE_CASES_FOR_PRONOUNS ; ! sinunnoks..
 
@@ -165,17 +167,20 @@ se+Pron+Dem+Sg+Par:sidä K ;
 LEXICON NEG-PRON
 !! @LEXNAME@ split in Nom Gen Par
 niken+Pron+Neg+Sg+Nom:niken K ;
-niken+Pron+Neg+Sg+Gen:nikenen K ;
+niken+Pron+Neg+Sg:nikene OBLIQUE_CASES_FOR_PRONOUNS ;
 niken+Pron+Neg+Sg+Par:nikeda K ;
 
 LEXICON DET_NECE !nece+Pron:ne
 +Dem:ce SG-ABE-SUF ;
-+Dem:ci SG-ADE-SUF ;
 +Dem:ce SG-COM-SUF ;
 +Dem:ce SG-GEN-SUF ;
-+Dem:ci SG-INE-SUF_iš ;
-+Dem:ci SG-ELA-SUF_išpäi ;
-+Dem:c SG-ILL-SUF ;
++Dem+Sg+Abe:cita K ;
++Dem+Sg+Ade:cil K ;
++Dem+Sg+All:cile K ;
++Dem+Sg+Ine:ciš K ;
++Dem+Sg+Ela:cišpäi K ;
++Dem+Sg+Ill:che K ;
++Dem+Sg+Ter1:chesai K ;
 +Dem+Sg+Nom:ce K ;
 +Dem+Sg+Par:cidä K ;
 +Dem:c SG-TER1-SUF ;

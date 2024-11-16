@@ -85,13 +85,31 @@ LEXICON V_da/vab/voi/gaha
 !! preterite stem vowel
 :vo ACT_IND_PRT ;! has i at affix
 
+LEXICON V_da/ab/oi/gaha
+!! @LEXNAME@ =  nagrda:nagr
+! V_
+: INF_da ;
+:a V-VowelStem-PRS ;
+!! refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
++Der+Der/NomAg+N:a N_KACUI ;! this will need its own work with ‹e› present
+
+:a ACT_COND_type ;
+: ACT_PRFPRC_type_nu ;
+
+: V-ConsonantStem_d/g ;
+
+:a VNONFIN_m ;
+
+!! preterite stem vowel
+:o ACT_IND_PRT ;! has i at affix
+
 LEXICON V_ada/ab/oi/agaha
 !! @LEXNAME@ =  jagada:jag
 ! V_JAGADA
 :a INF_da ;
 :a V-VowelStem-PRS ;
 !! refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
-+Der+Der/NomAg+N:a N_TEGII ;! this will need its own work with ‹e› present
++Der+Der/NomAg+N:a N_KACUI ;! this will need its own work with ‹e› present
 
 :a ACT_COND_type ;
 :a ACT_PRFPRC_type_nu ;
@@ -100,7 +118,6 @@ LEXICON V_ada/ab/oi/agaha
 
 :a VNONFIN_m ;
 
-+Der/NomAg+PrsPrc:a%>jA1 K ; ! This will have to be AdjTag or something
 !! preterite stem vowel
 :o ACT_IND_PRT ;! has i at affix
 
@@ -1046,6 +1063,8 @@ LEXICON V_OLDA ! olda:
 
 !!consonant stem if there is one takes both te, tes,... and kaha, koi
 :ol V-ConsonantStem_d/g ;
+:ol V-ConsonantStem_de/dud/das ;
+:ol IMPRT_gha ;
 
 !! problems with tta, ta, da
 :ol INF_da ;
@@ -1058,7 +1077,7 @@ LEXICON V_TEHTA !
 :ge V-VowelStem-PRS ;
 :g V-VowelStem-PRT ;
 :g V-ConsonantStem_OTHER ;
-:h V-ConsonantStem_te/tud/tas ;
+:h V-ConsonantStem_t/k ;
 : V-ConsonantStem_kaha/koi ;
 :ge INDPRS3 ;
 :h INF_ta ;
@@ -1495,6 +1514,13 @@ LEXICON IMPRT_gaha
  IMPRTPL3_gaha ;
  IMPRTPLCONNEG_goi ;
 
+LEXICON IMPRT_gha
+ IMPRTSG3_gha ;
+ IMPRTPL1_gam ;
+ IMPRTPL2_gat ;
+ IMPRTPL3_gha ;
+ IMPRTPLCONNEG_goi ;
+
 LEXICON IMPRT_kaha
  IMPRTSG3_kaha ;
  IMPRTPL1_kam ;
@@ -1508,12 +1534,17 @@ LEXICON IMPRTPLCONNEG_goi
 LEXICON IMPRTSG3_gaha
 +Imprt+Sg3:%>gaha K ;
 
+LEXICON IMPRTSG3_gha
++Imprt+Sg3:%>gha K ;
+
 LEXICON IMPRTPL1_gam
 +Imprt+Pl1:%>gam K ;
 LEXICON IMPRTPL2_gat
 +Imprt+Pl2:%>gat K ;
 LEXICON IMPRTPL3_gaha
 +Imprt+Pl3:%>gaha K ;
+LEXICON IMPRTPL3_gha
++Imprt+Pl3:%>gha K ;
 
 LEXICON IMPRTPLCONNEG_koi
 +Imprt+Pl+ConNeg:%>koi K ;

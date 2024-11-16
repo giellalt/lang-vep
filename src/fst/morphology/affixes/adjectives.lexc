@@ -87,7 +87,7 @@ LEXICON A_VEDEKAZ  !!≈ * **@CODE@** =  vedekaz:vedeka
 
 LEXICON A_SEIBAZ  !!≈ * **@CODE@** =  seibaz:seib
  N_SEIBAZ ;
-+Comp:ha%>mb N_POIG ;
++Comp:he%>mb N_POIG ;!CHECKME armhemb
 
 LEXICON A_CIPUINE  !!≈ * **@CODE@** = cipuine:cipu
  N_CIPUINE ;

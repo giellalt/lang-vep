@@ -269,13 +269,14 @@ R ; ! xxx check
 : PL-OBLIQUE ;
 
 LEXICON N_POIG ! poig:poig
-! _a/an/Q/ha/id
+! _a/an/ad/ha/id
 !Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
 !!€gt-norm:   Noun ' / '
 !!€  poig: poig+N+Sg+Nom
 !!€  poigan: poig+N+Sg+Gen
 !!€  poigid: poig+N+Pl+Par
 : SG-NOM-SUF ;
++Sg+Ill:ha K ;
 :a SG-OBLIQUE ;
 R ; ! xxx check
 ! Plural
@@ -496,6 +497,21 @@ R ; ! xxx check
 :me PL-ACC-SUF ;
 :m PL-OBLIQUE ;
 
+LEXICON N_SUEDAEIN ! südäin:südä
+!!€gt-norm:   Noun ' / '
+!!€  südäin: südäin+N+Sg+Nom
+!!€  südäimen: südäin+N+Sg+Gen
+!!€  südänt: südäin+N+Sg+Par
+!!€  südäid: südäin+N+Pl+Par
+:in SG-NOM-SUF ;
+:n SG-PAR-SUF_t ;
+:ime SG-OBLIQUE ;
+R ; ! xxx check
+! Plural
+:ime PL-NOM-SUF ;
+:ime PL-ACC-SUF ;
+:im PL-OBLIQUE ;
+
 LEXICON N_LUMI ! lumi:lu
 !!€gt-norm:   Noun ' / '
 !!€  : +N+Sg+Nom
@@ -557,13 +573,13 @@ R ; ! xxx check
 :ja PL-ACC-SUF ;
 :j PL-OBLIQUE ;
 
-LEXICON N_KEL1 !kel':kel
+LEXICON N_KEL1 !kelʼ:kel
 !!€gt-norm:   Noun ' / '
 !!€  : +N+Sg+Nom
 !!€  n: +N+Sg+Gen
 !!€  d: +N+Pl+Par
-:' SG-NOM-SUF ;
-:' SG-PAR-SUF_t ;
+:ʼ SG-NOM-SUF ;
+:ʼ SG-PAR-SUF_t ;
 :%>e SG-OBLIQUE ;
 R ; ! xxx check
 ! Plural
@@ -645,12 +661,40 @@ R ; ! xxx check
 : PL-ACC-SUF ;
 : PL-OBLIQUE ;
 
-LEXICON	N_VIDENZ1 ! videnz':viden (-den, -t, -zid)
+LEXICON	N_1/in/id/ihe/id ! papʼ:pap
+!!€gt-norm:   Noun ' / '
+!!€  papʼ: +N+Sg+Nom
+!!€  papin: +N+Sg+Gen
+!!€  papid: +N+Pl+Par
+:ʼ SG-NOM-SUF ;
++Err/Orth-no-pal: SG-NOM-SUF ;
+:i SG-OBLIQUE ;
+R ; ! xxx check
+! Plural
+:i PL-NOM-SUF ;
+:i PL-ACC-SUF ;
+:i PL-OBLIQUE ;
+
+LEXICON	N_1/en/ed/ehe/id ! apʼ:ap
+!!€gt-norm:   Noun ' / '
+!!€  papʼ: +N+Sg+Nom
+!!€  papin: +N+Sg+Gen
+!!€  papid: +N+Pl+Par
+:ʼ SG-NOM-SUF ;
++Err/Orth-no-pal: SG-NOM-SUF ;
+:e SG-OBLIQUE ;
+R ; ! xxx check
+! Plural
+:e PL-NOM-SUF ;
+:e PL-ACC-SUF ;
+:i PL-OBLIQUE ;
+
+LEXICON	N_VIDENZ1 ! videnzʼ:viden (-den, -t, -zid)
 !!€gt-norm:   Noun ' / '
 !!€  : +N+Sg+Nom
 !!€  n: +N+Sg+Gen
 !!€  d: +N+Pl+Par
-:z' SG-NOM-SUF ;
+:zʼ SG-NOM-SUF ;
 : SG-PAR-SUF_t ;
 :de SG-OBLIQUE ;
 R ; ! xxx check

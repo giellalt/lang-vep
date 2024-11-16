@@ -57,6 +57,11 @@ Multichar_Symbols
  +Use/TTS          !!≈ * **@CODE@** – **only** retained in the HFST Text-To-Speech disambiguation tokeniser
  +Use/-TTS         !!≈ * **@CODE@** – **never** retained in the HFST Text-To-Speech disambiguation tokeniser
 
++Hom1		   !!≈ * **@CODE@**
++Hom2		   !!≈ * **@CODE@**
++Hom3		   !!≈ * **@CODE@**
+
+
 +v1                !!≈ * **@CODE@** 
 +v2                !!≈ * **@CODE@** 
 +v3                !!≈ * **@CODE@** 
@@ -265,7 +270,8 @@ Multichar_Symbols
  
 !! #### Usage tags: 
 
- +Err/Orth                     !!≈ * **@CODE@**  = 
+ +Err/Orth                     !!≈ * **@CODE@**  =
+ +Err/Orth-no-pal	       !!≈ * **@CODE@**  = palatalization mark missing
  +Use/-Spell                  !!≈ * **@CODE@**  = 
  
 
@@ -543,15 +549,15 @@ LEXICON ORDINAL
 ! LEXICON PUNCTUATION 
 !  # ; 
  
-LEXICON CADJ 
-!! @LEXNAME@ 
-+A: #; 
-LEXICON DADJ 
-!! @LEXNAME@ 
-+A: #; 
-LEXICON VADJ 
-!! @LEXNAME@ 
-+A: #; 
+!LEXICON CADJ 
+!!! @LEXNAME@ 
+!+A: #; 
+!LEXICON DADJ 
+!!! @LEXNAME@ 
+!+A: #; 
+!LEXICON VADJ 
+!!! @LEXNAME@ 
+!+A: #; 
  
 LEXICON ADV_ 
 !! @LEXNAME@ 
