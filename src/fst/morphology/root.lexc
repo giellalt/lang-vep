@@ -69,8 +69,9 @@ Multichar_Symbols
 @C.ErrOrth@          !!≈ * **@CODE@** 
 @D.ErrOrth.ON@       !!≈ * **@CODE@** 
 @P.ErrOrth.ON@       !!≈ * **@CODE@** 
+@R.ErrOrth.ON@       !!≈ * **@CODE@** 
  
- 
+@P.Pmatch.Backtrack@	!!≈ * **@CODE@**
  
 !! ## Grammatical tags 
  
@@ -534,15 +535,15 @@ LEXICON INTERJ_
 ! LEXICON NUMERAL 
 !  # ; 
  
-LEXICON NUMBERSUF 
-!! @LEXNAME@ 
-: K; 
-:%> CASESUF ; 
-:%> ORDINAL ; 
+!LEXICON NUMBERSUF 
+!!! @LEXNAME@ 
+!: K; 
+!:%> CASESUF ; 
+!:%> ORDINAL ; 
  
-LEXICON ORDINAL 
-!! @LEXNAME@ 
-+Ord:этӥ K; 
+!LEXICON ORDINAL 
+!!! @LEXNAME@ 
+!+Ord:этӥ K; 
  
  
 ! Not used 
@@ -587,12 +588,8 @@ LEXICON PO_ILL
 LEXICON PO_INE
 +Ine: K ;
 
-LEXICON CASESUF #; 
-!! @LEXNAME@ 
-LEXICON PRON #; 
-!! @LEXNAME@ 
-LEXICON DEM #; 
-!! @LEXNAME@ 
+!LEXICON CASESUF #; 
+!!! @LEXNAME@ 
 LEXICON ENDLEX # ; 
  
 ! vim: set ft=xfst-lexc: 
