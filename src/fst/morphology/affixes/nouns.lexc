@@ -26,6 +26,7 @@ LEXICON N_MUNA ! Stem vowel alternation ZERO-A-ZERO muna:mun
 !:QAQ1 NMN_ ;
 !an
 !id
+!:a ATTESTED-NOUN-STEM ;
 :a SG-NOM-SUF ;
 +Sg+Ill:%>ha K ;
 :%>a SG-OBLIQUE ;
@@ -1133,8 +1134,8 @@ LEXICON SG-EGR-SUF
 LEXICON EGR-SUF
 +Egr:%>nnopäi K ;
 
-LEXICON SG-ELA-SUF_išpäi
-+Sg+Ela:išpäi K ;
+!LEXICON SG-ELA-SUF_išpäi
+!+Sg+Ela:išpäi K ;
 !LEXICON SG-ELA-SUF_špäi
 !+Sg+Ela:špäi K ;
 LEXICON SG-ELA-SUF
@@ -1157,8 +1158,8 @@ LEXICON SG-ILL-SUF
 LEXICON ILL-SUF
 +Ill:%>hV1 K ; ! o-ho
 
-LEXICON SG-INE-SUF_iš
-+Sg+Ine:%>š K ;
+!LEXICON SG-INE-SUF_iš
+!+Sg+Ine:%>š K ;
 LEXICON SG-INE-SUF
 +Sg: INE-SUF ;
 LEXICON INE-SUF
@@ -1166,6 +1167,7 @@ LEXICON INE-SUF
 
 LEXICON SG-NOM-SUF
 +Sg: NOM-SUF ;
++Cmp/SgNom: R ; !
 LEXICON NOM-SUF
 +Nom: K ;
 

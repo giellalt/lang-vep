@@ -24,16 +24,16 @@
 ! nominatives
 
 
-LEXICON NUM_CASE
-+Gen:^WGStem%>n NUM_K ;
-+All:^WGStem%>le NUM_K ;
-+Abl:^WGStem%>lp%{aä%}i NUM_K ;
-+Ela:^WGStem%>st%{aä%} NUM_K ;
-+Ade:^WGStem%>l NUM_K ;
+!LEXICON NUM_CASE
+!+Gen:^WGStem%>n NUM_K ;
+!+All:^WGStem%>le NUM_K ;
+!+Abl:^WGStem%>lp%{aä%}i NUM_K ;
+!+Ela:^WGStem%>st%{aä%} NUM_K ;
+!+Ade:^WGStem%>l NUM_K ;
 
-LEXICON NUM_K
-K ;
-ARABICCOMPOUNDS ;
+!LEXICON NUM_K
+!K ;
+!ARABICCOMPOUNDS ;
 
 
 LEXICON ARABICCOMPOUNDS   !!≈ * **@CODE@**  ! 1-osainen
