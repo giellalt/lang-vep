@@ -2,8 +2,6 @@
 
 ## Temporary lexicon
 
-* **LEXICON A_** = , when we do not know. Redirecting to N_ (?) 
-
 ## Regolar lexica
 
 * **LEXICON A_UZ1** = uz’:ud, goes to NMN_NORUZ

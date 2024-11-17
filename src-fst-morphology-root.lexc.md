@@ -53,6 +53,9 @@ TODO: Have a look at these:
 * **@C.ErrOrth@** 
 * **@D.ErrOrth.ON@** 
 * **@P.ErrOrth.ON@** 
+* **@R.ErrOrth.ON@** 
+
+* **@P.Pmatch.Backtrack@**
 
 ## Grammatical tags 
 
@@ -468,10 +471,6 @@ CS_
 
 INTERJ_ 
 
-NUMBERSUF 
-
-ORDINAL 
-
 ADV_ 
 
 ADV_MANNER 
@@ -480,10 +479,6 @@ ADV_LAT
 ADV_SPAT 
 
 ADV_TEMP 
-
-CASESUF 
-PRON 
-DEM 
 
 * * *
 

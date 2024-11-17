@@ -596,8 +596,6 @@ These were the set types.
 
 ## Temporary lexicon
 
-* **LEXICON A_** = , when we do not know. Redirecting to N_ (?) 
-
 ## Regolar lexica
 
 * **LEXICON A_UZ1** = uz’:ud, goes to NMN_NORUZ
@@ -1087,6 +1085,8 @@ nouns. Veps acronyms, however, take a hyphen ('-') as a separator.
 
 PROPER NOUNS 
 
+_0/an/ad/aha/oid
+
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/propernouns.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/affixes/propernouns.lexc)</small>
@@ -1437,15 +1437,7 @@ problems with tta, ta, da
 
 preterite stem vowel
 
-V_da/eb/i/kaha = lugeda:lug OR should this be -gaha ühtnegoi
-preceding vowel always required for affix
-refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
-
-sometimes requires preceding vowel
-
-problems with tta, ta, da
-
-preterite stem vowel
+V_??
 
 V_1Syl_DVta/ab/oi/DVkaha = antta:and
 preceding vowel always required for affix
@@ -1918,6 +1910,9 @@ TODO: Have a look at these:
 * **@C.ErrOrth@** 
 * **@D.ErrOrth.ON@** 
 * **@P.ErrOrth.ON@** 
+* **@R.ErrOrth.ON@** 
+
+* **@P.Pmatch.Backtrack@**
 
 ## Grammatical tags 
 
@@ -2333,10 +2328,6 @@ CS_
 
 INTERJ_ 
 
-NUMBERSUF 
-
-ORDINAL 
-
 ADV_ 
 
 ADV_MANNER 
@@ -2345,10 +2336,6 @@ ADV_LAT
 ADV_SPAT 
 
 ADV_TEMP 
-
-CASESUF 
-PRON 
-DEM 
 
 * * *
 

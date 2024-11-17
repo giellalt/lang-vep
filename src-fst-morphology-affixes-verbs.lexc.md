@@ -311,15 +311,7 @@ problems with tta, ta, da
 
 preterite stem vowel
 
-V_da/eb/i/kaha = lugeda:lug OR should this be -gaha ühtnegoi
-preceding vowel always required for affix
-refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg, NomAg
-
-sometimes requires preceding vowel
-
-problems with tta, ta, da
-
-preterite stem vowel
+V_??
 
 V_1Syl_DVta/ab/oi/DVkaha = antta:and
 preceding vowel always required for affix
