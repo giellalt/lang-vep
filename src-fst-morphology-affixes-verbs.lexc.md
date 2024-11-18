@@ -106,6 +106,16 @@ problems with tta, ta, da
 
 preterite stem vowel
 
+V_DVta/äb/i/DVkaha = sirtta:sird
+preceding vowel always required for affix
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
+
+sometimes requires preceding vowel
+
+problems with tta, ta, da
+
+preterite stem vowel
+
 V_1Syl_DVta/ab/i/DVkaha = pörtta:pörd
 preceding vowel always required for affix
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
