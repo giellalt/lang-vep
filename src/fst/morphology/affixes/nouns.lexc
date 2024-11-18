@@ -369,6 +369,7 @@ LEXICON N_SEIBAZ ! seibaz:seib
 :az SG-NOM-SUF ;
 :as SG-PAR-SUF_t ;
 +Sg+Ill:haze K ;
++Sg+Ter1:hazesai K ;
 :ha SG-OBLIQUE_NO_DERIV/ILL/PAR ;
 R ; ! xxx check
 ! Plural
@@ -440,6 +441,7 @@ LEXICON N_VEDEKAZ ! vedekaz:vedeka
 :z SG-NOM-SUF ;
 :s SG-PAR-SUF_t ;
 +Sg+Ill:haze K	;
++Sg+Ter1:hazesai K ;
 :ha SG-OBLIQUE_NO_DERIV/ILL/PAR ;
 R ; ! xxx check
 ! Plural
@@ -1056,6 +1058,7 @@ LEXICON SG-OBLIQUE
 +Der+Der/Toi+A:%>to A_KENGATOI ;
  SG-ILL-SUF ;
  SG-PAR-SUF ;
+ SG-TER1-SUF ;
 
 LEXICON SG-OBLIQUE_NO_DERIV/ILL/PAR
  SG-ABE-SUF ;
@@ -1074,7 +1077,6 @@ LEXICON SG-OBLIQUE_NO_DERIV/ILL/PAR
  SG-GEN-SUF ;
  SG-INE-SUF ;
  SG-PRL-SUF ;
- SG-TER1-SUF ;
  SG-TER2-SUF ;
  SG-TER3-SUF ;
  SG-TRA-SUF ;
@@ -1355,15 +1357,18 @@ LEXICON POSS_SUF !based on kin terminology, reflexive pronoun, personal pronouns
 +Sg+Acc+PxSg1:%>in K ;!tatain
 +Sg+Gen+PxSg1:%>in K ;!tatain
 +Sg+All+PxSg2:%>leiž K ;!Tataleiž
-+Sg+All+Px3:%>leze K ;!mamaleze
++Sg+All+PxSg3:%>leze K ;!mamaleze
++Sg+All+PxPl3:%>leze K ;!mamaleze
 +Sg+Ela+PxSg1:%>sainpäi K ;
 +Sg+Ela+PxSg2:%>saižpäi K ;
 +Sg+Ela+PxSg3:%>sazepäi K ;
++Sg+Ela+PxPl3:%>sazepäi K ;
 +Sg+Ine+PxSg1:%>sain K ;
 +Sg+Ine+PxSg2:%>saiž K ;
 +Sg+Ine+PxSg3:%>saze K ;
 +Sg+Nom+PxSg2:%>iž K ;!mamaiž
-+Sg+Nom+Px3:%>ze K ;!mamaze
++Sg+Nom+PxSg3:%>ze K ;!mamaze
++Sg+Nom+PxPl3:%>ze K ;!mamaze
 +Sg+Nom+PxPl1:%>m K ;!Tatam
 
 

@@ -126,7 +126,8 @@ Multichar_Symbols
  
  +Cond !!≈ * **@CODE@**  = conditional 
  +Ind !!≈ * **@CODE@**  = indicative 
- +Imprt !!≈ * **@CODE@**  = imperative 
+ +Imprt !!≈ * **@CODE@**  = imperative
+ +Pot !!≈ * **@CODE@**  = potential linne-
  
 !! ##### Tenses 
  +Prs   !!≈ * **@CODE@**  = 
@@ -208,12 +209,13 @@ Multichar_Symbols
  
 !! ##### Possessive suffixes: 
  
- +PxSg1   !!≈ * **@CODE@**  = 
-+PxSg2   !!≈ * **@CODE@**  = 
-+PxSg3                 !!≈ * **@CODE@**  = 
- +PxPl1   !!≈ * **@CODE@**  = 
-+PxPl2   !!≈ * **@CODE@**  = 
-+PxPl3                 !!≈ * **@CODE@**  = 
+ +PxSg1   !!≈ * **@CODE@**  = -in
++PxSg2   !!≈ * **@CODE@**  =  -iž
++PxSg3                 !!≈ * **@CODE@**  = -ze
+ +PxPl1   !!≈ * **@CODE@**  = -moi
++PxPl2   !!≈ * **@CODE@**  = -toi
++PxPl3                 !!≈ * **@CODE@**  = -ze
+
  
 !! ##### Comparative tags: 
  
@@ -275,7 +277,7 @@ Multichar_Symbols
  +Err/Orth-no-pal	       !!≈ * **@CODE@**  = palatalization mark missing
  +Use/-Spell                  !!≈ * **@CODE@**  = 
  
-
+ +Cmp/SgNom	!!≈ * **@CODE@**  = compound words
  
 !! #### Semtags 
  +Sem/Mal   !!≈ * **@CODE@** 
