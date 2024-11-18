@@ -2032,7 +2032,8 @@ in this system in terms of the following symbols.
 
 * **+Cond**  = conditional 
 * **+Ind**  = indicative 
-* **+Imprt**  = imperative 
+* **+Imprt**  = imperative
+* **+Pot**  = potential linne-
 
 ##### Tenses 
 * **+Prs**  = 
@@ -2112,12 +2113,12 @@ in this system in terms of the following symbols.
 
 ##### Possessive suffixes: 
 
-* **+PxSg1**  = 
-* **+PxSg2**  = 
-* **+PxSg3**  = 
-* **+PxPl1**  = 
-* **+PxPl2**  = 
-* **+PxPl3**  = 
+* **+PxSg1**  = -in
+* **+PxSg2**  =  -iž
+* **+PxSg3**  = -ze
+* **+PxPl1**  = -moi
+* **+PxPl2**  = -toi
+* **+PxPl3**  = -ze
 
 ##### Comparative tags: 
 
@@ -2176,6 +2177,8 @@ in this system in terms of the following symbols.
 * **+Err/Orth**  =
 * **+Err/Orth-no-pal**  = palatalization mark missing
 * **+Use/-Spell**  = 
+
+* **+Cmp/SgNom**  = compound words
 
 #### Semtags 
 * **+Sem/Mal** 
