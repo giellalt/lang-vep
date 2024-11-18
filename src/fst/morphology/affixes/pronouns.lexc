@@ -52,7 +52,6 @@ nece+Pron:ne DET_NECE ;
 kaikutte+Pron:kaiku A_IN_TTE ;
 mitte+Pron:mi PRON_IN_TTE ;
 nimitte+Pron:nimi PRON_IN_TTE ;
-nimi+Pron+Neg+Sg+Par:nimidä K ;
 ken-ni+Pron+Indef+Sg+Nom:ken-ni K ;
 ken-ni+Pron+Indef+Sg+Gen:kenen-ni K ;
 ken-ni+Pron+Indef+Sg+Com:kenenke-ni K ;
@@ -182,11 +181,21 @@ se+Pron+Dem+Sg+Ine:siš K ;
 se+Pron+Dem+Sg+Ela:sišpäi K ;
 se+Pron+Dem+Sg+Ill:sihe K ;
 
+ned+Pron+Dem+Pl+Nom:ned K ;
+ned+Pron+Dem+Pl+Par:niid K ;
+ned+Pron+Dem+Pl+Gen:niiden K ;
+ned+Pron+Dem+Pl+Ade:niil K ;
+ned+Pron+Dem+Pl+All:niile K ;
+ned+Pron+Dem+Pl+Ine:niiš K ;
+ned+Pron+Dem+Pl+Ela:niišpäi K ;
+
 LEXICON NEG-PRON
 !! @LEXNAME@ split in Nom Gen Par
 niken+Pron+Neg+Sg+Nom:niken K ;
 niken+Pron+Neg+Sg:nikene OBLIQUE_CASES_FOR_PRONOUNS ;
 niken+Pron+Neg+Sg+Par:nikeda K ;
+nimi+Pron+Neg+Sg+Par:nimidä K ;
+nimi+Pron+Neg+Sg+All:nimille K ;
 
 LEXICON DET_NECE !nece+Pron:ne
 +Dem:ce SG-ABE-SUF ;
