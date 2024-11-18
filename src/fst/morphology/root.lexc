@@ -570,9 +570,27 @@ LEXICON ADV_MANNER
 !! @LEXNAME@ 
 +Manner: K ; 
  
+LEXICON ADV_ADE !ezil
+!! @LEXNAME@ 
++Ade: K ; 
+LEXICON ADV_ABL !edelpäi
+!! @LEXNAME@ 
++Abl: K ; 
+LEXICON ADV_ALL !ezile
+!! @LEXNAME@ 
++All: K ; 
+LEXICON ADV_ELA !täspäi
+!! @LEXNAME@ 
++Ela: K ; 
+LEXICON ADV_ILL !edehe
+!! @LEXNAME@ 
++Ill: K ; 
+LEXICON ADV_INE !nikus
+!! @LEXNAME@ 
++Ine: K ; 
 LEXICON ADV_LAT !sinna
 !! @LEXNAME@ 
- K ; 
++Lat: K ; 
 LEXICON ADV_SPAT
 !! @LEXNAME@ 
 +Spat: K ; 
