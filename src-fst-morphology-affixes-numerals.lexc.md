@@ -1,5 +1,5 @@
 
-# Olonets numerals 
+# VEPS numerals 
 
 # Numeral inflection
 Numeral inflection is like nominal, except that numerals compound in all

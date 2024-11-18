@@ -6,6 +6,10 @@
 
 **LEXICON NUM_UEHESA**
 
+**LEXICON NUM_KOUME**
+
+**LEXICON NUM_NORUZ1** 
+
 **LEXICON NUM_** 
 
 * * *

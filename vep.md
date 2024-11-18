@@ -782,6 +782,12 @@ and its use should be associated with the user group, perhaps.
 * *poigid:* `poig+N+Pl+Par`
 
 * Noun ' / ' examples:*
+* *kund:* `kund+N+Sg+Nom`
+* *kundan:* `kund+N+Sg+Gen`
+* *kundha:* `kund+N+Sg+Ill`
+* *kundid:* `kund+N+Pl+Par`
+
+* Noun ' / ' examples:*
 * *uskond:* `uskond+N+Sg+Nom`
 * *uskondan:* `uskond+N+Sg+Gen`
 * *uskondaha:* `uskond+N+Sg+Ill`
@@ -901,6 +907,11 @@ Plural
 * *d:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
+* *ikun:* `ikun+N+Sg+Nom`
+* *iknan:* `ikun+N+Sg+Gen`
+* *iknoid:* `ikun+N+Pl+Par`
+
+* Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
 * *n:* `+N+Sg+Gen`
 * *d:* `+N+Pl+Par`
@@ -916,9 +927,24 @@ Plural
 * *papid:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
-* *papʼ:* `+N+Sg+Nom`
-* *papin:* `+N+Sg+Gen`
-* *papid:* `+N+Pl+Par`
+* *apʼ:* `+N+Sg+Nom`
+* *apen:* `+N+Sg+Gen`
+* *apid:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *grähk:* `grähk+N+Sg+Nom`
+* *grähkän:* `grähk+N+Sg+Gen`
+* *grähkid:* `grähk+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
@@ -941,19 +967,16 @@ Plural
 * *d:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
+* *lapsʼ:* `+N+Sg+Nom`
+* *lapsen:* `+N+Sg+Gen`
+* *last:* `+N+Sg+Par`
+* *lapsed:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
-
-* Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
+* *noruzʼ:* `noruzʼ+N+Sg+Nom`
+* *noruden:* `noruzʼ+N+Sg+Gen`
+* *norut:* `noruzʼ+N+Sg+Par`
+* *noruzid:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
@@ -1020,7 +1043,7 @@ Not yet written...
 # src-fst-morphology-affixes-numerals.lexc.md 
 
 
-# Olonets numerals 
+# VEPS numerals 
 
 # Numeral inflection
 Numeral inflection is like nominal, except that numerals compound in all
@@ -1070,6 +1093,8 @@ DEM-PRON split in Nom Gen par
 
 NEG-PRON split in Nom Gen Par
 
+«nene» occurs both as Det and Pron
+
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/pronouns.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/affixes/pronouns.lexc)</small>
@@ -1102,6 +1127,10 @@ _0/an/ad/aha/oid
 **LEXICON NUM_YKS1** 
 
 **LEXICON NUM_UEHESA**
+
+**LEXICON NUM_KOUME**
+
+**LEXICON NUM_NORUZ1** 
 
 **LEXICON NUM_** 
 
@@ -1165,7 +1194,12 @@ refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 
 preterite stem vowel
 
-V_da/b/i/gaha =  joda:jo
+V_da/b/i/gaha =  sanuda:sanu
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
+
+preterite stem vowel
+
+V_1Syl_da/b/i/gaha =  joda:jo
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 
 preterite stem vowel
@@ -1197,6 +1231,26 @@ problems with tta, ta, da
 
 preterite stem vowel
 
+V_ata/tab/zi/kaha = saubata:saub %^DEVOICE
+preceding vowel always required for affix
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
+
+sometimes requires preceding vowel
+
+problems with tta, ta, da
+
+preterite stem vowel
+
+V_1Syl_ta/dab/zi/kaha = teta:te
+preceding vowel always required for affix
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
+
+sometimes requires preceding vowel
+
+problems with tta, ta, da
+
+preterite stem vowel
+
 V_ta/dab/di/kaha = souta:sou
 preceding vowel always required for affix
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
@@ -1218,6 +1272,16 @@ problems with tta, ta, da
 preterite stem vowel
 
 V_ta/cheb/chi/kaha adivoita:adivoi
+preceding vowel always required for affix
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
+
+sometimes requires preceding vowel
+
+problems with tta, ta, da
+
+preterite stem vowel
+
+V_1Syl_ta/cheb/chi/kaha loita:loi
 preceding vowel always required for affix
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 
@@ -1656,6 +1720,8 @@ V-ConsonantStem_d/g
 V-ConsonantStem_d/k 
 
 V-ConsonantStem_t/k 
+
+V-ConsonantStem_t/g 
 
 this could be a reflexive infinitive if you want one, jaska 20241111
 

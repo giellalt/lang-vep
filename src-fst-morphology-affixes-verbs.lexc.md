@@ -39,7 +39,12 @@ refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 
 preterite stem vowel
 
-V_da/b/i/gaha =  joda:jo
+V_da/b/i/gaha =  sanuda:sanu
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
+
+preterite stem vowel
+
+V_1Syl_da/b/i/gaha =  joda:jo
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 
 preterite stem vowel
@@ -71,6 +76,26 @@ problems with tta, ta, da
 
 preterite stem vowel
 
+V_ata/tab/zi/kaha = saubata:saub %^DEVOICE
+preceding vowel always required for affix
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
+
+sometimes requires preceding vowel
+
+problems with tta, ta, da
+
+preterite stem vowel
+
+V_1Syl_ta/dab/zi/kaha = teta:te
+preceding vowel always required for affix
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
+
+sometimes requires preceding vowel
+
+problems with tta, ta, da
+
+preterite stem vowel
+
 V_ta/dab/di/kaha = souta:sou
 preceding vowel always required for affix
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
@@ -92,6 +117,16 @@ problems with tta, ta, da
 preterite stem vowel
 
 V_ta/cheb/chi/kaha adivoita:adivoi
+preceding vowel always required for affix
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
+
+sometimes requires preceding vowel
+
+problems with tta, ta, da
+
+preterite stem vowel
+
+V_1Syl_ta/cheb/chi/kaha loita:loi
 preceding vowel always required for affix
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 
@@ -530,6 +565,8 @@ V-ConsonantStem_d/g
 V-ConsonantStem_d/k 
 
 V-ConsonantStem_t/k 
+
+V-ConsonantStem_t/g 
 
 this could be a reflexive infinitive if you want one, jaska 20241111
 

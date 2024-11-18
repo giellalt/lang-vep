@@ -26,6 +26,8 @@ DEM-PRON split in Nom Gen par
 
 NEG-PRON split in Nom Gen Par
 
+«nene» occurs both as Det and Pron
+
 * * *
 
 <small>This (part of) documentation was generated from [src/fst/morphology/affixes/pronouns.lexc](https://github.com/giellalt/lang-vep/blob/main/src/fst/morphology/affixes/pronouns.lexc)</small>

@@ -125,6 +125,12 @@ and its use should be associated with the user group, perhaps.
 * *poigid:* `poig+N+Pl+Par`
 
 * Noun ' / ' examples:*
+* *kund:* `kund+N+Sg+Nom`
+* *kundan:* `kund+N+Sg+Gen`
+* *kundha:* `kund+N+Sg+Ill`
+* *kundid:* `kund+N+Pl+Par`
+
+* Noun ' / ' examples:*
 * *uskond:* `uskond+N+Sg+Nom`
 * *uskondan:* `uskond+N+Sg+Gen`
 * *uskondaha:* `uskond+N+Sg+Ill`
@@ -244,6 +250,11 @@ Plural
 * *d:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
+* *ikun:* `ikun+N+Sg+Nom`
+* *iknan:* `ikun+N+Sg+Gen`
+* *iknoid:* `ikun+N+Pl+Par`
+
+* Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
 * *n:* `+N+Sg+Gen`
 * *d:* `+N+Pl+Par`
@@ -259,9 +270,24 @@ Plural
 * *papid:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
-* *papʼ:* `+N+Sg+Nom`
-* *papin:* `+N+Sg+Gen`
-* *papid:* `+N+Pl+Par`
+* *apʼ:* `+N+Sg+Nom`
+* *apen:* `+N+Sg+Gen`
+* *apid:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *grähk:* `grähk+N+Sg+Nom`
+* *grähkän:* `grähk+N+Sg+Gen`
+* *grähkid:* `grähk+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
@@ -284,19 +310,16 @@ Plural
 * *d:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
+* *lapsʼ:* `+N+Sg+Nom`
+* *lapsen:* `+N+Sg+Gen`
+* *last:* `+N+Sg+Par`
+* *lapsed:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
-
-* Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
+* *noruzʼ:* `noruzʼ+N+Sg+Nom`
+* *noruden:* `noruzʼ+N+Sg+Gen`
+* *norut:* `noruzʼ+N+Sg+Par`
+* *noruzid:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
