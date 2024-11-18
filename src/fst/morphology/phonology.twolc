@@ -230,10 +230,10 @@ V1:Vx <=> Vx Cns:* %> h _ ;
 !! **@RULENAME@** vauged: vauktan
  Cx:Cy <=>  _ [%{eØ%}: |%{uØ%}: ] Cns:CnsVoiceless %^RmVow: %^DEVOICE: %> ;
             Cns:CnsVoiceless [ %{eØ%}: | %{uØ%}: ] _ %^RmVow: %^DEVOICE: %> ;
-	    [Vow:] _ (%^PEN: %^DEVOICE:) (%^RmVow:) %^DEVOICE: ;
-	    [i | l (ʼ) | n | r | Vow:] _ Vow: Cns: %^PEN: %^DEVOICE: ;
-              where Cx in (g d)
-                    Cy in (k t) matched ;
+	    [ l (ʼ) | m | n | r | Vow:] _ (%^PEN: %^DEVOICE:) (%^RmVow:) %^DEVOICE: ;
+	    [ l (ʼ) | m | n | r | Vow:] _ Vow: Cns: %^PEN: %^DEVOICE: ;
+              where Cx in (g d b)
+                    Cy in (k t p) matched ;
 !! oiged+A+Sg+Gen: __right/oikea__
 !!€ oiged^PEN^DEVOICE^RmVow^DEVOICEa>n
 !!€ oik0t0000a>n
@@ -250,7 +250,7 @@ Cx:Cy <=> Vow _ %^DEVOICE: ;
 
 "d:z in vodes, voziš"
 !! **@RULENAME@**  
-d:z <=> Vow+  _  %^TS:0  ; ! GRC ;
+d:z <=> [ n | l | r | Vow ] _  %^TS:0  ; ! GRC ;
 ! last-minute verbs
 ! "ti:si in verbs"
 !   [ n | l | r | Vow Vow ] _ %^TS:0 ; !  pittää: piti 

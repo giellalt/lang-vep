@@ -15,10 +15,30 @@ LEXICON NUM_UEHESA
 +Sg+Nom: K ;
 +Sg: OBLIQUE_CASES_FOR_PRONOUNS ;
 
-!LEXICON NUM_NORUZ
-!!! **LEXICON @LEXNAME@** 
+LEXICON NUM_SEICHEME !seičeme:seičem
+:e SG-NOM-SUF ;
+:%>e SG-OBLIQUE ;
+:e R ; ! xxx check
+! Plural
+:%>e PL-NOM-SUF ;
+:%>e PL-ACC-SUF ;
+:%>i PL-OBLIQUE ;
+
+LEXICON NUM_KOUME !koume:koum
+!! **LEXICON @LEXNAME@**
+:e SG-NOM-SUF ;
++Sg+Ill:he K ;
+:%>e SG-OBLIQUE ;
+:e R ; ! xxx check
+! Plural
+:%>e PL-NOM-SUF ;
+:%>e PL-ACC-SUF ;
+:%>i PL-OBLIQUE ;
+
+LEXICON NUM_NORUZ1
+!! **LEXICON @LEXNAME@** 
 !+Sg+Nom:%>D1E1 K ;
-!: N_NORUZ1 ; ! this applies correct case
+: NMN_NORUZ1 ; ! this applies correct case
 
 LEXICON NUM_
 !! **LEXICON @LEXNAME@** 

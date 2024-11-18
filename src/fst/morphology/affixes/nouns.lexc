@@ -285,6 +285,23 @@ R ; ! xxx check
 :a PL-ACC-SUF ;
 : PL-OBLIQUE ;
 
+LEXICON N_0/an/ad/ha/id ! kund:kund
+! _0/an/ad/ha/id
+!Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
+!!€gt-norm:   Noun ' / '
+!!€  kund: kund+N+Sg+Nom
+!!€  kundan: kund+N+Sg+Gen
+!!€  kundha: kund+N+Sg+Ill
+!!€  kundid: kund+N+Pl+Par
+: SG-NOM-SUF ;
++Sg+Ill:ha K ;
+:a SG-OBLIQUE ;
+R ; ! xxx check
+! Plural
+:a PL-NOM-SUF ;
+:a PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
 LEXICON N_0/an/ad/aha/id ! uskonda:uskond
 ! _0/an/ad/aha/id
 !Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
@@ -584,7 +601,8 @@ LEXICON N_KEL1 !kelʼ:kel
 :ʼ SG-NOM-SUF ;
 :ʼ SG-PAR-SUF_t ;
 :%>e SG-OBLIQUE ;
-R ; ! xxx check
++Cmp/SgNom:ʼ R ; 
++Err/Orth-no-pal+Cmp/SgNom: R ; 
 ! Plural
 :%>e PL-NOM-SUF ;
 :%>e PL-ACC-SUF ;
@@ -596,9 +614,13 @@ LEXICON N_SAR1 !sarʼ:sar
 !!€  n: +N+Sg+Gen
 !!€  d: +N+Pl+Par
 :ʼ SG-NOM-SUF ;
-: SG-PAR-SUF_t ;
++Err/Orth-no-pal: SG-NOM-SUF ;
+:ʼ SG-PAR-SUF_t ;
++Err/Orth-no-pal: SG-PAR-SUF_t ;
++Sg+Ill:ʼhe K ;
 :%>e SG-OBLIQUE ;
-R ; ! xxx check
++Cmp/SgNom:ʼ R ; !
++Cmp/SgNom+Err/Orth-no-pal: R ; !
 ! Plural
 :%>e PL-NOM-SUF ;
 :%>e PL-ACC-SUF ;
@@ -633,6 +655,21 @@ R ; ! xxx check
 :%^PEN%^DEVOICE%^RmVow%^DEVOICE%>a PL-NOM-SUF ;
 :%^PEN%^DEVOICE%^RmVow%^DEVOICE%>a PL-ACC-SUF ;
 :%^PEN%^DEVOICE%^RmVow%^DEVOICE%>o PL-OBLIQUE ;
+
+LEXICON N_IKUN !ikun:ikun
+!!€gt-norm:   Noun ' / '
+!!€  ikun: ikun+N+Sg+Nom
+!!€  iknan: ikun+N+Sg+Gen
+!!€  iknoid: ikun+N+Pl+Par
+!
+: SG-NOM-SUF ;
+!^RmVow
+:%^RmVowa SG-OBLIQUE ;
+R ; ! xxx check
+! Plural
+:%^RmVow%>a PL-NOM-SUF ;
+:%^RmVow%>a PL-ACC-SUF ;
+:%^RmVow%>o PL-OBLIQUE ;
 
 LEXICON N_SAMAL !samal:samal syncope
 !!€gt-norm:   Noun ' / '
@@ -681,9 +718,9 @@ R ; ! xxx check
 
 LEXICON	N_1/en/ed/ehe/id ! apʼ:ap
 !!€gt-norm:   Noun ' / '
-!!€  papʼ: +N+Sg+Nom
-!!€  papin: +N+Sg+Gen
-!!€  papid: +N+Pl+Par
+!!€  apʼ: +N+Sg+Nom
+!!€  apen: +N+Sg+Gen
+!!€  apid: +N+Pl+Par
 :ʼ SG-NOM-SUF ;
 +Err/Orth-no-pal: SG-NOM-SUF ;
 :e SG-OBLIQUE ;
@@ -720,6 +757,21 @@ R ; ! xxx check
 :%>i PL-ACC-SUF ;
 : PL-OBLIQUE ;
 
+LEXICON N_GRAEHK !grähk:grähk
+!!€gt-norm:   Noun ' / '
+!!€  grähk: grähk+N+Sg+Nom
+!!€  grähkän: grähk+N+Sg+Gen
+!!€  grähkid: grähk+N+Pl+Par
+: SG-NOM-SUF ;
+:%>ä SG-OBLIQUE ;!2013 New Testament
+:%>a SG-OBLIQUE ;!2010 vep-ven
++Cmp/SgNom: R ; !
+! Plural
+:%>ä PL-NOM-SUF ;!2013 New Testament
+:%>ä PL-ACC-SUF ;!2013 New Testament
+:%>a PL-NOM-SUF ;!2010 vep-ven
+:%>a PL-ACC-SUF ;!2010 vep-ven
+: PL-OBLIQUE ;
 
 LEXICON N_NIMI !nimi:nim
 !!€gt-norm:   Noun ' / '
@@ -783,12 +835,30 @@ R ; ! xxx check
 :že PL-ACC-SUF ;
 :ž  PL-OBLIQUE ;
 
-! noruz’:norud
+LEXICON N_LAPS1
+!!€gt-norm:   Noun ' / '
+!!€  lapsʼ: +N+Sg+Nom
+!!€  lapsen: +N+Sg+Gen
+!!€  last: +N+Sg+Par
+!!€  lapsed: +N+Pl+Par
+:psʼ SG-NOM-SUF ;
++Err/Orth-no-pal:ps SG-NOM-SUF ;
+:s SG-PAR-SUF_t ;
++Sg+Ill:pshe K ;!CHECKME 2024-11-17
+:pse SG-OBLIQUE ;
+:psʼ R ; ! xxx check
+! Plural
+:pse PL-NOM-SUF ;
+:pse PL-ACC-SUF ;
+:ps  PL-OBLIQUE ;
+
+! noruzʼ:norud
 LEXICON N_NORUZ1 ! OUN-ZD_QEQ
 !!€gt-norm:   Noun ' / '
-!!€  : +N+Sg+Nom
-!!€  n: +N+Sg+Gen
-!!€  d: +N+Pl+Par
+!!€  noruzʼ: noruzʼ+N+Sg+Nom
+!!€  noruden: noruzʼ+N+Sg+Gen
+!!€  norut: noruzʼ+N+Sg+Par
+!!€  noruzid: +N+Pl+Par
 : NMN_NORUZ1 ;
 
 
@@ -889,6 +959,7 @@ LEXICON N_o/on/od/oho/oid
 !!€  nadoid: nado+N+Pl+Par
 !!* Yaml: __nado__
 : SG-NOM-SUF ;
++Sg+Ill:ho K ;
 : SG-OBLIQUE ;
 R ; ! xxx check
 ! Plural
@@ -901,10 +972,12 @@ R ; ! xxx check
 !! ## Nominals
 
 LEXICON NMN_NORUZ1
-:%^TS’ SG-NOM-SUF ;
-:%^DEVOICE SG-PAR-SUF ;
+:%^TSʼ SG-NOM-SUF ;
++Err/Orth-no-pal:%^TS SG-NOM-SUF ;
++Sg+Par:%^DEVOICE K ;
 :e SG-OBLIQUE ;
-R ; ! xxx check
+:%^TSʼ R ; !
++Err/Orth-no-pal:%^TS R ; !
 ! Plural
 :e PL-NOM-SUF ;
 :e PL-ACC-SUF ;
@@ -1163,11 +1236,10 @@ LEXICON ILL-SUF
 LEXICON SG-INE-SUF
 +Sg: INE-SUF ;
 LEXICON INE-SUF
-+Ine:%>s K ; ! s/š kül’betiš 
++Ine:%>s K ; ! s/š külʼbetiš 
 
 LEXICON SG-NOM-SUF
 +Sg: NOM-SUF ;
-+Cmp/SgNom: R ; !
 LEXICON NOM-SUF
 +Nom: K ;
 
@@ -1253,7 +1325,7 @@ LEXICON PL-ILL-SUF
 +Pl+Ill:%>ihe K ; ! o-ho
 
 LEXICON PL-INE-SUF
-+Pl+Ine:%>iš K ; ! s/š kül’betiš 
++Pl+Ine:%>iš K ; ! s/š külʼbetiš 
 
 LEXICON PL-NOM-SUF
 +Pl+Nom:%>d K ;

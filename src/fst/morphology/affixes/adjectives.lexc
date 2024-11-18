@@ -14,6 +14,9 @@
 
 LEXICON A_UZ1 !!≈ * **@CODE@** = uz’:ud, goes to NMN_NORUZ
  NMN_NORUZ1 ;
+LEXICON A_NAGRIZH !nagriž:nagr
+ N_NAGRIZH ;
++Comp:he%>mb N_POIG ;
 
 LEXICON A_RUSKED !!≈ * **@CODE@** = goes to NMN\_RUSKED
  NMN_RUSKED ;

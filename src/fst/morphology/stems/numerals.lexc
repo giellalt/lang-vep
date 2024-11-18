@@ -26,12 +26,3 @@ kaksʼ+Num:ka NUM_KAKS1 ;
 üksʼ+Num:ü NUM_YKS1 ;
 seičeme+Num:seičeme NUM_SEICHEME ;
 
-LEXICON NUM_SEICHEME !seičeme:seičem
-:e SG-NOM-SUF ;
-:%>e SG-OBLIQUE ;
-:e R ; ! xxx check
-! Plural
-:%>e PL-NOM-SUF ;
-:%>e PL-ACC-SUF ;
-:%>i PL-OBLIQUE ;
-

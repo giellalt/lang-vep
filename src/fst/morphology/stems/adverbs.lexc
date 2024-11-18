@@ -1,6 +1,26 @@
 
 LEXICON adverbs
 
+alahaks+Adv:alahaks ADV_ ;
+dai+Adv:dai ADV_ ;
+edehe+Adv:edehe ADV_ ;
+edemba+Adv:edemba ADV_ ;
+enamba+Adv:enamba ADV_ ;
+ezil+Adv:ezil ADV_ ;
+ezile+Adv:ezile ADV_ ;
+kutak+Adv:kutak ADV_ ;
+lähemba+Adv:lähemba ADV_ ;
+möhemba+Adv:möhemba ADV_TEMP ;
+möst+Adv:möst ADV_ ;
+tägäpäi+Adv:tägäpäi ADV_ ;
+paremba+Adv:paremba ADV_ ;
+silʼmnägubale+Adv:silʼmnägubale ADV_ ;
+vasthapäi+Adv:vasthapäi ADV_ ;
+tagaze+Adv:tagaze ADV_ ;
+tänna+Adv:tänna ADV_ ;
+nikonz+Adv:nikonz ADV_TEMP ;
+nügüdʼ+Adv:nügüdʼ ADV_TEMP ;
+edel+Adv:edel ADV_TEMP ;
 ani+Adv:ani ADV_ ;
 aminʼ+Adv:aminʼ ADV_ ;
 äi+Adv:äi ADV_ ;
@@ -10,6 +30,7 @@ mugažo+Adv:mugažo ADV_ ;
 ezmäi+Adv:ezmäi ADV_ ;
 ezmäks+Adv:ezmäks ADV_ ;
 ezmässai+Adv:ezmässai ADV_ ;
+läz+Adv:läz ADV_ ;
 tämbei+Adv:tämbei ADV_TEMP ;
 tägä+Adv:tägä ADV_ ;
 täs+Adv:täs ADV_ ;

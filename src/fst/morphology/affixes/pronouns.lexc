@@ -47,11 +47,24 @@ ičeze+Pron+Refl+Pl3+Gen:ičeze K ;
 ičeze+Pron+Refl+Sg3+Apr2:ičezennoks K ;
 ičeze+Pron+Refl+Sg3+Egr:ičezennopäi K ;
 ičeze+Pron+Refl+Pl3+Apr2:ičezennoks K ;!Do we want + OR +SP3
-nece+Det:ne DET_NECE ;
+nece+Det:ne DET_NECE ;! occurs also as a determiner
+nece+Pron:ne DET_NECE ;
 kaikutte+Pron:kaiku A_IN_TTE ;
 mitte+Pron:mi PRON_IN_TTE ;
 nimitte+Pron:nimi PRON_IN_TTE ;
-
+nimi+Pron+Neg+Sg+Par:nimidä K ;
+ken-ni+Pron+Indef+Sg+Nom:ken-ni K ;
+ken-ni+Pron+Indef+Sg+Gen:kenen-ni K ;
+ken-ni+Pron+Indef+Sg+Com:kenenke-ni K ;
+ken-ni+Pron+Indef+Sg+Par:keda-ni K ;
+ken-ni+Pron+Indef+Sg+Ade:kenel-ni K ;
+ken-ni+Pron+Indef+Sg+All:kenele-ni K ;
+ken-se+Pron+Indef+Sg+Nom:ken-se K ;
+ken-se+Pron+Indef+Sg+Gen:kenen-se K ;
+ken-se+Pron+Indef+Sg+Par:keda-se K ;
+ken-se+Pron+Indef+Sg+Ade:kenel-se K ;
+ken-se+Pron+Indef+Sg+All:kenele-se K ;
+kuna+Pron+Rel:kuna K ;
 
 LEXICON PRON_IN_TTE !mitte
  N_IN_TTE ;
@@ -163,6 +176,11 @@ LEXICON DEM-PRON
 se+Pron+Dem+Sg+Nom:se K ;
 se+Pron+Dem+Sg+Gen:sen K ;
 se+Pron+Dem+Sg+Par:sidä K ;
+se+Pron+Dem+Sg+All:sille K ;
+se+Pron+Dem+Sg+Ade:sil K ;
+se+Pron+Dem+Sg+Ine:siš K ;
+se+Pron+Dem+Sg+Ela:sišpäi K ;
+se+Pron+Dem+Sg+Ill:sihe K ;
 
 LEXICON NEG-PRON
 !! @LEXNAME@ split in Nom Gen Par
@@ -195,7 +213,8 @@ LEXICON DET_NECE !nece+Pron:ne
 +Dem:n PL-GEN-SUF ;
 +Dem:n PL-ILL-SUF ;
 +Dem:n PL-INE-SUF ;
-+Dem:ne PL-NOM-SUF ;
++Dem:ne PL-NOM-SUF ;! «nened» occurs both as Det and Pron
++Dem+Pl+Nom:ne K ;!! «nene» occurs both as Det and Pron
 +Dem:n PL-PAR-SUF ;
 +Dem:n PL-TRA-SUF ;
 

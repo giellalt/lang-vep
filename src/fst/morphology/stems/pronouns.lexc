@@ -3,9 +3,10 @@
 LEXICON pronouns
 !! **LEXICON @LEXNAME@** = contains the 6 personal
 
-minä+Pron:min PersSg1  "minä" ;
-sinä+Pron:sin PersSg2  "sinä" ;
-hän+Pron:hä PersSg3  "hän" ;
-mö+Pron:m PersPl1  "me" ;
-tö+Pron:t PersPl2  "te" ;
-hö+Pron:h PersPl3  "he" ;
+!minä+Pron:min PersSg1  "minä" ;
+!sinä+Pron:sin PersSg2  "sinä" ;
+!hän+Pron:hä PersSg3  "hän" ;
+!minä+Pron:m PersPl1  "me" ;
+!sinä+Pron:t PersPl2  "te" ;
+!hän+Pron:h PersPl3  "he" ;
+

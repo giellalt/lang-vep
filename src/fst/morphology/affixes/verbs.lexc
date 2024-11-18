@@ -69,7 +69,7 @@ LEXICON V_ata/ab/oi/akaha
 LEXICON V_da/vab/voi/gaha
 !! @LEXNAME@ =  kaida:kai
 ! V_
-:va INF_da ;
+: INF_da ;
 :va V-VowelStem-PRS ;
 !! refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg,
 +Der+Der/NomAg+N:va N_TEGII ;! this will need its own work with ‹e› present stems20241109
@@ -131,20 +131,35 @@ LEXICON V_ada/ab/oi/agaha
 !:a PRFPRC_nu ;
 
 LEXICON V_da/b/i/gaha
+!! @LEXNAME@ =  sanuda:sanu
+! V_JODA
+: INF_da ;
+: V-VowelStem-PRS ;
+!! refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
++Der+Der/NomAg+N: N_KACUI ;! this will need its own work with
+
+: ACT_COND_type ;
+: ACT_PRFPRC_type_nu ;
+: V-ConsonantStem_t/g ;
+
+: VNONFIN_m ;
+
+!! preterite stem vowel
+: ACT_IND_PRT ;! has i at affix
+
+LEXICON V_1Syl_da/b/i/gaha
 !! @LEXNAME@ =  joda:jo
 ! V_JODA
 : INF_da ;
 : V-VowelStem-PRS ;
 !! refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
-+Der+Der/NomAg+N: N_TEGII ;! this will need its own work with
++Der+Der/NomAg+N: N_KACUI ;! this will need its own work with
 
 : ACT_COND_type ;
 : ACT_PRFPRC_type_nu ;
-: V-ConsonantStem_d/g ;
+: V-ConsonantStem_t/g ;
 
 : VNONFIN_m ;
-
-+Der/NomAg+PrsPrc:%>jA1 K ; ! This will have to be AdjTag or something
 
 !! preterite stem vowel
 : ACT_IND_PRT ;! has i at affix
@@ -222,6 +237,56 @@ LEXICON V_ta/dab/zi/kaha
 !! preterite stem vowel
 :z ACT_IND_PRT ;! gets i
 
+LEXICON V_ata/tab/zi/kaha
+!! @LEXNAME@ = saubata:saub %^DEVOICE
+! V_??
+!! preceding vowel always required for affix
+:%^DEVOICE%>ta V-VowelStem-PRS ;
+!! refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
++Der+Der/NomAg+N:%^DEVOICE%>ta N_KACUI ;! this will need its own work with
+
+!! sometimes requires preceding vowel
+:%^DEVOICE%>ta ACT_COND_type ;
+:%^DEVOICE%>ta ACT_PRFPRC_type_nu ;
+
+:%^DEVOICE%>ta VNONFIN_m ;
+
+!!consonant stem if there is one takes both te, tes,... and kaha, koi
+:a V-ConsonantStem_te/tud/tas ;
+:%^DEVOICE V-ConsonantStem_kaha/koi ;
+! refl-imprt-sg2, refl-ind-prs-sg-conneg
+
+!! problems with tta, ta, da
+:a INF_ta ;
+
+!! preterite stem vowel
+:%^DEVOICE%>s ACT_IND_PRT ;! gets i
+
+LEXICON V_1Syl_ta/dab/zi/kaha
+!! @LEXNAME@ = teta:te
+! V_?
+!! preceding vowel always required for affix
+:da V-VowelStem-PRS ;
+!! refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
++Der+Der/NomAg+N:da N_KACUI ;! this will need its own work with
+
+!! sometimes requires preceding vowel
+:da ACT_COND_type ;
+:d ACT_PRFPRC_type_nu ;
+
+:d VNONFIN_m ;
+:d VNONFIN_matoi ;! has -mine and matoi
+
+!!consonant stem if there is one takes both te, tes,... and kaha, koi
+ V-ConsonantStem_t/k ;
+! refl-imprt-sg2, refl-ind-prs-sg-conneg
+
+!! problems with tta, ta, da
+: INF_ta ;
+
+!! preterite stem vowel
+:z ACT_IND_PRT ;! gets i
+
 LEXICON V_ta/dab/di/kaha
 !! @LEXNAME@ = souta:sou
 ! V_souta
@@ -232,7 +297,7 @@ LEXICON V_ta/dab/di/kaha
 
 !! sometimes requires preceding vowel
 :da ACT_COND_type ; 
-:da ACT_PRFPRC_type_nu ;
+:d ACT_PRFPRC_type_nu ;
 :da VNONFIN_m ;
 
 !!consonant stem if there is one takes both te, tes,... and kaha, koi
@@ -277,13 +342,37 @@ LEXICON V_ta/cheb/chi/kaha
 +Der+Der/NomAg+N:či N_TEGII ;! this will need its own work with
 
 !! sometimes requires preceding vowel
-:če ACT_COND_type ;
+:č ACT_COND_type ;
 :če ACT_PRFPRC_type_nu ;
 
 :če VNONFIN_m ;
 
 !!consonant stem if there is one takes both te, tes,... and kaha, koi
- V-ConsonantStem_t/k ;
+ V-ConsonantStem_t/k ; !CHECKME
+! refl-imprt-sg2, refl-ind-prs-sg-conneg
+
+!! problems with tta, ta, da
+: INF_ta ;
+
+!! preterite stem vowel
+:č ACT_IND_PRT ;! gets i
+
+LEXICON V_1Syl_ta/cheb/chi/kaha
+!! @LEXNAME@ loita:loi
+! V_?
+!! preceding vowel always required for affix
+:če V-VowelStem-PRS ;
+!! refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
++Der+Der/NomAg+N:či N_TEGII ;! this will need its own work with
+
+!! sometimes requires preceding vowel
+:č ACT_COND_type ;
+:č ACT_PRFPRC_type_nu ;
+
+:č VNONFIN_m ;
+
+!!consonant stem if there is one takes both te, tes,... and kaha, koi
+:č V-ConsonantStem_t/k ;
 ! refl-imprt-sg2, refl-ind-prs-sg-conneg
 
 !! problems with tta, ta, da
@@ -301,7 +390,7 @@ LEXICON V_da/cheb/chi/kaha
 +Der+Der/NomAg+N:či N_TEGII ;! this will need its own work with
 
 !! sometimes requires preceding vowel
-:če ACT_COND_type ;
+:č ACT_COND_type ;
 :če ACT_PRFPRC_type_nu ;
 
 :če VNONFIN_m ;
@@ -421,7 +510,7 @@ LEXICON V_ta/ndeb/nzi/kaha
 +Der+Der/NomAg+N:ndi N_TEGII ;! this will need its own work with ‹e› present stems20241109
 
 !! sometimes requires preceding vowel
-:nde ACT_COND_type ;
+:nd ACT_COND_type ;
 :nde ACT_PRFPRC_type_nu ;
 
 :nde VNONFIN_m ; !does not include -matoi 20241109
@@ -585,8 +674,8 @@ LEXICON V_ta/eb/i/kaha
 +Der+Der/NomAg+N:i N_TEGII ;! this will need its own work with ‹e› present stems20241109
 
 !! sometimes requires preceding vowel
-:e ACT_COND_type ;
-:e ACT_PRFPRC_type_nu ;
+: ACT_COND_type ;
+: ACT_PRFPRC_type_nu ;
 
 :e VNONFIN_m ; !does not include -matoi 20241109
 
@@ -783,6 +872,7 @@ LEXICON V_elta/leb/li/elkaha
 :el ACT_PRFPRC_type_nu ;
 
 :le VNONFIN_m ; !does not include -matoi 20241109
+:el VNONFIN_m ; !does not include -matoi 20241109
 
 !!consonant stem if there is one takes both te, tes,... and kaha, koi
 :el V-ConsonantStem_t/k ;
@@ -803,7 +893,7 @@ LEXICON V_elta/leb/li/elkaha
 !+Der+Der/NomAg+N:i N_TEGII ;! this will need its own work with ‹e› present stems20241109
 !
 !!! sometimes requires preceding vowel
-!:e ACT_COND_type ;
+!: ACT_COND_type ;
 !:e ACT_PRFPRC_type_nu ;
 !
 !:e VNONFIN_m ; !does not include -matoi 20241109
@@ -1020,7 +1110,7 @@ LEXICON V_kta/geb/gi/ggaha
 +Der+Der/NomAg+N:gi N_TEGII ;! this will need its own work with ‹e› present stems20241109
 
 !! sometimes requires preceding vowel
-:ge ACT_COND_type ;
+:g ACT_COND_type ;
 :ge ACT_PRFPRC_type_nu ;
 
 :ge VNONFIN_m ; !does not include -matoi 20241109
@@ -1130,6 +1220,7 @@ LEXICON V_TEHTA !
 : V-ConsonantStem_kaha/koi ;
 :ge INDPRS3 ;
 :h INF_ta ;
+:h VNONFIN_m ;
 :h ACT_PRFPRC_type_nu ;
 +Der+Der/NomAg+N:gi N_TEGII ;! this might be the same as V-VowelStem-PRT with an i in next lexicon
 
@@ -1661,10 +1752,6 @@ LEXICON V-ConsonantStem_de/dud/das
 +Inf+Der/Te+Ine:%>des K ;
 +Inf+Der/Te+EssInst:%>den K ;
 
-LEXICON	V-ConsonantStem_gaha/goi
-: IMPRT_gaha ;
-: REFL_IMPRT_gahas ;
-
 LEXICON V-ConsonantStem_d/k
 !! @LEXNAME@ 
  V-ConsonantStem_de/dud/das ;
@@ -1674,6 +1761,11 @@ LEXICON V-ConsonantStem_t/k
 !! @LEXNAME@ 
  V-ConsonantStem_te/tud/tas ;
  V-ConsonantStem_kaha/koi ;
+
+LEXICON V-ConsonantStem_t/g
+!! @LEXNAME@ 
+ V-ConsonantStem_te/tud/tas ;
+ V-ConsonantStem_gaha/goi ;
 
 LEXICON V-ConsonantStem_te/tud/tas
 +Refl+Ind+Prs+Sg+ConNeg:%>te K ;
@@ -1687,10 +1779,27 @@ LEXICON V-ConsonantStem_te/tud/tas
 +Inf+Der/Te+Ine:%>tes K ;
 +Inf+Der/Te+EssInst:%>ten K ;
 
+LEXICON	V-ConsonantStem_gaha/goi
+: IMPRT_gaha ;
+: REFL_IMPRT_gahas ;
+: IMPRT_PL_CONNEG_goi ;
+: IND_PRS_PL_CONNEG_goi ;
+
 LEXICON V-ConsonantStem_kaha/koi
 : IMPRT_kaha ;
 : REFL_IMPRT_kahas ;
+: IMPRT_PL_CONNEG_koi ;
+: IND_PRS_PL_CONNEG_koi ;
 
+LEXICON IND_PRS_PL_CONNEG_koi
++Ind+Prs+Pl+ConNeg:%>koi K ;
+LEXICON IMPRT_PL_CONNEG_koi
++Imprt+Pl+ConNeg:%>koi K ;
+
+LEXICON IND_PRS_PL_CONNEG_goi
++Ind+Prs+Pl+ConNeg:%>goi K ;
+LEXICON IMPRT_PL_CONNEG_goi
++Imprt+Pl+ConNeg:%>goi K ;
 
 !+Der/IA+Act+PrsPrc:%>jA1 K ; ! This will have to be AdjTag or something
 ! VNONFIN_m ;
@@ -1704,6 +1813,9 @@ VNONFIN_m_ILL_mha ;
 VNONFIN_REFL_m_ILL_mahas ;
 VNONFIN_REFL_m_ILL_mhas ;
 VNONFIN_m_INE ;
+VNONFIN_m_MINE ;
+VNONFIN_m_MATOI ;
+LEXICON VNONFIN_matoi
 VNONFIN_m_MINE ;
 VNONFIN_m_MATOI ;
 LEXICON VNONFIN_m_ILL_mha

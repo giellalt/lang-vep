@@ -18,4 +18,19 @@ poigaine+N:poigaiže POSS_SUF ;
 sünduine+N:sünduiže POSS_SUF ;
 tat+N:tata POSS_SUF ;
 
+! adverbs with possessive suffixes
+kesknemoi+Adv+PxPl1:kesknemoi K ;
+kesknetoi+Adv+PxPl2:kesknetoi K ;
+kesknezoi+Adv+PxPl3:kesknezoi K ;
+üksnäin+Adv+PxSg1:üksnäin K ;
+üksnäiž+Adv+PxSg2:üksnäiž K ;
+üksnäze+Adv+PxSg3:üksnäze K ;
 
+edele+Adv+PxSg3:edeleze K ;
+kogonaze+Adv+PxSg3:kogonaze K ;
+
+ni+Pcle+Neg:ni # ;
+
+! what are these
+enamb+Pron+Indef:enamb N_POIG ;
+vot+Interj:vot K ;

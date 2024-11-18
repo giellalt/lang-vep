@@ -560,9 +560,9 @@ LEXICON INTERJ_
 !!! @LEXNAME@ 
 !+A: #; 
  
-LEXICON ADV_ 
+LEXICON ADV_
 !! @LEXNAME@ 
-: # ; 
+: K ; 
  
 LEXICON ADV_MANNER 
 !! @LEXNAME@ 
@@ -587,6 +587,8 @@ LEXICON PO_ILL
 +Ill: K ;
 LEXICON PO_INE
 +Ine: K ;
+LEXICON PR_
+ K ;
 
 !LEXICON CASESUF #; 
 !!! @LEXNAME@ 

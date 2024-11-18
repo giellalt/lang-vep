@@ -3,13 +3,13 @@ LEXICON quantifiers
 
 üksʼ+Num:ü NUM_YKS1  "yksi" ;
 kaksʼ+Num:ka NUM_KAKS1  "kaksi" ;
-koume+Num:koume NUM_  "kolme" ;
+koume+Num:koum NUM_KOUME  "kolme" ;
 nellʼ+Num:nellʼ NUM_  "neljä" ;
 viž+Num:viž NUM_  "viisi" ;
-kuzʼ+Num:kuzʼ NUM_  "kuusi" ;
-seičeme+Num:seičeme NUM_  "seitsemän" ;
-kahesa+Num:kahesa NUM_  "kahdeksan" ;
-ühesa+Num:ühesa NUM_  "yhdeksän" ;
+kuzʼ+Num:kud NUM_NORUZ1  "kuusi" ;
+seičeme+Num:seičem NUM_SEICHEME  "seitsemän" ;
+kahesa+Num:kahesa NUM_UEHESA  "kahdeksan" ;
+ühesa+Num:ühesa NUM_UEHESA  "yhdeksän" ;
 kümne+Num:kümne NUM_  "kymmenen" ;
 üksʼtoštkümne+Num:üksʼtoštkümne NUM_  "yksitoista" ;
 kaksʼtoštkümne+Num:kaksʼtoštkümne NUM_  "kaksitoista" ;
