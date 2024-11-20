@@ -467,4 +467,6 @@ mairiž+N:mair N_NAGRIZH ;
 tähk+N:tähk N_POIG ;
 tütär+N:tütär N_TUETAER ;
 mok+N:mok N_POIG ;
-skorpion+:skorpion N_MARJ ;
+skorpion+N:skorpion N_MARJ ;
+hibuz+N:hibuz N_ALUZ ;
+pahantegii+N:pahantegi N_TEGII ;
