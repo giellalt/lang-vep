@@ -23,14 +23,37 @@ LEXICON V_EI
 
 !! ### Regular verbs
 
-LEXICON V_ada/ab/i/agaha !! largest verb group vedada:ved
+LEXICON V_ada/ab/i/agaha !! largest verb group vedada:ved (even number of syllables in stem)
 !! @LEXNAME@ =  vedada:ved
 !V_VEDADA 
 !! preceding vowel always required for affix
 :a V-VowelStem-PRS ;
 !! refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 +Der+Der/NomAg+N:a N_TEGII ;! this will need its own work with ‹e› present stems20241109
-+Der/NomAg+PrsPrc:a%>jA1 K ; ! This will have to be AdjTag or something
+
+!! sometimes requires preceding vowel
+:a ACT_COND_type ;
+:a ACT_PRFPRC_type_nu ;
+:a VNONFIN_m ;
+
+!!consonant stem if there is one takes both te, tes,... and kaha, koi
+:a V-ConsonantStem_d/g ;
+! refl-imprt-sg2, refl-ind-prs-sg-conneg
+
+!! problems with tta, ta, da
+:a INF_da ;
+
+!! preterite stem vowel
+: ACT_IND_PRT ;! gets i
+
+LEXICON V_ada/ab/i/agha !! split from largest verb group vedada:ved (even number of syllables in stem)
+!! armahtagha odd number of syllables in stem
+!! @LEXNAME@ =  armahtada:armaht
+!V_ 
+!! preceding vowel always required for affix
+:a V-VowelStem-PRS ;
+!! refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
++Der+Der/NomAg+N:a N_TEGII ;! this will need its own work with ‹e› present stems20241109
 
 !! sometimes requires preceding vowel
 :a ACT_COND_type ;
@@ -147,7 +170,7 @@ LEXICON V_da/b/i/gaha
 !! preterite stem vowel
 : ACT_IND_PRT ;! has i at affix
 
-LEXICON V_1Syl_da/b/i/gaha
+LEXICON V_1Syl_da/b/i/gha
 !! @LEXNAME@ =  joda:jo
 ! V_JODA
 : INF_da ;
@@ -157,7 +180,7 @@ LEXICON V_1Syl_da/b/i/gaha
 
 : ACT_COND_type ;
 : ACT_PRFPRC_type_nu ;
-: V-ConsonantStem_t/g ;
+: V-ConsonantStem_t/gha ;
 
 : VNONFIN_m ;
 
@@ -434,7 +457,7 @@ LEXICON V_da/b/0/gaha
 !! preceding vowel always required for affix
 : V-VowelStem-PRS ;
 !! refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
-+Der+Der/NomAg+N:i N_TEGII ;! this will need its own work with
++Der+Der/NomAg+N: N_TEGII ;! this will need its own work with
 
 !! sometimes requires preceding vowel
 : ACT_COND_type_NO_i ; 
@@ -1697,7 +1720,6 @@ LEXICON IMPRTPLCONNEG_goi
 
 LEXICON IMPRTSG3_gaha
 +Imprt+Sg3:%>gaha K ;
-
 LEXICON IMPRTSG3_gha
 +Imprt+Sg3:%>gha K ;
 
@@ -1730,14 +1752,25 @@ REFL_IMPRT_PL2_gatoish ;
 REFL_IMPRT_PL3_gahas ;
 REFL_IMPRT_CONNEG_goish ;
 
+LEXICON REFL_IMPRT_ghas
+REFL_IMPRT_SG3_ghas ;
+REFL_IMPRT_PL1_gamoish ;
+REFL_IMPRT_PL2_gatoish ;
+REFL_IMPRT_PL3_ghas ;
+REFL_IMPRT_CONNEG_goish ;
+
 LEXICON REFL_IMPRT_SG3_gahas
 +Refl+Imprt+Sg3:%>gahas K ;
+LEXICON REFL_IMPRT_SG3_ghas
++Refl+Imprt+Sg3:%>ghas K ;
 LEXICON REFL_IMPRT_PL1_gamoish
 +Refl+Imprt+Pl1:%>gamoiš K ;
 LEXICON REFL_IMPRT_PL2_gatoish
 +Refl+Imprt+Pl2:%>gatoiš K ;
 LEXICON REFL_IMPRT_PL3_gahas
 +Refl+Imprt+Pl3:%>gahas K ;
+LEXICON REFL_IMPRT_PL3_ghas
++Refl+Imprt+Pl3:%>ghas K ;
 LEXICON REFL_IMPRT_CONNEG_goish
 +Refl+Imprt+ConNeg:%>goiš K ;
 
@@ -1790,6 +1823,11 @@ LEXICON V-ConsonantStem_t/g
  V-ConsonantStem_te/tud/tas ;
  V-ConsonantStem_gaha/goi ;
 
+LEXICON V-ConsonantStem_t/gha
+!! @LEXNAME@ 
+ V-ConsonantStem_te/tud/tas ;
+ V-ConsonantStem_gha/goi ;
+
 LEXICON V-ConsonantStem_te/tud/tas
 +Refl+Ind+Prs+Sg+ConNeg:%>te K ;
 +Refl+Imprt+Sg2:%>te K ;
@@ -1805,6 +1843,12 @@ LEXICON V-ConsonantStem_te/tud/tas
 LEXICON	V-ConsonantStem_gaha/goi
 : IMPRT_gaha ;
 : REFL_IMPRT_gahas ;
+: IMPRT_PL_CONNEG_goi ;
+: IND_PRS_PL_CONNEG_goi ;
+
+LEXICON	V-ConsonantStem_gha/goi
+: IMPRT_gha ;
+: REFL_IMPRT_ghas ;
 : IMPRT_PL_CONNEG_goi ;
 : IND_PRS_PL_CONNEG_goi ;
 

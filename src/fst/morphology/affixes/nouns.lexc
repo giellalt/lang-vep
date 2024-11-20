@@ -35,6 +35,19 @@ LEXICON N_MUNA ! Stem vowel alternation ZERO-A-ZERO muna:mun
 :%>a PL-ACC-SUF ;
 : PL-OBLIQUE ;
 
+LEXICON N_MOEHAE ! Stem vowel alternation ZERO-A-ZERO möhä:möh
+!!€gt-norm:   Noun ' / '
+!!€  : +N+Sg+Nom
+!!€  n: +N+Sg+Gen
+!!€  d: +N+Pl+Par
+!:ä ATTESTED-NOUN-STEM ;
+:ä SG-NOM-SUF ;
+:%>ä SG-OBLIQUE ;
+! Plural
+:%>ä PL-NOM-SUF ;
+:%>ä PL-ACC-SUF ;
+: PL-OBLIQUE ;
+
 
 LEXICON N_SANA
 ! sana = pyrrhic <
@@ -121,17 +134,6 @@ R ; ! xxx check
 :%>a PL-ACC-SUF ;
 :o PL-OBLIQUE ;
 
-LEXICON N_PAVEL
-!: N_0/RmVow ;
-: SG-NOM-SUF ;
-+Sg+Ill:%^RmVow%>aha K ;
-+Sg+Par:%^RmVow%>ad K ;
-:%^RmVow%>a SG-OBLIQUE_NO_DERIV/ILL/PAR ;
-! Plural
-!:%>a PL-NOM-SUF ;
-!:%>a PL-ACC-SUF ;
-!:o PL-OBLIQUE ;
-
 LEXICON N_FILIP
 !: N_ ;
 : SG-NOM-SUF ;
@@ -195,9 +197,9 @@ LEXICON N_LIND ! lind:lind
 LEXICON N_0/un/ud/hu/uid ! lind:lind
 ! N_0/un/ud/hu/uid
 !!€gt-norm:   Noun ' / '
-!!€  : +N+Sg+Nom
-!!€  n: +N+Sg+Gen
-!!€  d: +N+Pl+Par
+!!€  lind: +N+Sg+Nom
+!!€  lindun: +N+Sg+Gen
+!!€  linduid: +N+Pl+Par
 : SG-NOM-SUF ;
 +Sg+Ill:%>hu K ;
 :%>u SG-OBLIQUE ;
@@ -645,9 +647,9 @@ R ; ! xxx check
 
 LEXICON N_OIGED !oiged:oiged
 !!€gt-norm:   Noun ' / '
-!!€  : +N+Sg+Nom
-!!€  n: +N+Sg+Gen
-!!€  d: +N+Pl+Par
+!!€  oiged: +N+Sg+Nom
+!!€  oiktan: +N+Sg+Gen
+!!€  oiktoid: +N+Pl+Par
 !oi|ged (-ktan, -ktoid)
 : SG-NOM-SUF ;
 !^PEN^DEVOICE^RmVow^DEVOICE
@@ -657,6 +659,17 @@ R ; ! xxx check
 :%^PEN%^DEVOICE%^RmVow%^DEVOICE%>a PL-NOM-SUF ;
 :%^PEN%^DEVOICE%^RmVow%^DEVOICE%>a PL-ACC-SUF ;
 :%^PEN%^DEVOICE%^RmVow%^DEVOICE%>o PL-OBLIQUE ;
+
+LEXICON N_PAVEL
+!: N_0/RmVow ;
+: SG-NOM-SUF ;
++Sg+Ill:%^RmVow%>aha K ;
++Sg+Par:%^RmVow%>ad K ;
+:%^RmVow%>a SG-OBLIQUE_NO_DERIV/ILL/PAR ;
+! Plural
+!:%>a PL-NOM-SUF ;
+!:%>a PL-ACC-SUF ;
+!:o PL-OBLIQUE ;
 
 LEXICON N_IKUN !ikun:ikun
 !!€gt-norm:   Noun ' / '
@@ -673,11 +686,27 @@ R ; ! xxx check
 :%^RmVow%>a PL-ACC-SUF ;
 :%^RmVow%>o PL-OBLIQUE ;
 
+LEXICON N_TUETAER !tütär:tütär
+!!€gt-norm:   Noun ' / '
+!!€  tütär: tütär+N+Sg+Nom
+!!€  tütren: tütär+N+Sg+Gen
+!!€  tütrid: tütär+N+Pl+Par
+!
+: SG-NOM-SUF ;
+: SG-PAR-SUF_t ;
+!^RmVow
+:%^RmVowe SG-OBLIQUE ;
+R ; ! xxx check
+! Plural
+:%^RmVow%>e PL-NOM-SUF ;
+:%^RmVow%>e PL-ACC-SUF ;
+:%^RmVow%> PL-OBLIQUE ;
+
 LEXICON N_SAMAL !samal:samal syncope
 !!€gt-norm:   Noun ' / '
-!!€  : +N+Sg+Nom
-!!€  n: +N+Sg+Gen
-!!€  d: +N+Pl+Par
+!!€  samal: +N+Sg+Nom
+!!€  samlon: +N+Sg+Gen
+!!€  samloid: +N+Pl+Par
 : SG-NOM-SUF ;
 : SG-PAR-SUF_t ;  
 :%^RmVow%^DEVOICE%>o SG-OBLIQUE ;
@@ -716,7 +745,7 @@ R ; ! xxx check
 ! Plural
 :i PL-NOM-SUF ;
 :i PL-ACC-SUF ;
-:i PL-OBLIQUE ;
+: PL-OBLIQUE ;
 
 LEXICON	N_1/en/ed/ehe/id ! apʼ:ap
 !!€gt-norm:   Noun ' / '
@@ -745,6 +774,34 @@ R ; ! xxx check
 :de PL-NOM-SUF ;
 :de PL-ACC-SUF ;
 :nz PL-OBLIQUE ;
+
+LEXICON	N_VIL1L1 ! vilʼlʼ:vil
+!!€gt-norm:   Noun ' / '
+!!€  vilʼlʼ: vilʼlʼ+N+Sg+Nom
+!!€  villän: vilʼlʼ+N+Sg+Gen
+!!€  villid: vilʼlʼ+N+Pl+Par
+:ʼlʼ SG-NOM-SUF ;
++Sg+Ill:läha K ;
+:lä SG-OBLIQUE ;
+:ʼlʼ R ; ! xxx check
+! Plural
+:lä PL-NOM-SUF ;
+:lä PL-ACC-SUF ;
+:l PL-OBLIQUE ;
+
+LEXICON	N_GOL1L1 ! golʼlʼ:gol
+!!€gt-norm:   Noun ' / '
+!!€  golʼlʼ: golʼlʼ+N+Sg+Nom
+!!€  golʼlʼan: golʼlʼ+N+Sg+Gen
+!!€  gollid: golʼlʼ+N+Pl+Par
+:ʼlʼ SG-NOM-SUF ;
+:ʼlʼa SG-OBLIQUE ;
+:ʼlʼ R ; ! xxx check
+! Plural
+:ʼlʼa PL-NOM-SUF ;
+:ʼlʼa PL-ACC-SUF ;
+:l PL-OBLIQUE ;
+
 
 LEXICON N_KODI !kodi:kodi
 !!€gt-norm:   Noun ' / '
@@ -1359,6 +1416,8 @@ LEXICON POSS_SUF !based on kin terminology, reflexive pronoun, personal pronouns
 +Sg+All+PxSg2:%>leiž K ;!Tataleiž
 +Sg+All+PxSg3:%>leze K ;!mamaleze
 +Sg+All+PxPl3:%>leze K ;!mamaleze
++Sg+Ade+PxSg3:%>laz K ;!mamalaz
++Sg+Ade+PxPl3:%>laz K ;!mamalaz
 +Sg+Ela+PxSg1:%>sainpäi K ;
 +Sg+Ela+PxSg2:%>saižpäi K ;
 +Sg+Ela+PxSg3:%>sazepäi K ;

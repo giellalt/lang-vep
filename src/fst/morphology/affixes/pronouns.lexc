@@ -11,47 +11,58 @@ LEXICON PRONOUN-TYPES
 ! COLL-PRON ;
   DEM-PRON ;
 iče+Pron+Refl+Nom:iče K ;
-ičein+Pron+Refl+Sg1+Gen:ičein K ;
-ičein+Pron+Refl+Sg1+Ill:ičhein K ;
-ičein+Pron+Refl+Sg1+Ine:ičesain K ;
-ičein+Pron+Refl+Sg1+Ela:ičesainpäi K ;
-ičein+Pron+Refl+Sg1+Par:ičtain K ;
-ičein+Pron+Refl+Pl1+Gen:ičemoi K ;
-ičein+Pron+Refl+Pl1+Ill:ičhemoi K ;
-ičein+Pron+Refl+Pl1+Ine:ičesamoi K ;
-ičein+Pron+Refl+Pl1+Ela:ičesamoipäi K ;
-ičein+Pron+Refl+Pl1+Par:ičtamoi K ;
-ičein+Pron+Refl+Pl1+All:ičelemoi K ;
-ičeiž+Pron+Refl+Sg2+Gen:ičeiž K ;
-ičeiž+Pron+Refl+Sg2+Ine:ičesaiž K ;
-ičeiž+Pron+Refl+Sg2+Ela:ičesaižpäi K ;
-ičeiž+Pron+Refl+Sg2+Ill:ičheiž K ;
-ičeiž+Pron+Refl+Sg2+Par:ičtaiž K ;
-ičeiž+Pron+Refl+Pl2+Gen:ičetoi K ;
-ičeiž+Pron+Refl+Pl2+Ine:ičesatoi K ;
-ičeiž+Pron+Refl+Pl2+Ela:ičesatoipäi K ;
-ičeiž+Pron+Refl+Pl2+Ill:ičhetoi K ;
-ičeiž+Pron+Refl+Pl2+All:ičeletoi K ;
-ičeiž+Pron+Refl+Pl2+Par:ičtatoi K ;
-ičeiž+Pron+Refl+Pl2+Apr2:ičetoinoks K ;
-ičeze+Pron+Refl+Sg3+Gen:ičeze K ;
-ičeze+Pron+Refl+Sg3+Ill:ičheze K ;
-ičeze+Pron+Refl+Sg3+Com:ičezenke K ;
-ičeze+Pron+Refl+Sg3+Ine:ičesaze K ;
-ičeze+Pron+Refl+Sg3+Ela:ičesazepäi K ;
-ičeze+v1+Pron+Refl+Sg3+Tra:ičekseze K ;
-ičeze+v2+Pron+Refl+Sg3+Tra:ičeksaze K ;
-ičeze+Pron+Refl+Sg3+All:ičeleze K ;
-ičeze+Pron+Refl+Sg3+Par:ičtaze K ;
-ičeze+Pron+Refl+Pl3+Gen:ičeze K ;
-ičeze+Pron+Refl+Sg3+Apr2:ičezennoks K ;
-ičeze+Pron+Refl+Sg3+Egr:ičezennopäi K ;
-ičeze+Pron+Refl+Pl3+Apr2:ičezennoks K ;!Do we want + OR +SP3
+iče+Pron+Refl+Ade:ičel K ;
+iče+Pron+Refl+Sg1+Gen:ičein K ;
+iče+Pron+Refl+Sg1+Ade:ičelain K ;
+iče+Pron+Refl+Sg1+All:ičelein K ;
+iče+Pron+Refl+Sg1+Ill:ičhein K ;
+iče+Pron+Refl+Sg1+Ine:ičesain K ;
+iče+Pron+Refl+Sg1+Ela:ičesainpäi K ;
+iče+Pron+Refl+Sg1+Par:ičtain K ;
+iče+Pron+Refl+Sg1+Egr:ičeinnopäi K ;
+iče+Pron+Refl+Pl1+Gen:ičemoi K ;
+iče+Pron+Refl+Pl1+Ill:ičhemoi K ;
+iče+Pron+Refl+Pl1+Ine:ičesamoi K ;
+iče+Pron+Refl+Pl1+Ela:ičesamoipäi K ;
+iče+Pron+Refl+Pl1+Par:ičtamoi K ;
+iče+Pron+Refl+Pl1+Ade:ičelamoi K ;
+iče+Pron+Refl+Pl1+All:ičelemoi K ;
+iče+Pron+Refl+Sg2+Gen:ičeiž K ;
+iče+Pron+Refl+Sg2+Ade:ičelaiž K ;
+iče+Pron+Refl+Sg2+All:ičeleiž K ;
+iče+Pron+Refl+Sg2+Ine:ičesaiž K ;
+iče+Pron+Refl+Sg2+Ela:ičesaižpäi K ;
+iče+Pron+Refl+Sg2+Ill:ičheiž K ;
+iče+Pron+Refl+Sg2+Par:ičtaiž K ;
+iče+Pron+Refl+Pl2+Gen:ičetoi K ;
+iče+Pron+Refl+Pl2+Ine:ičesatoi K ;
+iče+Pron+Refl+Pl2+Ela:ičesatoipäi K ;
+iče+Pron+Refl+Pl2+Ill:ičhetoi K ;
+iče+Pron+Refl+Pl2+Ade:ičelatoi K ;
+iče+Pron+Refl+Pl2+All:ičeletoi K ;
+iče+Pron+Refl+Pl2+Par:ičtatoi K ;
+iče+Pron+Refl+Pl2+Apr2:ičetoinoks K ;
+iče+Pron+Refl+Sg3+Gen:ičeze K ;
+iče+Pron+Refl+Sg3+Ill:ičheze K ;
+iče+Pron+Refl+Sg3+Com:ičezenke K ;
+iče+Pron+Refl+Sg3+Ine:ičesaze K ;
+iče+Pron+Refl+Sg3+Ela:ičesazepäi K ;
+iče+v1+Pron+Refl+Sg3+Tra:ičekseze K ;
+iče+v2+Pron+Refl+Sg3+Tra:ičeksaze K ;
+iče+Pron+Refl+Sg3+All:ičeleze K ;
+iče+Pron+Refl+Sg3+Ade:ičelaze K ;
+iče+Pron+Refl+Sg3+Par:ičtaze K ;
+iče+Pron+Refl+Pl3+Gen:ičeze K ;
+iče+Pron+Refl+Sg3+Apr2:ičezennoks K ;
+iče+Pron+Refl+Sg3+Egr:ičezennopäi K ;
+iče+Pron+Refl+Pl3+Apr2:ičezennoks K ;!Do we want + OR +SP3
 nece+Det:ne DET_NECE ;! occurs also as a determiner
 nece+Pron:ne DET_NECE ;
 kaikutte+Pron:kaiku A_IN_TTE ;
 mitte+Pron:mi PRON_IN_TTE ;
 nimitte+Pron:nimi PRON_IN_TTE ;
+mitte-se+Pron:mi PRON_IN_TTE_SE ;
+mitte-ni+Pron:mi PRON_IN_TTE_NI ;
 ken-ni+Pron+Indef+Sg+Nom:ken-ni K ;
 ken-ni+Pron+Indef+Sg+Gen:kenen-ni K ;
 ken-ni+Pron+Indef+Sg+Com:kenenke-ni K ;
@@ -68,7 +79,33 @@ kuna+Pron+Rel:kuna K ;
 LEXICON PRON_IN_TTE !mitte
  N_IN_TTE ;
 ! 2024-11-15
+LEXICON PRON_IN_TTE_SE !mitte-se
++Sg+Nom:tte-se K ;
++Sg+Ill:ččehe-se K ;
++Sg+Par:ttušt-se K ;
++Sg+Ade:ččel-se K ;
++Sg+All:ččele-se K ;
++Sg+Gen:ččen-se K ;
++Sg+Tra:ččeks-se K ;
++Sg+Ine:ččes-se K ;
++Pl+Nom:ččed-se K ;
++Pl+Par:ččid-se K ;
++Pl+Ade:ččil-se K ;
++Pl+Ine:ččiš-se K ;
 
+LEXICON PRON_IN_TTE_NI !mitte-ni
++Sg+Nom:tte-ni K ;
++Sg+Ill:ččehe-ni K ;
++Sg+Par:ttušt-ni K ;
++Sg+Ade:ččel-ni K ;
++Sg+All:ččele-ni K ;
++Sg+Gen:ččen-ni K ;
++Sg+Tra:ččeks-ni K ;
++Sg+Ine:ččes-ni K ;
++Pl+Nom:ččed-ni K ;
++Pl+Par:ččid-ni K ;
++Pl+Ade:ččil-ni K ;
++Pl+Ine:ččiš-ni K ;
 
 LEXICON PERS
 !! @LEXNAME@  split in persons
@@ -96,6 +133,7 @@ LEXICON PersSg2
 +Pers+Sg2:u ACC-SUF ;
 +Pers+Sg2+Ade:ai K ;! sinai
 +Pers+Sg2+All:ei K ;
++Pers+Sg2+Ill:uhuiž K ;
 +Pers+Sg2:u OBLIQUE_CASES_FOR_PRONOUNS ; ! sinunnoks..
 
 LEXICON PersSg3

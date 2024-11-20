@@ -18,6 +18,10 @@ LEXICON A_NAGRIZH !nagriž:nagr
  N_NAGRIZH ;
 +Comp:he%>mb N_POIG ;
 
+LEXICON A_GOL1L1 ! golʼlʼ:gol
+ N_GOL1L1 ;
+LEXICON A_VIL1L1 ! vilʼlʼ:vil
+ N_VIL1L1 ;
 LEXICON A_RUSKED !!≈ * **@CODE@** = goes to NMN\_RUSKED
  NMN_RUSKED ;
 
@@ -26,6 +30,13 @@ LEXICON A_MUNA  !!≈ **@CODE@**   muna:mun
 !Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
  N_MUNA ;
 +Comp:e%>mb N_POIG ;
+
+LEXICON A_MOENAE  !!≈ **@CODE@**   möhä:möh
+! _ä/än/äd/Q/id
+!Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
+ N_MOEAE ;
++Comp:e%>mb N_POIG ;
+
 
 !LEXICON A_NADO  !!≈ * **@CODE@** =  nado:nado
 ! N_NADO ;
@@ -53,7 +64,7 @@ LEXICON A_MARJ  !!≈ * **@CODE@** =  marj:marj
 LEXICON A_JAUH  !!≈ * **@CODE@** =  jauh:jauh
 !(-on\,\ -oid\)
  N_JAUH ;
-+Comp:%>mb N_POIG ;
++Comp:o%>mb N_POIG ;
 
 LEXICON A_OIGED  !!≈ * **@CODE@** = oiged:oig%{eØ%}d
 !oi|ged (-ktan, -ktoid)
