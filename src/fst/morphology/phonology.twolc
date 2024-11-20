@@ -209,14 +209,14 @@ QAO1:a <=> _ ( %^DEVOICE: ) %> Cns ;
 QAO1:o <=> _ ( %^DEVOICE: ) %> :i ( %^DEVOICE: ) Cns ;
 
 "V1 Illative rule"
-V1:Vx <=> Vx Cns:* %> h _ ;
+V1:Vx <=> Vx: Cns:* %> h: _ ;
       where Vx in ( a e i o u ü ä ö ) ; 
 
 !!€ nado>hV1
 !!€ nado>ho
 
-!!€ marj>hV1
-!!€ marj>ha
+!!€ marja>hV1
+!!€ marja>ha
 
 "vowel loss"
 !! **@RULENAME@** vauged: vauktan
