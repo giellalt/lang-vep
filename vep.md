@@ -1267,7 +1267,7 @@ problems with tta, ta, da
 
 preterite stem vowel
 
-V_ata/tab/zi/kaha = saubata:saub %^DEVOICE
+V_ata/tab/si/kaha = saubata:saub %^DEVOICE
 preceding vowel always required for affix
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 
@@ -1780,6 +1780,8 @@ V-ConsonantStem_t/k
 V-ConsonantStem_t/g 
 
 V-ConsonantStem_t/gha 
+
+V-ConsonantStem_d/gha 
 
 this could be a reflexive infinitive if you want one, jaska 20241111
 
