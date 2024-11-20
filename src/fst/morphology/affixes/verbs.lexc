@@ -651,7 +651,7 @@ LEXICON V_eta/neb/ni/ekaha
 +Der+Der/NomAg+N:ni N_TEGII ;! this will need its own work with ‹e› present stems20241109
 
 !! sometimes requires preceding vowel
-:n ACT_COND_type ; 
+:en ACT_COND_type ; 
 : ACT_PRFPRC_type_nu ;
 : VNONFIN_m ; !does not include -matoi 20241109
 
