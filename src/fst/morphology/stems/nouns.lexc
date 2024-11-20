@@ -707,7 +707,8 @@ maimkala+N:maim#kal N_SANA ;
 maižanduz+N:maižanduz N_ALUZ ;
 makedonialaine+N:makedoniala N_CIPUINE ;
 makondi+N:ma#kond N_KONDI ;
-maks+N:maks N_MARJ ;
+maks+Hom1+N:maks N_MARJ ;
+maks+Hom2+N:maks N_LIND ;!CHECKME
 malind+N:ma#lind N_LIND ;
 malʼlʼ+N:malʼlʼ N_MARJ ;
 malʼlʼaine+N:malʼlʼa N_CIPUINE ;

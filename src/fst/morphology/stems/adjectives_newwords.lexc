@@ -167,3 +167,11 @@ lehtezpertine:lehtezperti N_ine/izhen/isht/izhehe/izhid ;
 korzuine:korzu A_CIPUINE ;
 ühtmeline:ühtmeli N_ine/izhen/isht/izhehe/izhid ;
 üksʼmeline:üksʼmeli N_ine/izhen/isht/izhehe/izhid ;
+golʼlʼ+A:gol A_GOL1L1 ;!checkme
+hilʼlʼ+A:hil A_VIL1L1 ;!checkme
+eläb+A:eläb A_POIG ;
+hoštab+A:hoštab A_POIG ;
+nägub+A:nägub A_POIG ;
+tutab+A:tutab A_POIG ;
+paha+A:pah A_SANA ;
+möhä+A:möh A_MOEHAE ;
