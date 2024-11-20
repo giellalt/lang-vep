@@ -256,19 +256,19 @@ d:z <=> [ n | l | r | Vow ] _  %^TS:0  ; ! GRC ;
 !   [ n | l | r | Vow Vow ] _ %^TS:0 ; !  pittää: piti 
 
 
-"d:t in voden, vot"
-!! **@RULENAME@**  
- d:t <=> [ d: | ( n | l | r ) ’ | z: ] %^DEVOICE:0 %> _ [ # | %- ] ;
+!"d:t in voden, vot"
+!!! **@RULENAME@**  
+! d:t <=> [ d: | ( n | l | r ) ’ | z: ] %^DEVOICE:0 %> _ [ # | %- ] ;
 
-"d:0 in voden, vot"
-!! **@RULENAME@**  
- d:0 <=> _ %^DEVOICE:0 %> d: ;
+!"d:0 in voden, vot"
+!!! **@RULENAME@**  
+! d:0 <=> _ %^DEVOICE:0 %> d: ;
 
-"z:s in meletuz:meletust"
-!! **@RULENAME@**  
- z:s <=> _ %^DEVOICE:0 ;
+!"z:s in meletuz:meletust"
+!!! **@RULENAME@**  
+! z:s <=> _ %^DEVOICE:0 ;
 
-"’:0 before vowels"
+"’:0 before front vowels"
 !! **@RULENAME@**  
- ’:0 <=> _  %>  Vow ;
+ ’:0 <=> _  %>  [VowFront | VowNeutral ] ;
 
