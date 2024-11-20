@@ -937,7 +937,7 @@ LEXICON N_ALUZ ! z s _QEQ
 !!€  d: +N+Pl+Par
  SG-NOM-SUF ;
 :%^DEVOICE%>e SG-ILL-SUF ;
-:%^DEVOICE SG-PAR-SUF ;
+:%^DEVOICE SG-PAR-SUF_t ;
 :%^DEVOICE%>e SG-OBLIQUE_NO_DERIV/ILL/PAR ;
 R ; ! xxx check
 ! Plural
