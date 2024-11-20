@@ -1,6 +1,42 @@
 
 LEXICON adverbs
 
+
+lujas+Adv:lujas ADV_MANNER  "lujasti" ;
+pigašti+Adv:pigašti ADV_MANNER  "nopeasti" ;
+siš+Adv:siš ADV_INE ;
+sil+Adv:sil ADV_ADE ;
+sihesai+Adv:sihesai ADV_ ;
+sihe+Adv:sihe ADV_ ;
+sišpäi+Adv:sišpäi ADV_ELA ;
+sikš+Adv:sikš ADV_MANNER  "siksi" ;
+kut+Adv:kut ADV_MANNER  "kuten" ;
+völ+Adv:völ ADV_TEMP  "vielä" ;
+ka+Adv:ka ADV_  "myös" ;
+muga+Adv:muga ADV_ ;
+vaiše+Adv:vaiše ADV_ ;
+vedʼ+Adv:vedʼ ADV_ ;
+siloi+Adv:siloi ADV_ ;
+
+tarbiž+Adv:tarbiž ADV_ ;
+sidʼ+Adv:sidʼ ADV_ ;
+sigä+Adv:sigä ADV_ ;
+hotʼ+Adv:hotʼ ADV_ ;
+mugažo+Adv:mugažo ADV_ ;
+sinna+Adv:sinna ADV_ ;
+ezmäi+Adv:ezmäi ADV_ ;
+ezmäks+Adv:ezmäks ADV_ ;
+ezmässai+Adv:ezmässai ADV_ ;
+läz+Adv:läz ADV_ ;
+tägä+Adv:tägä ADV_ ;
+tähä+Adv:tähä ADV_ILL ;
+tämbei+Adv:tämbei ADV_TEMP ;
+täs+Adv:täs ADV_INE ;
+täspäi+Adv:täspäi ADV_ELA ;
+ninga+Adv:ninga ADV_ ;
+ezmässai+Adv:ezmässai ADV_ ;
+amu+Adv:amu ADV_ ;
+edes+Adv:edes ADV_ ;
 ümbri+Adv:ümbri ADV_ ;
 ühthe+Adv:ühthe ADV_ ;
 üht+Adv:üht ADV_ ;
@@ -39,35 +75,3 @@ ani+Adv:ani ADV_ ;
 aminʼ+Adv:aminʼ ADV_ ;
 äi+Adv:äi ADV_ ;
 ühtes+Adv:ühtes ADV_ ;
-tarbiž+Adv:tarbiž ADV_ ;
-mugažo+Adv:mugažo ADV_ ;
-ezmäi+Adv:ezmäi ADV_ ;
-ezmäks+Adv:ezmäks ADV_ ;
-ezmässai+Adv:ezmässai ADV_ ;
-läz+Adv:läz ADV_ ;
-tämbei+Adv:tämbei ADV_TEMP ;
-tägä+Adv:tägä ADV_ ;
-täs+Adv:täs ADV_ ;
-täspäi+Adv:täspäi ADV_ELA ;
-tähä+Adv:tähä ADV_ ;
-sihe+Adv:sihe ADV_ ;
-sihesai+Adv:sihesai ADV_ ;
-sil+Adv:sil ADV_ ;
-siš+Adv:siš ADV_ ;
-sišpäi+Adv:sišpäi ADV_ELA ;
-sidʼ+Adv:sidʼ ADV_ ;
-vedʼ+Adv:vedʼ ADV_ ;
-amu+Adv:amu ADV_TEMP ;
-edes+Adv:edes ADV_ ;
-ka+Adv:ka ADV_ ;
-kut+Adv:kut ADV_MANNER ;
-lujas+Adv:lujas ADV_MANNER ;
-muga+Adv:muga ADV_ ;
-pigašti+Adv:pigašti ADV_MANNER ;
-sigä+Adv:sigä ADV_SPAT ;
-sikš+Adv:sikš ADV_ ;
-siloi+Adv:siloi ADV_TEMP ;
-sinna+Adv:sinna ADV_LAT ;
-vaiše+Adv:vaiše ADV_ ;
-völ+Adv:völ ADV_TEMP ;
-
