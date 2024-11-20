@@ -61,7 +61,7 @@ LEXICON V_ada/ab/i/agha !! split from largest verb group vedada:ved (even number
 :a VNONFIN_m ;
 
 !!consonant stem if there is one takes both te, tes,... and kaha, koi
-:a V-ConsonantStem_d/g ;
+:a V-ConsonantStem_d/gha ;
 ! refl-imprt-sg2, refl-ind-prs-sg-conneg
 
 !! problems with tta, ta, da
@@ -260,7 +260,7 @@ LEXICON V_ta/dab/zi/kaha
 !! preterite stem vowel
 :z ACT_IND_PRT ;! gets i
 
-LEXICON V_ata/tab/zi/kaha
+LEXICON V_ata/tab/si/kaha
 !! @LEXNAME@ = saubata:saub %^DEVOICE
 ! V_??
 !! preceding vowel always required for affix
@@ -1851,6 +1851,11 @@ LEXICON V-ConsonantStem_t/g
 LEXICON V-ConsonantStem_t/gha
 !! @LEXNAME@ 
  V-ConsonantStem_te/tud/tas ;
+ V-ConsonantStem_gha/goi ;
+
+LEXICON V-ConsonantStem_d/gha
+!! @LEXNAME@ 
+ V-ConsonantStem_de/dud/das ;
  V-ConsonantStem_gha/goi ;
 
 LEXICON V-ConsonantStem_te/tud/tas
