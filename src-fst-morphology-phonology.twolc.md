@@ -151,8 +151,8 @@ Right context for gradation
 * *nado>hV1*
 * *nado>ho*
 
-* *marj>hV1*
-* *marj>ha*
+* *marja>hV1*
+* *marja>ha*
 
 **vowel loss** vauged: vauktan
 

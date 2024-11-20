@@ -604,6 +604,8 @@ These were the set types.
 
 **LEXICON A_MUNA**   muna:mun
 
+**LEXICON A_MOENAE**   möhä:möh
+
 * **LEXICON A_KONDI** =  kondi:kondi
 * **LEXICON A_KEZI** =  kezi:ked
 * **LEXICON A_PU** =  pu:pu
@@ -671,6 +673,11 @@ K 3 clitics plus #
 		* antibacchius
 		* cretic, amphimacer
 		* molossus
+
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
@@ -750,9 +757,9 @@ and its use should be associated with the user group, perhaps.
 * *d:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
+* *lind:* `+N+Sg+Nom`
+* *lindun:* `+N+Sg+Gen`
+* *linduid:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *heim:* `+N+Sg+Nom`
@@ -902,9 +909,9 @@ Plural
 * *d:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
+* *oiged:* `+N+Sg+Nom`
+* *oiktan:* `+N+Sg+Gen`
+* *oiktoid:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *ikun:* `ikun+N+Sg+Nom`
@@ -912,9 +919,14 @@ Plural
 * *iknoid:* `ikun+N+Pl+Par`
 
 * Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
+* *tütär:* `tütär+N+Sg+Nom`
+* *tütren:* `tütär+N+Sg+Gen`
+* *tütrid:* `tütär+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *samal:* `+N+Sg+Nom`
+* *samlon:* `+N+Sg+Gen`
+* *samloid:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
@@ -935,6 +947,16 @@ Plural
 * *:* `+N+Sg+Nom`
 * *n:* `+N+Sg+Gen`
 * *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *vilʼlʼ:* `vilʼlʼ+N+Sg+Nom`
+* *villän:* `vilʼlʼ+N+Sg+Gen`
+* *villid:* `vilʼlʼ+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *golʼlʼ:* `golʼlʼ+N+Sg+Nom`
+* *golʼlʼan:* `golʼlʼ+N+Sg+Gen`
+* *gollid:* `golʼlʼ+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
@@ -1128,6 +1150,8 @@ _0/an/ad/aha/oid
 
 **LEXICON NUM_UEHESA**
 
+**LEXICON NUM_VIL1L1**
+
 **LEXICON NUM_KOUME**
 
 **LEXICON NUM_NORUZ1** 
@@ -1163,8 +1187,20 @@ V_EI all forms of the *ei* verb
 
 ### Regular verbs
 
-largest verb group vedada:ved
+largest verb group vedada:ved (even number of syllables in stem)
 V_ada/ab/i/agaha =  vedada:ved
+preceding vowel always required for affix
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
+
+sometimes requires preceding vowel
+
+problems with tta, ta, da
+
+preterite stem vowel
+
+split from largest verb group vedada:ved (even number of syllables in stem)
+armahtagha odd number of syllables in stem
+V_ada/ab/i/agha =  armahtada:armaht
 preceding vowel always required for affix
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 
@@ -1199,7 +1235,7 @@ refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 
 preterite stem vowel
 
-V_1Syl_da/b/i/gaha =  joda:jo
+V_1Syl_da/b/i/gha =  joda:jo
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 
 preterite stem vowel
@@ -1733,6 +1769,8 @@ V-ConsonantStem_t/k
 
 V-ConsonantStem_t/g 
 
+V-ConsonantStem_t/gha 
+
 this could be a reflexive infinitive if you want one, jaska 20241111
 
 * * *
@@ -1896,8 +1934,8 @@ Right context for gradation
 * *nado>hV1*
 * *nado>ho*
 
-* *marj>hV1*
-* *marj>ha*
+* *marja>hV1*
+* *marja>ha*
 
 **vowel loss** vauged: vauktan
 

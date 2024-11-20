@@ -8,8 +8,20 @@ V_EI all forms of the *ei* verb
 
 ### Regular verbs
 
-largest verb group vedada:ved
+largest verb group vedada:ved (even number of syllables in stem)
 V_ada/ab/i/agaha =  vedada:ved
+preceding vowel always required for affix
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
+
+sometimes requires preceding vowel
+
+problems with tta, ta, da
+
+preterite stem vowel
+
+split from largest verb group vedada:ved (even number of syllables in stem)
+armahtagha odd number of syllables in stem
+V_ada/ab/i/agha =  armahtada:armaht
 preceding vowel always required for affix
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 
@@ -44,7 +56,7 @@ refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 
 preterite stem vowel
 
-V_1Syl_da/b/i/gaha =  joda:jo
+V_1Syl_da/b/i/gha =  joda:jo
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 
 preterite stem vowel
@@ -577,6 +589,8 @@ V-ConsonantStem_d/k
 V-ConsonantStem_t/k 
 
 V-ConsonantStem_t/g 
+
+V-ConsonantStem_t/gha 
 
 this could be a reflexive infinitive if you want one, jaska 20241111
 

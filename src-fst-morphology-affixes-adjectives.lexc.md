@@ -10,6 +10,8 @@
 
 **LEXICON A_MUNA**   muna:mun
 
+**LEXICON A_MOENAE**   möhä:möh
+
 * **LEXICON A_KONDI** =  kondi:kondi
 * **LEXICON A_KEZI** =  kezi:ked
 * **LEXICON A_PU** =  pu:pu

@@ -25,6 +25,11 @@
 * *n:* `+N+Sg+Gen`
 * *d:* `+N+Pl+Par`
 
+* Noun ' / ' examples:*
+* *:* `+N+Sg+Nom`
+* *n:* `+N+Sg+Gen`
+* *d:* `+N+Pl+Par`
+
 nominative singular in form and the other is identical to the 
 genitive singular. This definition is dependent on the school
 and its use should be associated with the user group, perhaps.
@@ -93,9 +98,9 @@ and its use should be associated with the user group, perhaps.
 * *d:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
+* *lind:* `+N+Sg+Nom`
+* *lindun:* `+N+Sg+Gen`
+* *linduid:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *heim:* `+N+Sg+Nom`
@@ -245,9 +250,9 @@ Plural
 * *d:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
+* *oiged:* `+N+Sg+Nom`
+* *oiktan:* `+N+Sg+Gen`
+* *oiktoid:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *ikun:* `ikun+N+Sg+Nom`
@@ -255,9 +260,14 @@ Plural
 * *iknoid:* `ikun+N+Pl+Par`
 
 * Noun ' / ' examples:*
-* *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
-* *d:* `+N+Pl+Par`
+* *tütär:* `tütär+N+Sg+Nom`
+* *tütren:* `tütär+N+Sg+Gen`
+* *tütrid:* `tütär+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *samal:* `+N+Sg+Nom`
+* *samlon:* `+N+Sg+Gen`
+* *samloid:* `+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
@@ -278,6 +288,16 @@ Plural
 * *:* `+N+Sg+Nom`
 * *n:* `+N+Sg+Gen`
 * *d:* `+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *vilʼlʼ:* `vilʼlʼ+N+Sg+Nom`
+* *villän:* `vilʼlʼ+N+Sg+Gen`
+* *villid:* `vilʼlʼ+N+Pl+Par`
+
+* Noun ' / ' examples:*
+* *golʼlʼ:* `golʼlʼ+N+Sg+Nom`
+* *golʼlʼan:* `golʼlʼ+N+Sg+Gen`
+* *gollid:* `golʼlʼ+N+Pl+Par`
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
