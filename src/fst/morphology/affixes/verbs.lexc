@@ -285,6 +285,31 @@ LEXICON V_ata/tab/zi/kaha
 !! preterite stem vowel
 :%^DEVOICE%>s ACT_IND_PRT ;! gets i
 
+LEXICON V_eta/DVteb/DVsi/ekaha
+!! @LEXNAME@ = langeta:lang %^DEVOICE , cf. saubata
+! V_??
+!! preceding vowel always required for affix
+:%^DEVOICE%>te V-VowelStem-PRS ;
+!! refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
++Der+Der/NomAg+N:%^DEVOICE%>ti N_KACUI ;! this will need its own work with
+
+!! sometimes requires preceding vowel
+:%^DEVOICE%>t ACT_COND_type ;
+:%^DEVOICE%>te ACT_PRFPRC_type_nu ;
+
+:%^DEVOICE%>te VNONFIN_m ;
+
+!!consonant stem if there is one takes both te, tes,... and kaha, koi
+:%^DEVOICE V-ConsonantStem_te/tud/tas ;
+:e V-ConsonantStem_kaha/koi ;
+! refl-imprt-sg2, refl-ind-prs-sg-conneg
+
+!! problems with tta, ta, da
+:e INF_ta ;
+
+!! preterite stem vowel
+:%^DEVOICE%>s ACT_IND_PRT ;! gets i
+
 LEXICON V_1Syl_ta/dab/zi/kaha
 !! @LEXNAME@ = teta:te
 ! V_?
