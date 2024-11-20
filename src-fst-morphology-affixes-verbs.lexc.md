@@ -98,6 +98,16 @@ problems with tta, ta, da
 
 preterite stem vowel
 
+V_eta/DVteb/DVsi/ekaha = langeta:lang %^DEVOICE , cf. saubata
+preceding vowel always required for affix
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
+
+sometimes requires preceding vowel
+
+problems with tta, ta, da
+
+preterite stem vowel
+
 V_1Syl_ta/dab/zi/kaha = teta:te
 preceding vowel always required for affix
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg

@@ -170,13 +170,7 @@ pesta+V+Inf: __wash/pestä__
 
 **d:z in vodes, voziš**  
 
-**d:t in voden, vot**  
-
-**d:0 in voden, vot**  
-
-**z:s in meletuz:meletust**  
-
-**’:0 before vowels**  
+**’:0 before front vowels**  
 
 * * *
 
