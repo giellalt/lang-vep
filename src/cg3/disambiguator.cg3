@@ -768,6 +768,10 @@ REMOVE:Maria ("Mar") IF (0 ("Mari") OR ("Maria"));
 SECTION
 #!! ## Disambiguation rules
 
+SUBSTITUTE (<W:0.0>) (<W:0.5>) TARGET Cmp ;
+# will this help with maks vs röudmaks
+
+
 #!! ### Dialects
 
 REMOVE:NotVar (Dial/Var);
@@ -2125,17 +2129,17 @@ REMOVE:errorth $$WORDLEMMA + (Err/Orth) (0 $$WORDLEMMA - (Err/Orth) ) ; #Removes
 AFTER-SECTIONS              #
 
 
-SUBSTITUTE (A) (A <olo>) WORD ;  #RemoveFromApertium
-SUBSTITUTE (N) (N <olo>) WORD ;  #RemoveFromApertium
-SUBSTITUTE (Adv) (Adv <olo>) WORD ;  #RemoveFromApertium
-SUBSTITUTE (V) (V <olo>) WORD ; #RemoveFromApertium
-SUBSTITUTE (Num) (Num <olo>) WORD ;  #RemoveFromApertium
-SUBSTITUTE (Interj) (Interj <olo>) WORD ;  #RemoveFromApertium
-SUBSTITUTE (Po) (Po <olo>) WORD ; #RemoveFromApertium
-SUBSTITUTE (Pr) (Pr <olo>) WORD ; #RemoveFromApertium
-SUBSTITUTE (Pron) (Pron <olo>) WORD ; #RemoveFromApertium
-SUBSTITUTE (CC) (CC <olo>) WORD ; #RemoveFromApertium
-SUBSTITUTE (CS) (CS <olo>) WORD ; #RemoveFromApertium
-SUBSTITUTE (Pcle) (Pcle <olo>) WORD ; #RemoveFromApertium
+SUBSTITUTE (A) (A <vep>) WORD ;  #RemoveFromApertium
+SUBSTITUTE (N) (N <vep>) WORD ;  #RemoveFromApertium
+SUBSTITUTE (Adv) (Adv <vep>) WORD ;  #RemoveFromApertium
+SUBSTITUTE (V) (V <vep>) WORD ; #RemoveFromApertium
+SUBSTITUTE (Num) (Num <vep>) WORD ;  #RemoveFromApertium
+SUBSTITUTE (Interj) (Interj <vep>) WORD ;  #RemoveFromApertium
+SUBSTITUTE (Po) (Po <vep>) WORD ; #RemoveFromApertium
+SUBSTITUTE (Pr) (Pr <vep>) WORD ; #RemoveFromApertium
+SUBSTITUTE (Pron) (Pron <vep>) WORD ; #RemoveFromApertium
+SUBSTITUTE (CC) (CC <vep>) WORD ; #RemoveFromApertium
+SUBSTITUTE (CS) (CS <vep>) WORD ; #RemoveFromApertium
+SUBSTITUTE (Pcle) (Pcle <vep>) WORD ; #RemoveFromApertium
 
 
