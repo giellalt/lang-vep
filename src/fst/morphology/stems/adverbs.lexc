@@ -1,5 +1,13 @@
 
 LEXICON adverbs
+
+lujas+Adv:lujas ADV_MANNER  "lujasti" ;
+pigašti+Adv:pigašti ADV_MANNER  "nopeasti" ;
+sikš+Adv:sikš ADV_MANNER  "siksi" ;
+kut+Adv:kut ADV_MANNER  "kuten" ;
+völ+Adv:völ ADV_TEMP  "vielä" ;
+ka+Adv:ka ADV_  "myös" ;
+
 alahaks+Adv:alahaks ADV_ ;
 aminʼ+Adv:aminʼ ADV_ ;
 amu+Adv:amu ADV_ ;
@@ -24,7 +32,7 @@ ka+Adv:ka ADV_  "myös" ;
 kut+Adv:kut ADV_MANNER  "kuten" ;
 kutak+Adv:kutak ADV_ ;
 külläks+Adv:külläks ADV_ ;
-lujas+Adv:lujas ADV_MANNER  "lujasti" ;
+
 läbi+Adv:läbi ADV_ ;
 lähemba+Adv:lähemba ADV_ ;
 läz+Adv:läz ADV_ ;
@@ -39,13 +47,11 @@ nikut+Adv:nikut ADV_MANNER ;
 ninga+Adv:ninga ADV_ ;
 nügüdʼ+Adv:nügüdʼ ADV_TEMP ;
 paremba+Adv:paremba ADV_ ;
-pigašti+Adv:pigašti ADV_MANNER  "nopeasti" ;
 päliči+Adv:päliči ADV_ ;
 sidʼ+Adv:sidʼ ADV_ ;
 sigä+Adv:sigä ADV_ ;
 sihe+Adv:sihe ADV_ ;
 sihesai+Adv:sihesai ADV_ ;
-sikš+Adv:sikš ADV_MANNER  "siksi" ;
 sil+Adv:sil ADV_ADE ;
 siloi+Adv:siloi ADV_ ;
 silʼmnägubale+Adv:silʼmnägubale ADV_ ;
@@ -65,10 +71,8 @@ täspäi+Adv:täspäi ADV_ELA ;
 vaiše+Adv:vaiše ADV_ ;
 vasthapäi+Adv:vasthapäi ADV_ ;
 vedʼ+Adv:vedʼ ADV_ ;
-völ+Adv:völ ADV_TEMP  "vielä" ;
 äi+Adv:äi ADV_ ;
 üht+Adv:üht ADV_ ;
 ühtes+Adv:ühtes ADV_ ;
 ühthe+Adv:ühthe ADV_ ;
 ümbri+Adv:ümbri ADV_ ;
-
