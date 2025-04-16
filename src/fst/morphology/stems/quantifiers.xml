@@ -38,7 +38,7 @@
       <lg>
          <l pos="Num">koume</l>
          <stg>
-            <st Contlex="NUM_">koume</st>
+            <st Contlex="NUM_KOUME">koume</st>
          </stg>
       </lg>
       <mg>
@@ -52,9 +52,9 @@
    </e>
    <e>
       <lg>
-         <l pos="Num">nellʼ</l>
+         <l pos="Num">nelʼlʼ</l>
          <stg>
-            <st Contlex="NUM_">nellʼ</st>
+            <st Contlex="NUM_VIL1L1">nelʼlʼ</st>
          </stg>
       </lg>
       <mg>
@@ -86,7 +86,7 @@
       <lg>
          <l pos="Num">kuzʼ</l>
          <stg>
-            <st Contlex="NUM_">kuzʼ</st>
+            <st Contlex="NUM_NORUZ1">kud</st>
          </stg>
       </lg>
       <mg>
@@ -102,7 +102,7 @@
       <lg>
          <l pos="Num">seičeme</l>
          <stg>
-            <st Contlex="NUM_">seičeme</st>
+            <st Contlex="NUM_SEICHEME">seičem</st>
          </stg>
       </lg>
       <mg>
@@ -118,7 +118,7 @@
       <lg>
          <l pos="Num">kahesa</l>
          <stg>
-            <st Contlex="NUM_">kahesa</st>
+            <st Contlex="NUM_UEHESA">kahesa</st>
          </stg>
       </lg>
       <mg>
@@ -134,7 +134,7 @@
       <lg>
          <l pos="Num">ühesa</l>
          <stg>
-            <st Contlex="NUM_">ühesa</st>
+            <st Contlex="NUM_UEHESA">ühesa</st>
          </stg>
       </lg>
       <mg>

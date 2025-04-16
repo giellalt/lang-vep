@@ -3,8 +3,8 @@ LEXICON quantifiers
 
 üksʼ+Num:ü NUM_YKS1  "yksi" ;
 kaksʼ+Num:ka NUM_KAKS1  "kaksi" ;
-koume+Num:koum NUM_KOUME  "kolme" ;
-nelʼlʼ+Num:nel NUM_VIL1L1  "neljä" ;
+koume+Num:koume NUM_KOUME  "kolme" ;
+nelʼlʼ+Num:nelʼlʼ NUM_VIL1L1  "neljä" ;
 viž+Num:viž NUM_  "viisi" ;
 kuzʼ+Num:kud NUM_NORUZ1  "kuusi" ;
 seičeme+Num:seičem NUM_SEICHEME  "seitsemän" ;
