@@ -1,7 +1,7 @@
 # Veps spellrelax file
 
 # TODO: palatalization marks to be added.
-
+ʼ (->) ՚, !!= * @CODE@ = U+02BC MODIFIER LETTER APOSTROPHE NOT ARMENIAN APOSTROPHE U+055A
 sʼ (->) s’, !!= * @CODE@ = U+02BC MODIFIER LETTER APOSTROPHE NOT right quote
 zʼ (->) z’, !!= * @CODE@ = U+02BC MODIFIER LETTER APOSTROPHE NOT right quote
 rʼ (->) r’, !!= * @CODE@ = U+02BC MODIFIER LETTER APOSTROPHE NOT right quote
