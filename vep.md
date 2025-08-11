@@ -2201,7 +2201,7 @@ in this system in terms of the following symbols.
 * **+CLB** 
 * **+PUNCT** 
 * **+LEFT** 
-* **+RIGHT**  = 
+* **+RIGHT +MIDDLE**  = 
 
 #### Special multiword units are analysed with: 
 * **+Multi**  = 
