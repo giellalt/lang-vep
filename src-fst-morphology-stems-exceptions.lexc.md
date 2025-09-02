@@ -1,4 +1,4 @@
-Exceptions are quite strange word-forms. the ones that do not fit anywhere 
+Exceptions are quiAAte strange word-forms. the ones that do not fit anywhere 
 else. This file contains all enumerated word forms that cannot reasonably be
 created from lexical data by regular inflection. Usually there should be next
 to none exceptions, it's always better to have a paradigm that covers only

@@ -249,11 +249,27 @@ in this system in terms of the following symbols.
 * **+PstI**  = 
 * **+PstII**  = 
 
+## Error (non-standard language) tags
+
+* **+Err/Orth** substandard, not in normative fst
+* **+Err/Orth-no-pal**  = palatalization mark missing
+
 #### Usage tags: 
 
-* **+Err/Orth**  =
-* **+Err/Orth-no-pal**  = palatalization mark missing
-* **+Use/-Spell**  = 
+* **+Use/-Spell** Orthographically correct, typically perifer words, excluded in speller because they cause trouble for frequent words
+* **+Use/-PLX** Excluded in PLX-speller
+* **+Use/SpellNoSugg** recognized but not suggested in speller
+* **+Use/Circ** circular paths (old ^C^)
+* **+Use/CircN** circular paths for the numerals (old ^N^)
+* **+Use/MT** Generate for MT only, for restricting analyses needed
+for MT generation not to pop up elsewhere (NOT IN FUNCTION)
+* **+Use/NG** not-generate, for ped generation isme-ped.fst and MT
+* **+Use/NGminip** Not for miniparadigm in NDS dicts
+* **+Use/PMatch** means that the following is only used in the analyser feeding the disambiguator
+* **+Use/-PMatch** Do not include in fst's made for hfst-pmatch
+* **+Use/GC** – **only** retained in the HFST Grammar Checker disambiguation analyser
+* **+Use/-GC** – **never** retained in the HFST Grammar Checker disambiguation analyser
+* **+Use/TTS** – **only** retained in the HFST Text-To-Speech disambiguation tokeniser
 
 * **+Cmp/SgNom**  = compound words
 
@@ -485,7 +501,6 @@ ADV_ELA
 ADV_ILL 
 ADV_INE 
 ADV_LAT 
-ADV_SPAT 
 
 ADV_TEMP 
 
