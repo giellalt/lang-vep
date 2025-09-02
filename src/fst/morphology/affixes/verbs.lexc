@@ -153,6 +153,23 @@ LEXICON V_ada/ab/oi/agaha
 !:a INF_da ;
 !:a PRFPRC_nu ;
 
+LEXICON V_uda/ub/ui/ugaha
+!! @LEXNAME@ =  sünduda:sünd
+! V_JODA
+:u INF_da ;
+:u V-VowelStem-PRS ;
+!! refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
++Der+Der/NomAg+N: N_KACUI ;! this will need its own work with
+
+:u ACT_COND_type ;
+: ACT_PRFPRC_type_nu ;
+:u V-ConsonantStem_t/g ;
+
+:u VNONFIN_m ;
+
+!! preterite stem vowel
+:u ACT_IND_PRT ;! has i at affix
+
 LEXICON V_da/b/i/gaha
 !! @LEXNAME@ =  sanuda:sanu
 ! V_JODA
