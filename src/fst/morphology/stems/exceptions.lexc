@@ -37,6 +37,7 @@ ezmäi+Adv:ezmäi ADV_ ;
 ezmässai+Adv:ezmässai ADV_ ;
 kaikjal+Adv:kaikjal ADV_ADE ;
 kogonaze+Adv+PxSg3:kogonaze K ;
+kutak+Adv:kutak ADV_ ;
 lophusai+Adv:lophusai ADV_ ;
 läz+Adv:läz ADV_ ;
 muga+Adv:muga ADV_ ;
@@ -46,6 +47,7 @@ nikus+Adv:nikus ADV_INE ;
 ninga+Adv:ninga ADV_ ;
 nügüdʼ+Adv:nügüdʼ ADV_TEMP ;
 möst+Adv:möst ADV_ ;
+paremba+Adv:paremba ADV_ ;
 sidʼ+Adv:sidʼ ADV_ ;
 sidʼ-žo+Adv:sidʼ-žo K ;
 sigä+Adv:sigä ADV_ ;
@@ -61,7 +63,9 @@ täspäi+Adv:täspäi ADV_ELA ;
 vaiše+Adv:vaiše K ;
 vasthapäi+Adv:vasthapäi K ;
 
+alle+Po:alle PO_ ;
 päliči+Po:päliči PO_ ;
+vaste+Po:vaste PO_ ;
 ümbri+Pr:ümbri PR_ ;
 
 dai+CC:dai K ;
