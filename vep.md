@@ -1230,6 +1230,11 @@ refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 
 preterite stem vowel
 
+V_uda/ub/ui/ugaha =  sünduda:sünd
+refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
+
+preterite stem vowel
+
 V_da/b/i/gaha =  sanuda:sanu
 refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
 
