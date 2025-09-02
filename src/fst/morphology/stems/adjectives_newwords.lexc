@@ -11,6 +11,7 @@ LEXICON A_NEWWORDS
 test:test N_ "" ;
 ! ADD ADJECTIVES BELOW
 !uz’+A:ud A_UZ1 ; ! this one in xml
+täuzʼ+A:täud A_UZ1 ;
 ülembaine+A:ülemba A_CIPUINE ;
 harvinaine+A:harvina A_CIPUINE ;
 nügüdläine+A:nügüdlä A_CIPUINE ;
