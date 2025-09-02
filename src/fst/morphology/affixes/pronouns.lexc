@@ -74,6 +74,10 @@ ken-se+Pron+Indef+Sg+Gen:kenen-se K ;
 ken-se+Pron+Indef+Sg+Par:keda-se K ;
 ken-se+Pron+Indef+Sg+Ade:kenel-se K ;
 ken-se+Pron+Indef+Sg+All:kenele-se K ;
+mi-ni+Pron+Indef+Sg+Ade:mil-ni K ;
+mi-ni+Pron+Indef+Sg+Gen:min-ni K ;
+mi-ni+Pron+Indef+Sg+Ine:miš-ni K ;
+mi-ni+Pron+Indef+Sg+Par:midä-ni K ;
 kuna+Pron+Rel:kuna K ;
 
 LEXICON PRON_IN_TTE !mitte
