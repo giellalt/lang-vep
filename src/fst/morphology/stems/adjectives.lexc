@@ -556,7 +556,7 @@ ustavakaz+A:ustavaka A_VEDEKAZ  "" ;
 ustügalaine+A:ustügala A_CIPUINE  "" ;
 uzbekalaine+A:uzbekala A_CIPUINE  "" ;
 uzʼlidnalaine+A:uzʼlidnala A_CIPUINE  "" ;
-uz’+Z:ud A_UZ1  "" ;
+uz’+A:ud A_UZ1  "" ;
 vahv+A:vahv A_MARJ  "" ;
 vajehtamatoi+A:vajehtamato A_KENGATOI  "" ;
 valdkundaline+A:vald#kundali A_TOSHTMINE  "" ;
