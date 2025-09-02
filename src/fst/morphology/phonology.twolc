@@ -127,6 +127,12 @@ Y  !!= * @CODE@
 %^SyllBr:0		   !!= * @CODE@ 
 %^E1:0			   !!= * @CODE@ 
 
+! Literal quotes and angles must be escaped (cf morpheme boundaries further down):
+ »7     ! »
+ «7     ! «
+ %[%>%] ! >
+ %[%<%] ! <
+ #7     ! #
 
 
 ;

@@ -50,6 +50,8 @@ LEXICON N_MOEHAE ! Stem vowel alternation ZERO-A-ZERO möhä:möh
 
 
 LEXICON N_SANA
+ N_a/an/ad/aha/oid ;
+LEXICON N_a/an/ad/aha/oid
 ! sana = pyrrhic <
 ! sanad = iamb   <
 ! sanha = trochee < *sanahan anapaest
@@ -58,7 +60,7 @@ LEXICON N_SANA
 !!€  n: +N+Sg+Gen
 !!€  d: +N+Pl+Par
 :a SG-NOM-SUF ;
-+Sg+Ill:%>ha K ;
++Sg+Ill:a%>ha K ;
 :%>a SG-OBLIQUE ;
 ! Plural
 :%>a PL-NOM-SUF ;

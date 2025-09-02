@@ -134,8 +134,8 @@ LEXICON ARABICCASEORD
       +Arab+Pl+Ela:%>nsista  # ;
       +Arab+Pl+Com:%>nnine # ;
 
-LEXICON ARABICCASECOLL
- +Arab+Pl+Nom:%>t       # ;
+!LEXICON ARABICCASECOLL
+! +Arab+Pl+Nom:%>t       # ;
 ! +Arab+Pl+Acc:%>sidie    # ;
 ! +Arab+Pl+Gen:%>si       # ;
 ! +Arab+Pl+Ill:%>sidie    # ;

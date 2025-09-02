@@ -31,30 +31,34 @@ LEXICON A_MUNA  !!≈ **@CODE@**   muna:mun
  N_MUNA ;
 +Comp:e%>mb N_POIG ;
 
-LEXICON A_MOENAE  !!≈ **@CODE@**   möhä:möh
+LEXICON A_MOEHAE  !!≈ **@CODE@**   möhä:möh
 ! _ä/än/äd/Q/id
 !Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
- N_MOEAE ;
+ N_MOEHAE ;
 +Comp:e%>mb N_POIG ;
 
 
-!LEXICON A_NADO  !!≈ * **@CODE@** =  nado:nado
-! N_NADO ;
-!+Comp:%>mb N_POIG ;
+LEXICON A_NADO  !!≈ * **@CODE@** =  nado:nado
+ N_NADO ;
++Comp:%>mb N_POIG ;
 
-LEXICON A_KONDI  !!≈ * **@CODE@** =  kondi:kondi
- N_KONDI ;
-+Comp:%>mb N_POIG ;
-LEXICON A_KEZI  !!≈ * **@CODE@** =  kezi:ked
- N_KEZI ;
-+Comp:e%>mb N_POIG ;!CHECKME 2024-11-11
-LEXICON A_PU  !!≈ * **@CODE@** =  pu:pu
- N_PU ;
-+Comp:%>mb N_POIG ;
+!LEXICON A_KONDI  !!≈ * **@CODE@** =  kondi:kondi
+! N_KONDI ;
+!+Comp:%>mb N_POIG ;
+!LEXICON A_KEZI  !!≈ * **@CODE@** =  kezi:ked
+! N_KEZI ;
+!+Comp:e%>mb N_POIG ;!CHECKME 2024-11-11
+!LEXICON A_PU  !!≈ * **@CODE@** =  pu:pu
+! N_PU ;
+!+Comp:%>mb N_POIG ;
 
 
 LEXICON A_POIG  !!≈ * **@CODE@** =  poig:poig
  N_POIG ;
++Comp:e%>mb N_POIG ;
+
+LEXICON A_a/an/ad/aha/oid  !!≈ * **@CODE@** =  paha:pah
+N_a/an/ad/aha/oid ;
 +Comp:e%>mb N_POIG ;
 
 LEXICON A_MARJ  !!≈ * **@CODE@** =  marj:marj

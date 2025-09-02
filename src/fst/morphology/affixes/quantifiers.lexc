@@ -4,13 +4,14 @@ LEXICON NUM_KAKS1
 !! **LEXICON @LEXNAME@** 
 +Sg+Nom:ksʼ K ;
 +Sg+Ill:hthe K ;
-:hte SG-OBLIQUE ;
+:hte SG-OBLIQUE_NO_DERIV/ILL/PAR ;
 
 LEXICON NUM_YKS1
 !! **LEXICON @LEXNAME@** 
 +Sg+Nom:ksʼ K ;
 +Sg+Ill:hthe K ;
-:hte SG-OBLIQUE ;
++Sg+Par:ht K ;
+:hte SG-OBLIQUE_NO_DERIV/ILL/PAR ;
 
 LEXICON NUM_UEHESA
 !! **LEXICON @LEXNAME@**

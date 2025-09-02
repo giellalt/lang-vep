@@ -38,7 +38,7 @@
       <lg>
          <l pos="Num">koume</l>
          <stg>
-            <st Contlex="NUM_KOUME">koume</st>
+            <st Contlex="NUM_KOUME">koum</st>
          </stg>
       </lg>
       <mg>
@@ -54,7 +54,7 @@
       <lg>
          <l pos="Num">nelʼlʼ</l>
          <stg>
-            <st Contlex="NUM_VIL1L1">nelʼlʼ</st>
+            <st Contlex="NUM_VIL1L1">nel</st>
          </stg>
       </lg>
       <mg>

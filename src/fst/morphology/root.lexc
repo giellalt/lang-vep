@@ -19,6 +19,7 @@ Multichar_Symbols
  
 !! ## Miscellaneuos tags
 
+
 !! Thes are  to be evaluated (are they in use?)
 !! TODO: Have a look at these: 
  
@@ -271,12 +272,28 @@ Multichar_Symbols
 +PstI          !!≈ * **@CODE@**  = 
 +PstII          !!≈ * **@CODE@**  = 
  
+!! ## Error (non-standard language) tags
+
+ +Err/Orth         !!≈ * **@CODE@** substandard, not in normative fst
+ +Err/Orth-no-pal	       !!≈ * **@CODE@**  = palatalization mark missing
+
 !! #### Usage tags: 
 
- +Err/Orth                     !!≈ * **@CODE@**  =
- +Err/Orth-no-pal	       !!≈ * **@CODE@**  = palatalization mark missing
- +Use/-Spell                  !!≈ * **@CODE@**  = 
- 
+ +Use/-Spell       !!≈ * **@CODE@** Orthographically correct, typically perifer words, excluded in speller because they cause trouble for frequent words
+ +Use/-PLX         !!≈ * **@CODE@** Excluded in PLX-speller
+ +Use/SpellNoSugg  !!≈ * **@CODE@** recognized but not suggested in speller
+ +Use/Circ         !!≈ * **@CODE@** circular paths (old ^C^)
+ +Use/CircN        !!≈ * **@CODE@** circular paths for the numerals (old ^N^)
+ +Use/MT           !!≈ * **@CODE@** Generate for MT only, for restricting analyses needed
+                   !!               for MT generation not to pop up elsewhere (NOT IN FUNCTION)
+ +Use/NG           !!≈ * **@CODE@** not-generate, for ped generation isme-ped.fst and MT
+ +Use/NGminip      !!≈ * **@CODE@** Not for miniparadigm in NDS dicts
+ +Use/PMatch       !!≈ * **@CODE@** means that the following is only used in the analyser feeding the disambiguator
+ +Use/-PMatch      !!≈ * **@CODE@** Do not include in fst's made for hfst-pmatch
+ +Use/GC           !!≈ * **@CODE@** – **only** retained in the HFST Grammar Checker disambiguation analyser
+ +Use/-GC          !!≈ * **@CODE@** – **never** retained in the HFST Grammar Checker disambiguation analyser
+ +Use/TTS          !!≈ * **@CODE@** – **only** retained in the HFST Text-To-Speech disambiguation tokeniser
+
  +Cmp/SgNom	!!≈ * **@CODE@**  = compound words
  
 !! #### Semtags 
@@ -421,6 +438,12 @@ V3    !!≈ * **@CODE@**
 %>      !!≈ * **@CODE@**  = 
 %-      !!≈ * **@CODE@**  = 
  
+! Literal quotes and angles must be escaped (cf morpheme boundaries further down):
+ »7     ! »
+ «7     ! «
+ %[%>%] ! >
+ %[%<%] ! <
+ #7     ! #
 
  
 !! ## Flag diacritics 
@@ -591,9 +614,9 @@ LEXICON ADV_INE !nikus
 LEXICON ADV_LAT !sinna
 !! @LEXNAME@ 
 +Lat: K ; 
-LEXICON ADV_SPAT
-!! @LEXNAME@ 
-+Spat: K ; 
+!LEXICON ADV_SPAT
+!!! @LEXNAME@ 
+!+Spat: K ; 
 
 LEXICON ADV_TEMP 
 !! @LEXNAME@ 
