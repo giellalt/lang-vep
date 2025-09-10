@@ -421,6 +421,30 @@ LEXICON V_1Syl_DVta/ab/i/DVkaha
 !! preterite stem vowel
 : ACT_IND_PRT ;! gets i
 
+LEXICON V_tta/cheb/chi/tkaha
+!! @LEXNAME@ abidoitta:adivoi 
+! abidoitta, beregoitta, besedoitta, kodikoitta
+!! preceding vowel always required for affix
+:če V-VowelStem-PRS ;
+!! refl-ind-prs, act-imprt-sg2, act-ind-prs, ind-sg-conneg
++Der+Der/NomAg+N:či N_TEGII ;! this will need its own work with
+
+!! sometimes requires preceding vowel
+:č ACT_COND_type ;
+:če ACT_PRFPRC_type_nu ;
+
+:če VNONFIN_m ;
+
+!!consonant stem if there is one takes both te, tes,... and kaha, koi
+ V-ConsonantStem_t/k ; !CHECKME
+! refl-imprt-sg2, refl-ind-prs-sg-conneg
+
+!! problems with tta, ta, da
+: INF_tta ;
+
+!! preterite stem vowel
+:č ACT_IND_PRT ;! gets i
+
 LEXICON V_ta/cheb/chi/kaha
 !! @LEXNAME@ adivoita:adivoi
 ! V_AMUNTA, kerata:kera

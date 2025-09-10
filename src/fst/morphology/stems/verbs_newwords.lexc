@@ -916,6 +916,7 @@ imeda+V:im V_eda/eb/i/egaha ;
 levineda+V:levin V_eda/eb/i/egaha ;
 lugeda+V:lug V_eda/eb/i/egaha ;
 ruskneda+V:ruskn V_eda/eb/i/egaha ;
+hargneda+V:hargn V_eda/eb/i/egaha ;
 tervneda+V:tervn V_eda/eb/i/egaha ;
 ühtneda+V:ühtn V_eda/eb/i/egaha ;!ühtnegoi?
 andelta+V:and V_elta/leb/li/elkaha ;
@@ -1543,11 +1544,11 @@ välleta+Hom2+V:välle V_ta/neb/ni/kaha ;
 !#V_ta/ub/ui/kaha ;_ištta+V:išt V_ta/ub/ui/kaha ;
 heitta+V:heit V_ta/äb/i/kaha ;
 hihtta+V:hiht V_ta/äb/i/kaha ;
-!#V_tta/cheb/chi/tkaha ;_abidoitta+V:abidoi V_tta/cheb/chi/tkaha ;
-!#V_tta/cheb/chi/tkaha ;_beregoitta+V:beregoi V_tta/cheb/chi/tkaha ;
-!#V_tta/cheb/chi/tkaha ;_besedoitta+V:besedoi V_tta/cheb/chi/tkaha ;
+abidoitta+V:abidoi V_tta/cheb/chi/tkaha ;
+beregoitta+V:beregoi V_tta/cheb/chi/tkaha ;
+besedoitta+V:besedoi V_tta/cheb/chi/tkaha ;
+kodikoitta+V:kodikoi V_tta/cheb/chi/tkaha ;
 erigoitta+V:erigoit V_ta/ab/i/kaha ;!CHECKME
-!#V_tta/cheb/chi/tkaha ;_kodikoitta+V:kodikoi V_tta/cheb/chi/tkaha ;
 pörtta+V:pörd V_1Syl_DVta/ab/i/DVkaha ;
 antta+V:and V_1Syl_DVta/ab/oi/DVkaha ;
 kantta+V:kand V_1Syl_DVta/ab/oi/DVkaha ;
