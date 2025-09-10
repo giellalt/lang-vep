@@ -35,6 +35,9 @@
 
 * **LEXICON A_SEIBAZ** =  seibaz:seib
 
+* **LEXICON A_PARAHIM** = (special) hüvä:parahim
+* **LEXICON A_PAREMB** = (special) hüvä:paremb
+
 * **LEXICON A_CIPUINE** = cipuine:cipu
 
 * **LEXICON A_TOSHTMINE** =  toštmine:toštmi
