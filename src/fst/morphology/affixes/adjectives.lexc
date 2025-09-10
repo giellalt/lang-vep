@@ -107,6 +107,11 @@ LEXICON A_SEIBAZ  !!≈ * **@CODE@** =  seibaz:seib
  N_SEIBAZ ;
 +Comp:he%>mb N_POIG ;!CHECKME armhemb
 
+LEXICON A_PARAHIM !!≈ * **@CODE@** = (special) hüvä:parahim
++Superl: N_POIG ;
+LEXICON A_PAREMB  !!≈ * **@CODE@** = (special) hüvä:paremb
++Comp: N_POIG ;
+
 LEXICON A_CIPUINE  !!≈ * **@CODE@** = cipuine:cipu
  N_CIPUINE ;
 +Comp:iže%>mb N_POIG ;
