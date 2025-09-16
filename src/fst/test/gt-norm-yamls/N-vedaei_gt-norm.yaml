@@ -1,0 +1,64 @@
+Config:
+  hfst:
+    Gen: ../../../src/generator-gt-norm.hfst
+    Morph: ../../../src/analyser-gt-norm.hfst
+  xerox:
+    Gen: ../../../src/generator-gt-norm.xfst
+    Morph: ../../../src/analyser-gt-norm.xfst
+    App: lookup
+
+Tests:
+
+# todo:
+# Proofread the gold standard (below)
+# Then: run analyser, then correct. 
+
+
+  Noun - vedäi: # Noun 'driver'
+     vedäi+N+Sg+Abe: vedäjata
+     vedäi+N+Sg+Abl: vedäjalpäi
+     vedäi+N+Sg+Acc: [vedäi, vedäjan]
+     vedäi+N+Sg+Add1: [vedäjahapäi, vedäjhapäi] #CHECKME
+     vedäi+N+Sg+Add2: vedäjalepäi
+     vedäi+N+Sg+Ade: vedäjal
+     vedäi+N+Sg+All: vedäjale
+     vedäi+N+Sg+Apr1: vedäjanno
+     vedäi+N+Sg+Apr2: vedäjannoks
+     vedäi+N+Sg+Com: vedäjanke
+     vedäi+N+Sg+Egr: vedäjannopäi
+     vedäi+N+Sg+Ela: vedäjaspäi
+     vedäi+N+Sg+EssInst: vedäjan
+     vedäi+N+Sg+Gen: vedäjan
+     vedäi+N+Sg+Ill: [vedäjaha, vedäjha] #CHECKME
+     vedäi+N+Sg+Ine: vedäjas
+     vedäi+N+Sg+Nom: vedäi
+     vedäi+N+Sg+Par: vedäjad
+     vedäi+N+Sg+Prl: vedäjadme
+     vedäi+N+Sg+Ter1: [vedäjahasai, vedäjhasai] #CHECKME
+     vedäi+N+Sg+Ter2: vedäjalesai
+     vedäi+N+Sg+Ter3: vedäjassai
+     vedäi+N+Sg+Tra: vedäjaks
+
+     vedäi+N+Pl+Abe: vedäjita
+     vedäi+N+Pl+Abl: vedäjilpäi
+     vedäi+N+Pl+Acc: vedäjad 
+     vedäi+N+Pl+Add1: vedäjihepäi
+     vedäi+N+Pl+Add2: vedäjilepäi
+     vedäi+N+Pl+Ade: vedäjil
+     vedäi+N+Pl+All: vedäjile
+     vedäi+N+Pl+Apr1: vedäjidenno
+     vedäi+N+Pl+Apr2: vedäjidennoks
+     vedäi+N+Pl+Com: vedäjidenke
+     vedäi+N+Pl+Egr: vedäjidennopäi
+     vedäi+N+Pl+Ela: vedäjišpäi
+     vedäi+N+Pl+EssInst: vedäjin
+     vedäi+N+Pl+Gen: vedäjiden
+     vedäi+N+Pl+Ill: vedäjihe
+     vedäi+N+Pl+Ine: vedäjiš
+     vedäi+N+Pl+Nom: vedäjad
+     vedäi+N+Pl+Par: vedäjid
+     vedäi+N+Pl+Prl: vedäjidme
+     vedäi+N+Pl+Ter1: vedäjihesai
+     vedäi+N+Pl+Ter2: vedäjilesai
+#     vedäi+N+Pl+Ter3: vedäjassai
+     vedäi+N+Pl+Tra: vedäjikš
