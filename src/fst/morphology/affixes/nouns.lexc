@@ -1003,8 +1003,16 @@ LEXICON N_VEDÄI ! i j _QAQ1 Does this work like _muna_?
 LEXICON N_VEPS 
 !!€gt-norm:   Noun ' / '
 !!€  : +N+Sg+Nom
-!!€  n: +N+Sg+Gen
+!!€  an: +N+Sg+Gen
 !!€  d: +N+Pl+Par
+: SG-NOM-SUF ;
+!+Sg+Ill:ha K ;CHECKME
+:a SG-OBLIQUE ;
+R ; ! xxx check
+! Plural
+:a PL-NOM-SUF ;
+:a PL-ACC-SUF ;
+!: PL-OBLIQUE ;
 :QÄQ1 NMN_ ;
 
 LEXICON N_NADO !!= @CODE@ nado:nado
