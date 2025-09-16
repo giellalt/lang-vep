@@ -373,7 +373,7 @@ Plural
 
 * Noun ' / ' examples:*
 * *:* `+N+Sg+Nom`
-* *n:* `+N+Sg+Gen`
+* *an:* `+N+Sg+Gen`
 * *d:* `+N+Pl+Par`
 
 LEXICON N_NADO  nado:nado
