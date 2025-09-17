@@ -13,33 +13,33 @@
 !! ## Regolar lexica
 
 LEXICON A_UZ1 !!≈ * **@CODE@** = uz’:ud, goes to NMN_NORUZ
- NMN_NORUZ1 ;
++Pos:  NMN_NORUZ1 ;
 LEXICON A_NAGRIZH !nagriž:nagr
- N_NAGRIZH ;
++Pos:  N_NAGRIZH ;
 +Comp:he%>mb N_POIG ;
 
 LEXICON A_GOL1L1 ! golʼlʼ:gol
- N_GOL1L1 ;
++Pos:  N_GOL1L1 ;
 LEXICON A_VIL1L1 ! vilʼlʼ:vil
- N_VIL1L1 ;
++Pos:  N_VIL1L1 ;
 LEXICON A_RUSKED !!≈ * **@CODE@** = goes to NMN\_RUSKED
- NMN_RUSKED ;
++Pos:  NMN_RUSKED ;
 
 LEXICON A_MUNA  !!≈ **@CODE@**   muna:mun
 ! _a/an/Q/Q/id
 !Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
- N_MUNA ;
++Pos:  N_MUNA ;
 +Comp:e%>mb N_POIG ;
 
 LEXICON A_MOEHAE  !!≈ **@CODE@**   möhä:möh
 ! _ä/än/äd/Q/id
 !Sg+Nom/Sg+Gen/Sg+Par/Sg+Ill/Pl+Par
- N_MOEHAE ;
++Pos:  N_MOEHAE ;
 +Comp:e%>mb N_POIG ;
 
 
 LEXICON A_NADO  !!≈ * **@CODE@** =  nado:nado
- N_NADO ;
++Pos:  N_NADO ;
 +Comp:%>mb N_POIG ;
 
 !LEXICON A_KONDI  !!≈ * **@CODE@** =  kondi:kondi
@@ -54,36 +54,36 @@ LEXICON A_NADO  !!≈ * **@CODE@** =  nado:nado
 
 
 LEXICON A_POIG  !!≈ * **@CODE@** =  poig:poig
- N_POIG ;
++Pos:  N_POIG ;
 +Comp:e%>mb N_POIG ;
 
 LEXICON A_a/an/ad/aha/oid  !!≈ * **@CODE@** =  paha:pah
-N_a/an/ad/aha/oid ;
++Pos:  N_a/an/ad/aha/oid ;
 +Comp:e%>mb N_POIG ;
 
 LEXICON A_MARJ  !!≈ * **@CODE@** =  marj:marj
- N_MARJ ;
++Pos:  N_MARJ ;
 +Comp:e%>mb N_POIG ;
 
 LEXICON A_JAUH  !!≈ * **@CODE@** =  jauh:jauh
 !(-on\,\ -oid\)
- N_JAUH ;
++Pos:  N_JAUH ;
 +Comp:o%>mb N_POIG ;
 
 LEXICON A_OIGED  !!≈ * **@CODE@** = oiged:oig%{eØ%}d
 !oi|ged (-ktan, -ktoid)
- N_OIGED ;
++Pos:  N_OIGED ;
 +Comp:%^PEN%^DEVOICE%^RmVow%^DEVOICE%>e%>mb N_POIG ;
 !^PEN^DEVOICE^RmVow^DEVOICE
 LEXICON A_KEL1  !!≈ * **@CODE@** = kel':kel
- N_KEL1 ;
++Pos:  N_KEL1 ;
 +Comp:%>e%>mb N_POIG ;
-+Der+Der/Uz1+N:ud N_NORUZ1 ;
++Pos+Der+Der/Uz1+N:ud N_NORUZ1 ;
 
 LEXICON A_SAR1  !!≈ * **@CODE@** = sar':sar
- N_SAR1 ;
++Pos:  N_SAR1 ;
 +Comp:%>e%>mb N_POIG ;
-+Der+Der/Uz1+N:ud N_NORUZ1 ;
++Pos+Der+Der/Uz1+N:ud N_NORUZ1 ;
 
 !LEXICON A_KEZI  !!≈ * **@CODE@** = kezi:ked
 ! N_KEZI ;
@@ -92,19 +92,19 @@ LEXICON A_SAR1  !!≈ * **@CODE@** = sar':sar
 
 
 LEXICON A_VIDENZ1  !!≈ * **@CODE@** =  videnz':viden (-den, -t, -zid)
-N_VIDENZ1 ;
++Pos: N_VIDENZ1 ;
 
 
 LEXICON A_LANDEH  !!≈ * **@CODE@** =  landeh:land
- N_LANDEH ;
++Pos:  N_LANDEH ;
 +Comp:%>he%>mb N_POIG ;
 
 LEXICON A_VEDEKAZ  !!≈ * **@CODE@** =  vedekaz:vedeka
- N_VEDEKAZ ;
++Pos:  N_VEDEKAZ ;
 +Comp:ha%>mb N_POIG ;
 
 LEXICON A_SEIBAZ  !!≈ * **@CODE@** =  seibaz:seib
- N_SEIBAZ ;
++Pos:  N_SEIBAZ ;
 +Comp:he%>mb N_POIG ;!CHECKME armhemb
 
 LEXICON A_PARAHIM !!≈ * **@CODE@** = (special) hüvä:parahim
@@ -113,40 +113,40 @@ LEXICON A_PAREMB  !!≈ * **@CODE@** = (special) hüvä:paremb
 +Comp: N_POIG ;
 
 LEXICON A_CIPUINE  !!≈ * **@CODE@** = cipuine:cipu
- N_CIPUINE ;
++Pos:  N_CIPUINE ;
 +Comp:iže%>mb N_POIG ;
 +Der+Der/Uz1+N:ižud N_NORUZ1 ;
 
 LEXICON A_TOSHTMINE  !!≈ * **@CODE@** =  toštmine:toštmi
- A_ine/izhen/isht/izhehe/izhid ;
++Pos:  A_ine/izhen/isht/izhehe/izhid ;
 LEXICON A_ine/izhen/isht/izhehe/izhid
- N_ine/izhen/isht/izhehe/izhid ;
++Pos:  N_ine/izhen/isht/izhehe/izhid ;
 +Comp:že%>mb N_POIG ;
 
 LEXICON A_IN_TTE !mitte
- N_IN_TTE ;
++Pos:  N_IN_TTE ;
 !Comp? 2024-11-15
 
 LEXICON A_KENGATOI  !!≈ * **@CODE@** =  kengätoi:kengäto
 +Comp:ma%>mb N_POIG ;
-+Der+Der/Uz1+N:mud N_NORUZ1 ;
-:i SG-NOM-SUF ;
-:n SG-PAR-SUF_t ;
-:ma SG-OBLIQUE ;
++Pos+Der+Der/Uz1+N:mud N_NORUZ1 ;
++Pos:i SG-NOM-SUF ;
++Pos:n SG-PAR-SUF_t ;
++Pos:ma SG-OBLIQUE ;
 ! Plural
-:ma PL-NOM-SUF ;
-:ma PL-ACC-SUF ;
-:m PL-OBLIQUE ;
++Pos:ma PL-NOM-SUF ;
++Pos:ma PL-ACC-SUF ;
++Pos:m PL-OBLIQUE ;
 
 LEXICON PRFPRC-DECLENSION  !!≈ * **@CODE@** =  -nu
 +Comp:%>mb N_POIG ;
- SG-NOM-SUF ;
-: SG-PAR-SUF_t ;
-:de SG-OBLIQUE ;
++Pos:  SG-NOM-SUF ;
++Pos:  SG-PAR-SUF_t ;
++Pos:de SG-OBLIQUE ;
 ! Plural
-:de PL-NOM-SUF ;
-:de PL-ACC-SUF ;
-:z  PL-OBLIQUE ;
++Pos:de PL-NOM-SUF ;
++Pos:de PL-ACC-SUF ;
++Pos:z  PL-OBLIQUE ;
 
 
 ! vim: set ft=xfst-lexc:
