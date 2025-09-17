@@ -4,6 +4,8 @@
 
 ## Miscellaneuos tags
 
+* **+TYÄ** 
+
 Thes are  to be evaluated (are they in use?)
 TODO: Have a look at these: 
 
@@ -36,7 +38,8 @@ TODO: Have a look at these:
 
 * **+Use/-PMatch** 
 * **+Use/Circ** 
-* **+Use/NG** 
+* **+Use/NG** do not generate
+* **+Use/GC** ??? typo?, occurs once.
 * **+Use/PMatch** 
 * **+Use/SpellNoSugg**
 * **+Use/TTS** – **only** retained in the HFST Text-To-Speech disambiguation tokeniser
