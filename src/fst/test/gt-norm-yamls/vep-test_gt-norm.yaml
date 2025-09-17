@@ -18,7 +18,7 @@ Tests:
      nado+N+Sg+Nom: nado
      nado+N+Sg+Gen: nadon
      nado+N+Sg+Acc: [nado, nadon]
-     nado+N+Sg+Part: nadod
+     nado+N+Sg+Par: nadod
      nado+N+Sg+Tra: nadoks
      nado+N+Sg+Abe: nadota
      nado+N+Sg+Com: nadonke
@@ -42,7 +42,7 @@ Tests:
      nado+N+Pl+Nom: nadod
      nado+N+Pl+Gen: [nadoid'en, nadoiden]
      nado+N+Pl+Acc: nadod
-     nado+N+Pl+Part: nadoid
+     nado+N+Pl+Par: nadoid
      nado+N+Pl+Tra: nadoikš
      nado+N+Pl+Abe: nadoita
      nado+N+Pl+Com: nadoidenke
@@ -65,7 +65,7 @@ Tests:
      nado+N+Sg+Nom+Clt: nadoki
      nado+N+Sg+Gen+Clt: nadonki
      nado+N+Sg+Acc+Clt: [nadoki, nadonki]
-     nado+N+Sg+Part+Clt: nadodki
+     nado+N+Sg+Par+Clt: nadodki
      nado+N+Sg+Tra+Clt: nadokski
      nado+N+Sg+Abe+Clt: nadotaki
      nado+N+Sg+Com+Clt: nadonkeki
@@ -89,7 +89,7 @@ Tests:
      nado+N+Pl+Nom+Clt: nadodki
      nado+N+Pl+Gen+Clt: [nadoid'enki, nadoidenki]
      nado+N+Pl+Acc+Clt: nadodki
-     nado+N+Pl+Part+Clt: nadoidki
+     nado+N+Pl+Par+Clt: nadoidki
      nado+N+Pl+Tra+Clt: nadoikški
      nado+N+Pl+Abe+Clt: nadoitaki
      nado+N+Pl+Com+Clt: nadoidenkeki
