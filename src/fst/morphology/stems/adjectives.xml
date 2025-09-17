@@ -636,9 +636,9 @@
    </e>
    <e>
       <lg>
-         <l pos="A">avol’jaine</l>
+         <l pos="A">avolʼjaine</l>
          <stg>
-            <st Contlex="A_CIPUINE">avol’ja</st>
+            <st Contlex="A_CIPUINE">avolʼja</st>
          </stg>
       </lg>
       <mg>
@@ -1208,9 +1208,9 @@
    </e>
    <e>
       <lg>
-         <l pos="A">el’getoi</l>
+         <l pos="A">elʼgetoi</l>
          <stg>
-            <st Contlex="A_KENGATOI">el’geto</st>
+            <st Contlex="A_KENGATOI">elʼgeto</st>
          </stg>
       </lg>
       <mg>
@@ -1598,9 +1598,9 @@
    </e>
    <e>
       <lg>
-         <l pos="A">gor’ahine</l>
+         <l pos="A">gorʼahine</l>
          <stg>
-            <st Contlex="A_TOSHTMINE">gor’ahi</st>
+            <st Contlex="A_TOSHTMINE">gorʼahi</st>
          </stg>
       </lg>
       <mg>
@@ -2989,9 +2989,9 @@
    </e>
    <e>
       <lg>
-         <l pos="A">kel’dmatoi</l>
+         <l pos="A">kelʼdmatoi</l>
          <stg>
-            <st Contlex="A_KENGATOI">kel’dmato</st>
+            <st Contlex="A_KENGATOI">kelʼdmato</st>
          </stg>
       </lg>
       <mg>
@@ -4874,9 +4874,9 @@
    </e>
    <e>
       <lg>
-         <l pos="A">näl’ghine</l>
+         <l pos="A">nälʼghine</l>
          <stg>
-            <st Contlex="A_TOSHTMINE">näl’ghi</st>
+            <st Contlex="A_TOSHTMINE">nälʼghi</st>
          </stg>
       </lg>
       <mg>
@@ -5264,9 +5264,9 @@
    </e>
    <e>
       <lg>
-         <l pos="A">pil’vesine</l>
+         <l pos="A">pilʼvesine</l>
          <stg>
-            <st Contlex="A_TOSHTMINE">pil’vesi</st>
+            <st Contlex="A_TOSHTMINE">pilʼvesi</st>
          </stg>
       </lg>
       <mg>
@@ -6161,9 +6161,9 @@
    </e>
    <e>
       <lg>
-         <l pos="A">sel’ged</l>
+         <l pos="A">selʼged</l>
          <stg>
-            <st Contlex="A_OIGED">sel’ged</st>
+            <st Contlex="A_OIGED">selʼged</st>
          </stg>
       </lg>
       <mg>
@@ -6473,9 +6473,9 @@
    </e>
    <e>
       <lg>
-         <l pos="A">sur’kulu</l>
+         <l pos="A">surʼkulu</l>
          <stg>
-            <st Contlex="A_NADO">sur’kulu</st>
+            <st Contlex="A_NADO">surʼkulu</st>
          </stg>
       </lg>
       <mg>
@@ -7240,7 +7240,7 @@
    </e>
    <e>
       <lg>
-         <l pos="Z">uz’</l>
+         <l pos="Z">uzʼ</l>
          <stg>
             <st Contlex="A_UZ1">ud</st>
          </stg>
@@ -7994,9 +7994,9 @@
    </e>
    <e>
       <lg>
-         <l pos="A">än’kulund</l>
+         <l pos="A">änʼkulund</l>
          <stg>
-            <st Contlex="A_MARJ">än’#kulund</st>
+            <st Contlex="A_MARJ">änʼ#kulund</st>
          </stg>
       </lg>
       <mg>
@@ -8059,9 +8059,9 @@
    </e>
    <e>
       <lg>
-         <l pos="A">üks’jäine</l>
+         <l pos="A">üksʼjäine</l>
          <stg>
-            <st Contlex="A_CIPUINE">üks’jä</st>
+            <st Contlex="A_CIPUINE">üksʼjä</st>
          </stg>
       </lg>
       <mg>
@@ -8072,9 +8072,9 @@
    </e>
    <e>
       <lg>
-         <l pos="A">üks’kerdaine</l>
+         <l pos="A">üksʼkerdaine</l>
          <stg>
-            <st Contlex="A_CIPUINE">üks’#kerda</st>
+            <st Contlex="A_CIPUINE">üksʼ#kerda</st>
          </stg>
       </lg>
       <mg>

@@ -118,7 +118,7 @@ LEXICON A_CIPUINE  !!≈ * **@CODE@** = cipuine:cipu
 +Der+Der/Uz1+N:ižud N_NORUZ1 ;
 
 LEXICON A_TOSHTMINE  !!≈ * **@CODE@** =  toštmine:toštmi
-+Pos:  A_ine/izhen/isht/izhehe/izhid ;
+  A_ine/izhen/isht/izhehe/izhid ;
 LEXICON A_ine/izhen/isht/izhehe/izhid
 +Pos:  N_ine/izhen/isht/izhehe/izhid ;
 +Comp:že%>mb N_POIG ;
