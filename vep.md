@@ -2000,6 +2000,7 @@ pesta+V+Inf: __wash/pestä__
 ### Miscellaneuos tags
 
 * **+TYÄ** 
+* **+Span** 
 
 Thes are  to be evaluated (are they in use?)
 TODO: Have a look at these: 
@@ -2054,6 +2055,8 @@ TODO: Have a look at these:
 * **@R.ErrOrth.ON@** 
 
 * **@P.Pmatch.Backtrack@**
+
+* **@P.Pmatch.Loc@**
 
 ### Grammatical tags 
 
