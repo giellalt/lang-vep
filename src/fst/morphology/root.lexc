@@ -20,6 +20,7 @@ Multichar_Symbols
 !! ## Miscellaneuos tags
 
 +TYÄ             !!≈ * **@CODE@** 
++Span            !!≈ * **@CODE@** 
 
 !! Thes are  to be evaluated (are they in use?)
 !! TODO: Have a look at these: 
@@ -75,7 +76,10 @@ Multichar_Symbols
 @R.ErrOrth.ON@       !!≈ * **@CODE@** 
  
 @P.Pmatch.Backtrack@	!!≈ * **@CODE@**
- 
+
+@P.Pmatch.Loc@	!!≈ * **@CODE@**
+
+
 !! ## Grammatical tags 
  
  
