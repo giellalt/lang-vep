@@ -19,6 +19,7 @@ Multichar_Symbols
  
 !! ## Miscellaneuos tags
 
++TYÄ             !!≈ * **@CODE@** 
 
 !! Thes are  to be evaluated (are they in use?)
 !! TODO: Have a look at these: 
@@ -52,7 +53,8 @@ Multichar_Symbols
 
 +Use/-PMatch       !!≈ * **@CODE@** 
 +Use/Circ          !!≈ * **@CODE@** 
-+Use/NG             !!≈ * **@CODE@** 
++Use/NG             !!≈ * **@CODE@** do not generate
++Use/GC             !!≈ * **@CODE@** ??? typo?, occurs once.
 +Use/PMatch          !!≈ * **@CODE@** 
 +Use/SpellNoSugg    !!≈ * **@CODE@**
  +Use/TTS          !!≈ * **@CODE@** – **only** retained in the HFST Text-To-Speech disambiguation tokeniser

@@ -444,7 +444,7 @@ reigukaz+A:reiguka A_VEDEKAZ  "" ;
 rimalaine+A:rimala A_CIPUINE  "" ;
 ripmatoi+A:ripmato A_KENGATOI  "" ;
 rizu+A:rizu A_NADO  "" ;
-rohked+rohked:rohked A_OIGED  "" ;
+rohked+A:rohked A_OIGED  "" ;
 romanijalaine+A:romanijala A_CIPUINE  "" ;
 rotumalaine+A:rotumala A_CIPUINE  "" ;
 ročilaine+A:ročila A_CIPUINE  "" ;
