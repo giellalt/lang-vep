@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-vep)](https://github.com/giellalt/lang-vep/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-vep)](https://github.com/giellalt/lang-vep/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-vep?label=CI)](https://builds.giellalt.org/pipelines/lang-vep/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/__GLOTTOLOG_ID__)
 
 This page documents the work on the [Veps language model](http://github.com/giellalt/lang-vep). 
 It is a test version of a grammatical analyser for Veps.
