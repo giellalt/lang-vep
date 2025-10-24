@@ -4,7 +4,8 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-vep%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-vep)](https://github.com/giellalt/lang-vep/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-vep)](https://github.com/giellalt/lang-vep/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-vep/main/badge.svg)](https://github.com/giellalt/lang-vep/actions)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-vep?label=CI)](https://builds.giellalt.org/pipelines/lang-vep/builds/latest)
+[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/veps1250)
 
 This page documents the work on the [Veps language model](http://github.com/giellalt/lang-vep). 
 It is a test version of a grammatical analyser for Veps.
