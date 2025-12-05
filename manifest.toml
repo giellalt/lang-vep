@@ -22,7 +22,7 @@ legacy_product_codes = [
 
 [package.speller]
 name = "Veps"
-version = "0.1.1"
+version = "0.1.2"
 
 [package.grammar]
 name = "Veps"
